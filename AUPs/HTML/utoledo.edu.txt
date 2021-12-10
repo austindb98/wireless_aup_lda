@@ -1,0 +1,26 @@
+Client Services can be reached at x2400.
+There are many options for getting online.
+Students, faculty, and staff on campus have the option of connecting their personal computers, tablets, or smartphones using the guest wireless network.
+When connecting from home, all members of the UT community with a valid UTAD username can use the VMWare client to access the UT vlab environment http://www.utoledo.edu/it/VLab/Inde html.
+cisco webex meetings Learn more Advanced Networking Network Engineering actively researches the latest network technology and participates in national and regional organizations including Internet and the Ohio Supercomputer Center network.
+Wireless Coverage Wireless access on the HSC and Main Campus is available in all buildings and in select outdoor spaces.
+Currently there are four supported wireless networks available at the University of Toledo: UToledo: This wireless network resides inside the University firewalls and is limited to users with valid UTAD credentials using University owned/configured/patched devices.
+UTGuest: This wireless network resides outside the University firewalls and only requires acknowledgement of the University acceptable use policy.
+No credentials are required.
+eduroam: This network resides outsides of University firewalls.
+eduroam is an international roaming service for users in research, higher education and further education.
+Since its inception in Europe, eduroam has spread to over 100 countries including the United States.
+The US based arm of eduroam can be found by searching eduroam
+eduroam can be used by students, faculty, and staff from any participating institution at any participating institution.
+Authentication is done using the credentials used at the users home institution and machine authentication.
+In the case of the University of Toledo, the username is in the form username@rockets.utoledo.edu.
+eduroam offers a configuration utility for non iOS devices.
+Eduroam setup eduroam chromebook setup ResNetDevices:
+A ResNet wireless network that will allow devices such as gaming consoles and streaming devices to connect wirelessly within the dorms.
+This is a two step process that requires students to register their device from a computer connected to ResNet and then associating to the gaming console SSID ResNetDevices.
+A quick connection guide is available here.
+The ResNetDevices network does not support some functionality available on home networks.
+Device features that require mDNS functionality cannot be supported on the university s enterprise networks.
+Outdoor WIFi The University of Toledo has outdoor access points in 10 locations.
+Click on the link for a map to the geolocation of each outdoor
+Please visit our Help Desk for assistance.

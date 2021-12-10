@@ -1,0 +1,70 @@
+The effective management of information technology resources is crucially important to the success of the academic, research, and public service missions of the College.
+Because of the inherent nature of wireless communication, wireless networks require increased cooperation and coordination between campus entities to maximize the technological benefits to the students, faculty, and staff of the College, to allow connection to wireless networks in different campus buildings.
+This document sets forth the policies for using wireless technologies and assigns responsibilities for the deployment of wireless services and the administration of the wireless radio frequency spectrum in a distributed campus network environment.
+This policy is subject to change as new technologies and processes emerge.
+f--field f--wysiwyg c--component c--wysiwyg cc--component-container cc--wysiwyg Definitions f--field f--section-title Wireless Network means local area network technology that uses radio frequency spectrum to connect computing devices to networks.
+Access Point means electronic hardware that serves as a common connection point for devices in a wireless network.
+An access point acts as a network hub that is used to connect segments of a LAN using transmits, and receives antennas instead of ports for access by multiple users of the wireless network.
+Access points are shared bandwidth devices and can be connected to the wired network, allowing access to the campus network backbone.
+Wireless Infrastructure means wireless access points, antennas, cabling, power, and network hardware associated with the deployment of a wireless communications network.
+Coverage means the geographical area where a baseline level of wireless connection service quality is attainable.
+Interference means the degradation of a wireless communication signal caused by electromagnetic radiation from another source.
+Interference can slow down or eliminate a wireless transmission depending on the strength of the interfering signal.
+Privacy means the condition that provides for the confidentiality of personal, student, faculty, and staff communications, and institutional data transmitted over a wireless network.
+Client hardware/software means the electronic equipment and software that is installed in a desktop, laptop, handheld, portable, or other computing device to provide a LAN inter f--field f--wysiwyg c--component c--wysiwyg cc--component-container cc--wysiwyg Policy f--field f--section-title Wireless equipment and users must follow all network connection policies as set forth in the policy herein.
+All provisions of the IT Security Requirements and Practices apply to this policy.
+Interference or disruption of other authorized communications that result from the intentional or incidental misuse or misapplication of wireless network radio frequency spectrum is prohibited.
+Wireless access points must abide by all federal, state, and local laws, rules, or regulations pertaining to wireless networks.
+Deployment and management of wireless access points in areas not controlled by the College's IT department are not the responsibility of the IT department or the College.
+Wireless access points shall require user authentication at the access point before granting access to campus or Internet services.
+Wireless network interfaces and end-user devices shall support authentication to access wireless networks that allow connectivity to the Campus Network.
+f--field f--wysiwyg c--component c--wysiwyg cc--component-container cc--wysiwyg Resident Life(Res-Life) f--field f--section-title The College-provided wireless network allows laptop users to access network resources from locations on campus where wiring is not available, providing increased flexibility and productivity.
+The IT department leads the ongoing effort to expand wireless service throughout all campuses.
+Wireless is already available in most academic and administrative buildings, as well as many residence facilities on the College's New Rochelle campus.
+The Wireless networks in the College's dormitories extend beyond Monroe College's networks, but all policies apply.
+f--field f--wysiwyg c--component c--wysiwyg cc--component-container cc--wysiwyg Network Access Points f--field f--section-title All installed wireless access points and antennas are the property of the College.
+Do not tamper with, adjust, abuse, repair, or otherwise touch these access points and their antennas.
+All dormitory residents must be aware that several dormitories and houses are now equipped with wireless access points and antennas.
+Due to the presence of this equipment, residents should be very careful about horseplay, throwing objects, and other activities in these areas.
+Students may not attempt to probe, scan, or test the vulnerability of any system or network, or breach security or authentication measures, which include attempting to obtain and/or distribute encryption keys used at the College.
+Students are not allowed to set up any form of proxy service or other such arrangement to enable more than one computer to access the network via a wireless connection; each student is limited to one connection.
+In addition, students are not allowed to set up any type of server or server operating system on computers that are connected to the network.
+This includes, but is not limited to, the following services: DHCP WINS DNS NDS Trees Web Servers Students must remember that the network is a shared resource and that many people must use it for their daily work.
+Consuming large amounts of system resources(network bandwidth, disk space, print queues) by performing large file downloads or networked gaming can obstruct this work, and in such cases the College's IT staff has the authority to throttle bandwidth and/or terminate connections that monopolize resources.
+Students will be held responsible for any action using the network that is chargeable as a violation of local, state, or federal law, whether or not charges are brought by civil authorities.
+f--field f--wysiwyg c--component c--wysiwyg cc--component-container cc--wysiwyg Dorm Connectivity f--field f--section-title Students have access to the Internet and web access to their email in their dorm rooms provided they possess their own desktop or laptop systems.
+This privilege is provided by the College and is subject to revocation if the student violates any portion of this policy and agreement, or if dorm Resident Assistants, faculty, staff, and and/or instructors assess that the privilege interferes with the primary educational goals of the student, or is not consistent with the mission of the College.
+Technical support services provided by the IT Department are limited to campus Internet connectivity.
+The College's computer technicians are not responsible for privately owned hardware or software problems that affect a computer's/laptop's/notebook's ability to connect to our network.
+The IT Department will not be responsible for repairing hardware/software problems on a student's personal computer.
+In addition to the stated regulations and guidelines of this Policy, students who use this option of connectivity must abide by the following rules: Any bandwidth sharing device or wireless signal repeater( e., Airport Express, routers, switches, hubs or wireless means) is not allowed.
+Telephone/Modem Internet access is not allowed.
+Illegally sharing music or video files over the network is prohibited.
+f--field f--wysiwyg c--component c--wysiwyg cc--component-container cc--wysiwyg Acceptable Uses f--field f--section-title The major purpose of supplying Internet, wireless connectivity, and electronic mail, whether in academic facilities or in the dorm, is to enhance learning and communication for the members of the Monroe College community.
+Research on the Internet, the receipt and submission of assignments via e-mail, or sending e-mail to teachers, experts in various fields of study, family, and friends is allowed.
+The College also permits use of these services for pursuing topics of personal interest or for entertainment, provided the activities fall within the guidelines specified in this document.
+f--field f--wysiwyg c--component c--wysiwyg cc--component-container cc--wysiwyg Unacceptable Uses f--field f--section-title Users may not use the College's network to access computer files not belonging to them, copy or transfer computer software which constitutes software piracy, violate copyright law, use the network for commercial activity or financial gain, or use the network for any illegal purpose.
+Gaming is prohibited on ANY College-owned computer.
+Downloading any program, application, or plug-in on ANY College-owned computer is prohibited.
+Illegally downloading music, videos, games, programs, etc., is prohibited on the College Network.
+Altering the desktop appearance on ANY College-owned computer is prohibited.
+Vandalizing, borrowing, or stealing any equipment, wires, mice, and keyboards is prohibited.
+Entering any unauthorized electrical or data storage room and tampering with ANY network equipment is prohibited.
+f--field f--wysiwyg c--component c--wysiwyg cc--component-container cc--wysiwyg Policy Violations f--field f--section-title Students who violate the above stated policy will be subject to one or more of the following disciplinary actions: Student may receive a written notice and warning about the violation.
+The student's network connection may be immediately terminated.
+Network access may be suspended until the situation is rectified.
+Network access may be suspended for a specified period of time.
+Replacement/repair costs for damage to College-owned property will be charged to the responsible students' account.
+Violations may be reported to Student Life officers, which may result in further, more serious, penalties.
+Failure to comply with any of the above policies may result in termination of in-room and Campus network services, loss of computer use privileges, prosecution by the College based on the College's standards of disciplinary violations for students, standards of disciplinary procedures for faculty and staff, and/or judicial prosecution.
+The College reserves the right to terminate any in-room computer and/or wireless connection without notice should it be determined that said connection infringes on College security or inhibits or interferes with the use of the College's network by others.
+f--field f--wysiwyg c--component c--wysiwyg cc--component-container cc--wysiwyg Disconnect Authorization f--field f--section-title Any wireless network on campus which poses a security threat may be disconnected from the campus backbone network.
+Every reasonable attempt will be made to reach the registered "Point of Contact" to resolve security problems.
+The College's Network Administrator has the authority to disconnect any wireless network from the campus network backbone whose traffic violates practices set forth in this policy, the Information Technology departments Network Connection Policy, or any network-related policy.
+Grievance matters with this policy or conflicts should be directed to the Information Technology Department for resolution.
+The Information Technology Department should be notified within one week of the incident in question.
+If the conflict is not resolved to the satisfaction of grievance initiator, the department, or division, the matter may be escalated to the Information Technology Committee for further review and action.
+f--field f--wysiwyg c--component c--wysiwyg cc--component-container cc--wysiwyg Questions?
+f--field f--section-title f--field f--ambient-video Talk to us f--field f--link Visit us f--field f--link Apply f--field f--link f--field f--link-list c--component c--cta-bar cc--component-container cc--cta-bar Site Footer Monroe College c--component c--branding-footer cc--component-container cc--branding-footer c--component c--footer-line cc--component-container cc--footer-line c--component c--footer-line cc--component-container cc--footer-line Contact Us Right To Know Campus Safety Disability Services Corporate Partners Title IX m--menu c--component c--footer-menu cc--component-container cc--footer-menu FB Twitter Instagram c--component c--social-icons cc--component-container cc--social-icons Privacy Policy Terms of Use Web Accessibility IT Policies m--menu c--component c--footer-menu cc--component-container cc--footer-menu Copyright 2021 Monroe College.
+All rights reserved.
+c--component c--footer-contact cc--component-container cc--footer-contact c--component c--footer cc--component-container cc--footer

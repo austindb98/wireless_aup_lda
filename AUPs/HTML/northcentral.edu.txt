@@ -1,0 +1,84 @@
+In addition, authorized users may also use IT resources for appropriate incidental personal use so long as those activities are legal and do not violate: university policies; contractual obligations; the safety, security, privacy, reputational, and intellectual property rights of the university or others; or restrictions on political or commercial activities that are applicable to not-for-profit organizations like the university.
+Every user bears the responsibility for knowing and complying with applicable laws, policies, and rules; for appropriately securing their computers and other electronic devices from misuse or theft by others; and for avoiding any use that interferes with others legitimate access to and use of IT resources.
+Acceptable Use Acceptable use is always ethical, reflects academic honesty, and shows restraint in the consumption of shared resources.
+Acceptable use demonstrates respect for intellectual property, ownership of data, system security mechanisms, and individuals rights to privacy and to freedom from libel, slander, intimidation, discrimination, and harassment.
+All users are individually responsible for appropriate use of all IT resources assigned to them, including their account, computer and/or devices, the network address or port, software, and hardware.
+Therefore, all users are accountable to the university for all use of such resources.
+As an authorized user of IT resources, users may not enable unauthorized users to access the network by using a university computer or a personal computer that is connected to the university network without appropriate permission from the Director of Information Technology or their designee.
+Departments and users that grant guest access to IT resources must make their guests aware of their acceptable use responsibilities.
+The university accepts no responsibility or liability for any personal or unauthorized use of its resources by users.
+Accounts The university assigns accounts to individuals and prohibits accounting sharing unless specifically authorized by
+All users are solely responsible for all functions performed from accounts assigned to them.
+Users are responsible for protecting passwords, any other security mechanisms the university provides, and following safe computing practices.
+Users will be held responsible for any activity that occurs using accounts assigned to them, so it is vital to not share access or passwords.
+Copyright and Licenses Users must abide by all applicable copyright laws and licenses.
+The university has entered into legal agreements or contracts for many of our software and network resources which require everyone using them to comply with those agreements.
+User must observe the law as it applies to copyrighted works in both personal use and in production of electronic information.
+Shared Resources The university recognizes that technology is essential to the work conducted at the university.
+The university also recognizes incidental personal use university IT resources, as long as this use does not interfere with the performance of duties or other university responsibilities, does not consume a significant amount of those resources, and does not violate any other university policies.
+Supervisors may impose further limits on computer use for non-work purposes, in accordance with normal supervisory procedures.
+The university may choose to set limits on an individual s use of a resource through quotas, time limits, and other mechanisms to ensure that these resources can be used by anyone who needs them.
+Unacceptable Use The following actions are expressly prohibited: Using another person s system, account, password, files, or data without appropriate permission.
+Using computer programs to decode passwords or access control information or attempting to capture or guess other users passwords.
+Attempting to circumvent or subvert system or network security measures.
+Possession of tools that bypass security or probe security, or of files that may be used as input or output for such tools.
+Engaging in any activity that might be purposefully harmful to systems or to any information stored thereon, such as creating or propagating viruses, disrupting services, or damaging files or making unauthorized modifications to university data.
+Attempting to intercept, monitor, forge, alter or destroy other users communications.
+Modifying, without proper authorization, any of the university s information resources and technology, including the work products of others.
+Using university systems for commercial or partisan political purposes.
+Making or using illegal copies of copyrighted materials or software, store such copies on university systems, or transmit them over university networks.
+Wasting IT resources by intentionally placing a program in an endless loop, printing excessive amounts of paper, or by sending chain letters or unsolicited mass mailings.
+Attempt to disguise their identity, the identity of their account, the machine that they are using, or attempting to impersonate another person or organization.
+Using the university s assigned Internet number space for their own domain without the prior express permission of
+State or imply that they speak on behalf of the university or use university trademarks and logos without authorization to do
+Possessing, distributing, or sending unlawful communications of any kind, including but not limited to threats of violence, obscenity, child pornography and/or harassing communications(as defined by law), or participate or facilitate communications in furtherance of other illegal activities.
+Violating any applicable laws and regulations or university policies, standards, and procedures.
+Monitoring and Privacy The university employs numerous measures to protect the security of its IT resources and users accounts but cannot guarantee complete security and confidentiality.
+The use of university IT resources is not private.
+While the university does not routinely monitor individual usage of IT resources, the normal operation and maintenance of the university s IT resources require the backup and caching of data and communications, the logging of activity, monitoring of general usage patterns and other activities necessary or convenient for the provision of service.
+In addition, since employees are granted use of electronic information systems and network services to conduct university business, there may be instances when the university, based on approval from authorized officers, reserves and retains the right to access and inspect stored information without the consent of the user.
+The university normally will attempt to provide advance notice to the affected individual of access to or the preservation or sharing of data with third parties unless such notification would put the university at risk or is prohibited by law.
+The university also maintains the authority to limit access to its networks or to remove material stored or posted on its computers when applicable policies, contractual obligations, or applicable laws are or likely have been violated.
+Violations and Sanctions Users who violate this policy may be denied access to university IT resources.
+The university may suspend, block, or restrict access to an account when it appears necessary to do so: to protect the integrity, security, or functionality of university or other IT resources; to comply with legal or contractual requirements; to investigate alleged or potential violations of law or policy including, without limitation, state, federal, or local law; to investigate any asserted, threatened, or potential complaint or grievance filed or credibly alleged pursuant to law or university or rules, regulations, policies, or subject of law enforcement review or investigation; or to protect the university from liability or disruption.
+The university may also refer suspected violations of law to appropriate law enforcement agencies for further investigation or action.
+Users who violate the policy may be subject to other penalties and disciplinary action, including expulsion or dismissal, under applicable university rules, regulations, or policies.
+Reason For Policy The computing resources at the university support the educational, instructional, research, and administrative activities of the university and the use of these resources is a privilege that is extended to members of the university community.
+As a user of these services and facilities, you have access to valuable university resources, to sensitive data, and to internal and external networks.
+Consequently, it is important for you to behave in a responsible, ethical, and legal manner.
+This policy establishes specific requirements for the use of all computing and network resources at North Central University.
+Policy Scope This policy applies to all users of IT resources owned or managed by North Central University.
+Individuals covered by the policy include, but are not limited to, university faculty and visiting faculty, staff, students, alumni, guests or agents of the administration, external individuals and organizations accessing network services via the university computing resources.
+This policy applies to technology administered by the university, the resources administered by central administrative departments, personally owned computers and devices connected by wire or wireless to the campus network, and to off-campus computers that connect remotely to the university s network services.
+Procedures There are no procedures associated with this policy.
+Forms There are no forms associated with this policy.
+Appendices There are no appendices associated with this policy.
+Additional Contacts Subject Contact Phone Email Primary Contact Nathan Stuart 612.636.4170 nastuart@northcentral.edu Definitions Acceptable Use Use of IT resources that is always ethical, reflects academic honesty, and shows restraint in the consumption of shared resources.
+Acceptable use demonstrates respect for intellectual property, ownership of data, system security mechanisms, and individuals rights to privacy and to freedom from libel, slander, intimidation, discrimination, and harassment.
+Authorized Use Use that the university determines, in its sole and exclusive discretion, is consistent with the education, research, and mission of the university, consistent with effective departmental or divisional operations, and consistent with this policy.
+Authorized User Individuals or entities permitted to make use of university information technology resources, including students, staff, faculty, alumni, guests, sponsored affiliates, and other individuals who have an association with the university.
+IT Resources Refers to the university s computing, communications, and other information technology systems and includes all hardware, software(including data and documentation), local area networks, internet systems, access controls, and applications and data stored on such information technology systems and any other electronic device or service that can store, transmit, or receive information.
+IT resources include, but are not limited to, accounts, passwords, access controls, servers, computers, personal computers, workstations, laptops, mainframes, minicomputers, mobile equipment, land line telephones, wireless devices, media players, storage media, computer networks, connections to network services such as the Internet and web pages, subscriptions to external computer services, networking devices, and any associated peripherals and software, regardless of whether used for educational, research, service, administrative or other purposes.
+This definition is not all inclusive but rather reflects examples of equipment, supplies and services.
+This also includes services that are university owned, leased, operated or provided by the University or otherwise connected to university resources, such as cloud and Software-as-a-Service(SaaS) or Infrastructure-as-a-service(IaaS), or any other connected/hosted service.
+Responsibilities Users Review, understand, and comply with policies, laws and contractual obligations related to access, acceptable use, and security of information technology resources.
+Consult with university Information Security on acceptable use issues not specifically addressed in this policy.
+Protect personal information and personal assets used to access personal information or university data.
+Report possible violations of this policy to university Information Security(incident@northcentral.edu).
+Data Custodian, Data Owner, Data Stewards Protect the privacy of users, unless designated as university-approved personnel to monitor, examine, or disclose this information.
+Respond to questions from users related to appropriate use of information technology resources.
+Work with university Information Security to investigate alleged violations of this policy.
+Report possible violations of this policy to university Information Security( incide nt@northcentral.edu).
+Departments Heads and Supervisors Work with university Information Security to investigate alleged violations of this policy.
+Report possible violations of this policy to university Information Security( incident@northcentral.edu).
+Information Technology Investigate possible violations of this policy.
+Refer alleged violations to appropriate university offices and law enforcement agencies for resolution or disciplinary action.
+Ensure that appropriate and timely action is taken on alleged violations.
+Coordinate with Internet Service Providers and law enforcement agencies on violations of this policy.
+Director of Information Technology Designate individuals who have the responsibility and authority for information technology resources.
+Designate individuals who have the responsibility and authority for establishing policies for access to and acceptable use of information technology resources.
+Designate individuals who have the responsibility and authority for monitoring and managing system resource usage.
+Designate individuals who have the responsibility and authority for investigating alleged violations of this policy.
+Delegate authority and responsibility for investigating violations of this policy.
+Designate individuals who have the responsibility and authority to refer violations to appropriate university offices or law enforcement agencies for resolution or disciplinary action.
+Designate individuals who have the responsibility and authority to employ security measures and ensure that appropriate and timely action is taken on acceptable use violations.

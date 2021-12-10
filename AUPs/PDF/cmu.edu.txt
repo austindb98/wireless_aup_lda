@@ -1,0 +1,19 @@
+You will need your event access code and your valid non-CMU email address.
+Connect your Wi-Fi enabled device to the CMU-GUEST wireless network.2.Browse to any web page; you will be redirected to the guest wireless service page.3.Enter a valid(non-CMU) email address and your event access code.
+Event access code
+If you are trying to register more than one device, you will have to use a unique email address for each device(or it will kick off the first device that used the code).
+A note from a recent user: the gmail "+" trick seems to work:
+I used john+cmu1@. and john+cmu2@.
+Another limitation is that you will have to sign in again if there is a 4-hour lull in your use of the wireless connection.
+If your wireless connection to CMU-GUEST times out, re-enter your email address and access code to re-connect.
+To speed network access when you start or wake your computer, you may want to consider making CMU-GUEST your preferred network in your device network settings for the duration of your visit.
+Accept the terms of use and click Log In.Terms of Use By clicking "I AGREE" you acknowledge that you consent to the terms and to abide all applicable local, state, and federal laws, as well as all relevant university policies governing acceptable use of the university's network and computing resources including the Computing Policy.
+Carnegie Mellon reserves the right to revoke access to the Guest Wireless Network at any time without notification.
+You are responsible for securing your computer/device.
+This includes secure configuration, keeping operating systems and software fully patched, maintaining anti-virus, and ensuring that your computer/device is malware free.
+The Guest Wireless Network does not use encryption and confidentiality is not guaranteed.
+Use it at your own risk.
+Available network bandwidth is limited and access to various services is restricted.
+Changes to these limitations and restrictions may happen at any time without notification.
+You will be redirected to the web page originally requested and should be able to browse other web sites.
+If you have any problems with this, please email karen@ece.cmu.edu or call her at 412-268-6716.

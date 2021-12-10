@@ -1,0 +1,109 @@
+Search This link performs a search of the website.
+Introduction Clinton Community College provides its students and employees wide access to information resources and technologies.
+With the advent of new forms of technology, the College has recognized that making technological resources more accessible furthers the free exchange of opinions and ideas essential to academic freedom.
+Technological resources are shared by all users; misuse of these resources by some users infringes upon the opportunities of all the rest.
+As Clinton Community College is a public institution of higher education, the proper use of those resources is all the more important.
+That the College makes its technology available for educational purposes requires users to observe state, federal, and other legal regulations the aims of which are to safeguard privacy( e.
+HIPAA, etc) equipment, networks, data and software acquired and maintained with public funds.
+
+General responsibilities Computing resources(including, but not limited to, desktop computers, printers, central computing facilities, the local-area network, access to the Internet, electronic mail and similar electronic information) of Clinton Community College are available only to authorized users, and any use of those resources is subject to these standards.
+These standards do not supercede or replace existing College policies, which will be applied as the situation warrants.
+All users of the College's computing resources are presumed to have read and understood the following standards.
+The College's information technology is provided to support College operations and for educational and academic research purposes, professional development, communication and publication consistent with the College's mission and goals.
+The College's information technology acceptable use standards require that each user(anyone using these resources): Accept responsibility for learning how to use information technology effectively and responsibly.
+The College provides training on the use of information technology.
+All users are encouraged to learn the proper use of information technology through individual learning or by attending training sessions or classes.
+Each user is responsible for checking computer software and data files he/she introduces to any computer on the college network for computer viruses.
+Accept responsibility for backup and security of your own work.
+Each user should learn how to make backup copies of important work and learn and properly use software features for securing or sharing access to their information.
+Use resources efficiently.
+Accept limitations or restrictions on computing resources, such as storage space, time limits or amount of resources consumed, when so instructed by the College.
+Each e-mail user is responsible for managing his/her message storage.
+Such restrictions are designed to ensure fair access for all users.
+Abide by all security provisions.
+Distributing or making your password or another person's password or access code available to unauthorized persons or otherwise attempting to evade, disable or "crack" passwords or other security provisions, or assisting others in doing so threatens the work, privacy and well-being of others and is prohibited.
+Respect software copyright laws.
+Software licensed by the College must only be used in accordance with the applicable license agreements.
+Respect proprietary information of others.
+A user may, subject to College policies and authorization, upload software files or otherwise distribute to on-line networks only information, software, photographs, videos, graphics, music, sounds and other material(collectively "content") not subject to any copyright, trademark, trade secrets or other proprietary rights of others, or content in which the author has given express written authorization for on-line distribution.
+Any copyrighted content submitted, used, copied or distributed with the consent of the copyright owner should contain a phrase such as "Copyright owned by [name of owner]; used by permission."
+Unauthorized transmission of copyrighted or other proprietary content is prohibited.
+Respect the rights of others to have freedom from harassment or intimidation.
+Sending abusive or unwanted material is a violation of College policies, may violate the law and is prohibited.
+Targeting another person, group or organization to cause distress, embarrassment, injury, unwanted attention or other substantial discomfort is harassment that is prohibited.
+Personal attacks or other actions to threaten, intimidate or embarrass an individual, group or organization, or attacks based on a person's race, color, national origin, creed, disability, religion, gender, veteran status, sexual orientation, age, arrest record, or marital status are prohibited.
+CCC will be the arbiter of what constitutes proper conduct, consistent with College policies.
+Identify yourself clearly and accurately in electronic communication.
+Anonymous or pseudo-anonymous communications do not dissociate any user from responsibility for their actions and are inappropriate.
+Communication under a false name or designation or a name or designation which the user is not authorized to use, including instances in conjunction with representing that the user is somehow acting on behalf of or under the auspices of Clinton Community College is prohibited.
+Recognize limitations to privacy in electronic communications.
+Users may have an expectation that the contents of what they write or otherwise create, store and send be seen only by those to whom they intend or give permission to view; however, the security of electronic information on shared systems and networks is approximately that of paper documents in an unsealed or sealed envelope generally respected, but breachable by someone determined to do
+E-mail should be used for college business.
+Also note that, as part of their responsibilities, technical managers or other persons may need to view the contents of documents or messages to diagnose or correct problems.
+Cooperate as necessary.
+When necessary in the College's discretion to maintain continued reasonable services, or in cases of irresponsible use, the college may suspend user privileges or take or recommend other action deemed necessary or appropriate.
+All users are expected to cooperate with investigations by resource managers or others at the College, either of technical problems or of possible unauthorized or irresponsible use as defined in these standards, College guidelines, other College policies or procedures.
+Recognize the College reserves the right to access, review and monitor the use of computing resources, including but not limited to equipment and usage, as well as the data that is stored or transmitted.
+Observe proper on-line etiquette.
+On-line networks shall be used only as permitted by the College, only in accordance with applicable College policies and only for lawful purposes.
+Any conduct that in the College's discretion restricts or inhibits others from using an on-line network or violates College policies or applicable law is not permitted.
+Users are prohibited from posting on or transmitting through any on-line network any unlawful, harmful, threatening, abusive, harassing, defamatory, vulgar, obscene, profane, hateful, racially or ethnically demeaning or threatening or otherwise objectionable material of any kind, including without limitation, any material which encourages conduct that would constitute a criminal offense, give rise to civil liability or otherwise violate any applicable law or college policies.
+Transmission of chain letters and pyramid schemes of any kind are prohibited.
+Use of any on-line network to send unsolicited advertising, promotional material or other forms of solicitation to others is prohibited, except as permitted by law and when not prohibited by College policies.
+Downloading and/or manipulation of, or the creation, sending, or forwarding of messages or other content which pertain to or act on behalf of organizations not part of the mission of Clinton Community College(such as religious groups, fraternal, political, private or athletic organizations, etc.)
+is prohibited.
+The College reserves the right to restrict and/or interrupt communications through or by use of any College computers or information technology services, which the College believes to be harmful to the College or to others.
+College information technology resources may be used for lawful and permitted purposes only.
+Non-compliance with any of the provisions of these standards may subject the user to sanctions and/or criminal prosecution, as well as personal liability in a civil suit.
+These standards apply to information technology and systems outside the college accessed via college facilities.
+Network or Internet providers outside the college may additionally impose their own conditions of appropriate use.
+Any computer account accessed from the College network is subject to College acceptable use and provider policies.
+Issues, inquiries, or questions concerning training and the improper use of the information technology resources should be addressed to: Dr. John Kowal Administrator in Charge/Interim Director of Information Technology Room 220M Clinton Community College 136 Clinton Point Drive Plattsburgh, New York 12901(518) 562-4110.
+Prohibited Conduct The following conduct in the use of Clinton Community College computing resources is specifically prohibited.
+These standards are not limited to this list and are subject to change via periodic review by the Learning Resources Committee: Unauthorized attempts to monitor another user's password-protected data or electronic communication, or delete another user's password-protected data, electronic communications or software, without that person's permission.
+Installing or running on any system a program that is intended to or is likely to result in eventual damage to a file or computer system.
+Performing acts that would unfairly monopolize computing resources to the exclusion of other users, including(but not limited to) unauthorized installation of server system software or prolonged use of streaming media such as Internet radio stations.
+Hosting a website through the use of Clinton Community College's computing resources without the use of "clintoncc.suny.edu" or "clinton.edu" in its URL, without permission of the Network Administrator.
+Use of computing resources for non-Clinton Community College commercial purposes.
+Use of software, graphics, photographs, or any other tangible form of expression that would violate or infringe any copyright or similar legally recognized protection of intellectual property rights.
+Activities that would constitute a violation of any policy of Clinton Community College's Board of Trustees, including(but not limited to) the College's non-discrimination policy and its policy against sexual harassment and sex discrimination.
+Intentionally transmitting, storing, or receiving data, or otherwise using computing resources in a manner that would constitute a violation of local, state or federal law, including(but not limited to) obscenity, defamation, threats, harassment, and theft.
+Attempting to gain unauthorized access to a remote(non-CCC) network or remote computer system.
+Exploiting any CCC computing resources system by attempting to prevent or circumvent access, or using unauthorized data protection schemes.
+Performing any act that would disrupt normal operations of computers, workstations, terminals, peripherals, or networks.
+Using computing resources in such a way as to wrongfully hide the identity of the user or pose as another person.
+Electronic Communications General Principle: Electronic messaging services(such as email, instant messaging and Web-based discussion boards) at Clinton Community College are provided to support education, research, scholarly communication, administration and other College business.
+Electronic communication is not different from any other form of communication and is subject to all applicable federal, state, and local regulations and administrative regulations.
+As is the case with other technology resources, electronic messaging services are shared among the entire College community.
+Everyone using electronic messaging services should be considerate of the needs of others, and be certain that nothing is done to impede anyone else's ability to use this service.
+All electronic messages must contain the name and electronic mail address of the person making the information available-no anonymous information may be sent.
+Specifically Acceptable Uses: Communications with local and foreign educators, students, administrators, researchers and colleagues in connection with instruction or research.
+Communication and exchange for scholarly development, to maintain currency, or to debate issues in a field or sub-field of knowledge.
+Use in applying for or administering grants or contracts for research or instruction.
+Announcements of new products or services for use in research, college operations, student services, or instruction but not commercial advertising of any kind.
+Factual vendor communication relevant to official College business.
+Specifically Unacceptable Uses: Using electronic messaging for illegal activities is strictly prohibited.
+Use for for-profit activities(sales, consulting for pay, and so on) or use by for-profit institutions unless covered by the general principle, or as one of the specifically acceptable uses.
+Use for private or personal business in violation of Clinton Community College policies.
+Chain letter, or any illegal schemes or activities.
+Mailings to large numbers of people that contain unwanted solicitations or information.
+These mailings are often referred to as"spam".
+Communication that constitutes harassment and/or discrimination.
+Anonymous mailings, or mailings which impersonate another individual.
+Allowing anyone else to use your account.
+Any communication that intentionally and adversely impacts the communications of Clinton Community College by over-loading the network.
+Confidentiality: The confidentiality of electronic messaging cannot be assured, and any confidentiality may be compromised by access consistent with applicable law or policy, including these standards, by unintended redistribution, or due to current technologies inadequate to protect against unauthorized access.
+Users, therefore, should exercise extreme caution in using electronic messaging to communicate confidential or sensitive matters, and should not assume that their electronic messaging is private or confidential.
+In addition, Clinton Community College is subject to public records statutes that require state agencies, political subdivisions and other governmental entities to make available records they maintain--both paper and electronic--for public inspection.
+Application Of Other Policies All policies applied generally at Clinton Community College are expressly applicable to the electronic environment.
+Policies that apply to the use of College resources, including equipment and time also apply to electronic messaging.
+This is not a comprehensive list of applicable Clinton Community College policies.
+Any policy that applies to the use of College resources, including equipment and time, also applies to electronic messaging.
+In the event of a conflict between policies, the more restrictive use policy shall govern.
+Complaint Procedures Persons experiencing misuse, abuse harassment or other incidents related to these technologies that they cannot pursue on their own, should report the matter to their supervisor, the Director of Information Technology, or to the authority at the company or service from which the sender is transmitting.
+Violations of privacy or property involving the technology may be reported, even if the perpetrator is not a member of the College community.
+Enforcement Of Standards Any individual, who is found to have engaged in conduct that may be prohibited by these standards, may receive education, training, counseling, warnings, discipline, and/or other measures designed to prevent future violations including loss of access privileges.
+Disciplinary action may include: warnings, suspension, or discharge from employment or enrollment, in the event of a student.
+Any third party found to have engaged in conduct prohibited by these standards may be barred from College property.
+If an individual is a member of any union or otherwise covered by a collective bargaining agreement with the College, such individual may exercise any and all rights prescribed by such agreement to challenge the findings and/or disciplinary action in accordance with any processes prescribed by such agreement(s).
+Contact

@@ -1,0 +1,38 @@
+Included in these services are personal computer accounts, access to e-mail, voice communications and voice mail, television, audio, and video services, disk space, network services, and desktop technologies.
+The University also provides use of numerous licensed informational and research databases and software applications; use of the University's facilities is expected to be consistent with educational goals and mission of the University.
+Resources, such as the University's network, computers, servers, and printers, required to provide these services are either owned or licensed by Western New England University.
+To use these resources is a privilege, not a right.
+These resources, often provided as part of one's employment or status as a student, are to be used responsibly and in accordance with 'Acceptable Use Policies'.
+The University's resources are limited and the manner in which each individual utilizes these resources impacts the successful efforts of others.
+With respect for individual needs and limited resources in mind, the University has established standards and policies to permit the acceptable use of these resources.
+It is important that everyone be cognizant of their obligations, what is meant by proper use and behavior, an understanding of actions that inhibit the success of others, and adhering to and honoring the following basic principles, standards and policies.
+ACCOUNT AND ACCESS Restrictions include but are not limited to: Using the University's technical resources to engage in any activities not directly related to the University s academic, research, administrative, or residential life activities.
+Using the University's technical resources to engage in illegal activities including violation of local, state, federal, or international law.
+Using the University's technical resources for storing or transporting copyrighted material, documents/photos/software/music/video or files containing such items.
+Connecting devices other than computers in residential hall network jacks; Acceptable devices include PCs, laptops, and gaming consoles; Prohibited devices include hubs, switches, routers, wireless access points, or other such devices that permit more than one device to connect a single network jack.
+Devices that interfere with other devices or users on the network may be disconnected.
+Connecting devices to the University network without appropriate virus and worm related detection software.
+All computers must have virus protection software.
+OIT provides this software at no charge to faculty and staff.
+Using the University's technical resources in an excessive manner or one that causes degradation, incapacitates, compromises, or in any way jeopardizes others use of the University s technical resources.
+Interfering with or attempting to interfere with service to the University community by modifying computer hardware in offices, labs, or classrooms; distribution of technology viruses; or intentionally creating resource consuming programs that force 'denial of service'.
+Sharing your account or password with anyone.
+Attempting to gain access to other individual's accounts, private files or email Conducting any harassing activities toward University users.
+Revealing or disclosing confidential information or invasion of another's personal privacy through electronic or other means.
+1) Inclusion in e-mail messages or web pages the personal audio, image, or video material of individuals or materials owned by them without their approval and written authority.
+Use or placement of content materials that are abusive, profane, or obscene in e-mail, web pages or other network transport mechanisms.
+Using technical resources for commercial, revenue generating, or gambling activities that are not authorized by the University.
+Distributing chain letters or other media that engages individuals with unannounced solicitations that are not related to University business.
+Removing software or hardware components on University computers or servers supplied by the Office of Information Technology.
+Emailing confidential or Personal Information(P without encrypting.
+2)(1) Please refer to the "Definitions" and "Data Classifications" outlined in the Written Information Security Program(WISP) found here.
+2) For assistance with encrypting email please contact the OIT Service Desk at 413-796-2200, email helpdesk@wne.edu or complete an OIT Work Order from Connect2.
+E-MAIL E-mail is considered an official source of correspondence and University records.
+All students, faculty, and staff are responsible for University information sent to their @wne.edu account.
+PRIVACY The University does not routinely monitor, examine, or otherwise review users online activities.
+However, the University does reserve the right to access, monitor, audit, and examine network traffic in order to abate network performance issues or if there is reason to believe that a user is in violation of the Acceptable Use Policy.
+FORGERY Falsifying or misrepresenting one s identity or otherwise attempting to impersonate or pass oneself off as another is a violation of the Acceptable Use Policy unless prior written consent has been provided from the representee to the University.
+ENFORCEMENT Violation of the Acceptable Use Policy may result in the University blocking or restricting the use of information resources.
+Violators may be subject to disciplinary action up to and including possible suspension, dismissal, or termination of employment.
+DISCLAIMER The University is responsible for backup, transfer, migration, and recovery of University data that is stored on the University s systems.
+The University does not guarantee that technical resources are free of objectionable material, defects, errors, viruses, worms, or other malicious content.

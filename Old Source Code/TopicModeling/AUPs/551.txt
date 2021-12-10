@@ -1,0 +1,18 @@
+   POLICY MANUAL  INFORMATION TECHNOLOGY
+  Number 551 Subject: Computer Management Effective Date: February 1, 2008
+  551.1  PURPOSE The intention of this policy is to decrease the availability of Utah State University™s 
+computing resources to unauthorized outside
+rs. Computing resources and confidential 
+data are sought by unauthorized outsiders for their own purposes, ofte
+n at the expense of the University or the user of the computer. Proper management of computers reduces 
+these risks of loss and the legal, financial,
+ and personal consequences that may result. 
+551.2  POLICY All computers connected to the USU Network 
+must be configured and managed to reduce 
+or eliminate the risk of loss of control of the computer resource, or stored or transmitted 
+information. Information Technology (IT) is directed to develop 
+Computer Management 
+Procedures according to industry best practices 
+in collaboration with IT advisory 
+committees and user groups. 
+    BACK TO TABLE OF CONTENTS   

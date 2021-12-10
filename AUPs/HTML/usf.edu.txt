@@ -1,0 +1,46 @@
+Each person using these computers must be considerate of other users.
+The purpose of these facilities is the support of teaching and research by its authorized users.
+Activities that damage or impede the work of other users are of particular concern.
+Such activities are discourteous and illegal.
+The State of Florida has laws which hold that unauthorized use(including accessing another user s account) leading to offenses against intellectual property and/or computer users, is a felony.
+Besides civil penalties that can include imprisonment of up to fifteen years and fines, the college and or university may impose administrative penalties and sanctions against those found to have violated the law.
+The University of South Florida wishes to provide open access to students and faculty, with as few restrictions as possible.
+Courteous and thoughtful computing will minimize the need for regulations and annoying security procedures.
+Account Certification Statement I understand that the following activity is forbidden and may subject me to loss of access to computing and/or network facilities, administrative sanctions and penalties by the university and/or college, as well as imprisonment and fine by civil authorities.
+I WILL NOT: Provide access to USF s network and computing resources to any other person or entity.
+Access another user s account and/or misrepresent one s identity.
+Allow another person to access my account or share my password.
+Use computing resources for private profit not related to university activities.
+Intentionally impede the legitimate use of computing facilities by other people.
+Use computing resources for junk mail or mass mailing.
+Violate any law, regulation, or contract Publish information that is threatening, harassing, abusive, defamatory or libelous Publish or distribute illegally copied music, movies, software or other Intellectual Property, or otherwise infringe upon the copyrights of other persons or entities Publish any information or software used to circumvent software licensing or registration Advocate or solicit violence or criminal behavior Use computing resources to generate private profit not related to university activities.
+Individuals using this system without authority, or in excess of their authority, are subject to having all of their activities on this system monitored and recorded by system personnel.
+While monitoring individuals improperly using this system or during system maintenance, the activities of authorized users may be examined.
+Anyone using this system agrees to such examination and is advised that if it reveals possible evidence of criminal activity, system personnel may provide this evidence to law enforcement officials.
+Network Device Registration You are personally responsible for all use of your computer and the network connection while you are attached to USF's network.
+You will be held accountable for any violations that occur involving your computer and/or network connection.
+You are responsible for taking reasonable measures to secure your computer against viruses, worms and other attacks.
+You will be held responsible for consequences resulting from un-patched systems or default/unset passwords.
+You will not use your network connection to send unsolicited mail(SPAM) or other unsolicited mass notices(pop-ups, instant messages etc.)
+You must not use USF resources and/or facilities to gain or attempt to gain unauthorized access to remote computers or network.
+Granting access to USF resources to individuals external to the University through your network connection is prohibited.
+You must not deliberately perform an act which will seriously impact the operation of computers, peripherals, or networks.
+This includes, but is not limited to, tampering with components of a network or otherwise blocking communication lines(Denial of Service Attacks), or interfering with the operational readiness of a computer.
+You will not generate excessive network traffic in so much that it interferes with another user's ability to utilize the network.
+You are authorized to connect a single computer to a single wall jack.
+Wiring and/or wall jacks may not be altered or extended beyond the location of their intended use.
+You may not connect hubs, switches, wireless access points or any other network equipment to the wall jack.
+If you have a real need for multiple simultaneous computers, please contact Information Technology.
+You will not attempt to masquerade as another user, hide your identity, or attempt to monitor network traffic.
+It is required that you use DHCP for IP address assignment.
+You will not use any IP address except that which has been automatically assigned to you via DHCP.
+You will not register any domain name pointing to a USF IP address.
+You will not download or share unauthorized copyrighted materials.
+Servers(FTP, WWW, IRC, etc) are not permitted on the USF open-use network.
+Any traffic traversing USF's network is subject to monitoring and inspection.
+Failure to comply with applicable acceptable use policies may be a violation of state or even federal laws and could result in criminal prosecution.
+If you are in doubt as to whether or not to do something either don't do it or first contact USF Data Network Management staff to ensure that no laws are broken.
+By registering your computer or game console with our server and using USF's open-use network connections, you are consenting to this acceptable use policy.
+If you do not agree with all of these requirements, do not use or register to use the network connections provided.
+All rights reserved.
+This website is maintained by Information Technology.

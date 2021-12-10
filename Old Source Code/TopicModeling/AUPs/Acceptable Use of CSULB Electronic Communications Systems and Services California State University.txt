@@ -1,0 +1,330 @@
+HOME
+POLICIES, STANDARDS & PROCEDURES
+INFORMATION SECURITY
+Information Security Policy
+Acceptable Use Of CSULB Electronic Communications Systems And Services
+Information Security And Privacy Program
+Clean Desk And Clear Screen Standard
+Electronic Data Security-Portable Devices And Removable Media
+Employee Owned Electronic Computing Device And Storage Media
+Electronic Media Sanitization Procedure
+Password Standard
+DOIT HOMESERVICESINFORMATION SECURITY
+ACCESSIBLE TECHNOLOGY
+CSULB
+!Search"
+ACCEPTABLE USE OF CSULB ELECTRONIC
+COMMUNICATIONS SYSTEMS AND
+SERVICES
+A. Policy Statement
+Electronic communications systems and services are essential to conducting
+University business. The continued and reliable availability of these systems and
+services are paramount to California State University, Long BeachÕs (University)
+ability to fulÞll its mission of education, research, and public service. To this end, the
+University uses, supports and provides electronic communications systems and
+RECORDS MANAGEMENT
+SAFE COMPUTING
+SECURITY INCIDENTS
+References: 
+Executive Order 999: Illegal Electronic File Sharing and
+Protection of Electronic Copyrighted Material
+¥Issue Date:
+ August 2007
+¥Revision Date:
+ N/A
+¥Expiration Date: 
+N/A
+¥Web Links:
+http://www.calstate.edu/EO/EO-999.html
+https://www.csulb.edu/information-technology/information-security
+¥
+services for telecommunications, mail, education, and research.
+The University encourages the use of electronic communications systems and
+services for lawful purposes and makes them widely available to the university
+community. Nonetheless, the use of electronic communications resources is limited
+by restrictions that apply to all University property and by constraints necessary for
+the reliable operation of electronic communications systems and services. The
+University reserves the right to deny use of its electronic communications systems
+and services, when necessary, to satisfy these restrictions and constraints.
+The contents of all electronic communications systems and services shall conform to
+CSU and CSULB policies and standards, state law and federal law including the
+Copyright Act of 1976 and all subsequent amendments including, but not limited to,
+the Digital Millennium Copyright Act of 1998 and the Teach Act of 2002.
+All electronic communications systems and services intended to accomplish the
+academic and administrative tasks of the University shall be accessible to users with
+disabilities in compliance with law and University policies. Alternate
+accommodations shall conform to law and University policies and standards.
+B. 
+General Provisions
+A. PurposeThe purposes of this policy are to:
+Ensure that University electronic communications systems and services are used
+for purposes appropriate to the UniversityÕs mission;
+¥Ensure that UserÕs privacy rights are protected;
+¥Inform the University community about the applicability of laws and standards to
+electronic communications;
+¥Ensure that electronic communications system and services are used in
+compliance with those laws and standards; and
+¥Prevent disruption to and misuse of University electronic communications
+¥
+B. 
+ScopeThis policy applies to:
+C. DeÞnitionsTerms used in this Policy are deÞned in 
+Appendix A
+.C. Incidential UseUniversity users may use electronic communications systems and services for
+incidental personal use provided that such use does not 1) interfere with the
+UniversityÕs operation of electronic communications systems and services; 2)
+interfere with the userÕs employment or other obligations to the University; 3)
+burden the University with noticeable incremental costs; or 4) create a security risk
+to the conÞdential or intellectual information maintained and protected by the
+University. When noticeable incremental costs for personal use are incurred, users
+shall be responsible for reimbursement to the University.
+D. 
+Prohibited UseUsers are prohibited from utilizing University electronic communications systems
+and services for any unlawful, unethical or unprofessional purpose or activity.
+systems and services.
+All electronic communications systems and services, owned or managed by the
+University or auxiliary organizations;
+¥All electronic communications systems and services provided by the University or
+auxiliary organizations through contracts or other agreements;
+¥All users and uses of University electronic communications system and services ;
+and
+¥All University electronic communications records in the possession of University
+employees or of other users of electronic communications system and services
+provided by the University.
+¥
+Examples of prohibited use include but are not limited to:
+University electronic communications system and services may not be used to:
+A. circumvent legitimate copyright protections or illegally access, copy or disseminate
+copyrighted material in any form including, but not limited to, print, music, video or
+other multimedia content, that is not permitted under the principle of Fair Use;
+B. 
+distribute or duplicate copyrighted software without appropriate licensing agreements
+or use of software in a manner inconsistent with the license; or
+C. engage in peer-to-peer technology for non-business purposes. This includes, but is not
+limited to, transfer of music, movies, software, and other intellectual property.
+Transmission of threats, harassment or defamation
+¥Download or distribution of material or programs that could be deemed harmful to
+University electronic communications systems or services
+¥Violations of any state of federal laws or any applicable CSU or CSULB policy or
+regulation, including but not limited to, Rules of the Academic Senate, the Faculty
+Code, the Faculty Handbook and Administrative Guidelines
+¥Intentional access, viewing, download or dissemination of materials containing
+obscene matter
+¥Violation of software licensing agreements
+¥Intentional damage to equipment, software or data
+¥Commercial activities unrelated to the mission of the University. This includes
+soliciting, promoting, selling, marketing or advertising products or services (e.g.
+consulting services) or other revenue generating private business operations for
+personal Þnancial gain. Disputes regarding a commercial activityÕs relatedness to
+mission of the University shall be resolved by the University President or designee.
+Campus auxiliary organizations are authorized to provide services and products to
+students, faculty and staff, and invited guests of the University through operating and
+service support leases.
+The University President or designee may authorize additional limited commercial
+uses under separate policy provisions and such uses are exceptions to the above
+commercial use prohibitions.
+¥
+Illegal Þle-sharing and other copyright violations are a violation of Title 5 of the
+California Code of Regulations.
+E. 
+PrivacyThe University recognizes that principles of academic freedom and shared
+governance, freedom of speech, and privacy hold important implications for the use
+of electronic communications systems and services. This Policy reßects these Þrmly-
+held principles within the context of the UniversityÕs legal and other obligations. The
+University respects the privacy of electronic communications in the same way that it
+respects the privacy of paper correspondence and telephone conversations, while
+seeking to ensure that University administrative records are accessible for the
+conduct of the UniversityÕs business.
+Limitations of PrivacyIt is not the intent of the University to examine or disclose electronic communication
+records without the holderÕs consent. However, under limited circumstances as
+described in this policy, the University may examine or disclose electronic
+communications records without the holderÕs consent.
+An electronic communication holderÕs consent shall be obtained by the University
+prior to any access for the purpose of examination or disclosure of the contents of
+University electronic communications record in the holderÕs possession, except as
+provided below.
+Access without ConsentThe University shall permit the examination or disclosure of electronic
+communications records without the consent of the holder when (1) required by and
+consistent with law; (2) when there is substantial reason to believe that violations of
+law or of University policies have taken place; (3) when there are compelling
+circumstances; (4) under time-dependent, critical operational circumstances; or 5) to
+preserve records or information consistent with the University Litigation Hold
+policy.
+
+Automated MonitoringThe right to privacy does not preclude system administrators from maintaining and
+monitoring system logs of user activity. Automated searches for Þles and
+transmissions that endanger privacy, conÞdentiality of data, system security or
+integrity are performed regularly to protect all users and ensure the continued
+availability of University electronic communications systems and services. System
+administrators may take appropriate actions in response to detection of such Þles or
+transmissions.
+Third Party Services
+University contracts with outside vendors for electronic communications services
+must explicitly reßect and be consistent with this Policy and other University policies
+related to privacy. Any third party organization providing contractors to the
+University shall be provided access to this policy for review prior to commencing
+work for the University.
+F. 
+SecurityThe University makes reasonable efforts to provide secure and reliable electronic
+communications systems and services. The University cannot ensure security of
+data transmitted over the Internet. Information submitted via the Internet may not
+be secure and could be observed by a third party while in transit. Submission of
+passwords, credit card numbers or other personal information via the Internet could
+result in identity theft.
+Additionally, University Users and Public Users accessing the Internet should be
+aware that the Internet permits access to non-University users who are not subject
+to University policies, and may contain content materials, goods and services that
+individual users may Þnd personally offensive or objectionable. The University does
+not have the right or capability to monitor or restrict Internet content. Therefore,
+the University disclaims any responsibility and liability for any conduct, content,
+materials or goods and services available on or through the Internet.
+
+G. Response to Policy Violations
+When there is reason to believe that a violation of this policy has occurred, an
+investigation shall be conducted. User access to electronic communications systems
+and services may be temporarily suspended while an investigation is being
+conducted.
+If the investigation involves faculty or staff members and warrants University action,
+an explanation of the causal events shall be reported to the appropriate Vice
+President. In cases involving students, the OfÞce of Judicial Affairs and the Dean of
+Students OfÞce shall be notiÞed. Investigating ofÞcials shall examine charges of
+violations with due respect for individual privacy, the security of other users, and the
+rights of due process.
+Violations of University policy may result in sanctions, including but not limited to,
+limitation or revocation of access rights and/or reimbursement to the University for
+any expense related to the violation, including costs associated with the detection
+and investigation of the violation, as well as from the violation itself. Violation of
+applicable statutes may result in criminal prosecution.
+Further Information
+Information Security
+iso@csulb.edu
+562.985.4862
+Approved by President Alexander
+August 2007
+Appendix A Ð DeÞnitions
+Compelling Circumstances: 
+Circumstances in which failure to act might result in
+signiÞcant bodily harm, signiÞcant property loss or damage, loss of signiÞcant evidence, or
+signiÞcant liability to the University or to members of the University community.
+Electronic Communications: 
+Any transfer of signals, writings, images, sounds, data or
+intelligence that is created, sent, forwarded, replied to, transmitted, distributed,
+broadcast, stored, held, copied, downloaded displayed, viewed, read, or printed by one or
+several electronic communications systems. For the purpose of this policy, an electronic
+Þle that has not been transmitted is not an electronic communication.
+Electronic Communications Records: 
+The contents of electronic communications
+created, sent, forwarded, replied to, transmitted, distributed, broadcast, stored, held,
+copied, downloaded, displayed, viewed, read, or printed by one or several electronic
+communications systems or services. This deÞnition of electronic communications
+records applies equally to attachments to such records and transactional information
+associated with such records.
+Electronic Communication Resources: 
+Telecommunications equipment, transmission
+devices, electronic video and audio equipment; encoding or decoding equipment,
+computers and computer time, data processing or storage systems, computer systems,
+servers, networks, input/output and connecting devices, and related computer records,
+programs, software, and documentation that supports electronic communications
+systems and services.
+Electronic Communications Systems and Services: 
+Any messaging, collaboration,
+publishing, broadcast, or distributions system that depends on electronic
+communications resources to create, send, forward, reply to, transmit, distribute,
+broadcast, store, hold, copy, download, display, view, read, or print electronic records for
+the purposes of communication across electronic communications network systems
+between or among individuals or groups, that is either explicitly denoted as a system for
+electronic communications or is implicitly used for such purposes.
+Holder of an Electronic Communications Record or Electronic Communications
+Holder: 
+An electronic communications user who, at a given point in time, is in possession
+or receipt of a particular electronic communications record, whether or not that
+
+electronic communications user is the original creator or a recipient of the content of the
+record.Matter: 
+Any book, magazine, newspaper, or other printed or written material, or any
+picture, drawing, photograph, motion picture, or other pictorial representation, or any
+statue or other Þgure, or any recording, transcription, or mechanical, chemical, or
+electrical reproduction, or any other article, equipment, machine or material. 
+Obscene Matter: 
+DeÞned in Section 311 of the Penal Code as any matter, taken as a
+whole, that to the average person, applying contemporary statewide standards, appeals
+to the prurient interest, that, taken as a whole, depicts or describes sexual conduct in a
+patently offensive way, and that, take as a whole, lacks serious literary, artistic, political, or
+scientiÞc value.
+The prohibition regarding obscene matter does not apply to accessing, viewing,
+downloading, or otherwise obtaining obscene matter for use consistent with legitimate
+law enforcement purposes, to permit the university to conduct an administrative
+disciplinary investigation, or for legitimate medical, scientiÞc, academic, or other
+legitimate university purposes.
+Possession of Electronic Communications Record:  
+An individual is in possession of an
+electronic communications record, whether the original record or a copy or modiÞcation
+of the original record, when that individual has effective control over the location of its
+storage or access to its content.  Thus, an electronic communications record that resides
+on an electronic communications system awaiting download to an addressee is deemed,
+for the purposes of this Policy, to be in the possession of that addressee. Systems
+administrators and other operators of University electronic communications system and
+services are excluded from this deÞnition of possession with regard to electronic
+communication not speciÞcally created by or addressed to them.   Electronic
+communications users are not responsible for electronic communications records in their
+possession when they have no knowledge of the existence or contents of such records.
+Substantial Reason:  
+Reliable evidence indicating that violation of law or University
+Policy has occurred, as distinguished from rumor, gossip, or other unreliable evidence.
+
+Time-dependent, Critical Operational Circumstances:  
+Circumstances in which failure
+to act could seriously hamper the ability of the University to function administratively or
+to meet its teaching obligations, but excluding circumstances pertaining to personal or
+professional activities, or to faculty research or matters of shared governance.
+University Electronic Communications Record:
+  A Public Record in the form of an
+Electronic communications record, whether or not any of the electronic communications
+resources utilized to create, send, forward, reply to, transmit, distribute, broadcast, store,
+hold, copy, download, display, view, read, or print the electronic communications record
+are owned by the University.  This implies that the location of the record, or the location
+of its creation or use, does not change its nature (i) as a University electronic
+communications record for the purposes of this or other University policies, and (ii) as
+having potential for disclosure under the California Public Records Act.
+Until determined otherwise or unless it is clear from the context, any electronic
+communications record residing on university-owned or controlled telecommunications,
+video, audio, and computing facilities will be deemed to be a University electronic
+communications record for purposes of this Policy.  This includes personal electronic
+communications.  Consistent with the principles of least perusal and least action
+necessary and of legal compliance, the University must make a good faith a priori effort to
+distinguish University electronic communications records from personal and other
+electronic communications in situations relevant to disclosure under the California Public
+Records Act and other laws, or for other applicable provisions of this Policy. 
+University Electronic Communications Systems and Services:  
+Electronic
+communications systems and services owned or operated by the University, auxiliary
+organization or provided through contracts with the University or auxiliary organization.
+Use of Electronic Communications systems and Services:  
+To create, send, forward,
+reply to, transmit, distribute, broadcast, store, hold, copy, download, display, view, read, or
+print electronic communications with the aid of electronic communication systems and
+services.  An electronic Communications user is an individual or organization who makes
+use of electronic communications services. 
+The act of receipt of electronic communications records as contrasted with actual
+
+Select Language
+!"Select Language
+!"Select Language
+!"   CALIFORNIA STATE UNIVERSITY 
+LONG BEACH
+1250 Bellßower Boulevard
+Long Beach, California
+ 90840SERVICES
+COLLEGES
+ADDITIONAL RESOURCES
+#$%!viewing of the record by the recipient is excluded from the deÞnition of ÒuseÓ to the extent
+that the recipient does not have advance knowledge of the contents of the electronic
+communications record.
+User:  
+University students, faculty and staff, emeritus and employees of the UniversityÕs
+auxiliary organizations who have legitimate access University electronic communications
+resources.  Users may also be persons or organizations who have legitimate access to
+University electronic communications resources under programs sponsored by the
+University and authorized by the University President.
+
+562.985.4111

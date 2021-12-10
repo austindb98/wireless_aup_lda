@@ -1,0 +1,28 @@
+Please to improve your experience.
+
+It is the responsibility of each person to use these services appropriately and in compliance with all University, local, state and federal laws and regulations.
+Access is a privilege that can be revoked at any time due to misuse.
+By connecting to this resource, the user agrees to the terms and conditions of this Acceptable Use Policy, related University of Rochester computer use policies and other applicable Conduct Codes.
+policy-scope The University has adopted the following regulations on the use of the wireless network: Wireless services, equipment, wiring or jacks may not be altered nor extended beyond the location of their intended use.
+The wireless network may not be used to provide access to University information systems for purposes other than those that are in direct support of the academic program of the University.
+The wireless network may not be used to provide access to the Internet by anyone not formally affiliated with the University.
+Any receipt, retransmission or destruction of software or data must observe copyright laws, license restrictions and University policies.
+Viewing, copying, altering or destroying any file, or connecting to a host on a network without explicit permission of the owner is a violation of this policy.
+The University s networks are shared resources.
+Excessive use of network resources which inhibits or interferes with the use of these networks by others is not permitted.
+The wireless network may not be used for commercial or profit-making enterprise.
+Use of these resources for commercial gain is in opposition to the non-profit status of the University.
+Users may not share University system passwords, use another person s account, even with permission, or allow use of an established connection by someone other than the registered user.
+Users may not forge or otherwise misrepresent another s identity through any form of communication.
+Users may not use the wireless network to attempt to circumvent protection schemes or exercise security loopholes in any computer or network component.
+Any form of malicious attack initiated from the wireless network will have the necessary actions taken to remove the source of the attack from the network.
+Users who administer computers on the wireless network that are used as servers have the additional responsibility to respond to any use of their server that is in violation of this Acceptable Use Policy.
+Server administrators must take steps to prevent recurrence of such violations and report these violations to Information Technology Services.
+University network resources may not be used to defame, harass, intimidate or threaten any other person(s).
+University harassment policies cover all uses of the wireless network, including e-mail correspondences and newsgroups.
+All wireless network users(e.g.
+students, administrative staff, faculty, Faculty in Residence, spouses, and children) are expected to abide by all guidelines mentioned herein when using these resources.
+Sanctions as a result of violations of these regulations may result in the following: Loss of access privileges; University judicial sanctions as prescribed by student, faculty or staff behavioral codes; Monetary reimbursement to the University or other appropriate sources; Reassignment or removal from University housing and/or the University; Prosecution under applicable civil or criminal laws.
+inner-main /.main search Need Help?
+585) 275-2000 univithelp@rochester.edu Online Chat IT Center Connect with IT /.sidebar /.content /.container /.wrap Emergency Info | Copyright | Accessibility University of Rochester 1996-2021 /.row /.container /.site-bottom Performance optimized by W3 Total Cache.
+Learn more: https://www.boldgrid.com/w3-total-cache/ Page Caching using memcached Page cache debug info: Engine: memcached Cache key: 3e2afb23909c4bce56fb762b183420e5_ssl Creation Time: 1637040280.000s Header info: Content-Type: text/html; charset=UTF-8 X-Frame-Options: SAMEORIGIN Link: ; rel=shortlink Served from: tech.rochester.edu @ 2021-11-16 00:24:40 by W3 Total Cache

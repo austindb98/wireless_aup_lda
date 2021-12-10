@@ -1,0 +1,696 @@
+Ball State University
+ 
+|
+ 
+Authentication & Access Control Standards 
+|
+ 
+Last Updated 0
+5/08/2018
+ 
+| V 2.0
+ 
+| 
+Page 
+1
+ 
+of 
+4
+ 
+ 
+I
+NFORMATION 
+T
+ECHNOLOGY 
+ 
+A
+UTHENTICATION 
+A
+ND 
+A
+CCESS 
+C
+ONTROL 
+S
+TANDARDS 
+ 
+B
+ALL 
+S
+TATE 
+U
+NIVERSITY 
+O
+FFICE OF 
+I
+NFORMATION 
+S
+ECURITY 
+S
+ERVICES
+ 
+1.
+  [
+I
+NTRODUCTION
+ 
+Ball State University information systems contain sensitive information assets which are crucial to the ongoing 
+operation of the U
+niversity, and for which the University has a legal obligation to protect
+ 
+from inappropriate 
+disclosure.
+ 
+The following standar
+ds define authentication and access control requirements necessary to 
+safeguard these assets from unintended disclosure.
+ 
+2.
+  [
+S
+COPE 
+&
+ 
+A
+PPLICATION OF 
+T
+HESE 
+S
+TANDARDS
+ 
+These standards apply to all students, employees, outside persons or organizations as well a
+s any other entities 
+accessing or using Ball State University information systems.
+ 
+3
+.
+  [
+C
+ONFIDENTIAL 
+I
+NFORMATION
+ 
+Confidential Information is defined in the 
+Data Management Procedures and Governance 
+Structure
+, which
+ 
+can 
+be found on
+-
+line at 
+https://www.bsu.edu/security/itpolicy
+. P
+lease refer to that policy to understand what 
+information is considered confidential and hence subject to the special handling and disposal procedures 
+described in this document.
+ 
+4
+.
+  [
+A
+UTHENTICATION AND 
+A
+CCESS 
+C
+ONTROLS 
+D
+EFINED
+ 
+Authentication establishes identity, while access permissions define the set of resources available to an 
+individual who has been authenticated.  [Authentication is generally provided by the campus 
+Enterprise Di
+rectory 
+Authentication Service
+ 
+(EDAS)
+, while access permissions are controlled by local systems administrators.  [For 
+example,
+ 
+the local administrator 
+of a sensitive financial 
+records system
+ 
+may remove this access from an 
+employee upon their retirement; 
+however,
+ 
+the same employee might retain access to general services such as 
+e
+-
+mail.
+ 
+5
+.
+  [
+R
+ESPONSIBILITY TO 
+R
+EVOKE 
+A
+CCESS 
+P
+ERMISSIONS
+ 
+Local systems administrators have a responsibility to monitor their environments and remove access from 
+individuals no longer
+ 
+having a demonstrated need for such information.  [The review process for such removal 
+must occur immediately upon change of employment status or assignment.  [Additionally, local administrators 
+must regularly (not less than
+ 
+annually
+) document a review the 
+access permissions list for their systems.
+ 
+6
+.
+  [
+A
+CCESS 
+P
+ERMISSIONS 
+D
+O 
+N
+OT 
+G
+RANT 
+U
+NRESTRICTED
+ 
+A
+CCESS 
+R
+IGHTS
+ 
+Although an employee may have electronic access permissions to read or modify institutional data, such 
+permissions do not grant blanket authority to a
+ccess or modify such information.  [All access to confidential 
+information must be for a bona fide institutional purpose consistent with official responsibilities and assigned 
+duties.
+ 
+ 
+
+Ball State University
+ 
+|
+ 
+Authentication & Access Control Standards 
+|
+ 
+Last Updated 0
+5/08/2018
+ 
+| V 2.0
+ 
+| 
+Page 
+2
+ 
+of 
+4
+ 
+ 
+7
+.
+  [
+P
+ERMITTED 
+A
+UTHENTICATION 
+S
+YSTEMS
+ 
+The primary authentication mechanis
+m for all Ball State University information systems is the 
+Enterprise 
+Directory Authentication Service
+ 
+(EDAS).  [All Ball State University employees and studen
+ts are eligible to receive 
+a Ball State
+ 
+Computer username
+ 
+and password for this service.
+ 
+Generally,
+ 
+students receive these credentials 
+dur
+ing the admission process.  [E
+mployees obtain them by visiting the 
+Unified Technology Services (
+UTS
+)
+ 
+Information Desk at BL101.  [Additional authentication systems apart from the 
+E
+DAS 
+other
+ 
+permitted methods 
+d
+escribed below.
+ 
+ 
+a.
+ 
+BSU Computer Username and Password
+:  [Where practical and approved, all information systems 
+requiring authentication of employees or students will use EDAS.  [This system provides standards based 
+LDAP, Kerberos, 
+Shibboleth, ADFS and 
+NTLM authentication services employing strong encryption. The 
+system is also built on a distributed 
+model, which
+ 
+is highly available, secure, and interoperable with 
+existing and emerging technologies and complies with Technical Password R
+equirements as des
+cribed 
+below.
+ 
+Contact the Office of Information Security Services (OISS) for additional information before 
+attempting to integrate with this authentication system, which requires certain technical protocols be 
+followed to ensure security is maintained. 
+ 
+ 
+b.
+ 
+O
+ther Permitted Authentication Systems
+:  [Methods of authentication other than 
+what is 
+described above
+ 
+should be avoided, but are sometimes necessary due to systems incompatibility or other reasons.  [Such 
+systems must be approved by OISS prior to acquisition
+, development, and deployment.  [These systems 
+must comply with the Technical Passwor
+d Requirements described below.
+ 
+Purchased, developed, and 
+acquired systems must be evaluated to include proper support for integration with EDAS.
+ 
+8
+.
+  [
+P
+ASSWORDS 
+R
+ESPONSIBILI
+TY AND 
+G
+ENERAL 
+P
+ROCEDURES
+ 
+ 
+a.
+ 
+Responsibility
+:  [
+Each person is individually responsible for compliance with these procedures, and for 
+keeping passwords secure by not sharing or treating them in a way others may discover them.  [
+Suspected disclosure or 
+compromise of a password to any other person must be immediately reported 
+to OISS and the password changed.
+ 
+ 
+b.
+ 
+Password Distribution Procedures
+:  [Initial usernames and passwords must be distributed in a manner 
+so as to limit the number of people having oppor
+tunity
+ 
+to learn the initial password.
+ 
+Username/password 
+combinations distributed on paper shall be either handed directly to the account owner immediately 
+upon printing (walk
+-
+up stations) or delivered to the account owner via envelope sealed at the point o
+f 
+origin and del
+ivered through a secure method.
+ 
+Passwords shall not be saved or archived by the issuing 
+office in a recoverable format for any reason.  [Contact OISS for additional information concerning 
+password distribution procedures. 
+ 
+ 
+c.
+ 
+Password Reset Pr
+ocedures
+:  [Password resets performed through walk
+-
+up procedures require that the 
+account owner to appear in
+-
+person and to present valid government or university issued picture 
+identification. 
+Under no circumstances may passwords be reset and released
+ 
+to an
+yone but the account 
+owner without approval of the Director of Information Security
+ 
+Services
+. 
+Passwords may never be given 
+out over telephone for any reason.  [Automated resets such as by pre
+-
+registration of alternate trusted 
+addresses are permissible, as a
+
+ 
+traveling outside of Indiana. 
+
+Ball State University
+ 
+|
+ 
+Authentication & Access Control Standards 
+|
+ 
+Last Updated 0
+5/08/2018
+ 
+| V 2.0
+ 
+| 
+Page 
+3
+ 
+of 
+4
+ 
+ 
+Such special procedures 
+have
+ 
+been 
+approved 
+by the
+ 
+OISS and are described in 
+R
+emote Password Reset 
+Procedures 
+policy available a
+t 
+https://www.bsu.edu/security/itpolicy/
+.
+ 
+ 
+d.
+ 
+Use of Assigned Usernames and Passwords
+:  [Assigned usernames and passwords are only to be used 
+on offici
+al university managed systems. 
+Passwords used to access Ball State University information 
+systems may not be
+ 
+transmitted to any information system or service outside the university 
+unless 
+approved by the D
+irector of Information Security Services.
+ 
+Many
+ 
+services external to the university rely 
+on successful EDAS authentication (
+using a
+ 
+certain zero 
+knowledge authe
+ntication method which does 
+not disclose the password to the external party)
+,
+ 
+however
+,
+ 
+approval 
+is required from OISS before 
+implementation. 
+ 
+ 
+e.
+ 
+Sharing of Passwords
+:  [Passwords are issued to individuals and must not be shared or transferred to 
+any other per
+son including
+ 
+employee
+s
+, friend
+s
+, family member
+s
+, vendor
+s
+ 
+or external provider.  [No EDAS 
+accounts shall be used as shared
+-
+password accounts.  [Departmental EDAS accounts are not intended 
+for shared
+-
+password access; proxy access may be granted to any EDAS ac
+count, which will provide the 
+same functionality without the need for sharing passwords.
+  [
+Contact the Helpdesk or the OISS for more 
+information.
+ 
+ 
+f.
+ 
+Password 
+Disclosure 
+f
+or Support Purposes
+:  [
+No university employee is authorized to ask or demand the 
+disclosure of a password
+ 
+in the course
+ 
+of providing support services.
+ 
+If you are asked for your password, 
+do not disclose it and report the incident to OISS. 
+ 
+9
+.
+  [
+T
+ECHNICAL 
+P
+ASSWORD 
+R
+EQUIREMENTS
+ 
+Passwords provide an important layer of information security.  [Selecting a strong password and keeping it 
+confidential is an important part of securing Ball State University information assets.  [Although servers and 
+systems will be configured to enforce th
+ese standards as closely as 
+possible,
+ 
+the ultimate responsibility for 
+compliance with these requirements and for maintaining the secrecy of passwords remains with the individual.
+ 
+a.
+ 
+Length
+:  [Passwords may be
+ 
+no less than twelve
+ 
+characters in length.  [Longer p
+asswords are preferred, 
+as are so
+-
+
+ms not 
+supporting at least twelve
+ 
+character passwords shall be secured by some additional approved method 
+providing enhanced security.  [Generally, 
+longer passwords increase security as they are hard to guess.
+ 
+b.
+ 
+Complexity
+:  [Passwords must contain a combination of at least three of the 
+following groups of 
+characters:
+ 
+(1) upper case letters (2) lower case letters (3) numbers (4) special characters such a
+s 
+punctuation or symbols.  [Passwords may not contain the username or the proper name of the individual, 
+nor may they contain information specifically identifiable to the account owner such as the nam
+e of a 
+pet, sibling, or spouse.
+ 
+Password complexity enhan
+ces security by reducing vulnerability to dictionary 
+and related attacks.
+ 
+c.
+ 
+Expiration
+:
+ 
+ 
+All EDAS 
+user account 
+passwords will expire on an annual basis, thus requiring the owner to 
+change the password at least once every 12 months.
+ 
+ 
+The EDAS system will 
+prevent users from setting 
+their password to the last four passwords used previously when a password change is required. When 
+an employee or student becomes
+ 
+ineligible to have an active EDA
+S account because of separation from 
+the university or o
+ther loss o
+f eligibility, the E
+D
+A
+S account will be disabled and all logins to the account 
+disallowed as defined by automated rules tied to the student or employee record. EDAS accounts will 
+be removed from the system using a two
+-
+stage process, with the accounts first
+ 
+disabled (
+
+then finally deleted permanently.
+ 
+
+Ball State University
+ 
+|
+ 
+Authentication & Access Control Standards 
+|
+ 
+Last Updated 0
+5/08/2018
+ 
+| V 2.0
+ 
+| 
+Page 
+4
+ 
+of 
+4
+ 
+ 
+ 
+d.
+ 
+Change Before Use
+:  [Upon account creation or password reset procedures described 
+above
+, the account 
+password must be changed
+ 
+by the account owner before unless this function is not supported by t
+he 
+system
+.  [
+Requiring a password change before use helps insure that the active password is only known 
+to the account owner.
+ 
+e.
+ 
+Authentication Failure Lockout
+:  [
+EDAS performs 
+a temporary lockout after a 
+consecutive
+ 
+number of login 
+attempt failures. This control is designed to prevent brute
+-
+force password guessing which normally 
+involves attempting thousands or millions of password combinations. Account lockout should occur at 
+a low number (less than 75) but more tha
+n 20 
+to
+ 
+help prevent denial of service by a 
+trivial
+ 
+amount
+ 
+of 
+simple guessing. 
+Temporary lockouts increase security by helping to make password guessing attacks 
+infeasible. 
+ 
+f.
+ 
+Reporting of Password Failures
+:  [Repeated failures to an account should result in 
+an automatic 
+EDAS 
+warning message being generated and set to the account holder as well as a local systems administrator 
+as well as directly to OISS.
+ 
+g.
+ 
+Passwords Not Stored in Unencrypted Format
+:  [Systems shall not store pas
+swords in an unencrypted 
+format, a
+nd an encrypted format which is recoverable is not permitted without authorization of the OISS.  [
+In all cases where technically possible to do so, 
+only a one
+-
+way hash of the password 
+may be stored.
+ 
+In 
+no event may any system other than the Enterprise Direc
+tory Authentication store 
+the 
+BSU Computer 
+Username Passwords
+; each authentication must be accomplished by a separate call to the 
+authentication system or by 
+an
+ 
+issued ticket issued through this system.
+ 
+h.
+ 
+Two
+-
+Factor Authentication: 
+Ball State has implemented
+ 
+a two
+-
+factor authentication system which 
+requires the use of a physical device (such as a cell phone) in addition to the password when accessing 
+certain production systems. Two
+-
+factor authentication is an important security improvement, as it 
+greatly redu
+
+ 
+

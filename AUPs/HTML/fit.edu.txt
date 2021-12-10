@@ -1,0 +1,48 @@
+IT-1001 Acceptable Use Policy for Campus Informati Search: When autocomplete results are available use up and down arrows to review and enter to select.
+Touch device users, explore by touch or with swipe gestures.
+IT-1001 Acceptable Use Policy for Campus Information Technology Services Effective Date Jan 1, 2018 1.0 Overview In support of Florida Institute of Technology's mission, the Information Technology department provides access to information resources including computer networks and networked equipment to the campus community.
+Computers and the campus network provide powerful communication tools and access to resources on campus and around the world.
+When used appropriately, these tools facilitate the open exchange of information and advance the mission of the University.
+Inappropriate use of these tools, however, can infringe on the rights of others and the security of the campus network.
+Appropriate use should always be legal and ethical, reflect academic honesty, uphold community standards and show restraint in the consumption of shared resources.
+Appropriate use should also demonstrate respect for intellectual property, ownership of data, system security mechanisms, and an individual's right to privacy and freedom from intimidation, harassment, and unwarranted annoyance.
+Information Technology supports freedom of expression and an open environment to pursue scholarly inquiry.
+The open sharing of information is encouraged, supported and protected except when restricted by law.
+The Information Technology department does not limit access to information due to its content when such information meets the standard of legality and security.
+Purpose This policy is designed to outline the various responsibilities that users have with regards to their use of Network Resources in order to protect the University, its faculty, staff and students from electronic and legal harm resulting from improper use of information technology.
+Scope This policy applies to employees, faculty, students, guests and any other user that utilizes the network or computing resources provided by Florida Institute of Technology.
+In some cases, these restrictions may be lifted by other official policies pertaining to certain staff, systems, or processes.
+Policies Users who connect to Florida Institute of Technology s network must abide by the acceptable use policy described here, as well as any relevant campus computing policy, campus Electronic Mail Policy, and all relevant State and Federal laws, regulations, and contractual obligations.
+The use of Florida Institute of Technology s technology resources is a privilege, which may be revoked if users fail to comply with these policies.
+As a member of the Florida Institute of Technology network community you must abide by the general guidelines listed above, as well as the specific responsibilities listed below.
+User Responsibilities As a user of Information Technology resources you have the following responsibilities: You are responsible for registering your network devices in the network registration database in order to maintain access to the Florida Institute of Technology network.
+You are responsible for all traffic originating from your network devices whether you generate the traffic or not.
+You are responsible for abiding by all applicable laws set forth by Federal, State and Local governments.
+You are responsible for protecting your privacy You are responsible for not violating the privacy of others.
+You are responsible for keeping your network devices up to date with current security patches.
+You are responsible for using anti-virus software and ensuring that such software is not more that 10 days out of date.
+You are responsible for protecting any and all sensitive data that you have access
+You are responsible for following all applicable university policies relating to your use of Information Technology resources.
+These policies may be viewed at: http://www.it.fit.edu/policies 4.2 Unacceptable Uses of Information Technology You may not undertake malicious actions against other users, computers, networked devices, or networks, whether local to the university or elsewhere using the resources provided by Florida Institute of Technology.
+These resources include, but are not limited to, any network connectivity, computer services or any other Information Service provided by the university.
+You may not give out passwords for accounts assigned to you.
+You may not deliberately waste campus computing and network resources.
+You may not use University resources to disseminate defamatory, discriminatory, abusive, threatening, obscene or otherwise offensive materials, messages, or media.
+You may not install devices and services that conflict with university supplied devices and services without the approval of the Information Technology department.
+These servers and services include but are not limited to DNS servers, DHCP servers, wireless access points, routers, and FTP servers.
+You may not tamper with or monitor communications not intended for yourself, your own network devices or your own computing devices.
+You may not tamper with physical campus network devices, computing devices, or cabling without the express approval of the Information Technology department.
+You may not use campus network resources not intended for yourself such as IP addresses not assigned by Network Services or private campus sub-networks not intended for your use.
+You may not forge information in order for your communications to appear to come from someone else, or from someone else s network or computing devices without their express permission.
+You may not use the Florida Institute of Technology network and computing resources to run e-commerce web sites or services without the express permission of the Florida Institute of Technology IT Department, and the university administration.
+You may not resell network services to other persons without the express permission of the Florida Institute of Technology IT department and the university administration.
+Enforcement Employees and other persons employed by the university found to have violated this policy will be subject to disciplinary action based on the nature of the offense up to and including termination of employment.
+Students and guests that are found to have violated this policy will be subject to disciplinary action based on the nature of the offence including but not limited to loss of network and computing access, and any other action the university administration deems appropriate.
+Definitions Term Definition e-commerce A general term relating to websites and services setup for the purpose of selling products, services, or generating money.
+Spam Large volumes of email sent to unknown third parties with the intent to defraud or sell or promote products.
+Hacked System, network device, or network resource integrity compromised by an unauthorized third party Lock workstation Putting your workstation in a state that it requires a password to access your computer using the keyboard and mouse attached to the computer Malicious Activity Any activity with the intention of harming another individual, network, device, or knowingly attempting to gain unauthorized access to network or computer resources.
+Unauthorized Without the permission of the administrator or the owner of the device, system, or resource Unknown third party Any individual that you are not personally associated with Up-to-date Virus Protection Virus protection with definitions that are no more than 10 days old 7.0 Updates and Changes Changes to this policy must be reviewed by the Information Technology managers.
+Once the Information Technology managers approve the wording and contents of the policy, this document must be reviewed and approved by the Information Technology Executive Committee before going into effect.
+Once approved, faculty, students and staff will be notified that the acceptable use policy is changing through postings to Fitforum and Facforum, campus mail to university departments, and postings in residence halls.
+This posting does not need to contain the entire text of the Acceptable Use Policy, but the notice must indicate where copies of the policy may be reviewed.
+New versions of this policy will take effect no sooner than 21 days after the approval of the policy by the Information Technology Executive Committee.

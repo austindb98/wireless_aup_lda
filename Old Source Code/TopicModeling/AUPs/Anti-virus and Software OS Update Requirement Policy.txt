@@ -1,0 +1,84 @@
+Information Technology
+Anti-virus and So!ware OS
+Update Requirement Policy
+ PURPOSEThis rule is designed to help prevent infection of Western Michigan
+University computers, networks, and technology systems by computer viruses
+and other malicious code. This rule is intended to help prevent damage to
+user applications, data, files, and hardware. 
+SCOPE 
+All  faculty, staff, students; as well as vendors, contractors, partners,
+collaborators and any others doing business or research with the University
+that involves access to University computers, networks and/or technology
+systems, will be subject to the provisions of this rule.  Any other parties, who
+use, work on, or provide services involving Western Michigan University
+computers, networks, and technology systems will also be subject to the
+provisions of this rule. 
+RULE STATEMENTS
+All computer devices connected to the Western Michigan University
+network or networked resources shall have anti-virus software installed
+and configured so that the virus definition files are current, routinely and
+automatically updated. The anti-virus software must be actively running on
+these devices.
+All computers owned by the University and used by faculty and staff must
+have the most recent version of anti-virus provided by the University
+installed.
+O!ice of Information Technology
+Western Michigan University
+Kalamazoo MI 49008-5206 USA
+(269) 387-5430
+All PC's are to be configured such that they schedule regular operating
+system updates as provided by the vendor (Windows updates.
+Macintosh systems are to be configured to schedule regular updates from
+the software manufacturer (Apple security updates).
+All files on computer devices will be scanned periodically for viruses. 
+If deemed necessary to prevent propagation to other networked devices or
+detrimental effects to the network or data, an infected computer device
+may be disconnected from the University network until the infection has
+been removed. 
+Exceptions to this rule may be allowed if a computer device cannot have
+anti-virus software installed.  Possible examples of this would be vendor-
+controlled systems, or devices where anti-virus software has not yet been
+developed.   In these cases, plan must develop to protect the device from
+infection.
+An exception may be granted if an infected computer device is discovered
+that performs a critical function and may not be immediately taken off-line
+without seriously impairing some critical business function.  Under those
+circumstances, a plan will be developed to allow the computer device to be
+taken off-line and the infection purged while protecting the function of the
+device.
+ANTI-VIRUS SOFTWARE
+The University provides Symantec Endpoint Security anti-virus/anti-malware
+software to faculty and staff members free of charge.  For students, MicroSoft
+Security Essentials is available for the Windows environment and ClamXav is
+available for the MacOS environment.  Both are available as free downloads.
+Additional information
+.ENFORCEMENT
+When infected computers are discovered through routine scanning
+proccesses, or reported to the Office of Information Technology, managers,
+or owners, will be given until 5 p.m. that day to correct the problem or
+remove the computer from the network. Information technology will
+remove network access if the problem has not been corrected, and reserves
+the right to remove any infected computer at any time should security of
+University data or networks be compromised.
+Any person found to have violated this rule will be subject to appropriate
+disciplinary action as defined by current University policy, student code of
+
+conduct,  and/or collective bargaining agreements.  This rule will not
+supersede any Western Michigan University developed policies but may
+introduce more stringent requirements than the University policy.
+Note:
+ These rules and requirements may be amended at any time by the
+chief information officer of Western Michigan University consistent with
+current collective bargaining agreements, University policies, and applicable
+law.  Changes will be reviewed by appropriate University entities prior to
+posting. 
+DOCUMENT ACTION
+Reviewed by: Campus Information Security Group, Nov. 2011
+Reviewed by: LAN managers, Nov. 2011
+Approved by: Campus Information Security Group, Jan. 2012
+Modified by: Office of Information Technology, Feb. 2013 
+Western Michigan University
+Kalamazoo MI 49008-5200 USA
+(269) 387-1000Contact WMU
+© 2018 All rights reserved.
+

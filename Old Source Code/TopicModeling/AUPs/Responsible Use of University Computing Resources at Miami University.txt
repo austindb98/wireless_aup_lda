@@ -1,0 +1,167 @@
+! Responsible Use of University Computing Resources at
+Miami University
+(MUPIM 19.2/OAC 3339-19-02/Student Handbook 1.6/Graduate Handbook 2.7)General Statement 
+(MUPIM 19.2.A)
+University Computing Resources include, but are not limited to, end-user computing devices, servers, networks,
+email, software, printers, scanners, video distribution systems, telephone systems, and other computing hardware
+and software, whether owned by the University or contracted from a third party. All such University Computing
+Resources are intended for University-related use, including direct and indirect support of the UniversityÕs instruction,
+research, and service missions; of University administrative functions; of student and campus life activities; and of
+the free exchange of ideas.
+The rights of free expression and academic freedom apply to the use of University Computing Resources; so, too,
+however, do the responsibilities and limits associated with those rights. All who use the University Computing
+Resources must act responsibly, in accordance with the highest standards of ethical and legal behavior. Thus,
+legitimate use of University Computing Resources does not extend to whatever is technically possible. Users must
+abide by all applicable restrictions, whether or not they are built into the operating system or network and/or whether
+or not they can be circumvented by technical means.
+This policy applies to all users of University Computing Resources, whether or not a
+!liated with the University, and
+to all uses of those resources, whether on campus or from remote locations. Additional policies may apply to speciÞc
+computers, computer systems, and/or networks provided and operated by speciÞc units of the University, and/or to
+uses within speciÞc units. Some of these policies are listed in Sections 19.2.H and 19.5 of this Manual.
+Policy 
+(MUPIM 19.2.B)
+All University Computing Resources users must:
+A. Comply with all federal, Ohio, and other applicable law; all generally applicable University rulesand policies; and all applicable contracts and licenses. Examples of such laws, rules, policies,contracts, and licenses include: the laws of libel, privacy, copyright, trademark, obscenity, and child
+pornography; the Electronic Communications Privacy Act and the Computer Fraud and Abuse Act,
+which prohibit ÒhackingÓ, ÒcrackingÓ, and similar activities; the UniversityÕs Code of Student Conduct;
+the Miami University Policy and Information Manual, the UniversityÕs sexual harassment policy; and all
+applicable software licenses. In particular, users must:
+i. respect the right of others to be free from harassment or intimidation to the same extent that
+this right is recognized in the use of other communication; and
+**Policy Library moved to
+www.miamioh.edu/policy-library **
+2018-2019 policy revisions are located in new policy library
+
+ii. respect copyrights, intellectual-property rights, ownership of Þles and passwords. Unauthorized
+copying of Þles or passwords belonging to others or to the University may constitute plagiarism
+or theft. Accessing or modifying Þles without authorization (including altering information,introducing viruses or other malware, or damaging Þles) is unethical, may be illegal, and may
+lead to sanctions; andiii. not send unsolicited bulk email (ÒspamÓ) or email designed to trick users into providing their
+login credentials or other personal information (Òphishing emailÓ
+"
+).Users who engage in electronic communications with persons in other states or countries or on other systems or
+networks should be aware that they may also be subject to the laws of those other states and countries and the rules
+and policies of those other systems and networks. Users are responsible for ascertaining, understanding, and
+complying with the laws, rules, policies, contracts, and licenses applicable to their particular uses.Miami University extends these policies and guidelines to systems outside the University that are accessed via the
+UniversityÕs facilities (e.g., electronic mail or remote logins using the UniversityÕs Internet connections).
+1. Use only those University Computing Resources that they are authorized to use and use them only in
+the manner and to the extent authorized. Ability to access University Computing Resources does not, by
+itself, imply authorization to do so. Users are responsible for ascertaining what authorizations are necessary
+and for obtaining them before proceeding. Accounts, passwords, and other authentication mechanisms, may
+not, under any circumstances, be shared with, or used by, persons other than those to whom they have been
+assigned by the University.
+2. Respect the Þnite capacity of University Computing Resources and limit use so as not to consume an
+unreasonable amount of those resources or to interfere unreasonably with the activity of other users
+.Although there is no set bandwidth, disk space, CPU time, or other limit applicable to all uses of University
+Computing Resources, the University may require users of those resources to limit or refrain from speciÞc uses
+in accordance with this principle. The reasonableness of any particular use will be judged in the context of all
+of the relevant circumstances.
+3. Limit the personal use of University Computing Resources and refrain from using those resources for
+personal commercial purposes or for personal Þnancial or other gain.
+ Personal use of UniversityComputing Resources is permitted when it does not consume a signiÞcant amount of those resources, does
+not interfere with the performance of the userÕs job or other University responsibilities, and is otherwise in
+compliance with this and other University policy. Further limits may be imposed upon personal use in
+accordance with normal supervisory procedures.
+4. Refrain from stating or implying that they speak on behalf of the University and from using University
+trademarks and logos without authorization to do so. A!liation with the University does not, by itself, implyauthorization to speak on behalf of the University. Authorization to use University trademarks and logos may
+be granted only by Miami University. The use of appropriate disclaimers is encouraged. Personal web pages
+linked to the University Web should disclaim association with Miami University.
+Enforcement 
+(MUPIM 19.2.C)
+Whenever it becomes necessary to enforce University rules or policies, an authorized administrator may: disallow
+network connections by certain computers (even departmental and personal ones); require adequate identiÞcation of
+computers and users on the network; undertake audits of software or information on shared systems where policy
+violations are possible; take steps to secure compromised computers that are connected to the network; or deny
+access to computers, the network, and institutional software and databases.
+Sanctions 
+(MUPIM 19.2.D)
+
+Users who violate this policy may be denied access to University Computing Resources and may be subject to other
+penalties and disciplinary action, both within and outside of the University. Violations will normally be handled
+through the University disciplinary procedures applicable to the relevant user. Alleged violations by students will
+normally be investigated, and the O!ce of Ethics and Student Conßict Resolution will normally impose any penaltiesor other discipline.However, the University, through its information managers, may suspend or block access to an account prior to the
+initiation or completion of such procedures; when it reasonably appears necessary to do so, and in order to protect
+the integrity, security, or functionality of University Computing Resources or other computing resources; or to protect
+the University from liability.
+The University may also refer suspected violations of applicable law to appropriate law enforcement agencies.
+Privacy and Security 
+(MUPIM 19.2.E)
+The University employs various measures to protect the security of University Computing Resources and users
+accounts. However, users should be aware that the University does not and cannot guarantee such security.
+Users should also be aware that their uses of University Computing Resources are not private. While the University
+does not routinely monitor individual usage of  University Computing Resources, the normal operation and
+maintenance of University Computing Resources require the backup and caching of data and communications, the
+logging of activity, the monitoring of usage patterns, and other such activities that are necessary for the rendition of
+service. Systems or technical managers, as part of their technical responsibilities, may occasionally need to diagnose
+or solve problems by examining the contents of particular Þles. Data from University Computing Resources may be
+used to evaluate the e!ciency of University operations and personnel.The University may also monitor the activity and accounts of individual users of University Computing Resources,
+including individual sessions and communications, without notice when:1. the user has voluntarily made them accessible to the public, as by posting to Usenet or a web site;2. it reasonably appears necessary to do so to protect the integrity, security, or functionality of University
+Computing Resources or other computing resources or to protect the University from liability;
+3. there is reasonable cause to believe that the user has violated, or is violating, any University policy;
+4. an account or device appears to be engaged in unusual or unusually excessive activity, as indicated by the
+monitoring of general activity and usage patterns; or
+5. it is otherwise required or permitted by law.
+Any such individual monitoring, other than that speciÞed in (1), or required by law, or necessary to respond to
+perceived emergency situations, must be authorized in advance by the Vice President for Information Technology or
+a designee of same.The University, in its discretion, may disclose the results of any such general or individual monitoring, including the
+contents and records of individual communications, to appropriate University personnel or law enforcement agencies
+and may use those results in appropriate University disciplinary proceedings. Communications made by means of
+University Computing Resources are also generally subject to OhioÕs Public Records Statute to the same extent as
+they would be if made on paper.
+The UserÕs Responsibilities 
+(MUPIM 19.2.F)
+1. Be aware of the limits of computer security
+. Although the University employs various measures to protect
+the security of its computing resources and user accounts, users should be aware that the University cannot
+guarantee such security. Users should therefore engage in Òsafe computingÓ practices by establishing
+
+appropriate access restrictions for their accounts, guarding their passwords, and changing them regularly.
+2. Be responsible for backing up and protecting personal Þles.
+ Although the University under certaincircumstances may provide storage space and under certain circumstances that storage may be backed up,
+Miami University assumes no responsibility for the loss or recovery of personal Þles.
+3. Be responsible for protecting Miami data. 
+All users have a responsibility to protect Miami data from
+unauthorized disclosure.
+The UniversityÕs Responsibilities 
+(MUPIM 19.2.G)
+The University owns various computers and the entire internal computer networks used on campus. The University
+also has various rights to the software and information residing on, developed on, or licensed for, these computers
+and networks. The University has the responsibility to administer, protect, and monitor this aggregation of
+computers, software, and networks. SpeciÞcally, purposes of the UniversityÕs information technology management
+are to:
+1. manage computing resources so that members of the University community beneÞt equitably from their use;
+2. protect University computers, networks and information from destruction, tampering, and unauthorized
+inspection and use;3. communicate University policies and the responsibilities of individuals systematically and regularly in a variety
+of formats to all parts of the University community;4. establish and support reasonable standards of security for electronic information that community members
+produce, use, or distribute. Standards for security and access are elaborated in the document ÒMiami
+University Computing Security Policy,Ó as well as in documents derived from it;
+5. monitor policies and propose changes in policy as events or technology warrant.
+Other Miami University Computing Policies 
+(MUPIM 19.2.H)
+ÒResponsible Use of Computing Resources at Miami UniversityÓ was adapted from The Ohio State UniversityÕs Policy
+on Responsible Use of University Computing Resources
+. Miami University is grateful to The Ohio State University forallowing us to use its policy as a model.Additional policies, including the ÒMiami University Computing Security PolicyÓ, elaborate the above policies andoutline procedures for implementation.
+Additional policies that are not in this document may apply to speciÞc computers, computer systems, or networks
+provided or operated by speciÞc units of the University. Consult the operators or managers of these systems for
+further information.Previous (Computer Peripherals and Software Acquisition)
+Next (Illegal or Unauthorized Use of University Computing Resources)
+Search Policies
+!"#$%&
+ '(How to use the new Miami University Policy Library2017-2018Accessible Technology Policy
+Unmanned Aircraft System (Drones and Model Aircraft)
+Title IX Protocol-Sexual Misconduct Policy and Procedures for Students at Miami University
+Title IX Protocol-Sexual Misconduct Policy and Procedures for Employees at Miami University
+Alcohol and University Property
+Policies That Were Revised 2017
+HomeAlphabetical Policy ListAcademic PolicyUniversity Communication and MarketingIntercollegiate Athletics
+Business & AdministrationEmployment Policies/InformationUniversity AdvancementGovernance
+Information Technology
+Use of University Property
+Research
+StudentsVisitors
+Emergency Information
+NoticeNew/Revised Policies
+
+Parking©2015 Miami University. All rights reserved.
+POWERED BY PARABOLA
+ & WORDPRESS.

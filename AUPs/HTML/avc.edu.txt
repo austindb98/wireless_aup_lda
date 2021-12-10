@@ -1,0 +1,57 @@
+Daily screening needed if coming to campus.
+Click here for details regarding masks & social distancing.
+These resources are the property of AVC and support the delivery of the college's academic mission and accordingly, they should be used responsibly.
+These resources include the physical data communications network and all computers, printers, scanners and other hardware attached to that network, as well as all system software, telephone systems, and means of access to the Internet.
+With regard to the computing, communications and information technology resources of Antelope Valley College, all users understand and agree to the following provisions: The district s computing, communication and information resources are provided for the support of its educational and service goals and the use of such resources for other purposes is prohibited.
+However, incidental personal use is permissible so long as:(a) it does not violate state or federal law or AVC policy,(b) it does not consume more than a trivial amount of system resources,(c) it does not interfere with productivity of students or district employees, and(d) it does not preempt any district activity.
+All users of district information technology resources and services shall abide by this policy along with any local, state, and federal law that may apply.
+All users are subject to both the provisions of this policy, as well as any policies specific to the individual systems they use.
+To protect the integrity of computing resources, passwords, access codes, or account names must not be shared with others.
+Additionally, passwords will be subject to complexity requirements and users will be required to change their passwords periodically.
+Most educational materials(both commercial and district employee created, including software) are protected under copyright.
+Any violation of the rights of a person or entity protected by copyright law is prohibited.
+The unauthorized duplication, installation, or distribution of computer software utilizing the district s computing, communications and information resources is specifically prohibited.
+Unauthorized software installed on district owned computers will not be supported and may be removed if deemed necessary.
+Users may not connect any system/equipment or install software which could allow any user to gain access to the district s system and information without coordinating with Information Technology Services(ITS).
+Users may not use district resources for conducting a private business or for personal financial gain.
+Intentionally sending or accessing pornography or patently obscene material other than for authorized research or instructional purposes is prohibited.
+The definition of "pornography" and "obscene" shall be as determined by law.
+Computer and information technology users should consider the open nature of information transferred electronically, and should not assume an absolute degree of privacy or restricted access to such information.
+The district provides the highest degree of security possible when transferring data, but disclaims responsibility if these security measures are circumvented and the information is compromised.
+The district is not responsible for loss of data, time delay, system performance, software performance, or any other damages arising from the use of district computing resources.
+Authorized district personnel may, while performing routine or investigative operations have access to data, including electronic mail, web browser information, and any other personal data stored on district computers.
+Student workstations are subject to routine monitoring.
+Computer screens attached to student workstations, particularly those accessing the Internet, may be periodically viewed by district personnel to monitor compliance with district policy.
+However, the district shall not routinely or arbitrarily monitor incidental personal use of district resources by employees.
+Neither the district nor any employee shall disclose the contents of any observed personal data to any other person or entity except as required by law or Board Policy.
+Activities that place excessive strain on network resources should be avoided.
+Conducting activities such as Peer-to-peer(P2P) file sharing or use of any other similar technologies is prohibited and subject to disciplinary action.
+The confidentiality of student and employee information is protected under federal and state law and/or regulations.
+Any information regarding students or employees that might be accessed in the course of using an AVC computer may only be shared with those who are authorized to have such information.
+Employees and students may not change, alter, copy, or divulge any such information unless it is required to carry out an assignment.
+Employees and students should ensure that their workstation is logged off or locked before stepping away from the computer.
+Users found in violation of the district s computer and information technology use policies, are subject to disciplinary action, as described in the enforcement section of this document.
+Selected Examples of Unacceptable Use: Revealing passwords to others, allowing someone else to use your account.
+Using someone else s account.
+Utilizing network or system id numbers/names that are not assigned for one's specific use on the designated system.
+Attempting to authorize, delete, or alter files or systems not created by oneself without proper authorization as described in the Computer Use and Electronic Mail Guidelines.
+Not complying with requests from AVC personnel to discontinue activities that threaten the integrity of computing resources.
+Attempting to defeat data protection schemes or to uncover security vulnerabilities.
+Connecting unauthorized wireless access points and other computer equipment to the campus network without coordinating with ITS.
+Devices such as PDAs, printers, and USB drives that connect to a computer and not directly to the network are acceptable.)
+Registering an Antelope Valley College IP address with any other domain name.
+Unauthorized network scanning or attempts to intercept network traffic.
+Malicious disruptions such as introducing a computer virus to the campus network.
+Harassing or threatening other users of the campus network.
+Using district resources for partisan political activities where prohibited by federal, state or other applicable laws.
+To ensure the integrity and reliability of computer and communications resources, all users are encouraged to report improper use and violations of this agreement.
+Individuals may report suspected violations of this agreement to an AVC faculty member, supervisor or administrator as appropriate.
+Enforcement Individuals may report suspected violations of these guidelines to an AVC supervisor, faculty member or administrator as appropriate.
+Reports of violations that are received by ITS will be forwarded to the appropriate supervisor or administrator.
+Disciplinary action may be taken in accordance with one or more of the following: AVC policies, California law or the laws of the United States.
+Minor infractions of these guidelines or those that appear accidental in nature are typically handled internally by the appropriate supervisor or administrator, in consultation with ITS.
+In some situations it may be necessary, however, to suspend account or computer access to prevent ongoing misuse while the situation is under investigation.
+More serious infractions, such as unauthorized use, attempts to steal passwords or data, unauthorized use or copying of licensed software, violations of college policies or repeated violations of minor infractions may result in the temporary or permanent loss of access to computing facilities.
+Offenses that are clearly in violation of local, state or federal laws will result in the immediate loss of access to computing resources and will be reported to the appropriate law enforcement authorities.
+In addition, disciplinary action, up to and including dismissal, may be applicable under other AVC policies, guidelines or collective bargaining agreements.
+Last updated: August 27, 2019 Search Search Search AVC's campus is proud to be tobacco free.

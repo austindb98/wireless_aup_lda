@@ -1,0 +1,280 @@
+ 
+MANUAL OF UNIVERSITY POLICIES
+ 
+PROCEDURES AND GUIDELINES
+ 
+Number:
+ 
+3
+-
+52
+ 
+Page 
+1
+ 
+of
+ 
+2
+ 
+ 
+ 
+ 
+ 
+Title/Subject:
+ 
+DISPOSAL OR TRANSFER OF COMPUTERS AND OTHER DIGITAL 
+ASSETS
+ 
+ 
+ 
+Applies to:
+ 
+ 
+faculty
+ 
+ 
+staff
+ 
+ 
+students
+ 
+ 
+student employees
+ 
+ 
+visitors
+ 
+ 
+contractors
+ 
+Effective Date of This Revision:
+ 
+July 1, 2018
+ 
+ 
+ 
+Contact for More Information:
+ 
+Office of Information Technology
+ 
+ 
+ 
+ 
+Board Policy
+ 
+ 
+Administrative Policy
+ 
+ 
+Procedure
+ 
+ 
+Guideli
+ne
+ 
+BACKGROUND:
+ 
+ 
+
+ 
+inappropriate transfer, sale, or disposal of CMU
+-
+owned computers, computer
+-
+based equipment, and digital
+ 
+media of any kind.  Without 
+proper removal, s
+ens
+itive personal data as well as U
+niversity licensed software packages may 
+inadvertently 
+remain on the hard drives or 
+storage media
+ 
+of computers and other equipment intended for transfer, sale, or disposal
+.
+ 
+ 
+A
+t best, a
+ccess to this sens
+itive information and 
+licensed U
+niversity software by non
+-
+authorized 
+personnel (internal or external to CMU)
+ 
+is inappropriate. 
+ 
+At worst
+, the 
+U
+niversity could be 
+held liable for the release of personal information and/or a
+ 
+violat
+ion of software licensing 
+agreements. This
+ 
+policy
+ 
+guards against 
+these 
+possibilities
+ 
+by requiring 
+that all computers and other digital assets intended for transfer, sale, and disposal be managed 
+through 
+processes 
+maintained by 
+University Stores 
+and 
+the Off
+ice of Information Technology
+ 
+(OIT)
+.
+  
+ 
+POLICY:
+ 
+ 
+The Office of Information Technology and University Stores will jointly maintain procedures for the appropriate removal of CM
+U data 
+from all computers and other digital assets prior to their transfer to another department within CMU, public sale, or dispos
+al.  The 
+equipment covered under this policy is intended to be inclusive of a wide range of University
+-
+owned computers, computer
+-
+based 
+equipment and 
+storage media 
+of all kinds, including both portable and
+ 
+removable media
+.  
+ 
+ 
+PROCEDURE:
+ 
+ 
+All computers and digital assets must be transferred to OIT or University Stores for erasure prior to transfer, sale, or disp
+osal.  
+Erasure 
+of 
+data must be confirmed as successful,
+ 
+or the storage media will be
+ 
+considered defective and must be destroyed (crushed, shredded, or 
+rendered otherwise unusable) before 
+the remaining equipment may be transferred, sold, or disposed of
+.
+ 
+ 
+If defective stor
+age media cannot 
+be separated from the device, the device must be destroyed before leaving the University.
+ 
+ 
+University
+-
+owned computers and other digital assets known to have housed Restricted or otherwise regulated information (l
+ike 
+workstations or devices
+ 
+used in clinical patient treatment areas, servers and server
+-
+storage with large repositories or databases of HIPAA, 
+FERPA, or controlled resear
+ch data on them) will be considered to be at high risk for inadvertent data loss and will have their storage 
+med
+ia removed and destroyed by OIT/University Stores prior to transfer, sale, or disposal of the equipment.
+ 
+ 
+ 
+RELATED POLICIES AND OTHER RESOURCES:
+ 
+ 
+Responsible Use of
+ 
+Computing Policy
+ 
+Data Stewardship Policy
+ 
+ 
+Information Security Policy
+ 
+Authority:
+ 
+George E. Ross, President
+ 
+History:
+ 
+New Policy
+ 
+Indexed as:
+ 
+sale of computers; digital assets
+ 
+Number:
+ 
+3
+-
+52
+ 
+
+ 
+MANUAL OF UNIVERSITY POLICIES
+ 
+PROCEDURES AND GUIDELINES
+ 
+Number:
+ 
+3
+-
+52
+ 
+Page 
+2
+ 
+of
+ 
+2
+ 
+ 
+ 
+ 
+ 
+Title/Subject:
+ 
+DISPOSAL OR TRANSFER OF COMPUTERS AND OTHER DIGITAL ASSETS
+ 
+ 
+ 
+ 
+Information Security FAQ
+ 
+ 
+ 
+AMENDMENTS AND ADDITIONS:
+ 
+ 
+The CIO may approve exceptions to this policy. All amendments and additions to this policy will be drafted by a 
+committee convened by the 
+CIO and will be reviewed and approved by the Provost and the President. Changes in this policy will be appropriately publiciz
+ed.
+ 
+ 
+ 
+Central Michigan University
+ 
+reserves the right to make exceptions to, modify or eliminate 
+this policy and or its content.  This document supersedes all previous policies, procedures 
+or guidelines relative to this subject.
+ 
+ 
+

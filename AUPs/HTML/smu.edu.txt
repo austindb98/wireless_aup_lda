@@ -1,0 +1,103 @@
+Search the SMU website.
+Definitions Definitions of capitalized terms are set forth in Appendix
+
+Policy Statement The University s information technology Resources are a critical part of the University s teaching and research missions supporting both academic and administrative units.
+In order to effectively deliver these services the University maintains this Acceptable Use policy to guide its use of Resources.
+Resources are the property of the University and are to be used for only University purposes.
+This policy governs the appropriate use of Resources.
+These rules are intended to provide access in an open manner, and not impede the greatest use of SMU Resources, consistent with the federal, state, and local law and with the general principles that govern an academic community.
+
+Purpose The purpose of this policy is to assure an information infrastructure that supports the University s teaching, research and service mission.
+Along with the privilege of using the Resources of the University come specific responsibilities as outlined in this policy.
+
+Applicability This policy applies to all Users and to all Resources, whether managed by the Office of Information Technology("OIT") or by another person or entity.
+This policy provides a minimum standard for Resource usage at the University and does not restrict creation and enforcement of policies for individual campus administrative or academic units.
+Policies existing elsewhere on campus must comply with this policy.
+
+Questions The Chief Information Officer( CIO) or designee shall be responsible for interpretation of this policy, resolution of problems and conflicts with departmental policies, and special situations.
+The CIO may grant exceptions to this policy and/or standards after a formal review as provided below.
+
+Acceptable Use Each User may only use the computers, computer accounts, and computer files for which that User has been given specific authorization.
+Users may not communicate any information concerning any personal identification number, account credentials, social security number, credit card number, financial account number, or other confidential information without the permission of its owner or the controlling authority of the Resource.
+The University is bound by its contractual and license agreements respecting certain third party resources; Users must comply with all such agreements when using such resources.
+Transmission of broadcast email is governed by this policy.
+Users may not transmit unsolicited content, including advertising third party materials or services.
+Users must not transmit content that is intimidating in nature or that is intended to harass recipients, including content that contains obscene, indecent, lewd or lascivious materials.
+Users must abide by OIT policies and procedures and by all federal, state, and local laws, including copyright and other intellectual property laws, and must not conduct any activity that would jeopardize the University s tax exempt status, or that would constitute use for political purposes, for commercial purposes(unless otherwise authorized in writing by the President or a Vice President, after consultation with the Controller), for criminal purposes or for personal economic gain.
+Users must protect passwords and secure Resources against unauthorized use or access.
+Users must work with OIT to configure hardware and software in a way that reasonably prevents unauthorized users from accessing the University s Resources.
+Users may not use another individual's account, attempt to capture or guess other Users' passwords, reverse engineer software or destroy data without authorization from the owner of the data or other appropriate University employee.
+Users must not use tools that are normally used to assess security or to attack computer systems or networks(e.g., password 'crackers,' vulnerability scanners, network sniffers, etc.)
+unless specifically authorized to do so by the Chief Security Officer( CSO).
+The University does not assess additional charges for identity verification.
+The identity credential used by the University includes an assigned eight-digit identification number(SMUID) combined with each student s unique password.
+The cost of setting up and administering the SMUID/Password system is recovered through general tuition and fees.
+The University does not assess additional charges for students enrolled in distance education courses to use the SMUID/Password system.
+
+Acquisition and Deployment of Equipment and Software Any purchase of a Resource, whether stand-alone or interconnected with other Resources on campus, must take into account standards developed by OIT.
+OIT will make the standards available to the SMU community.
+OIT implements and maintains University site licenses for software to ensure that University users receive favorable pricing and support terms.
+Business Continuity Departments responsible for critical information technology services must maintain a business continuity plan which accounts for computer facilities, equipment, staffing, and Resource needs.
+Resources are subject to backup procedures and methods to ensure continuity of operations.
+All backup media(e.g.
+removable backup tapes) stored outside University data centers must be encrypted, both at rest and in motion, to reduce risk of interception by unauthorized parties and must be stored at a distance sufficiently far from the primary data location to ensure that a regional disaster will not disrupt access to both the primary and backup data simultaneously.
+When backup media is retired, it must be destroyed according to OIT s security standards.
+
+Email Emails sent or received by Users in the course of conducting University business are University Data.
+Users must use University-provided email accounts for conducting University business, rather than personal email accounts.
+Emails containing confidential information must be encrypted with tools and processes approved by the CSO.
+
+Guest Access Access to the campus network by a guest shall be coordinated through a University sponsor.
+The sponsor will take responsibility for the actions of the guest while they are using Resources.
+Staff or faculty at service desks(library reference desk, computer help desk, or event support staff) shall not generally sponsor guests unless they have invited the guest to campus or are asked to sponsor the guest by an eligible sponsor.
+
+Mobile Equipment It is the responsibility of anyone who utilizes the SMU network for the purpose of accessing or processing University Data using Mobile Equipment to take appropriate measures at all times to safeguard that information.
+All University employees will ensure they are taking every reasonable precaution against accidental or intentional data compromise by implementing a pin to access the Mobile Equipment.
+
+Remote Access and Virtual Private Network(VPN) University employees who work remotely must ensure that the computer used to access Resources meets all OIT security standards.
+Users must use a VPN when accessing Resources from an insecure network or when accessing a Resource containing confidential information.
+
+Cloud or Hosted Computing University departments and schools may only use OIT-approved cloud services for storage and/or processing of University Data.
+
+Third Party Access The CSO must assess and approve all third-party vendors that host or access University Data.
+Contracts with third parties will include provisions relating to information security as required by the CSO.
+Third parties will be expected to protect Resources and University Data with security at least equal to the security described in this policy, in University Policy 8.2, Information Security, or otherwise required by the CSO.
+
+Wireless Access All wireless access points within the University must be approved and centrally managed by OIT.
+Non-sanctioned installations of wireless equipment or use of unauthorized equipment on campus premises is prohibited.
+All wireless networks managed by the University will require authentication via a University ID or will provide a means for guests to register.
+
+Broadcast Email Messages on Campus It is University policy to regulate messages broadcast to the campus via email to assure that such messages are of overall importance to the entire community.
+Any community member or campus group wishing to send broadcast mail messages should review the requirements listed below.
+There are two options for delivering broadcast messages: One is through the four main bulk distribution lists which include all undergraduate students, all graduate students, all faculty and all staff.
+Messages distributed through these main bulk lists will be reviewed by the Vice President for Development and External Affairs or their designee prior to distribution and should contain content that is mandatory for the entire campus to know.
+The second is through departmental lists created from the four main distributions lists.
+All students, faculty or staff may opt out of these departmental lists on an annual basis.
+All offices wishing to send broadcast email messages to campus can do so through these lists created specifically for their needs.
+Messages distributed through these departmental lists are done so at the discretion of the department.
+
+Student information must be protected whether the student is physically present on campus, enrolled in a distance education or correspondence course, or is a continuing education student.
+
+Exceptions University employees who are unable to comply with this policy must request an exception.
+Exceptions to this policy must be approved by the CIO based on academic or business need.
+Anyone wishing to purchase services outside of the University approved solution(s) must submit a copy of the proposed contract with the service provider, including, but not limited to the applicable privacy policy, to the University s Senior Contracts Administrator for review by OIT and other appropriate University departments prior to purchase.
+A security review of the service must be conducted and meet or exceed industry standards for the use requested.
+The CIO will review exceptions annually for continued application and notify the exception holder of any concerns.
+
+Consequences of Misuse of Resources Immediate consequences of suspected or actual policy violation required to prevent or deter further misuse may include account locking, network access loss, and quota restrictions.
+Suspected violations must be reported to the OIT Help Desk at 214-768-4357 or by email at help@smu.edu.
+In addition, employees found to be in violation of this policy or University Policy 8.2, Information Security, may be subject to discipline in accordance with University Policies 2.1, Standards of Professional Ethics for Faculty and Academic Freedom, 2.17, Procedural Standards for Faculty Sanctions and Dismissals, 7.23, Personal Conduct, 7.24, Corrective Action for Staff, and 7.28, Dishonest, Fraudulent and Illegal Practices, as applicable, up to and including termination of employment with the University.
+Third parties, including vendors and guests, in violation of University Policies may be subject to reduced service or denied service, or otherwise restricted in their ability to conduct business with the University.
+Students found to be in violation of this policy may be subject to discipline in accordance with the SMU Student Code of Conduct.
+Some cases may warrant investigation by law enforcement agencies and subject individuals to civil and criminal liabilities.
+CSO refers to the Chief Security Officer of the University.
+Computer Facilities" refers to laboratories, computing centers, public access areas, and other repositories of University-provided information technology equipment.
+Mobile Equipment refers to cellular telephones, smart phones, data cards, hotspot devices, tablets, accessories and other telecommunications equipment requiring access to a telecommunications service provider network.
+Resources refers to the University s computing, communications, and other information technology systems and includes all hardware, software(including data and documentation), local area networks, internet systems, and applications and data stored on such information technology systems and any other electronic device or service that can store, transmit, or receive information.
+Resources include, but are not limited to, servers, computers, personal computers, workstations, laptops, mainframes, minicomputers, Mobile Equipment, land line telephones, wireless devices, media players, storage media, computer networks, connections to network services such as the Internet and web pages, subscriptions to external computer services, networking devices, and any associated peripherals and software, regardless of whether used for educational, research, service, administrative or other purposes.
+Storage Media" refers to any device that has the ability to store data, including but not limited to optical discs, flash drives, tape drives, and internal or external hard drives.
+University Data refers to critical data necessary to the University s operation and other information created by or for the University, or by or for University trustees, officers, employees, students, alumni, applicants, volunteers, donors, guests, customers or contractors engaged in University-sponsored activities.
+User refers to any person who installs, develops, maintains, administers, or uses Resources, whether for educational, research, service, administrative or other University purposes, including, but not limited to, University trustees, officers, employees, students, alumni, applicants, volunteers, donors, guests, customers, contractors engaged in University-sponsored activities, and information technology system administrators.
+Revised: December 16, 2019 Adopted: March 6, 2015 The official University Policy Manual is housed in the Office of the University Secretary.
+The University Secretary is responsible for maintaining new and updated policies and for maintaining this website.
+Should the official University Policy Manual conflict with any internal policies, procedures, departmental administrative rules, or guidelines, that may be contained in manuals provided by schools, departments, or divisions within the University, the official University Policy Manual controls.

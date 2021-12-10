@@ -1,0 +1,67 @@
+#"!$4--0*,4-03-462(80438,*/3414.<6,754370)1,(+2030786(846&6,754370)1,4--0*,"7#&460.03(11<0N79,+&(5564:(17&:0*,564:478-46!03-462(80438,*/3414.<$ %  $'$4--0*,4-8/,:0*,56 478-4603-462(80438,*/3414.<*42598,62(3(.,2,385410*<(K564:,+)<&'"!"(!#  !$%)&6,:07043+(8,&3(78(8,2,384-596547,8DAKPMKJNAJBODENKJGE?SENOJ&U-=?EGEO=OA?AIOM=GETA@@ANFOJK=@HEIENOM=OEJI%U(NNENOREODH=EIO=EIEIC@ANFOJKNJBOR=MAGE?AINEIC?JHKGE=I?A%U,INPMA=GG?JHKPOAMNHAAOHEIEHPHNA?PMEOSMALPEMAHAION%,38080,7(--,*8,+)<8/075410*<,IOEOEAN=BBA?OA@>SODENKJGE?SEI?GP@A931:AHKGJSAAN%;/47/491+6,(+8/075410*<931:AHKGJSAANRDJPNA=PIEQAMNEOS$ENNPA@?JHKPOAMNDJPG@MA=@ODENKJGE?S%
+COMPUTER 
+MANAGEMENT 
+POLICY
+                    
+                    
+                    
+      
+                    
+                    
+                    
+     
+PAGE 
+2 of 
+2    2   POLICY
+ All university
+-issued
+ computers will be connected to a centralized computer management 
+system.
+ Refer to the Office of Information Technology™s Policies and Procedures web page at 
+
+http://oit.unlv
+.edu/about
+-oit/policies
+ for additional information, including how to request an 
+exception to this policy.
+ RELATED 
+DOCUMENTS
+ Not applicable.
+ CONTACTS
+ Refer to the Office of Information Technology™s Policies and Procedures web page at 
+
+http://oit.unlv.edu/about
+-oit/policies
+ for a list of individuals who can answer questions about the 
+policy.
+  DEFINITIONS
+ Centralized computer management
+ - The management of university
+-owned computers 
+remotely. Automates re
+gular computer support activities such as deploying critical security 
+updates for operating systems and applications; installing software; and tracking inventory for 
+
+each connected computer.
+ Computer 
+Œ Any university
+-issued
+ desktop or laptop 
+listed as prop
+erty of UNLV/NSHE on the 
+university inventory list, regardless of whether the 
+desktop or laptop
+ is properly labeled or 
+
+tagged as such.
+ Minimum security requirements
+ Œ Computer 
+system
+ is kept updated to
+ current OIT
+-approved 
+levels and anti
+-virus software is
+ installed, active, and using the most current virus 
+definitions
+. 

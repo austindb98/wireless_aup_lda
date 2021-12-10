@@ -1,0 +1,760 @@
+ 
+Policy 
+Code
+ 
+TBD
+ 
+/ 
+Appropriate Use of Information Technology Resources
+ 
+                                                                                      
+Page 
+1
+ 
+of 
+4
+ 
+University Policy
+: 
+[
+Policy Coordinator will assign code
+]
+ 
+Responsible Executive: 
+Chief Information Officer
+ 
+Responsible Office:
+ 
+Information Technology Services
+ 
+ 
+Effective Date: 
+June 1, 
+2006
+ 
+Last Revised: 
+January 3, 2018
+ 
+ 
+ 
+A
+PPROPRIATE 
+U
+SE OF 
+I
+NFORMATION 
+T
+ECHNOLOGY 
+R
+ESOURCES
+ 
+ 
+P
+OLICY 
+S
+TATEMENT
+ 
+ 
+
+parameters defined by this policy and its 
+accompanying standards of appropriate use.  These resources, which 
+include computers, servers, networks, electronic mail and telephonic services, data and data storage systems, 
+
+ssion.  All such use must 
+comply with all applicable federal and state laws and regulations, Arizona Board of Regents and University 
+
+ 
+ 
+ 
+ 
+R
+EASON 
+F
+OR 
+T
+HIS 
+P
+OLICY
+ 
+ 
+Clear standards for the appropriate use of University IT Resources promote institutional efficiency and 
+effectiveness, enhance individual accountability for ethical and lawful use, and help mitigate risk.    
+ 
+ 
+E
+NTITIES 
+A
+FFECTED 
+B
+Y 
+T
+HIS 
+P
+OLICY
+ 
+ 
+
+ 
+All units 
+of
+ 
+the University community
+ 
+ 
+W
+HO 
+S
+HOULD 
+K
+NOW 
+T
+HIS 
+P
+OLICY
+ 
+ 
+
+ 
+All 
+users of University information technology 
+and communication 
+resources
+ 
+including faculty, staff, 
+students, alumni, affiliates, contractors, consultants, collaborators and volunteers 
+ 
+ 
+D
+EFINITIONS
+ 
+ 
+The following definitions are applicable both to this policy and the accompanying 
+Standards for the Appropriate 
+Use of Information Technology Resources
+. 
+ 
+ 
+Authentication Methods
+: the 
+means and rules for accessing 
+IT Resource
+s
+, 
+updated periodically to 
+reflect best 
+practices in security management.  Security methods are approved by the C
+
+IO
+
+ 
+and documented as institutional IT procedures. 
+ 
+ 
+Authorized Use
+
+ed User in a manner 
+
+
+-
+related contracting and licensing agreements.
+ 
+ 
+Authorized User
+: a person who has t
+ruthfully identified themselves and their purposes and to whom the 
+
+
+rk connection open to the general 
+
+ 
+ 
+
+: any computer, server, communication or mobile device, or 
+electronic data, data storage, transmis
+sion or control device that is owned and
+/or operated by the University, 
+used to conduct University business, or 
+
+regardless of ownership, location, or access method.  These resources are r
+
+ 
+ 
+
+ 
+Policy 
+Code
+ 
+TBD
+ 
+/ 
+Appropriate Use of Information Technology Resources
+ 
+                                                                                      
+Page 
+2
+ 
+of 
+4
+ 
+Sensitive Information
+: a
+ll information that should remain private as designated by the University
+,
+ 
+including but 
+not limited to educational 
+and student conduct 
+records, social security numbers, credit card 
+or banking
+ 
+information, regulated research 
+data
+, and health
+ 
+care provider records
+. 
+ 
+ 
+System Administrators
+: Information Technology Services employees responsible for configuring, 
+administering and maintaining IT Resources for use by Authorized Users for authorized 
+purposes.
+ 
+ 
+Technicians:
+ 
+e
+mployees who 
+maintain, configure, or repair
+ 
+desktop and laptop computing resources. 
+ 
+ 
+P
+OLICY
+ 
+ 
+A.
+ 
+Principles
+ 
+ 
+
+Resource 
+appropriate use standards that accompany and are a part of this policy are organized according to 
+these six principles.
+ 
+ 
+1.
+ 
+Use only th
+e IT Resources
+ 
+you are authorized to use
+ 
+2.
+ 
+
+authorized purposes
+ 
+3.
+ 
+Abide by 
+all 
+applica
+ble 
+laws, regulations, policies and contractual and licensing agreements
+ 
+4.
+ 
+
+ 
+5.
+ 
+Respect the privacy and personal rights of others 
+ 
+6.
+ 
+Do no harm 
+ 
+ 
+B.
+ 
+Standards of Appropriate Use
+ 
+ 
+The 
+CIO wi
+
+tandards for the Appropriate 
+Use of Information Technology Resources
+.  These standards, which define appropriate and acceptable use of 
+
+compliance with all applicable IT
+-
+related laws, regulations, policies, contracts an
+d licensing agreements.  
+Authorized 
+U
+sers of 
+the 
+University
+
+ 
+IT Resource
+s 
+must
+ 
+affirm their 
+knowledge o
+f this policy 
+and its associated 
+standards of appropriate use 
+at the beginning of their 
+professional 
+relationship with the University and 
+periodically t
+hereafter
+,
+ 
+as determined 
+necessary and appropriate 
+by the 
+CIO
+.
+ 
+ 
+ 
+C.
+ 
+Access Credentials
+ 
+ 
+Each Authorized User is responsible for using and maintaining their IT access credentials in a safe and 
+
+T Resources.  Each Authorized User is 
+charged with protecting the integrity of their personal access credentials from loss or unauthorized use.  
+The 
+careless or intentional misuse of access credentials is a serious violation of this policy that may
+ 
+result
+,
+ 
+as with 
+other violations of applicable 
+IT
+-
+related 
+law or policy, in disciplinary action
+ 
+up to and including termination of 
+employment, or in cases of student misconduct, expulsion from the University. 
+ 
+ 
+D.
+ 
+Rights and Responsibilities
+ 
+ 
+1.
+ 
+The University is committed to open discourse, the free expression of viewpoints and beliefs, and 
+academic inquiry 
+without
+ 
+unwarranted institutional intrusion.  These core values must 
+at times be 
+balanced against
+ 
+or tempered by
+ 
+rights 
+of others to 
+privacy,
+ 
+freedom from intimidation or harassment, 
+protection of intellectual property, and the stewardship of data
+, information and State of Arizona 
+resources
+.  
+ 
+ 
+2.
+ 
+
+IT Resource
+s is a privilege granted to 
+Authorized U
+sers in furtheran
+ce of their 
+educational opportunities or professional duties and 
+responsibilities. The 
+CIO
+ 
+may temporarily suspend 
+
+IT Resource
+s if necessary to protect or 
+maintain the integrity 
+or security 
+o
+
+shall
+ 
+fully 
+
+IT Resource
+s.
+ 
+ 
+
+ 
+Policy 
+Code
+ 
+TBD
+ 
+/ 
+Appropriate Use of Information Technology Resources
+ 
+                                                                                      
+Page 
+3
+ 
+of 
+4
+ 
+3.
+ 
+
+v
+arious legal 
+mandates
+, including search warrants, court orders, subpoenas, discovery requests related 
+ 
+to litigation, and public records requests under Arizona law.  The University reserves the right to monitor 
+and inspect usage records or data
+
+including 
+a
+ccount activity
+, 
+content
+,
+ 
+and devices
+
+as necessary to
+ 
+fulfill its legal obligations or to effectively administer its 
+IT Resource
+s.  The University may disclose the 
+results of such monitoring or inspections to appropriate authorities in furtherance of meeti
+ng its 
+administrative or legal obligations, and may use such information in disciplinary proceedings.  
+ 
+ 
+4.
+ 
+
+infrastructure, or to prevent or respond to a violat
+ion of law or policy, the University may without notice 
+take actions necessary to manage the threat and to preserve access to or the security of data.  Such 
+actions may include, but are not limited to, changing passwords, rescinding access rights, disablin
+g or 
+
+System Administrators will restore connectivity and functionality as soon as practicable after potential 
+threats or legal or policy violations are effec
+tively addressed or mitigated.
+ 
+ 
+E.
+ 
+Partner and Affiliate Appropriate Use Requirements
+ 
+ 
+Partners, a
+ffiliates, 
+or
+ 
+other 
+University 
+collaborators may 
+provide access to non
+-
+University IT resources or 
+services 
+governed by third
+-
+party 
+appropriate use 
+policies, 
+statements
+ 
+or standards.  Authorized 
+Users 
+shall 
+comply with these 
+requirements, 
+unless doing so would violate 
+applicable law or policy
+.
+ 
+ 
+F.
+ 
+System Administrators and Technicians 
+ 
+ 
+System A
+dministrators and 
+T
+echnicians are granted significant privileges and
+ 
+t
+rust 
+to use their 
+IT Resource 
+authorization
+s
+ 
+appropriately
+ 
+and only
+ 
+for the intended purpose
+s
+. 
+ 
+As such, these employees bear the crucial 
+responsibility of protecting the 
+security, 
+confidentiality, integrity, and availability of the 
+University IT Resource
+s
+ 
+entrusted to their care and supervision.
+ 
+ 
+A
+t a minimum
+, System Administrators and Technicians shall
+: 
+ 
+ 
+
+ 
+Respect and ensure the privacy rights of all Authorized Users to the maximum extent allowed by law 
+and policy, and must strictly maintain the confidenti
+ality of all information gained in the course of 
+carrying out their professional duties, unless disclosure of such information is required by law or policy 
+
+IT Resource
+s;
+ 
+ 
+
+ 
+Report any
+ 
+potential or perceived violation of law or policy of which they become aware to the 
+appropriate supervisor or University office or department
+
+such as the University Police Department, 
+the University Auditor, environmental safety officials, the Office of G
+eneral Counsel, the IT Services 
+Security Officer
+,
+ 
+or the CIO
+
+and cooperate as necessary and appropriate with all such authorized 
+officials conducting legitimate investigations of security threats or wrongdoing.
+ 
+ 
+G.
+ 
+Compliance
+ 
+ 
+The University reserves the right to suspend network access and examine any account pending review by 
+
+Resource 
+appropriate use standards are subject to 
+disciplinary action up to and including terminat
+ion or expulsion.  Misuse of 
+IT Resource
+s may result in the 
+p
+ermanent revocation of access privileges and civil 
+liability 
+or criminal prosecution.
+ 
+ 
+Student m
+isconduct will be 
+reported to the appropriate 
+instructor, chair,
+ 
+or dean and
+/or
+ 
+to the Office of Student Life for potential disciplinary 
+action under the 
+Student Code of Conduct
+.  Employee violations will be reported to the appropriate supervisor.
+ 
+ 
+H.
+ 
+Indemnification
+ 
+ 
+Except for NAU employees acting within the course and scope of their 
+NAU employment, Authorized Users 
+agree to 
+indemnify
+, defend, save 
+and hold 
+harmless 
+the 
+State of Arizona, its departments, agencies, boards, 
+commissions, universities, and its and their officials, agents,
+ 
+and employees
+ 
+for, 
+from
+,
+ 
+and against 
+any 
+and all 
+cl
+aims
+, actions, liabilities, damages, losses, or expenses (
+including
+ 
+court costs, 
+attorneys
+
+ 
+fees, 
+and costs of 
+claim processing, investigation and litigation) for bodily injury or personal injury (including death), or loss or 
+damage to tangible or intangib
+le property to the extent caused, or alleged to be caused, by i) the Authorized
+ 
+
+acts or omissions
+
+
+ 
+Policy 
+Code
+ 
+TBD
+ 
+/ 
+Appropriate Use of Information Technology Resources
+ 
+                                                                                      
+Page 
+4
+ 
+of 
+4
+ 
+accompanying 
+Standards for the Appropriate Use of Information Tec
+hnology Resources
+; or iii) a failure to 
+comply with applicable law
+.
+ 
+ 
+R
+ESPONSIBILITIES
+ 
+ 
+Authorized Users
+
+Resources in compliance with all applicable law, 
+regulation, policy, and contracts and licensing agreements.  
+Report suspected misuse of University IT Resources to the appropriate University officials.
+ 
+ 
+Chief Technology Officer
+
+rds of 
+
+ 
+ 
+System Administrators and Technicians
+: maintain the privacy and confidentiality of sensitive information 
+seen or obtained in the normal course of their work, and report suspected violations of the U
+
+Resource policies or standards to the appropriate University officials.
+ 
+ 
+P
+ROCEDURES
+ 
+ 
+There are no procedures associated with this policy
+. 
+ 
+ 
+R
+ELATED 
+I
+NFORMATION
+ 
+ 
+Forms or Tools
+ 
+ 
+ 
+There are no forms or tools associated with this policy.
+ 
+ 
+Cross
+-
+References
+ 
+ 
+Human Resources Policy 5.10 Regarding Lobbying and Political Activity
+ 
+ 
+Sources
+ 
+ 
+ 
+Arizona Board of Regents Policy 6
+-
+905
+ 
+ 
+Arizona Board of Regents Policy 9
+-
+201
+ 
+ 
+Arizona Board of Regents Policy 9
+-
+202
+ 
+ 
+A
+PPENDIX
+ 
+ 
+Standards 
+for the 
+Appropriate Use of 
+Information Technology 
+Resources
+ 
+ 
+ 
+

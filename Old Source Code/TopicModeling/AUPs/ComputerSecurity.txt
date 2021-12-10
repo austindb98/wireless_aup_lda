@@ -1,0 +1,73 @@
+OFFICEOFINFORMATIONTECHNOLOGYCOMPUTERSECURITYPOLICYRESPONsmLEADMINISTRATOR:RESPONsmLEOFFICE(S):ORIGINALLYISSUED:ApPROVALS:VICEPROVOSTFORINFORMATIONTECHNOLOGYOFFICEOFTHEVICEPROVOSTFORINFORMATIONTECHNOLOGYApPROVEDBY:~Date~ts-tl2-Dateli/rO/I?...IIDateREVISIONDATE:NASTATEMENTOFPURPOSEThepurposeofthispolicyisto:¥Maintainasafeandsecurecampuscomputingenvironment.¥Meetbestpracticecomputersecuritystandards.¥Complywithfederalandstateregulations.ENTITIESAFFECTEDBYTHISPOLICYEntitiesaffectedbythispolicyincludeanyonewhousesauniversity-issuedcomputer.WHOSHOULDREADTHISPOLICYAnyonewhousesauniversity-issuedcomputershouldreadthispolicy.
+Computer Security Policy
+                                                                                                
+Page 2 of 2
+ POLICY
+ A user name and password
+ are required to access all university
+-issued
+ computer
+s. All university
+-issued
+ computer
+s must have 
+current 
+antivirus
+ software installed with up
+-to-date
+ virus definitions. 
+Computer
+ operating 
+systems must be 
+kept updated to
+ cur
+rent OIT
+-approved levels. 
+Computers or 
+comput
+er screens must be set to 
+require a password
+ after a period of inactivity.
+  Refer to the Office of Information Technology™s Policies and Procedures web page at 
+
+http://oit.unlv.edu/about
+-oit/policies
+ for additional information, including how to request an 
+exception to this policy.
+ RELATED 
+DOCUMENTS
+ Nevada System of Higher Education Procedures and Guidelines Manual, Chapter 14: Data and 
+
+Informatio
+n Security, S
+ection 4, Information Security Plans 
+Œ Physical Controls
+  http://system.nevada.edu/tasks/sites/Nshe/ass
+ets/File/BoardOfRegents/Procedures/P&
+GM%20CH14%20
+-%20DATA%20AND%20INFORMATION%20SECURITY.pdf
+.  CONTACTS
+ Refer to the Office of Information Technology™s Policies and Procedures web page at 
+
+http://oit.u
+nlv.edu/about
+-oit/policies
+ for a list of individuals who can answer questions about the 
+policy.
+  DEFINITIONS
+ These definitions apply to these terms as they are used in this policy.
+ Computer 
+Œ Any university
+-issued
+ desktop or laptop
+, listed as property of 
+UNLV/NSHE on the 
+university inventory list, regardless of whether the 
+desktop or laptop
+ is properly labeled or
+ tagged as such
+. Period of inactivity 
+Œ To be determined by individual units but
+ length of time not to exceed 15
+ minutes
+. 

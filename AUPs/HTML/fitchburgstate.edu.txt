@@ -1,0 +1,121 @@
+Wireless and Network Access | Fitchburg State University Skip to main content Search What are you searching for?
+Wireless Map(PDF) Besides campus-wide Wi-Fi, every dorm room has wall outlets with ports for network connections one port for every bed in the room.
+Our three wireless networks are designed for different populations and devices: FSUwifi Main Wi-Fi for students and employees For mobile phones, laptops and tablets Requires Falcon Key credentials IOT Wi-Fi for devices that connect to the Internet but lack modern security features Examples: gaming consoles and streaming devices Requires Falcon Key credentials Public Wi-Fi for visitors at the University Internet access only Available in limited areas, see Wireless Map(PDF) for locations No authentication required Note: The university does not sanction or support other wireless networks.
+How do I connect my device to FSUwifi?
+Enable your Wi-Fi if it isn't.
+Enter your Falcon Key and click OK Note: If a message appears, which refers to either trusting the connection or asking if you wish to proceed with connecting, please select to trust the certificate and connect.
+Back to top macOS Click the Wireless Icon in the Menu Bar If your Wi-Fi is off, click Turn Wi-Fi On Select FSUwifi from the list Enter your Falcon Key and click Join Note: If a message appears, which refers to either trusting the connection or asking if you wish to proceed with connecting, please select to trust the certificate and connect.
+Back to top iOS(Apple) In Settings select Wi-Fi If your Wi-Fi is off, Turn Wi-Fi On then select FSUwifi from the list Enter your Falcon Key and select Join Select Trust to trust the certificate Back to top Android Below are three different ways to connect your Android device to FSUwif
+Option In Settings select Wi-Fi If your Wi-Fi is off, Turn Wi-Fi On Select FSUwifi from the list Confirm EAP method is PEAP Select CA certificate then select Don't validate Enter your Falcon Key and select Connect Option EAP method should be PEAP If prompted for Phase authentication enter MSCHAPV2 CA certificate: Do not validate If prompted for Anonymous identity , leave blank Enter your Falcon Key Click Connect Option Android 11 with Dec. 2020 security update Enter the domain fitchburgstate.edu Enter your Falcon Key Verify the other settings are configured as shown in the screenshot: EAP method: PEAP Phase authentication: MSCHAPV2 CA certificate: Use system certificates Online certificate status: Request certificate status Tap Connect Back to top How do I connect my device to IOT?
+Before you can connect your device to the IOT network you'll need to register your device's wireless MAC address.
+This is a unique 12 character alphanumeric value, separated into character pairs.
+An example of a MAC address is 00:01:C3:EF:C0:1A.
+Your device may have multiple MAC addresses, you'll need the wireless(or Wi-F Mac address to connect to IOT.
+Microsoft Consoles Expand All Collapse All Xbox One Press the Menu button on your controller Navigate to the Settings page Select Network Select Set up wireless network Select IOT from the list of networks When you see the "Additional authentication needed."
+message, select Next( see screenshot) Enter your Falcon Key Check the box to accept Fitchburg State's Terms and Conditions Back to top Nintendo 3DS From the Home menu: Highlight and select the System Settings icon Select Internet Settings Select Other Information Select Confirm MAC Address Make a note of the MAC Address when it is displayed Follow the steps in the Self-Registration section Back to top Nintendo Wii From the Wii Channel menu: Select Wii Settings(the round button on the bottom-left of the screen with "Wii" on it) Select Internet Select Console Settings Make a note of the MAC Address displayed on the first line Follow the steps in the Self-Registration section Back to top Nintendo Wii U From the Wii U Menu: Select System Settings and press the A Button Using the Left Stick select the Internet icon Select View MAC Address Make a note of the MAC Address when it is displayed Follow the steps in the Self-Registration section Back to top Streaming Devices Expand All Collapse All Amazon Echo Find your Echo's MAC Address using this information from Amazon Follow the steps in the Self-Registration section Back to top Amazon Fire Stick From the Home Screen: Scroll to and select Settings Scroll further to the right and select Device Select About Scroll down to Network Make a note of the MAC Address on the bottom right of the menu Follow the steps in the Self-Registration section Back to top Apple Home Pod Visit the Help Desk for assistance connecting your Home Pod.
+Back to top AppleTV From the Main Menu: Select Settings Select About Make a note of the Wireless ID this is the MAC Address needed for registration Follow the steps in the Self-Registration section Alternate method: The AppleTV Ethernet and Wireless network MAC addresses can be found on the UPC label on the AppleTV bo
+Back to top Google Chromecast Open the Chromecast app on your computer in one of these locations: Chromecast shortcut on your desktop Windows: Start Menu macOS: Applications Click Settings Make a note of the MAC Address in the bottom left corner Follow the steps in the Self-Registration section Back to top Google Home Visit the Help Desk for assistance connecting your Google Home.
+Back to top Roku Find your MAC Address in one of these locations: On the bottom or back on your Roku player(depending upon model) From the Roku Home Screen: Select Settings > About Make a note of the MAC Address when it is displayed Follow the steps in the Self-Registration section Back to top Smart TV/Blue-ray Player Find your MAC Address Most MAC Addresses will be visible in the Settings Menu, under Network or About If you need more specific information, check with the manufacturer for instructions on how to find the MAC Address for your specific model.
+Follow the steps in the Self-Registration section Back to top Self-Registration(IOT and cabled dorm networks only) In a browser, visit the Self-Registration page(on campus only).
+Sign in with your Falcon Key Click Add( see screenshot).
+Enter your registration info: Your username MAC address with or without the colons(e.g.
+Many IOT devices use a mobile app to set up and operate the device.
+This requires both the phone and the IOT device to be on the same wireless network.
+You can connect and register your phone on the IOT network, enabling you to use your phone with your IOT device.
+Open a web browser and browse a few websites until you're redirected to the network registration page.
+Fill out the network registration form: Enter your contact info.
+Accept the Acceptable Use Policy by clicking the check bo
+You'll see this message during the security scan of your phone.
+When you see this message, your phone is connected to the IOT network.
+Connect your device to a network jack in your dorm room using a CAT5e or CAT6 Ethernet cable.
+Used cables are typically available free of charge from the Help Desk.
+Register your device using these instructions: Expand All Collapse All Registration Instructions Devices with a Web Browser Browse websites until you are redirected to the registration page.
+If you do not get redirected automatically, browse to the Self-Registration page.
+Follow the self-registration instructions to register your device.
+Back to top Registration Instructions Devices Without a Web Browser Find your device in the list above Follow the steps to obtain your physical or cabled MAC address(it may also be called LAN or hardware address) Note: Some devices only have one MAC address which is used for both cabled and wireless.
+Using a networked device with a web browser, follow the self-registration instructions to register the cabled MAC address of your device.
+Once you're connected, please follow the recommendations on the Antivirus & Computer Maintenance page to secure your system.
+Tip: To beat the back-to-school rush, follow these steps before you arrive on campus.
+The Help Desk is available to help you get your system connected and encourages everyone to be safe in the Internet and network environments.
+Microsoft Windows Left click the wireless symbol.
+Located in the bottom right of your screen.
+Right click the network you would like to forget and click forget.
+iPhone Open your iPhone settings.
+Tap on Wi-F
+Open the network you wish to forget.
+Click on Forget This Network at the top of the page.
+Android Open your android settings.
+Tap Network & internet.
+In the "Network & internet" menu, tap "Wi-F "
+Find the Wi-Fi network you want to forget, and then tap the "Settings" button to the right of
+Directly, under the name of the network, tap the trashcan icon labeled "Forget" to forget the network.
+Apple macOS Click the Wi-Fi icon in the top-right of the Mac menu bar.
+Click Advanced Click a network in the list to select
+To select multiple networks, hold the Command key while clicking them.)
+You can also drag networks higher up the list to prioritize them over other local networks.
+Click the minus( -) icon below the list to forget the selected network.
+Back to top How do I find my MAC address?
+Personal Computers Microsoft Windows Go to your start menu and search for Command Prompt, Run program Type ipconfig /all and press enter.
+Your wired MAC address will be listed under Ethernet adapter Ethernet next to Physical Address.
+Apple macOS Click the Apple button in the top-left corner of the screen and select System Preferences.
+Select MAC address from the list on the left side of the Network window, and then click Advanced.
+Click the Hardware tab.
+The MAC address will then be listed.
+Google Chromebook At the bottom right, select the time.
+Select the Wi-Fi network.
+At the top of the box, select Information.
+You will see your Chromebook's IP address and wireless MAC address.
+Your MAC address is labeled "Wi-F "
+Smart Home Devices Amazon Echo In the Alexa app, open the left navigation panel and then select Settings.
+Select your device and then Update Wi-F
+If you are adding a new device to your account, select Set up a new device instead.
+Press and hold the Action button on the Echo until the light ring changes to orange.
+Your mobile device will then connect to your Echo device.
+A list of available Wi-Fi networks appear in the app.
+You can find your MAC address at the bottom of this screen.
+Amazon Fire TV Plug in your Amazon Fire TV stick into your TV If this is the first time using this Fire TV device, you can find your wireless MAC at the far right of the wireless setup screen.
+Otherwise, navigate to Settings > System > About > Network and the wireless MAC address will be listed.
+Android The specific instructions for finding the MAC address of an Android device may vary slightly based on the manufacturer.
+Select about Phone/Tablet(you may need to select System before being able to find this option).
+The MAC address will appear under Wi-Fi MAC address.
+Android Oreo(8.0) or older Open the settings app.
+on some devices these may be headings in the general Settings app.)
+Tap Wi-Fi to open Wi-Fi settings(some devices might instead call it WLAN) or Hardware Info.
+Press the Menu key and choose Advanced.
+Your device s wireless adapter s MAC address should be visible here.
+Apple iOS Open the Settings app.
+The wireless MAC address will be listed next to Wi-Fi Address.
+The wireless MAC Address will be found at the bottom.
+Google Home Ensure you have the Google Home application installed on your smartphone or mobile device.
+Open the application and set up your Google Home.
+To obtain the MAC Address, click the three lines on the top left inside the application.
+Select Devices, and then select your Google Home.
+Click on Settings, scroll down to information, and your MAC Address should be revealed.
+Microsoft Windows Phone On the main Windows phone screen, swipe left and select Settings.
+In the Settings screen, select About > more info.
+The MAC address will be listed under phone information.
+Select the right arrow to move to the second page of system settings.
+On this screen, you will see the MAC Address.
+Nintendo DS From within, a Wi-Fi enabled game, go to the Nintendo Wi-Fi Connection Setup in the game s menu.
+The MAC address is displayed on the top line.
+Xbox Power on the Xbox with no disc in the tray.
+Go to the Connect Status screen.
+PlayStation Vita Open the Settings and tap Start Tap System Tap System Information The MAC is on this screen PlayStation Power up the PlayStation without a disc in the drive.
+Once the PlayStation operating system has loaded, select Settings.
+Select the System option under the Settings menu Select System Information PlayStation Power up the PlayStation without a disc in the drive.
+Once the PlayStation operating system has loaded, select Settings.
+Once you are in Settings select Network Settings.
+Back to top How do I turn off MAC randomization?
+iPhone Open the Settings on your iPhone and then tap Wi-F
+Tap the information button next to your network.
+Re-join the network.
+Android Open the settings.
+Tap Network & internet -> Wi-F
+Tap the gear icon associated with your network.
+Tap MAC address type.
+Re-join the network.
+Windows Select the start button in the bottom left corner of the screen.
+Select the gear icon to go to settings.
+Select network & internet.
+Set use random hardware addresses to off.
+By continuing to use this website, you consent to this usage in accordance with our Privacy Policy.

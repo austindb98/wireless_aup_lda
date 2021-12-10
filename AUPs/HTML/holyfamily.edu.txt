@@ -1,0 +1,13 @@
+Remove if you don't use of-canvas ?xml version="1.0" encoding="UTF-8"?
+Class of 2020 Shout-outs!
+These protocols are used for connecting client devices to a data network through the use of over-the-air radio signals.
+The primary advantages of wireless networks are mobility and flexibility.
+The primary disadvantages are that wireless networks are more susceptible to service disruptions, and they operate at slower speeds.
+PROCEDURE Access to the wireless service will be restricted to authorized students, faculty, staff, and HFU-sponsored vendors/consultants, and to a limited degree, the general public.
+Students, faculty, staff and sponsored vendors/consultants shall be authenticated with their HFU user account.
+General public guests will be provided a Guest UserID for authentication.
+The wireless service shall protect authentication credentials through the use of data encryption.
+Users of the wireless service are responsible for obtaining a device that meets the current implementation requirements.
+IT reserves the right to revoke wireless service authorization for any individual or for any device that is disrupting the operation of the wireless service.
+Violation of Holy Family's policies or the Acceptable Use of Information Technology Resources policy will result in revocation of authorization to use the wireless service.
+Faculty, staff, students and guests shall not install personal wireless networking equipment in University owned or leased spaces, either connected to the HFU network or not connected to prevent a conflict of wireless radio interference.

@@ -1,0 +1,32 @@
+Information Technology and Data Security Statement of policy Residential computing network services and wiring may not be modified or extended beyond the area of their intended use.
+Purpose This policy sets forth the regulations for the use of ResNet, the residential computing network, at Western Michigan University.
+Scope This policy applies to everyone living in WMU residence halls and apartments.
+Policy statements Residential computing network services and wiring may not be modified or extended beyond the area of their intended use.
+This applies to all network wiring, hardware, and in-room jacks.
+Switches, routers, or wireless access points may not be connected to the network.
+The residential network may not be used to provide Internet access to anyone outside of, or within, the University community for any purposes.
+WMU-specific or commercially obtained network resources may not be retransmitted outside of, or within, the University community.
+The residential network is a shared resource.
+Thus, network use or applications which inhibit or interfere with the use of the network by others are not permitted.
+For example, using an IP address not registered to you, or applications which use an unusually high portion of the bandwidth for extended periods of time, thus inhibiting the use of the network by others, are not permitted).
+Use of the residential network must comply with all University's policies.
+Forgery or other misrepresentation of one's identity via electronic or any other form of communication is a violation.
+Prosecution under State and Federal laws may also apply.
+Only the Bronco NetID and/or computer accounts for which the resident has authorization may be used.
+You may not use your connection to: Run a business or organization for profit or non-profit purposes.
+Monitor data on the network by means of any monitoring or "sniffing" software.
+Provide a pass-through site to other campus hosts, provide remote login(e.g.
+telnet access) on your computer for others than yourself.
+Set up a router to provide wireless connections.
+Provide information to others on the network such as newsfeeds, Anonymous FTP site, BBS, UUCP site, web hosting, etc.
+Harass, libel, or slander anyone or fraudulent representations.
+Copy or transmit copyrighted material.
+Post or send obscene, pornographic, sexually explicit, or offensive material.
+Post or send material that is contrary to the mission or values of the University.
+Justification Residential computing at Western Michigan University provides wired and wireless in-room connection services in on-campus residences in support of the educational mission of the University.
+It is the responsibility of each resident to use these services appropriately and in compliance with all University, city, county, state, and federal laws and regulations.
+Enforcement The Office of Information Technology reserves the right to terminate any network connection without notice should it be determined that network traffic generated from said connection drastically inhibits or interferes with the use of the network by others.
+Failure to comply with this policy may result in termination of network services and loss of computing resource privileges.
+In addition, any person found to be in violation of this policy will be subject to appropriate disciplinary action as defined by current University policy.
+If your in-room network connection is terminated due to violations of the above policies, and you subsequently register legitimately or rectify the problem, you may be charged a $30 port-reactivation fee to regain access to the network.
+This fee is in addition to the normal semester fee.

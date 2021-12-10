@@ -1,0 +1,41 @@
+Purpose of the policy educational, instructional, research, and administrative activities of PSU, and the use of these resources is a privilege extended to members of the PSU Community.
+Through the privilege to use Resources, a member of the community may have access to valuable PSU tools, services, and sensitive data.
+Consequently it is imperative to behave in a responsible, reasonable, ethical, and legal manner.
+Community have appropriate access to functional, safe, and timely computing resources.
+The AUP seeks to prevent any misuse, damage, inappropriate access to, or illegal use of PSU computing resources.
+
+Applicability and Authority The Acceptable Use Policy applies to all users of computing resources owned, managed, licensed, or entrusted to PSU, regardless of whether the user is on campus or operating from a remote location.
+Individuals covered by the AUP include, but are not limited to, PSU Faculty, visiting Faculty, Students, Alumni, Staff, guests, agents of the administration, external individuals, and organizations that access PSU computing resources.
+Access to and use of any PSU computing resources acknowledges and accepts responsibility to keep up-to-date with changes in the computing environment and PSU computing policies, including the AUP.
+Computing resources include, but are not limited to, all PSU owned, licensed, or managed hardware and software, the PSU telephony system, and the use of the PSU wireless and wired data network regardless of the ownership of the device connected to
+Computing resources also include any and all information maintained in any form,
+Policy Title: Acceptable Use Policy Effective date: 8/11/2014 Last Revision: 08/07/2014 Plymouth State Policy Policy Title: Acceptable Use Policy Effective date: 08/11/2014 Last Revision: 08/07/2014 Contact information: helpdesk@plymouth.edu;(603) 535-2929 and in any medium, within the university's physical computing resources or by license on other systems.
+The AUP applies to all PSU owned and/or licensed computing resources, regardless of the department or individual administering, maintaining it, or scheduling its use.
+
+Detailed Policy Statement PSU has provided access and use of PSU computing resources to members of the PSU Community with a reasonable expectation of unobstructed use, however in turn each member of the PSU Community is responsible for exercising good judgment and knowing and following the regulations and policies of PSU which apply to their use.
+Just because an action is technically possible does not mean that the action is appropriate and permitted.
+Members of the PSU Community must comply with Federal, State and local laws; University and University System rules, regulations and policies; and the terms of applicable contracts including software licenses when using PSU computing resources.
+Plymouth State University reserves the right to access and affect computing resources to the extent necessary to manage and administer the resources.
+This includes direct access of data on PSU's networks, PSU owned computing resources, and data stored in PSU systems.
+Acceptable Use is always ethical, reflects academic integrity, and shows restraint in the consumption of shared resources.
+It demonstrates respect for intellectual property, ownership of data, system security, and freedom from intimidation and harassment.
+Guidelines for Acceptable Behavior: Use only computing resources for which you have been granted proper authorization.
+Access does not imply authorization.
+Do not use computing resources to violate any policy or regulation of PSU, the
+Employ appropriate standards of civility when communicating with other individuals.
+Be sensitive to the needs of others, and use only your fair share of computing resources.
+Wired and wireless network services may not be modified or tampered with, nor may they be extended beyond the limits provided.
+You are ultimately responsible for the use of your credentials and network connection.
+This includes your account, computer, network address/port, software and hardware.
+You must make a reasonable effort to protect your passwords and secure computing resources against unauthorized use or access.
+The use of university computing resources is for PSU related work.
+Persons are not permitted to engage in consulting or other business ventures using PSU computing resources for personal gain or other commercial purposes.
+Do not attempt to circumvent any security measure.
+The following activities are specifically prohibited: disclosing your password to Resources; forging messages; cracking passwords and systems; sending harassing or threatening messages; the sending of unauthorized anonymous messages; misrepresentation of identity; the sending of bulk unsolicited messages; phishing; entering, without authorization, into any account to use, read, transfer or change the contents in any way; system attacks; denial of services; and other malicious uses of Resources; altering system software and/or hardware; and using Resources to interfere with the normal operation of computing systems and connected networks.
+
+Non-compliance Plymouth State University considers violation of the AUP to be a serious offense, and may lead to disciplinary action and/or criminal prosecution.
+In accordance with
+Policy Title: Acceptable Use Policy Effective date: 8/11/2014 Last Revision: 08/07/2014 Plymouth State Policy Policy Title: Acceptable Use Policy Effective date: 08/11/2014 Last Revision: 08/07/2014 Contact information: helpdesk@plymouth.edu;(603) 535-2929 established PSU practices, policies and procedures, confirmation of unexcused inappropriate use of PSU computing resources may result in termination of access, expulsion from the University, termination of employment, legal action, and/or other disciplinary measures.
+Plymouth State University reserves the right to take actions to investigate and examine potential violations of the AUP, and to protect computing resources from systems and events that threaten or impact operations.
+Plymouth State University reserves the right to access, monitor, and report the contents and activity to the proper authorities.
+Definitions PSU Plymouth State University Resources Computing and telecommunications equipment(including computers, tablets and cellphones), software and services maintained or contracted by Plymouth State University or the University System of New Hampshire.

@@ -1,0 +1,45 @@
+This access is granted subject to University policies, local, state, and federal laws.
+Systems and resources are provided primarily for academic use.
+Network usage for other activities such as personal communications, gaming or entertainment may be prioritized to ensure we meet our academic goals.
+Acceptable use is always ethical, reflects academic honesty, and shows restraint in the consumption of shared resources.
+It demonstrates respect for intellectual property, ownership of intellectual property, system security mechanisms, and individuals' rights to privacy and to freedom from intimidation and harassment.
+Violation of this or other policies as outlined in the Student or Faculty/Employee handbooks may result in the loss of network privileges.
+In addition, the obtaining or distributing of material protected under United States or international copyright laws using electronic, paper or other media without the proper permission is illegal and can result in the loss of library, network or other privileges and may also result in criminal prosecution by the responsible authorities.
+Connecting a personal device to the Virginia Wesleyan University network, either by direct Ethernet connection or via our wireless(802.11) network obligates the owner/user to comply with this Acceptable Use policy.
+By connecting your device(phone, computer, tablet, smart TV or gaming console) to the VWU network we will be able to monitor the usage and content of messages and web sites visited.
+Although we do not routinely examine the content of this activity we are constantly monitoring the overall usage of the network to improve the services to the community.
+Specific investigation of content may be done as directed by law and/or to protect the institution or individuals involved.
+Guidelines In making acceptable use of resources you must: Protect your username, password and system from unauthorized use.
+You are responsible for all activities by your username or that originate from your system.
+Access only information that is your own, that is publicly available, or to which you have been given authorized access.
+Use only legal versions of copyrighted software in compliance with vendor license requirements.
+Be considerate in your use of shared resources; network bandwidth, public printer paper, network storage and lab computers.
+Refrain from monopolizing systems, overloading networks with excessive traffic, degrading services, or wasting computer time, disk space, printer paper, manuals or other resources.
+Contact the Information Technology Services Help Desk at 524.5900 or helpdesk@vwu.edu PRIOR to connecting anything other than your laptop or desktop computer to the computer network.
+In making acceptable use of resources you must NOT: Connect any wired or wireless networking devices such as: servers, access points, hubs, routers, switches, etc.
+to the VWU network.
+Use another person's system, files, or data without permission.
+Use someone else's name, username or password.
+Use computer programs to decode passwords or access control/security information.
+Attempt to circumvent or subvert system or network security measures.
+Engage in any activity that might be purposefully harmful to systems or to any information stored thereon, such as creating or propagating viruses, disrupting services, damaging files or making unauthorized modifications to University data.
+Use University systems for commercial or partisan political purposes, such as using electronic mail to circulate advertising for products, services or for political candidates.
+Make or use illegal copies of copyrighted software, store such copies on University systems, or transmit them over University networks.
+Use mail or messaging services to harass or intimidate another person, for example, by broadcasting unsolicited messages, by repeatedly sending unwanted mail, or by using someone else's name, email address or username or general "spamming".
+This includes the distribution of offensive language or pictures.
+Waste computing resources or network resources, for example, by intentionally placing a program in an endless loop, printing excessive amounts of paper, or by sending chain letters or unsolicited mass mailings.
+Use the University's systems or networks for personal gain; for example, by selling access to your username, to University systems, networks, or by performing work for profit with University resources in a manner not authorized by the University.
+Use cordless phones or other electronic devices using the 2.4 GHz broadcast band that will interfere with the University's wireless network.
+Engage in any other activity that does not comply with the spirit of the General Principles presented above.
+Enforcement The University considers any violation of acceptable use principles or guidelines to be a serious offense and reserves the right to copy and examine any files or information resident on University systems allegedly related to unacceptable use and to protect its network from systems and events that threaten or degrade operations.
+Violators are subject to disciplinary action as prescribed in the University Policies for Student Life, and employee handbooks.
+Access to the text of these laws is available through the Hofheimer Library Reference Department.
+Information Disclaimer Individuals using computer systems owned by Virginia Wesleyan University do so subject to applicable laws and University policies.
+Virginia Wesleyan University disclaims any responsibility and/or warranties for information and materials residing on non-university systems or available over publicly accessible networks.
+Such materials do not necessarily reflect the attitudes, opinions, or values of Virginia Wesleyan University, its faculty, staff, or students.
+No software is to be loaded onto or run on a University owned computer unless the University has purchased the software.
+These guidelines should not be construed as a limit on any individual's right under the constitutions of the United States or the Commonwealth of Virginia.
+Virginia Wesleyan University Malbon Center for Technology The information in this policy is the responsibility of the Malbon Center for Technology.
+Questions or complaints about possible violations should be sent to the Chief Information Officer with as much detail as possible.
+Questions about this page should be sent to helpdesk@vwu.edu.
+Your gifts strengthen our traditions and create a brighter future for our students.

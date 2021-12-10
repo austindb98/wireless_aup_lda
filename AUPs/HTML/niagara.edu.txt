@@ -1,0 +1,23 @@
+NU courses require an internship, and faculty members and career development counselors help match students with the employers that are best for them.
+Many internships and co-op experiences are even paid!
+Niagara University has had at least one team or individual earn a conference championship in every year since 2003.
+To make the network as useful, accessible, and effective as possible, there are certain expectations and rules for Participants.
+In addition to common courtesy as network users, expectations are as follows: Res-Net is provided with the understanding that it serves primarily as an academic tool.
+The University reserves the right to limit or prohibit those activities that might interfere with the network's academic or administrative use.
+Participants are reminded that sharing of copyrighted materials over the network such as software, music, images, videos, publications, or any other protected materials is a violation of the Terms and Conditions, federal copyright statutes and is strictly prohibited.
+Students who are cited in infringement notices under the Digital Millennium Copyright Act(DMCA) could have their network access suspended notice will be sent to Director of Student Affairs.
+Repeat violations will result in a judicial referral.
+A Participant's network access may be suspended or disabled for violating this agreement or provisions of the other policies governing the use of network and computing services at Niagara University.
+Suspensions can also occur if the Participant's system is deemed the source of threatening or abusive network traffic(e.g., virus propagation, security intrusion, excessive use).
+A Participant's network access may be suspended or disabled for violating this agreement or provisions of the other policies governing the use of network and computing services at Niagara University.
+Suspensions can also occur if the Participant's system is deemed the source of threatening or abusive network traffic(e.g., virus propagation, security intrusion, excessive use).
+The following security precautions are mandatory requirements on all computers connecting to ResNet.
+The presence and use of current, active anti virus software with up-to-date virus definitions.
+All critical patches and updates published for your operating system(e.g., Windows) must be installed.
+Access to all active accounts must require the use of a complex password.
+There should be no detectable evidence of spyware/adware/malware.
+Participants are ultimately responsible for any and all network use or communications traffic originating from a computer registered to them, regardless of the actual author of such traffic.
+Network service may be interrupted on occasion.
+IT will work to restore service as soon as possible; however, Niagara University and IT are not responsible for any losses or damages caused by service interruptions or other failures in University equipment.
+Students with infected computers that we determine are causing a disturbance on the network will be de-activated and subject to a $5.00 re-activation fee as well as a $10.00 cleaning fee after being cleaned and cleared for network re-activation.
+All rights reserved.

@@ -1,0 +1,32 @@
+To view the full statement of the policy, click here.
+Specific ResNet Policies ResNet-specific sections of the Responsible Use of College Computers and the Internet @ Saint Mary's College include: All personal computers connected to ResNet are required to have up-to-date virus protection software installed.
+Saint Mary's College provides virus protection software to all students at no cost.
+All personal computers connected to ResNet are required to be up-to-date with security patches and operating system updates.
+Students are required to configure Windows Update(for Windows) or Software Update(for Mac OS) to notify them when updates are available for their computers, and students are expected to install those updates in a timely fashion.
+All critical updates must be downloaded and installed immediately to protect your computer and Saint Mary's network from security threats.
+Students are strongly encouraged to use the faster wired network for all bandwidth-intensive activities(watching videos, video chat, listening to streaming music, downloading large files).
+The slower wireless network is better suited for checking e-mail and casual web browsing.
+Students may not use wireless access points, routers, or similar network sharing devices(or computer software/settings designed to share network connections) in the residence halls.
+Students that connect such devices to ResNet may lose their network connection until the devices have been permanently disconnected.
+Saint Mary's College provides a wireless network(BelleAire) in most of the buildings on campus for students to use.
+Wireless cards in personal computers are perfectly acceptable, and cards using the 802.11b, 802.11g, and 802.11n standards can connect to BelleAire.
+Saint Mary's College allows webcams to be used within ResNet.
+For the security and privacy of all students, ResNet advises that students using webcams in their residence hall rooms tell their roommates and visitors when the webcam is in use.
+ResNet does not provide technical support for webcam and video chat issues.
+The Network Policy Competency Questionnaire must be completed as a part of the registration process for all personal computers and network devices connected to ResNet.
+Any student found to be in violation of these principles will face disciplinary action as specified in the Student Handbook.
+Questions regarding this Acceptable Use Policy or the College Policy on the Responsible Use of College Computers and the Internet may be addressed to resnet@saintmarys.edu.
+General Policies Affecting ResNet Sections of the Responsible Use of College Computers and the Internet @ Saint Mary's College that affect, but are not specific to ResNet include: Copyright: The sharing of copyrighted music, film, or other media through file sharing programs(including, but not limited to, Frostwire, Ares, BearShare, eDonkey/eMule, Kazaa, Morpheus, etc.)
+does not qualify as fair use.
+File sharing programs are not permitted on computers using the campus network(including BelleAire and ResNet).
+Many file sharing programs automatically turn on file sharing when the software is installed, and the software is active when the computer is on, even if it is not being used.
+Saint Mary's College must take appropriate action under the terms of the Digital Millennium Copyright Act of 1998 if it receives notice of copyright infringement.
+A notice of infringement could be a notice from a record or film industry representative that a copyrighted work is being downloaded or distributed without the permission of the copyright owner.
+If the notice is in regard to a student, the College will immediately terminate her ResNet network access and Student Affairs will contact her for further action.
+Students visiting the ResNet Office for assistance with their personal computers that have file sharing software installed will have it removed before technical support is provided.
+Passwords and Privacy: The use of your Saint Mary's e-mail account is required for all e-mail correspondence with the College.
+Notices regarding College closings, severe weather, and other emergencies will be distributed only to Saint Mary's e-mail accounts.
+Computer and network accounts provide access to personal, confidential material.
+Use only those computer usernames and passwords for which you are authorized, and use them only for the purposes for which they are intended.
+Do not share your passwords with others for any reason.
+Revealing your Saint Mary's password to any other individual is a serious breach of network security.

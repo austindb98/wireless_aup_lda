@@ -1,0 +1,27 @@
+Purpose and Scope.
+Applicability.
+Policy.
+Approval. 4
+Applicability October 1, 2018 - Page of
+Purpose and Scope The University of Houston-Clear Lake(UHCL) provides public computers and wireless networks on campus for use by the University s students and by individuals visiting the campus who have a legitimate University business-related need to access these facilities.
+This document describes the University s policy regarding the use of these public facilities.
+
+Applicability Any individual who is not a member of the University s faculty or staff that: Uses a UHCL owned or leased computer that is intended for public use, Connects his or her personal computing device to the UHCL Public wireless network, Must read, understand and agree to comply with the policies contained within this document.
+UHCL faculty and staff are responsible for reading, understanding and complying with the policies presented in the document entitled Information Security Program Acceptable Use Policy for UHCL Information and Systems(ISPOL02).
+Policy
+Activities Deemed as Inappropriate October 1, 2018 - Page of
+Policy
+Restrictions on Use of UHCL Public Technology Anyone who is not a member of the UHCL faculty or staff that uses UHCL-owned or leased, publicly accessible computer or network, must comply with this policy and all applicable federal, state, and local laws.
+A complete manual of UHCL policies and procedures is available at www.uhcl.edu/computing/information-security/policies.
+Users have no expectation of privacy except as otherwise provided by applicable privacy laws.
+Usage of UHCL publicly-accessible technology may be subject to security testing and monitoring.
+
+Activities Deemed as Inappropriate The following activities are considered highly inappropriate.
+As such, performing any of the following activities using a UHCL computing device or the UHCL network may result in disciplinary action up to and including separation of employment, termination of contract, and/or civil or criminal penalties: Creating, reproducing, accessing, forwarding, or sharing information in any form that:
+o UHCL is required to protect by law, contract or policy, o Violates a federal, state or local law, a software license agreement, or copyright; Note - The policy and procedures related to specific copyright issues defined by the Digital Millennium Copyright Act(DMCA) can be found in the University of Houston s System Administrative Memorandum entitled SAM 07.A.04 - Digital Millennium Copyright Act.
+o May be deemed as discriminatory or offensive to individuals based upon their race, religion, nationality, color, gender, sexual preference, or disability, o Is perceived as harassment toward any individual, group, or organization, o Serves any commercial purpose including product advertising material, o Is related to any form of political lobbying, or o Is considered unprofessional or disrespectful;
+o Involves the intentional running of any software or perform any procedure designed to hack into any computing or network device, o Damages the integrity of the data or programs stored on any computer or network device, o Initiates or continues to proliferate e-mail SPAM, or o Disrupts or degrades computing or network resources; or Using any UHCL-owned or leased computing device and/or the UHCL network, to communicate with individuals who may have compromised a system, with the hope of restoring altered, encrypted, or otherwise destroyed data
+Public Wireless Disclaimer The UHCL public wireless network is an unsecured network, and information transmitted over the UHCL public wireless network may be visible to other online users.
+Users are solely responsible for taking appropriate actions to protect their private or personal information transmitted using the UHCL public wireless network.
+The University of Houston-Clear Lake is not liable for the loss, destruction, or unauthorized access or use of information transmitted over the UHCL public wireless network.
+Approval October 1, 2018 - Page of

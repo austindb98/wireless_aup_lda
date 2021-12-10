@@ -1,0 +1,89 @@
+More details.
+Hide details.
+A B C D E H I K L M O P Q R S T V W Wireless Access Network The wireless network is an extension of the campus network that provides students, faculty, and staff with 802.11a/g/n compatible wireless access to the campus network and the Internet.
+The wireless coverage extends to all of campus buildings excluding the residence halls.
+Wireless Usage Requirements In order to configure for and use wireless, you must: Be in a wireless enabled facility Be a current student, faculty, or staff member at MSUM Have a valid Minnstate StarID username and password.
+Have Windows 10, Windows 8, Windows 7, Mac OS X 10.2.8 or later and Linu
+Have installed and configured a 802.11a/g/n compatible wireless network card or have 802.11a/g/n capabilities built-in to your laptop or hand-held device.
+It must also be capable of supporting VPN software.
+Configuring and Using MSUM Wireless Available Wireless Connections DragonConnect-Student: Available for Student access only DragonConnect-Employees: Available for Employee access only DragonConnect-Public: Student, Employee and MSUM Temporary Accounts MSUM-Guest: Special Event accounts for use within Admissions and the Comstock Memorial Union Eduroam: Available for use by visitors from other participating campuses, NOT by MSUM students, faculty or staff DragonConnect-Student Available for Student access only Connect to the 'DragonConnect-Student' wireless network The first time you connect to the network you will be asked to enter your StarID username and password You will then be able to access the campus wifi network without having to log in every time you connect Each person is limited to devices attached at the same time If you attempt to connect any additional devices it will deny access and appear that the wireless network is not available.
+You would need to disconnect one of the other devices to allow another one to be added and then wait minutes before connecting If the connection fails, please follow the detailed instructions found below for your operating system: **additional information for some devices: EAP method: PEAP Encryption type: TKIP Phase authentication: MSCHAPV2(Usually, only the Phase authentication needs to be changed) Identity: enter your STARID Anonymous Identity: leave blank Domain: mnstate.edu DragonConnect-Employees Available for Employee access only Connect to the 'DragonConnect-Employees' wireless network The first time you connect to the network you will be asked to enter your StarID username and password You will then be able to access the campus wifi network without having to log in every time you connect Each person is limited to devices attached at the same time If you attempt to connect any additional devices it will deny access and appear that the wireless network is not available.
+You would need to disconnect one of the other devices to allow another one to be added and then wait minutes before connecting If the connection fails, please follow the detailed instructions found below for your operating system: **additional information for some devices: EAP method: PEAP Encryption type: TKIP Phase authentication: MSCHAPV2(Usually, only the Phase authentication needs to be changed) Identity: enter your STARID Anonymous Identity: leave blank Domain: mnstate.edu DragonConnect-Public Access for Student, Employee or MSUM Temporary accounts Connect to the 'DragonConnect-Public' wireless network Once connected, open any web browser and you will be redirected to the Wireless Portal Login page.
+Log in with your StarID username and password or Temporary account information as appropriate Agree to the Acceptable Use Policy by checking the bo
+Click on continue and you will be able to access a limited number of MSUM webpages and all other internet webpages.
+This connection does not have encryption and should be considered unsecure MSUM-Guest Special Event accounts for use within Admissions and the Comstock Memorial Union In order to use this network, contact either the Admissions or CMU office for the username and password.
+The password changes daily Connect to the 'MSUM_Guest' wireless network Enter the username and password provided to finalize the connection Eduroam Wireless Eduroam is a new wireless network on Minnesota State University Moorhead campus.
+This network is only to be used by visitors from other participating campuses, NOT by MSUM students, faculty, or staff.
+Visitors may use the credentials issued by their own institution to log on to our wireless.
+More information about this network may be found here.
+https://www.incommon.org/eduroam When logging in to the network, please use your email address or username assigned by your participating institution as the username and your assigned password, e.
+john.doe@someuniversity.edu Please note that any MSUM students, faculty, or staff visiting other participating campuses may use their StarID credentials to log on to their eduroam wireless: Eduroam wireless instructions Wireless Access Frequently Asked Questions(FAQ) What are wireless networks for?
+The wireless network is an extension of MSUM's wired network infrastructure, which provides increased mobility and flexibility for campus network users.
+The network consists of a number of 802.11b, 802.11g and 802.11n compatible wireless access points throughout campus.
+What do the wireless networks allow me to do?
+Students, faculty, and staff can use the MSUM wireless networks to access the Internet and MSUM resources, such as e-mail, without having to plug into a wired jack.
+Can I use any Internet application I have on my computer?
+Yes, although network bandwidth is regulated for peer-to-peer music sharing programs.
+You are advised not to set up shared folders without passwords.
+We also recommend having antivirus software and firewall software installed on your computer.
+Who can use this service?
+Any current student, faculty or staff member with an active StarID username can use the wireless network.
+You must know your password.
+Community patrons are not granted access.
+Visiting presenters and scholars must request guest access through the help desk.
+Is wireless access available in the residence halls?
+Yes it
+However, this access is not part of the MSUM wireless network.
+Please contact the Housing office to determine the steps in getting it setup.
+What are the requirements for using MSUM wireless networks?
+You must be a current student, staff or faculty member with an active StarID username.
+How do I set up MSUM wireless networks?
+Information on requirements for use and instructions on how to set up a wireless network are provided on the MSUM Wireless web site.
+What hardware is required?
+To use the wireless network, a laptop computer or other portable device is needed with 802.11b or 802.11g wireless capabilities.
+What kind of wireless card should I buy?
+Any 802.11a or 802.11g network card should work with the MSUM wireless networks.
+g cards are backward compatible and will work with 802.11b access points you may have at home and vice versa.
+What operating systems are compatible?
+Supported operating systems include Windows or newer, and MacOS 10.2.8 or newer.
+Will my built-in wireless card work?
+Some computer companies offer built-in products with laptops and handheld devices as an optional feature.
+As long as the products are compatible with the 802.11b or 802.11g standards, they should work with the MSUM wireless networks, though performance may vary.
+Do I still need a regular(wired) Ethernet card?
+Generally, the answer is yes.
+Most mobile users will want to use their computer on the wired network where available, in addition to the wireless networks.
+Wireless makes a great choice when the need for flexibility and mobility is required and also for basic Internet activities, but it is not as desirable when transferring large files or performing many simultaneous network activities.
+Can I set up a wireless network?
+
+Setting up wireless access point on campus(non residence halls) is PROHIBITED.
+Wireless technology is easy to deploy but is also easily misconfigured and can interfere with other MSUM provided wireless access devices.
+In addition, access points can act as routers or DHCP servers if configured incorrectly, which can disrupt service to other network users.
+They also can compromise security and privacy, because anyone within range of an unsecured access point could collect traffic.
+Essentially, open wireless networks allow unauthorized access to the university network resources.
+If wireless access is not available in an on campus area and you feel it should be, contact the MSUM IT department.
+Issues of security and privacy eclipse other issues, because anyone within range of an unsecured access point could collect traffic.
+Any port that is found to have an unauthorized access point attached will be shut down and disciplinary action will be sought.
+How secure is the wireless network?
+Wireless network security is a serious issue.
+Wireless is not only a shared medium, but also a medium that is broadcast via radio waves.
+Therefore, anyone with a wireless card could monitor network traffic, which could include passwords and account numbers, unless traffic is encrypted.
+MSUM does use encryption via the use of a CISCO VPN Client on the DragonConnect-Employees and DragonConnect-Student options ONLY.
+DragonConnect-Public is NOT encrypted and should be considered unsecured.
+What are 802.11b, 802.11a and 802.11g?
+a, 802.11b and 802.11g are standards in regard to wireless communication that have been developed by the IEEE(Institute of Electrical and Electronic Engineers).
+The IEEE is an international organization that develops standards for hundreds of electronic and electrical technologies.
+The organization uses a series of numbers, like the Dewey Decimal system in libraries, to differentiate between the various technology families.
+The 802 committee develops standards for local and wide area networks(LANs and WANs).
+is then further divided.
+b, or Wi-Fi, is a standard for wireless LANs operating in the 2.4 GHz spectrum with a maximum shared bandwidth of 11 Mbps(megabits per second).
+a is a different standard for wireless LANs operating in the GHz frequency range with a maximum data rate of 54 Mbps.
+Another standard, 802.11g, is for WLANs operating in the 2.4 GHz frequency but with a maximum data rate of 54 Mbps.
+g uses the same technology as 802.11b but the bandwidth(speed) has increased.
+Does wireless interfere with other devices?
+Yes, any 2.4GHz device that is near the wireless access point or wireless card can affect the performance and may shut off your network connection.
+These devices are usually microwave ovens in close range, cordless phones, cameras and other 2.4GHz wireless devices.
+Unauthorized access points can also interfere with the MSUM wireless network.
+Contact the help desk StarID Get
+Know
+Use
+Tools4School Get the equipment and software you need to succeed Minnesota State system Services Check the status of system services Footer begin A member of the Minnesota State system and an affirmative action/equal opportunity university.

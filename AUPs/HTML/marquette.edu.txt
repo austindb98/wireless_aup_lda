@@ -1,0 +1,162 @@
+Marquette University, a Catholic, Jesuit, urban university, is dedicated to pursuing truth, discovering and transmitting knowledge, promoting a life of faith, and developing leadership expressed in service to others.
+Its educational mission reflects a commitment to intellectual rigor, social justice and an active engagement of contemporary issues.
+The university provides electronic resources to faculty, students and employees to effectively perform their job duties.
+The purpose of this policy is to explain the rights and responsibilities that users share in sustaining the electronic resources(E-resources as detailed below in Resources covered) made available to them by the university.
+This policy will provide a reference for university students, faculty, staff and authorized guests and will communicate the roles and responsibilities of those charged with maintenance, operation and oversight of university E-resources.
+Within the university community, each person will have differing purposes for accessing E-resources; however, each person also has a shared responsibility to utilize those E-resources in a manner consistent with the university's policies, procedures and codes of conduct, including, as applicable, those found in the "At Marquette" student handbook, University Policies and Procedures, and the Employee Handbook.
+In addition, users are bound by the requirements of local, state, federal and international laws and contractual commitments including, without limitation, the acceptable use policy of the university's internet service provider(s).
+By striving for compliance within our community, the university can assure its ability to provide, maintain and protect the confidentiality, integrity and availability of the university's data, systems, services and facilities.
+This policy applies to all persons accessing or using university E-resources.
+This includes university students, faculty and staff, authorized university guests, and all persons authorized for access or use privileges by the university, hereafter referred to as users.
+Resources covered E-resources covered by this policy include, without limitation: all university owned, operated, leased or contracted computing, networking, telephone and information resources, whether they are individually controlled, shared, standalone or networked, all information maintained in any form and in any medium within the university's computer resources, and all university voice and data networks, telephone systems, telecommunications infrastructure, communications systems and services, and physical facilities, including all hardware, software, applications, databases, and storage media.
+Additionally, all creation, processing, communication, distribution, storage and disposal of information by any combination of university E-resources and non-university resources are covered by this policy.
+Policy application Individual areas(e.g., departments, colleges and divisions) within the university may define supplemental policies or conditions of acceptable use for E-resources under their control.
+These additional policies or conditions must be consistent with this policy but may provide additional detail, guidelines and/or restrictions.
+This policy will supersede any inconsistent provision of any unit policy or condition.
+USE OF E-RESOURCES CONFIDENTIALITY All users with access to confidential data are to utilize all appropriate precautions to maintain the accuracy, integrity, and confidentiality of the data and ensure that no unauthorized disclosures occur.
+EXPECTATION OF PRIVACY User's rights The university provides electronic resources to users to effectively perform their job duties.
+The university will not routinely monitor an individual user's electronic data, software or communication files.
+University processes Users should be aware that electronic data, software and communications files are copied to backup tapes and stored.
+Items that were deleted may be preserved on backup tapes and retrieved if necessary.
+All activity on systems and networks may be monitored, logged and reviewed by system administrators or discovered in legal proceedings.
+In addition, all documents created, stored, transmitted or received on university computers and networks may be subject to monitoring by systems administrators.
+University rights The university reserves the right to access, monitor and disclose the contents and activity of an individual user's account(s) and to access any university-owned E-resources and any non-university-owned E-resources, on university property, connected to university networks.
+This action may be taken to maintain the network's integrity and the rights of others authorized to access the network.
+Additionally, this action may be taken if the security of a computer or network system is threatened, other misuse of university resources is suspected or the university has a legitimate business need to review such files(e.g., due to sudden death or incapacity of the employee).
+This action will be taken only after obtaining approval from the area vice president/dean appropriate to the circumstances, the president/provost/general counsel, when compelled by court order, or when there is deemed to be an urgent and compelling need to do
+E-RESOURCE USE All users have the following: Rights All users are granted access to and permitted use of the university's E-resources.
+Access is granted for specific purposes based on the user's particular needs or classification.
+Users have the authority to read, write, edit or delete information in files or databases, as established by the designated owners of the information.
+All users are provided with the university's on-campus network access including, electronic mail("email") and internet access.
+Responsibilities Each user shall: Be responsible for the security and integrity of information stored on his or her personal desktop system.
+This includes: making regular backups of information and files, controlling and securing physical and network access to E-resources and data, properly logging out of sessions, monitoring access to their accounts, if a user suspects that their access codes have been compromised or that there has been unauthorized activity on their accounts, they are to report it to IT Security via the Help Desk and change access codes immediately, and installing, using and regularly updating virus protection software.
+Show a valid photo ID in order to secure input/output and use a valid university ID to obtain access to computer labs/facilities.
+Choose appropriate password(s) and guard the security of that password.
+Abide by the password protection practices specified for each E-resource and change their access codes on a regular basis or as required by standards.
+Use only the access codes and privileges associated with their computer account(s) and utilize those account(s) for the purposes for which they were authorized.
+Take full responsibility, when sharing access codes and user account information, for the use of any user(e.g., graduate assistant, administrative assistant) to whom they provided their access code.
+Respect and honor the rights of other individuals, with regard to intellectual property, privacy, freedom from harassment, academic freedom, copyright infringement and use of E-resources.
+Restrictions Users may not do the following: Provide access codes to any non-user.
+Provide access codes to any user not authorized for such access.
+Make use of accounts, access codes, privileges or E-resources to which they are no longer authorized.
+Tamper with, modify or alter restrictions or protection placed on their accounts, the university system or network facilities.
+Extend the network by introducing a hub, switch, router, wireless access point or any other service or device that provides more than one device to the university network.
+Use the university's internet access in a malicious manner to alter or destroy any information available on the internet or on any network accessible through the internet for which he or she does not own or have explicit permission to alter or destroy.
+Remote access authentication must not be shared with other users or non-users.
+Introduce, create or propagate computer viruses, worms, Trojan Horses or other malicious code to university E-resources.
+Use knowledge of security or access controls to damage computer and network systems, obtain extra E-resources or gain access to accounts for which they are not authorized.
+Eavesdrop or intercept transmissions not intended for them.
+Physically damage or vandalize E-resources.
+Attempt to degrade the performance of the system or to deprive authorized users of E-resources or access to any university E-resources.
+Alter the source address of messages or otherwise forging email messages.
+Send email chain letters or mass mailings for purposes other than official university business.
+Use Marquette systems to relay mail between two non-university email systems.
+Engage in activities that harass, degrade, intimidate, demean, slander, defame, interfere with or threaten others.
+Comment or act on behalf of the university over the internet unless you have the authority to do
+Servers are only permitted if they do not contain critical/sensitive, regulated/operational data and have been identified to IT Services and are regularly scanned for security issues.
+In addition, they must not violate any other policy or law or interfere with or limit E-resources available for authorized use.
+All network game servers are forbidden.
+Data that is considered critical/sensitive or regulated/operational must be housed within the campus data center or an IT Services approved cloud hosted service per the Information Sensitivity Policy.
+COPYRIGHTS AND LICENSES Software may not be copied, installed or used on university E-resources except as permitted by the owner of the software and by law.
+Software, subject to licensing, must be properly licensed and all license provisions(including installation, use, copying, number of simultaneous users, terms of the license, etc.)
+must be strictly adhered
+All copyrighted information, such as text and images, retrieved from E-resources or stored, transmitted or maintained with E-resources, must be used in conformance with applicable copyright and other laws.
+Copied material, used legally, must be properly attributed in conformance with applicable legal and professional standards.
+Federal law provides severe civil and criminal penalties for the unauthorized reproduction, distribution or exhibition of copyrighted materials.
+Criminal copyright infringement is investigated by the FB
+The civil penalties for copyright infringement not registered with the Library of Congress include actual losses sustained by the copyright owner as the result of the infringement.
+When it comes to a registered copyright filed with the Library of Congress, the copyright owner can also obtain triple damages above and beyond actual damages, together with attorney fees in a copyright infringement case.
+The possible criminal penalty for copyright infringement is up to five years in prison and up to a $250,000 monetary fine.
+NON-ORGANIZATIONAL USE Users may not use E-resources for: Compensated outside work, except as authorized by the executive director of the Office of Research and Sponsored Programs(ORSP) pursuant to an approved grant or sponsorship agreement.
+The benefit of organizations not related to the university, except those authorized by a university dean or the director of an administrative unit, for appropriate university-related service.
+Personal gain or benefit.
+Political or lobbying activities not approved by the university's Office of Public Affairs.
+Private business or commercial enterprise.
+University E-resources may not be used for commercial purposes, except as specifically permitted under other written policies of the university or with the written approval of Vice President for Finance.
+Any such commercial use must be properly related to university activities and provide for appropriate reimbursement to the university for taxes and other costs the university may incur by reason of the commercial use.
+MISUSE OF E-RESOURCES The university recognizes and allows for the fact that employees and others covered by this policy may, on rare occasions, use the university computer network for non-work or non-university-related purposes.
+Such use is a privilege and not a right.
+An example of such use would be the accessing of an information website on the internet or sending or responding to an email for necessary personal needs.
+Such use is to be kept to an absolute minimum and should be limited to breaks or lunch periods.
+In no way may such use interfere with an employee's work, customer service, responsibilities of the workplace or the necessary, reputable business of the university.
+University E-resources may not be used in any way for non-organizational uses as specified in the Non-organizational Use section of this policy.
+In any and all cases, where acceptable use comes into question, management of the university reserves the right to determine what is appropriate and acceptable and what is not.
+Violations of university policies will result in one or more of the following actions: User will be notified that the misuse must cease and desist.
+The project or work will be more carefully supervised.
+The user will be required to reimburse the university or pay for E-resource(s).
+The user will be denied access to the E-resource(s), temporarily or permanently.
+The appropriate university disciplinary action will be initiated.
+Actions may include sanctions, up to and including, termination of employment or expulsion.
+Civil action will be initiated.
+Law enforcement authorities will be contacted to initiate criminal prosecution.
+All users are encouraged to report to the Help Desk any suspected violations of university computer policies, such as unauthorized access attempts.
+Users are expected to cooperate with system administrators during investigations of system abuse.
+Failure to cooperate may be grounds for disciplinary action.
+If a system administrator has persuasive evidence of the misuse of E-resources and that evidence points to a particular individual, the administrator must notify the chief information officer.
+The chief information officer shall review the evidence and pass the matter on to the appropriate area of the university for possible disciplinary action, if appropriate.
+During the investigation, the user's E-resource privileges may be restricted or suspended.
+The university retains final authority to define what constitutes proper use and may prohibit or discipline use the university deems inconsistent with this or other university policies, contracts and standards.
+They assist in preventing unauthorized individuals from accessing E-resource systems or particular data stored on systems.
+When there is a high threat of password compromise or when an application has particularly sensitive authentication needs, forms of access control other than user IDs and passwords, such as tokens, digital certificates or one-time passwords, can be utilized.
+Each user of a multiple-user system shall be assigned a unique user identifier.
+The user ID must be authenticated before the system may grant that user access to the system.
+Shared or group accounts may be used when absolutely necessary, but their use is discouraged.
+Such accounts must be authorized or sanctioned by ITS.
+Anonymous, guest or other IDs that are available for public use must have the least privileges necessary for their intended function.
+Users must submit any and all required forms, signatures and authorizations when requesting user IDs.
+This includes showing their acceptance of this policy through written or electronic means before user IDs will be issued.
+Physical Access Control Direct physical access to certain E-resources such as servers, data networking devices and telecommunications switches is restricted.
+Rooms containing critical E-resources must be secured strongly.
+All entrances to such rooms must be closed and locked at all times.
+Alarms, sensors and other types of physical security systems must be utilized to further secure these facilities and to detect and report emergency conditions that might occur.
+Signs outside the rooms must not indicate the sensitivity of the equipment inside.
+Appropriate fire suppression systems must be in place.
+Equipment should not be left logged on while unattended.
+Visitors must be escorted at all times.
+Authorized personnel may be granted access to server or network equipment rooms through the issuance of ID cards or keys or through the use of passwords or other access codes.
+These access controls may not be shared with any other personnel.
+If an authorized person is leaving their current role and should no longer have access to systems, his or her access must be revoked immediately upon the termination of duties.
+In the case of employees or independent contractors, departments must promptly notify Human Resources of such changes.
+All access to server and network equipment rooms made by authorized personnel, escorted visitors and vendors must be logged when entering the room.
+Server access logs must be available for review.
+Vendors must supply the names of all authorized personnel that will be performing on-site work and must keep the list up-to-date at all times.
+If university personnel believe that an unauthorized person gained or attempted to gain access to a server or network equipment room, they must contact the Marquette University Police Department immediately.
+E-RESOURCES OPERATION, MAINTENANCE AND ADMINISTRATION All system administrators(those individuals charged with the daily administration of E-resources within a unit of the university) have the following: Rights Administrative rights over certain E-resources as delegated by the appropriate university officer or unit of the university.
+Administrative authority to grant other users the authority to read, write, edit or delete information in files or databases established by them.
+Administrative authority to establish security controls and protection for information and E-resources under their authority.
+Employ a variety of security monitoring devices and tools to identify misuse or unauthorized use of systems under their management.
+To temporarily shut off the university's internet connection, without prior notice, in order to protect university systems, data and users.
+A member of ITS management team must give approval for the internet connection to be shut down.
+Responsibilities All system administrators will preserve users' privileges and rights of privacy consistent with this and other applicable university policies.
+Provide information to users about policies pertaining to use of and access to E-resources.
+Preserve the availability and integrity of university E-resources, data and systems.
+Restore the integrity of the affected system in case of abuse, viruses or malfunctions.
+Determine and authorize the appropriate level of access for each user or class of users.
+Initiate access change procedures when individual users' circumstances change(e.g., graduation, termination, transfer, leave of absence).
+Provide or obtain the necessary training for the proper use of E-resources and data made available to users.
+Implement individual department remote access connection methods only when the university-provided E-resources cannot meet their needs and when the method desired will be reasonably secure and is certified by the ITS department.
+Ensure that all hardware and software licensing agreements applicable to E-resources are executed by appropriate university authority.
+Ensure that all server and networking device user IDs are administered in accordance with established policies.
+Perform monitoring and maintenance of E-resources, and troubleshooting and resolution of technical problems.
+Assist in the investigation of suspected violations of university policies or procedures.
+Take reasonable steps to keep log files secure and physically secure equipment and E-resources.
+Implement basic logging for all remote access systems and remote access sessions.
+Restrictions Obtain and utilize access privileges only to the extent required by the performance of job responsibilities.
+UNIVERSITY ADMINISTRATORS AND AUTHORIZED ITS STAFF HAVE THE FOLLOWING: Rights To take all reasonable steps necessary to preserve the availability and integrity of E-resources.
+Reject or destroy email messages and email attachments that are suspected of containing email-borne malicious code, such as viruses and worms.
+Responsibilities Protect the security of university E-resources, data and assets.
+Monitor the usage and content of E-resources in order to administer the systems properly.
+Maintenance of E-resources and the troubleshooting and resolution of technical problems.
+Investigate suspected violations of university policies or procedures.
+Conduct internal audits to evaluate the effectiveness of and compliance with security policies and procedures.
+Handle any other unusual and compelling circumstances that require system administrator access.
+Allocate usage of E-resources in accordance with university priorities.
+Restore the integrity of the affected system in case of abuse, virus or other malfunction.
+Ensure conformance with legal obligations as they pertain to the administration of E-resources.
+Restrictions Access to confidential files and data is allowed only for purposes that fall within the scope of the individuals' role or job responsibilities.
+Utilizing and obtaining access privileges only to the extent required by the performance of their job responsibilities.
+POLICY AMENDMENTS The university reserves the right to change the policies, information, requirements and procedures, announced in this policy, at any time.
+Changes required by university contractual commitments shall be effective and binding to users upon execution of any such contract by the university.
+A user shall be deemed to have accepted and be bound by any change in university policies, information, requirements or procedures if such user uses E-resources at any time following announcement or publication of such change.
+The five most used D2L features are the Content area, the Classlist, E mail via D2L, Gradebook and News Announcements.
+End menu row End Lower content area 2021 Marquette University

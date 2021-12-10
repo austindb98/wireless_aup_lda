@@ -1,0 +1,139 @@
+ 3341-6-18 Data Use and Protection
+.   Applicability
+  All University units
+  Responsible
+ Unit
+  The 
+Vice President for Finance and 
+Administration
+  Policy
+ Administrator
+  The Office of the Chief Information Officer
+  
+(A)
+ Policy Statement and Purpose
+  Information in the form of data is an essential and vital asset of Bowling 
+
+Green State University (BGSU).  BGSU collects and stores vast amounts 
+
+of data essential to University business. The purpose of this policy is to 
+
+ensure that BGSU faculty, staff, and
+ students appropriately protect data 
+from improper use or release.  
+  (B) 
+ Policy Definitions
+  Data 
+Œ BGSU data includes, but is not limited to, student records, 
+personnel data, research data, BGSU financial data, BGSU or 
+
+department administrative records,
+ alumni and donor information, 
+library circulation information, and medical information.  Such 
+
+information may be in existing or archived form, or in physical or 
+
+digital form.  Data may include facts, files, records, reports, or any 
+
+information meant only 
+for internal use and /or subject to 
+confidentiality agreements.
+  Data Owner/Steward 
+Œ University officials or their designees assigned 
+planning and policy
+-level responsibility for data within their functional 
+areas, and management responsibility for define
+d segments of 
+institutional data. Data owners are responsible within their functional 
+
+areas for assigning and overseeing authorized data users, overseeing 
+
+the establishment of data policies, determining legal and regulatory 
+
+requirements for data, and promo
+ting appropriate data use and
+ data 
+quality.
+  
+3341-6-18  2  Data Users 
+Œ Any authorized faculty, staff, or student at BGSU that 
+accesses, modifies, or handles data.
+  (C) Policy
+  
+(1)
+ All data users must use and protect data in a manner consistent 
+
+with all relevant policies of BGSU.   
+  (2)
+ All data users must be aware of and comply with all applicable 
+
+Federal, State, and other applicable laws, contracts, regulations, 
+
+and licenses.  
+  (3)
+ BGSU 
+data should be given one of the following classifications by 
+the data owner/steward
+  (a)
+ Public 
+- Data that must be released under Ohio public 
+records laws or where BGSU unconditionally waives an 
+
+exception to the public records law.
+  
+(b)
+ Limited Access 
+- Data BGSU
+ may release if it chooses to 
+waive exceptions to the public records law and place 
+
+conditions or limitations on such release.  Notification of 
+
+unauthorized access is not required to the victims or other 
+
+outside entities. e.g. intellectual property, researc
+h data, 
+BGSU ID numbers
+  
+(c)
+ Restricted 
+- Data release prohibited by federal laws, state 
+laws, and/or contractual obligations.  For data to be defined 
+
+as restricted, notification of unauthorized access is required 
+
+to the victims or other outside entities. e.g.
+ Social Security 
+Numbers, personal health information, driver™s license 
+
+numbers
+  (4)
+ All data users must understand the classification of the data they 
+
+are accessing and protect the data appropriately based on the 
+
+classification. (See 
+Data Resource Summary 
+for assistance with 
+
+this step) 
+ 
+ (5)
+ All data users must only access or attempt to access data that they 
+
+are authorized to use and then use only in a manner and to the 
+
+extent authorized. 
+ 
+3341-6-18  3   (6)
+ Data users may only provide data to other data users authorized to 
+rece
+ive such data
+  (7)
+ Related Policies
+  (a)
+ Information Technology
+  
+Registered Date: March 17, 2015
+ 
+ 

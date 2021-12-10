@@ -1,0 +1,90 @@
+Page of DAVIDSONCOMMUNITY COLLEGE Information Technology INTERNET AND NETWORK ACCEPTABLE USE POLICY 7.2 PURPOSEThe College strives to provide information technology access in an environment in which access is shared equitably among users.
+This access is intended to be used in support of the College s research, educational and administrative purposes.
+College owned or operated computer resources are for the use of College employees, students and other authorized individuals.
+This Policy's purpose is to protect the College s technology users and computer resources and to ensure equitable access and proper management of these resources.
+ACCEPTABLE USEA.Acceptable ActivityThe College's information technology resources are intended for the use of its students, employees and other authorized individuals for purposes related to instruction, learning, research and campus operations.
+Users are expected to exercise responsible, ethical behavior when using all College computer resources.
+This Policy makes no attempt to articulate all required or prohibited behavior by users of the College s computer resources.
+Authorized Individual shall mean any person, other than a student or employee, granted permission to access the College s network or allowed to use the College s information technology resources.
+Authorized Individuals are expected to adhere to this and other College policies when accessing the College s network and information technology resources.
+Unacceptable ActivityUnacceptable activity includes, but is not limited to, the following: 1.Deliberately downloading, uploading, creating or transmitting computerviruses, malware, or other software intended to harm a computer or theCollege s network.2.Destroying or modifying directory structures or registries or interfering ortampering with another individual s data or files.
+Policy 7.2 Page of
+Developing programs that infiltrate a computer or computing system, harass other users and/or damage software.
+
+Attempting to obtain unauthorized computer access or privileges or attempting to trespass in another individual s work.
+
+Using hardware or software sniffers to examine network traffic, except by appropriate College personnel, to diagnose the network for bottlenecks or other problems.
+
+Using another person s password or sharing of one s own password(users should not share their password with anyone and those who choose to do so are responsible for the outcomes resulting from the use of their password).
+
+Committing any form of vandalism on equipment, communication lines, manuals or software, or attempting to defeat or circumvent any security measures or controls.
+
+Consuming food and/or beverages in computer labs, computer classrooms, library or in any other areas, unless otherwise authorized.
+
+Wastefully using finite resources such as large amounts of bandwidth including but not limited to, downloading music, television shows, software programs, and/or movies.
+
+Connecting personal network devices on the College s secure network.
+Connecting unsanctioned products(software or hardware) to the College network or installing products for personal use.
+Special provisions may be made for visiting artists, lecturers, and trainers at the discretion of the Director of Information Technology.
+Information Technology support staff can offer assistance in gaining network access under these special circumstances, but the College cannot guarantee functionality and assumes no responsibility for configuration of or damage to non-college equipment.
+
+Using the College's computer resources and Network to engage in disruptive, threatening, discriminatory or illegal behavior or behavior that violates the Code of Student and/or Employee Conduct.
+
+Disclosing confidential student or personnel information to unauthorized third parties;
+Policy 7.2 Page of
+Violating copyright laws and/or fair use provisions through:
+illegal peer-to-peer file trafficking by downloading or uploading pirated or illegal material including, but not limited to, software and music files; and b) reproducing or disseminating Internet materials, except as permitted by law or by written agreement with the owner of the copyright;
+Other activities that interfere with the effective and efficient operation of the College or its Network or activities that violate the College's Policies and Procedures.
+
+The College reserves all rights in the use and operation of its computer resources, including the right to monitor and inspect computerized files or to terminate service at any time and for any reason without notice.
+
+The College makes no guarantees or representations, either explicit or implied, that user files and/or accounts are private and secure.
+No right of privacy exists in regard to electronic mail or Internet sessions on the College Network or College-owned hardware.
+The College is not responsible for the accuracy, content or quality of information obtained through or stored on the College Network.
+The College and its representatives are not liable for any damages and/or losses associated with the use of any of its computer resources or services.
+The College reserves the right to limit the allocation of computer resources.
+The College makes efforts to maintain computer resources in good working condition but is not liable for damages incurred by loss of service.
+College funds may not be used to purchase personal network access or products.
+The College shall not be liable legally, financially or otherwise for the actions of anyone using the Internet through the College s network or College s computers.
+
+Users of wireless access must abide by the Wireless Internet Access Guidelines and this Policy.
+Connection to the wireless
+Policy 7.2 Page of network at any given time is not guaranteed.
+The College does not accept liability for any personal equipment that is brought to the College and, therefore, may not assist with configuration, installation, trouble-shooting or support of any personal equipment.
+When using personally owned devices on the College s technology systems, users are expected to adhere to all policies and rules regarding such use.
+The administration may create process and procedures regarding the approval process for a user s personal electronic device in order to protect the integrity of the College s network and technology systems.
+Personal devices will not be configured to access College resources via the wireless public access.
+ELECTRONIC MAIL The College provides free electronic mail accounts to College employees and to all students who are enrolled in a curriculum program.
+The use of College-provided electronic mail accounts must be related to College business, including academic pursuits.
+Incidental and occasional personal use of these accounts is acceptable when such use does not generate a direct cost to the College or otherwise violate the provisions within this Policy.
+The College will make reasonable efforts to maintain the integrity and effective operation of its electronic mail systems, but users are advised that those systems should in no way be regarded as a secure medium for the communication of sensitive or confidential information.
+Because of the nature and technology of electronic communication, the College cannot assure the privacy of an individual s use of the College s electronic mail resources or the confidentiality of particular messages that may be created, transmitted, received or stored.
+College officials do not routinely monitor electronic mail but may do so as the College deems necessary.
+The College does use software to monitor electronic mail for certain safety protocols.
+Students and employees should not have any expectation of privacy regarding their electronic mail addresses provided by the College.
+The electronic mail, sent and received, on a College-provided e-mail account is the exclusive property of the College.
+Any user of the College s computer resources who makes use of an encryption device shall provide access when requested to do so by the appropriate College authority.
+The College reserves the right to access and disclose the contents of employees, students and other users electronic mail without the consent of the user.
+The College will do so when it believes it has a legitimate business need including, but not limited to, the following:
+In the course of an investigation triggered by indications of misconduct or misuse;
+As needed to protect health and safety of students, employees or the community at large;
+Policy 7.2 Page of C. As needed to prevent interference with the College s academic mission
+As needed to locate substantive information required for College business that is not more readily available
+As needed to respond to legal actions; and F. As needed to fulfill the College s obligations to third parties, including public record requests.
+Electronic mail, including that of students, may constitute "educational records" as defined in the Family Educational Rights and Privacy Act( FERPA).
+Electronic mail that meets the definition of educational records is subject to the provisions of FERPA.
+The College may access, inspect and disclose such records under conditions set forth in FERPA.
+North Carolina law provides that communications of College personnel that are sent by electronic mail may constitute correspondence and, therefore, may be considered public records subject to public inspection under the North Carolina Public Records Act.
+Electronic files, including electronic mail, that are considered public records are to be retained, archived and/or disposed of in accordance with current guidelines established by the North Carolina Department of Cultural Resources or otherwise required by College policy 7.3.
+
+PRIVATE EMPLOYEE WEBSITES AND OTHER INTERNET USE When creating or posting material to a webpage or other Internet site, including social media, apart from the College's website or approved ancillary external site or page, employees should remember that the content may be viewed by anyone including community members, students and parents.
+When posting or creating an external website, students, faculty and staff are not permitted to use the College s name in an official capacity or use the College s marks, logos or other intellectual property.
+Employees are to maintain an appropriate relationship with students at all times.
+Having a public personal website or online networking profile or allowing access to a private website or private online networking profile is considered a form of direct communication with students.
+Any employee found to have created and/or posted content on a website or profile that has a negative impact on the employee's ability to perform his/her job as it relates to working with students and the community or that otherwise significantly disrupts the efficient and effective operation of the College may be subject to disciplinary action up to and including dismissal.
+Policy 7.2 Page of
+VIOLATIONS Each individual is ultimately responsible for his/her own actions.
+For employees, failure to exercise responsible, ethical behavior will result in disciplinary action up to and including dismissal.
+Students may be sanctioned according to procedures described in the Code of Student Conduct and other users may be barred permanently from using College computers and network access and suspended or expelled.
+Certain activities violate Federal and/or State laws governing use of computer systems and may be classified as misdemeanors or felonies.
+Those convicted could face fines and/or imprisonment.

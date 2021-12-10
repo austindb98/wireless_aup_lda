@@ -1,0 +1,45 @@
+These shared resources are critical to Bryn Mawr College and its community.
+It is important that all members of our community access and use them appropriately with understanding and respect for individual and communal rights and responsibilities.
+Policies governing access to LITS resources are made with the guiding principle that providing good service to the community as a whole will always be the priority.
+This policy applies to all users including faculty, students, staff, affiliates, guests, and visitors using College LITS resources and to all systems owned by the College and any systems connecting to the College s network.
+Use of College systems or LITS resources signifies your understanding of and agreement with these terms.
+All use of IT resources must adhere to these principles: Be mindful of the shared nature of College IT resources and your impact on the ability of others to use them effectively.
+Be consistent with the purpose of the resources, namely the academic mission of the College and College s operational requirements.
+Respect the College's name and reputation in your electronic communications.
+Be a good citizen; you must comply with local, state and federal laws, observe copyrights, licenses, contracts, and College policies.
+Prohibited practices include, but are not limited to: Sharing your account or password.
+This includes everyone: family members, friends and associates, and members of the Bryn Mawr community.
+You will never be asked for your password by Bryn Mawr College Library & Information Technology Services and you should be suspicious of anyone that requests
+Because your username and password constitute a legally binding unique identity, you are responsible for any action, authorized or unauthorized, performed using your credentials.
+Do not permit visitors you are hosting to engage in prohibited or illegal activities, and do not register unknown individuals on the network Accessing or attempting to access communications or IT resources for which you are not authorized.
+Transmitting or disseminating a virus, worm, Trojan horse or other harmful software.
+Downloading, possessing, or sharing copyrighted materials in violation of US copyright law.
+Transmitting unauthorized bulk communications(spam), either within the College or to the outside world.
+Sending forged, threatening, or harassing communications.
+Using IT resources for commercial, for-profit, or promotional activities unrelated to the mission of the College.
+Tampering with, damaging, or disrupting College IT resources, services, or equipment.
+Profiting from or reselling College services or access without express authorization.
+Using personal wireless access points/routers, wired switches, or any device configuration allowing network sharing.
+Excessive use of any IT resources, especially in ways that impact others ability to make effective use of these shared resources or cause significant cost to the College The College reserves the right to disconnect or disable, without warning or prior notice, any computer, account, or service that poses a security or performance threat to College resources or services or that otherwise violates College policies.
+Access may be later restored after the incident has been reviewed and the risk mitigated or eliminated.
+Library & Information Technology Services personnel are authorized to monitor IT resources, investigate suspected violations, and examine items stored on or in any College IT resource.
+Devices operating in violation of this policy may be confiscated.
+Repeated or serious violations are grounds for permanent account loss or complete loss of College network access.
+Posting your credentials or leaving them in plain view or an easily discovered location constitutes a security risk to the College and will result in immediate loss of access, pending review.
+Follow the password safety guidelines posted on our Tech Documentation blog.
+Recreational and personal use of the network is permitted, but the College reserves the right to shape or otherwise bias the network in favor of the academic and operational mission of the College.
+The College does not guarantee that all devices will be able to connect to or operate with the data network.
+For personally owned computers and mobile devices, it is the owner s responsibility to ensure that his or her device is fully updated and is protected against viruses, malware, and other threats.
+Should a computer or mobile device become infected or experience a problem which causes disruption on the College network, its connection will be disabled until the problem can be resolved to the satisfaction of Library & Information Technology Services staff.
+Violations of this policy will be subject to disciplinary action or referral to law enforcement where applicable.
+Students, faculty, staff, affiliates, and guests should be aware that prosecution and/or significant fines or financial penalties may occur if the law is violated.
+Intentional or accidental violators of College policies risk loss of access to some or all College IT resources.
+Blatant or repeat offenders will be reported to the appropriate College office for action.
+Students, faculty, staff, affiliates, and guests should be aware that the College will honor any legal requests for information pertaining to any violations.
+All computer and network users need to be aware of the College DMCA policy and the possible ramifications of violating this law.
+This policy addresses common situations.
+Individuals are expected to use College IT resources responsibly, whether or not there is a guideline addressing the specific situation.
+Additional limitations or prohibitions may exist in departmental facilities.
+Individuals are responsible for adhering to these policies and observing posted guidelines.
+Refer all inquiries to the specific department.
+If you have questions or concerns, please contact help@brynmawr.edu.

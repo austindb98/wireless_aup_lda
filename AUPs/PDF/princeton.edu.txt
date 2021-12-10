@@ -1,0 +1,13 @@
+As a visitor to our campus, please feel free to access our Visitor Wireless Service from your personal computer.
+This service is extended to all short-term visitors and is available in wireless areas across campus, including areas in the Frist Campus Center, Friend Center, and E-Quad.Note: Use of the Visitor Wireless Service constitutes your agreement to abide by the University s acceptable use policy.
+Once you access the Internet, please see the Guidelines for Use Policy at www.princeton.edu/guidelines.
+To get started using Visitor Wireless:1.
+Verify that you are in a wireless service area.
+Check your wireless network signal for the visitor s wireless network named puvisitor.
+
+Con gure your wireless network settings to access puvisitor.
+For computers set to use the Classic Start Menu, select Settings, Network Connections.)
+Right-click on Wireless Network Connection, and select View Available Wireless Networks. Select puvisitor from the list of available wireless networks.
+Click the Connect button.Helpful Hints: Ensure that your wireless card is set to obtain its IP information via DHCP. For a map of wireless areas on campus, see www.princeton.edu/wirelessmap. More information about Visitor Wireless is available at www.princeton.edu/visitorwireless.Need Assistance?
+Call the OIT Help Desk at 258-HELP and speak with a Help Desk Specialist around the clock from Sunday, p.m. to Friday, p.m. Get in-person assistance at the OIT Solutions Center in the Frist Campus Center(100-level).
+1/06

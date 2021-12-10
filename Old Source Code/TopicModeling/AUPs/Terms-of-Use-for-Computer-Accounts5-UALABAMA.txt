@@ -1,0 +1,339 @@
+IT
+ 
+G
+UIDANCE 
+L
+IBRARY
+ 
+ 
+ 
+IT
+ 
+U
+SE 
+P
+OLICY
+ 
+Terms of Use for Computer Accounts
+ 
+Policy regulating the use of UA c
+ompute
+rs and
+ 
+network
+ 
+resources.
+ 
+Effective as of: 
+7/1/2013
+ 
+Sponsor and Approvers:
+ 
+Scott Montgomery, 
+Ashley Ewing
+ 
+-
+ 
+Sponsors
+ 
+John McGowan
+, IT Governance 
+-
+ 
+Approvers
+ 
+Status of 
+Policy
+:  
+Published
+ 
+Audience:
+ 
+This IT 
+Policy must
+ 
+be observed by:
+ 
+Students  
+
+    
+Faculty  
+
+    
+Staff  
+
+    
+ 
+Contractors/suppliers  
+
+    
+ 
+Other (specify)  
+
+  
+
+.
+ 
+Statement of need and purpose:
+ 
+It is possible to use computer accounts on the UA network in ways that violate legal statute
+s
+ 
+or 
+University policies.  This
+ 
+IT Pol
+icy has been created to clarify the 
+terms governing the use of UA 
+computer
+s and network resources
+.
+  
+All users of UA computer and network resources are required by 
+federal, state, and/or local law and/or established formal policies of The University of Alabama to 
+comply with all of the provis
+ions of this policy.
+ 
+Further discussion of computer and network use may be found in the Computer and Network Use 
+General Guidelines IT Guideline document.
+ 
+Policy
+:
+ 
+1.
+ 
+A user account is created for each user of UA computer and network resources.  
+Each account
+ 
+is 
+for the exclusive use of the individual to whom it was assigned and users may not allow or 
+facilitate access, including by a proxy or anonymous remailer, to University computer accounts, 
+equipment, or restricted files or systems by others.  Authorized 
+users are
+ 
+current
+ 
+University 
+faculty or staff, currently enrolled students, and
+ 
+departmental
+ly 
+sponsored
+ 
+retirees
+ 
+unless their 
+access privileges have been revoked by the University.  Divisions and departments may also 
+
+IT Guidance 
+-
+ 
+Policy
+ 
+2
+ 
+ 
+authorize 
+and fund 
+temporary accounts 
+for use by non
+-
+University personnel 
+including retirees, 
+strictly for the purpose of conducting University business
+, subject to annual recertification.
+ 
+2.
+ 
+There are different types of user accounts based on user status, role, and areas of responsibility.  
+User
+s may perform only those activities 
+for 
+which they are authorized 
+and must not attempt to 
+circumvent or defeat account usage restrictions.
+ 
+3.
+ 
+User activities
+ 
+may not violate any policy of the University.
+ 
+4.
+ 
+The use must not result in commercial gain or benefit t
+o the user and cannot constitute 
+consulting for a business or running a business. Network pages or sites may not promote 
+commercial activities or display paid advertising. 
+ 
+Alabama Code 36
+-
+25
+-
+5(a) provides as follows:
+ 
+No public official or employee shall 
+use an official position or office to obtain direct personal 
+financial gains for himself, or his family or any business with which he or a member of his family 
+is associated unless such use and gain are specifically authorized by law.
+ 
+Any person subject to
+ 
+this chapter who knowingly or willfully violates any disclosure 
+requirement of this chapter shall be found guilty of a misdemeanor, and shall be punished by a 
+fine of $10.00 a day for each day the appropriate disclosure statement is delinquent or the 
+prop
+er information is unreported, not to exceed $1,000.00 annually.
+ 
+5.
+ 
+The use may not imply or state University sponsorship or endorsement, nor use University 
+
+ 
+6.
+ 
+The use may not violate state laws
+ 
+or University policies on the use of University equipment, 
+resources, or time for political activities.
+ 
+7.
+ 
+The use may not violate laws or University policies against discrimination or harassment due to 
+race, sex, religion, disability, age, or other protecte
+d status.
+ 
+8.
+ 
+The use may not violate any copyright or license agreements.
+ 
+9.
+ 
+The following forms of communication are prohibited by legal statute or University Policy:
+ 
+
+ 
+Obscenity
+ 
+
+ 
+Defamation
+ 
+
+ 
+Advocacy directed to incite or produce lawless action
+ 
+
+ 
+Threats of violence
+ 
+against person(s) or property
+ 
+
+ 
+Disruption of the academic environment
+ 
+
+ 
+Harassment based on sex, race, disability, or other protected status
+ 
+
+ 
+Anonymous or repeated messages designed to annoy, abuse, or torment
+ 
+
+ 
+False information about academic or administrativ
+e policies or issues
+ 
+
+ 
+Messages offensive to the receiver because of their pointlessly hateful, obscene, or 
+libelous 
+content
+ 
+10.
+ 
+Use may not 
+access, 
+
+work product without permission of its 
+owner.
+ 
+ 
+Under Alabama Code 13A
+-
+8
+-
+102, it is a crime to 
+attempt or achieve access to, communication of, examination of, or modification of, to destroy, 
+or to disclose, use, or take data, computer programs or supporting documentation
+ 
+without the 
+permission o
+f the owner
+.
+ 
+ 
+ 
+11.
+ 
+Use may not involve the intentional introduction
+ 
+of 
+destructive software, such as programs 
+known as computer viruses, Trojan horses, or worms, into any 
+UA 
+computer, computer system, 
+or network.
+ 
+
+IT Guidance 
+-
+ 
+Policy
+ 
+3
+ 
+ 
+12.
+ 
+The use must not involve sending of soliciting 
+chain letters, nor may it involve sending 
+
+ 
+13.
+ 
+The use may not involve disclosure of passwords or identifying data that attempts to circumvent 
+system security or in any way attempts to gain unauthor
+ized access.
+ 
+14.
+ 
+A web site or page or personal collection of electronic material that is accessible to others must 
+
+this page are those of the author or organizati
+on and are not necessarily those of The University 
+of Alabama or its officers or trustees. The content of this page has not been reviewed or 
+approved by The University of Alabama, and the author or organization is solely responsible for 
+
+ 
+The U
+
+
+over University equipment or networks.  
+ 
+Compliance: 
+ 
+Compliance
+ 
+to IT Policies is mandatory.   IT Policies cover legal and regulatory compliance to Federal, 
+State, or Local statutes or University regulations.  
+Enforcement
+ 
+is performed by duly authorized 
+authorities such as the UA Police and is both proactive and reactive and may include professional 
+sanctions, disciplinary action, termination, and/or legal prosecution.
+ 
+ 
+

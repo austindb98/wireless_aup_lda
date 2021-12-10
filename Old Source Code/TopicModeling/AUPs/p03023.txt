@@ -1,0 +1,374 @@
+ 
+MANUAL OF UNIVERSITY POLICIES
+ 
+PROCEDURES AND GUIDELINES
+ 
+Number:
+ 
+3
+-
+23
+ 
+Page
+ 
+1
+ 
+of
+ 
+2
+ 
+ 
+ 
+ 
+ 
+Title/Subject:
+ 
+DIGITAL COMMUNICATION
+ 
+ 
+ 
+Applies to:
+ 
+ 
+faculty
+ 
+ 
+staff
+ 
+ 
+students
+ 
+ 
+student employees
+ 
+ 
+visitors
+ 
+ 
+contractors
+ 
+Effective Date of This Revision:
+ 
+September 1, 2007
+ 
+ 
+ 
+Contact for Mor
+e Information:
+ 
+Office of Information Technology
+ 
+ 
+ 
+ 
+Board Policy
+ 
+ 
+Administrative Policy
+ 
+ 
+Procedure
+ 
+ 
+Guideline
+ 
+ 
+POLICY:
+ 
+ 
+Central Michigan University
+ 
+provides 
+its faculty, staff, and students with the means to communicate electronically with 
+others, and it is the policy of CMU to exercise exclusive management rights to the methods and means of such 
+communication.  No faculty member, staff member, or student may 
+develop and/or use an electronic mailing list or otherwise 
+communicate electronically in a fashion inconsistent with the purposes and procedures 
+that 
+are described below in this 
+document.  These procedures 
+articulate the audiences to which CMU students and
+ 
+employees may freely communicate
+ 
+using 
+CMU digital communication resources 
+and identifies ways that CMU students and employees might communicate with those 
+audiences to which they, through this same policy, would not ordinarily have access.
+  
+ 
+ 
+This policy
+ 
+
+specific audiences are encouraged to develop internal policies, procedures, and/or guidelines to govern communications to 
+their audience(s).
+ 
+ 
+BACKGROUND:
+ 
+ 
+CMU recognizes the efficiency of employing digital communications among its students and employees.  Digital 
+communication saves time, saves money, and is often the fastest, most effective method of communication among members 
+of the CMU com
+munity.  At the same time, digital communications can easily be abused, and an email that seems useful and 
+
+sometimes troublesome, t
+he real issue emerges with regard to bulk or group communications, and it is this type of 
+communication to which this policy specifically refers. 
+ 
+ 
+PROCEDURES:
+ 
+ 
+Part I:  Opportunities for the CMU student or employee to employ digital communications
+ 
+ 
+Any fa
+culty member, staff member, or student may develop a mailing list or otherwise communicate electronically 
+
+supervisory, collaborative, or instructi
+onal relationship.
+  
+For example, a business officer may maintain a mailing list of 
+her/his direct reports or the employees in her/his division or department, a faculty member may maintain a mailing list of th
+e 
+students in each of her/his classes or a lists
+erv list of her/his advisees, or a committee chair may develop a SharePoint site or 
+WebEx room for the use of members of her/his committee. The CMU Help Desk (989.774.3662) is available to provide 
+assistance with the various forms of digital communication 
+available to CMU faculty, staff, and students.
+ 
+ 
+Part II:  Special audiences and their owners
+ 
+ 
+
+Authority:
+ 
+M. Rao, President
+ 
+History:
+ 
+No Prior History
+ 
+Indexed as:
+ 
+Announcements; Electronic Communication; Group Communications
+-
+Digital; Listserv; Mailing Lists
+-
+Digital
+ 
+ 
+ 
+ 
+ 
+ 
+Number:
+ 
+3
+-
+23
+ 
+
+ 
+MANUAL OF UNIVERSITY POLICIES
+ 
+PROCEDURES AND GUIDELINES
+ 
+Number:
+ 
+3
+-
+23
+ 
+Page 
+2
+ 
+of
+ 
+2
+ 
+ 
+ 
+ 
+ 
+Title/Subject:
+ 
+DIGITAL COMMUNICATION
+ 
+ 
+ 
+only employ digital communications with these audien
+
+  
+These 
+special audiences and their owners are noted in the table below.  Some audience owners (those with active links in the chart 
+below) maintain formal policies, procedures, and guidelines that outline 
+the variety of electronic communication methods 
+available, the process to be employed for obtaining approval, formatting instructions, and deadlines.  
+Users can follow the 
+links below to access these policies.  In other cases, a phone call to the appropria
+te office should provide the needed 
+information.
+ 
+ 
+DESCRIPTION
+ 
+AUDIENCE OWNER
+ 
+CONTACT
+ 
+Daily announcement to all faculty and staff
+ 
+University Communications
+ 
+989
+.774.3197
+ 
+All Faculty and Staff
+ 
+Human Resources
+ 
+989.774.
+2264
+ 
+Professional & Administrative Staff
+ 
+Human Resources
+ 
+989.774.
+2264
+ 
+Office Professional Staff
+ 
+Human Resources
+ 
+989.774.
+2264
+ 
+Sup
+ervisory Technical Staff
+ 
+Human Resources
+ 
+989.774.2264
+ 
+Broadcasting Staff
+ 
+Human Resources
+ 
+989.774.2264
+ 
+Police Staff
+ 
+Human Resources
+ 
+989.774.2264
+ 
+Service Maintenance Staff
+ 
+Human Resources
+ 
+989.774.2264
+ 
+Faculty and Staff with Supervisory Responsibility
+ 
+Human Resources
+ 
+989.774.2264
+ 
+Senior Staff
+ 
+Human Resources
+ 
+989.774.2264
+ 
+Senior Officer Staff
+ 
+Human Resources
+ 
+989.774.2264
+ 
+Regular Faculty Staff
+ 
+Faculty Personnel 
+Services
+ 
+989.774.3368
+ 
+Temporary Faculty Staff
+ 
+Faculty Personnel Services
+ 
+989.774.3368
+ 
+Academic Department Chairs
+ 
+Faculty Personnel Services
+ 
+989.774.3368
+ 
+All Graduate Students
+ 
+Faculty Pe
+rsonnel Services
+ 
+989.774.3368
+ 
+All Prospective Students
+ 
+Enrollment and Student Services
+ 
+989.774.1169
+ 
+All Students
+ 
+Enrollment and Student Services
+ 
+989.774.1169
+ 
+Global Campus Faculty, Staff, Students and Prospective Students
+ 
+Global Campus
+ 
+989.774.4456
+ 
+Al
+l Main Campus Students
+ 
+Enrollment and Student Services
+ 
+989.774.3346
+ 
+CMU Alumni
+ 
+Alumni and Development
+ 
+989.774.3312
+ 
+ 
+ 
+Part III:  Bulk email communication
+ 
+ 
+CMU maintains and uses a combination of tools, including Maestro and Listserv, to support mailings 
+to groups within the 
+
+distribution tools and strategies is discouraged and may result in blocked or incomplete mail distribution.  The CM
+U Help 
+Desk (989.774.3662) is available to provide assistance with the various forms of digital communication available to CMU 
+faculty, staff, and students.
+ 
+ 
+ 
+ 
+ 
+Central Michigan University reserves the right to make exceptions to, modify or eliminate this
+ 
+policy and or its 
+content.  This document supersedes all previous policies, procedures or guidelines relative to this subject.
+ 
+ 
+

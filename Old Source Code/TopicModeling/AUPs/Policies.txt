@@ -1,0 +1,80 @@
+MENUIT@SDSU (/)Navigate this Section !  Policies
+Information for Campus Network UseSDSU Computing Network AccessSDSU provides wired and wireless network connections to faculty, sta
+!
+, students, and selectedguests. SDSU recognizes a policy of acceptable and appropriate use for your SDSU networkconnection. By connecting to or using an SDSU network connection, you agree to abide thesepolicies. Furthermore, you agree to accept responsibility 
+for any misuse by other individuals whouse your computer or network connection. In addition, you must abide by all other campus andCalifornia State University policies 
+as well as current state and federal law. 
+Network LimitationsAll residential housing and wireless networks on campus are protected by Þrewalls 
+to ensure fairuse of the network resources and that potential security intrusions from the Internet are limited. Allnetwork use is logged.Residential network and wireless connections provide outbound connections to the Internet 
+andcampus. Inbound connections from the Internet to your computer are not permitted by the Þrewall.Running servers on your computer accessible from the Internet is not allowed. Due to these " (/)/Information Security (/security)/Policies
+
+limitations, some applications may not be available through the Þrewall or may be administrativelyblocked. 
+User LimitationsIt is the responsibility of each registered network user to use SDSU computer and networkresources appropriately by showing common sense, common courtesy, and a respect 
+for the rightsor property and privacy of the university and other users. Access is a privilege that can be revoked
+due to misuse.
+The Digital Millennium Copyright Act (DMCA)
+The DMCA is a copyright law that was enacted by the United States Congress and signed 
+by thePresident in 1998. This law requires SDSU to promptly block access to the infringing material if theuniversity receives a notiÞcation claiming infringement from a copyright holder or the copyrightholder's agent. Over 99% of DMCA  notices received by the 
+university are for illegal music andmovie sharing. If SDSU receives a DMCA notice 
+claiming infringement of copyright, the o!endingcomputer will be blocked from SDSU's 
+networks.
+Violations of the Acceptable Use Policy will be adjudicated by Judicial Procedures 
+O"ce, Business
+A
+!airs, Academic A
+!airs, SDSU Human Resources, or law enforcement 
+o"cials as appropriate.
+The SDSU Technology Security O
+"cer may temporarily suspend network privileges of any SDSUuser while suspected violations are being investigated or adjudicated.User Responsibilities include the following:
+The university's networks are shared resources. Excessive use of network resources, 
+whichinhibits or interferes with the use of these networks by others, is not permitted.
+Users may not run any programs that interfere with SDSU computing or network services. Inparticular, SHCP and proxy servers are expressly forbidden.
+Users must follow proper SDSU network registration procedures. Users may not use or spoofany network address not speciÞcally assigned to them by the university.
+Any use, receipt, or transfer of software or data must observe copyright laws, license
+restrictions and university policies. SDSU may not be used to provide Internet access to anyone not formally a"liated with theuniversity. Connections to your computer from outside the university, either 
+directly or viaproxy, are not allowed.
+SDSU may not be used for commercial or proÞt-making enterprise. Use of these resources
+for commercial gain is in opposition to the non-proÞt status of the university.
+SDSU services, equipment, wiring or jacks may not be altered nor extended beyond the
+location of their intended use.
+
+ Users may not use SDSU to attempt to circumvent protection schemes or exercise security
+loopholes in any computer or network component.Viewing, copying, altering, or destroying any Þle, or connecting to a host on a network
+without explicit permission of the owner is a violation of this policy. Unauthorized 
+networksni!ers are forbidden and violate federal wiretap laws.Users may not share university system passwords, use another person's account, even 
+withpermission, or allow use of an established connection by someone other than the registereduser.
+Users may not forge or otherwise misrepresent another's identity through any form 
+ofcommunication.University network resources may not be used to defame, harass, intimidate, or threaten 
+anyother person(s). University harassment policies cover all uses of the SDSU network, includingemail correspondence and newsgroups. (https://www.sdsu.edu)
+5500 Campanile DriveSan Diego, CA 92182
+#619-594-5200 (tel:1-619-594-5200) A-Z Index
+ (http://arweb.sdsu.edu/es/departmental/)
+Campus Directory (https://directory.sdsu.edu/)
+Maps (http://www.myatlascms.com/map/index.php?id=801)
+Parking
+ (https://bfa.sdsu.edu/campus/parkingtrans/parkinginfo.aspx)
+Employment (https://jobs.sdsu.edu)
+Media Relations
+ (https://marcomm.sdsu.edu/media-relations)
+Give to SDSU (https://securelb.imodules.com/s/997/campaign13/index.aspx?sid=997&gid=1&pgid=3034)
+WebPortal
+ (https://sunspot.sdsu.edu/pls/webapp/web_menu.login/)
+
+Network Status
+ (https://status.sdsu.edu/)
+General Contact (https://ou-resources.sdsu.edu/forms/general-contact)
+Contact Admissions (https://ou-resources.sdsu.edu/forms/contact-admissions)
+Newsletter Sign Up (http://www.sdsualumni.org/s/997/sc/community.aspx?
+sid=997&gid=46&pgid=4175&cid=10068&post_id=0)Copyright © 2018 San Diego State University
+$ indicates links which require an 
+SDSUid (http://sdsuid.sdsu.edu/)
+.Accessibility Contact (https://ou-resources.sdsu.edu/forms/accessibility)
+SDSU Digital Privacy Statement
+ (https://sdsu.edu/digitalprivacy)
+Feedback (http://it.sdsu.edu/forms/feedback.aspx)
+Last Updated 12/19/17
+ (http://a.cms.omniupdate.com/10?
+skin=sdsu&account=it&site=it&action=de&path=/security/policies.pcf)
+Document Reader
+ (https://ou-resources.sdsu.edu/document-viewers)
+

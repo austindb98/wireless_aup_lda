@@ -1,0 +1,58 @@
+Access to computers, computing systems, and networks owned by Concordia University Wisconsin is a privilege which imposes certain responsibilities and obligations and which is granted subject to university policies and codes, and local, state and federal laws.
+All users of these resources must comply with specific policies and guidelines governing their use, and act responsibly while using shared computing, network resources and wireless resources.
+The purpose of this policy is to promote the efficient, ethical, and lawful use of the Concordia University Wisconsin s computer and network resources.
+Scope This policy applies to all users of Concordia University Wisconsin computing and network resources, whether initiated from a computer and/or network device located on or off campus.
+Policy Statement Individuals using computer resources belonging to Concordia University Wisconsin must act in a responsible manner, in compliance with law and University policies, and with respect for the rights of others using a shared resource.
+The right of free expression and academic inquiry is tempered by the rights of others to privacy, freedom from intimidation or harassment, protection of intellectual property, ownership of data, and security of information.
+Acceptable Use Guidelines The specific usage guidelines that follow are not intended to be comprehensive, but rather to establish and clarify the intent of this policy.
+Situations not enumerated here will inevitably arise, and they should be interpreted according to the spirit of this policy.
+Each person using the Concordia University Wisconsin s computer and network resources should: Take no actions that violate the Codes of Conduct and Academic Integrity, Student Conduct Code, or other applicable policy or law.
+This is not a comprehensive list of applicable University policies.
+In the event of a conflict between policies, the more restrictive use policy shall govern.
+See the following related manuals/documents for more information: Student Conduct Code Use security measures to protect the integrity of information, data, and systems.
+Users shall protect their computer systems and accounts by using strong passwords, installing anti-virus software consistent with management directives and keeping such software, as well as the operating system and application security patches, up to date.
+Users are responsible for safeguarding their identification codes and passwords, and only using them where authorized.
+Examples of misuse include using a computer account and/or obtaining a password that you are not authorized to use, using the campus network to gain unauthorized access to any computer system and using a "sniffer" or other methods in an attempt to "crack" passwords.
+Clearly and accurately identify one s self in electronic communications.
+Do not forge or misrepresent one s identity.
+Concealing or masking the identity of electronic communications such as altering the source of an email message by making it appear as if the message was sent by someone else is a violation of this policy.
+Use computer and network resources efficiently.
+Computing resources are finite and must be shared.
+Users may use the University s computer and network resources for incidental personal purposes, provided that such use does not(A) unreasonably interfere with the use of computing and network resources by other users, or with the University s operation of computing and network resources;(B) interfere with the user s employment or other obligations to the University; or(C) violate this policy or other applicable policy or law.
+The university retains the right to set priorities on use of the system, and to limit recreational or personal uses when such uses could reasonably be expected to cause, directly or indirectly, strain on any computing facilities, or to interfere with research, instructional or administrative computing requirements, or to violate applicable policies or laws.
+Examples of inappropriate use include sending unsolicited e-mails, newsgroups, or other means(SPAM), sending chain letters or engaging in pyramid schemes, large downloads of illegal material(music or movies) etc. Do not harass or intimidate or use computer and network resources for unlawful acts.
+The University, in general, cannot and does not wish to be the arbiter of content maintained, distributed or displayed by users of the University s computing and network resources.
+For example, the University, in general, cannot protect users from receiving e-mail they may find offensive.
+Using the University s computer or network resources for illegal activities, however, is strictly prohibited.
+Unlawful use of University computer and network resources can expose the individual user and the University to damage claims, or potential criminal liability.
+Unlawful uses may include, but are not limited to: harassment and intimidation of individuals on the basis of race, sex, religion, ethnicity, sexual orientation or disability; obscenity; child pornography; threats; theft; attempting unauthorized access to data; attempting to breach security measures on any electronic communications software or system; attempting to intercept electronic communication transmissions without proper authority; and violation of intellectual property or defamation laws.
+Do not use computer systems to send, post, or display abusive, slanderous or defamatory messages, text, graphics, or images.
+By using the University s computer and network services, each user accepts the responsibility to become informed about, and to comply with, all applicable laws and policies.
+The use of university computer resources and networks is for legitimate academic or administrative purpose.
+Incidental personal use is permissible to the extent that it does not violate other provisions of this policy, interfere with the performance of employee s duties, or interfere with the education of students at the university.
+Use of your computer account or the network for commercial activities that are not approved by appropriate supervisory University personnel consistent with applicable policy, or for personal financial gain(except as permitted under applicable academic policies) is prohibited.
+Examples of prohibited uses include using your computer account for engaging in unauthorized consulting services, software development, advertising products/services, and/or other private commercial activity.
+Respect copyright and intellectual-property rights.
+Users must adhere to the U.S.
+Copyright Act, and the terms and conditions of any and all software and database licensing agreements.
+Any form of original expression fixed in a tangible medium is subject to copyright, even if there is no copyright notice.
+Examples include music, movies, graphics, text, photographs, artwork and software, distributed in any media -- including online.
+The use of a copyrighted work(such as copying, downloading, file sharing, distribution, public performance, etc.)
+requires either(A) the copyright owner s permission, or(B) an exemption under the Copyright Act.
+The law also makes it unlawful to circumvent technological measures used by copyright owners to protect their works.
+Copyright infringement exposes the user, and possibly the University, to heavy fines and potential criminal liability.
+Therefore, without limitation of other possible sanctions, the University may refuse, suspend and/or terminate computer and network access, with respect to any user who violates the copyright law, or who uses the University s computer or network resources contrary to the terms of the University s software or database license agreements.
+See the following related document for more information: United States Copyright Office http://www.loc.gov/copyright Respect University property.
+Misuse of university property includes, but is not limited to, theft or damage of equipment or software, knowingly running or installing computer viruses or password cracking programs, attempting to circumvent installed data protection methods that are designed and constructed to provide secure data and information, or in any way attempting to interfere with the physical computer network/hardware, or attempting to degrade the performance or integrity of any campus network or computer system.
+Make only appropriate use of data to which you have access.
+Authorized university personnel(e.g.
+system, network and database administrators, among others) may have access to data beyond what is generally available.
+Privileged access to data may only be used in a way consistent with applicable laws, University policies, and accepted standards of professional conduct.
+Those who have access to databases that include personal information shall respect individual privacy and confidentiality, consistent with applicable laws and University policies regarding the collection, use and disclosure of personal information.
+Users should be aware however that state laws and university policies, guidelines and regulations may prevent the protection of certain aspects of individual privacy.
+Both the nature of electronic communications, and the public character of the University s business make certain uses less private than users may anticipate.
+For example,, in certain circumstances, the University may permit the inspection, monitoring or disclosure of e-mail, consistent with applicable laws and with the University s Electronic Mail Policy.
+Respect and adhere to other departmental/college/Internet Service Provider's acceptable use policies.
+When using a university computer system and/or network to connect to a non Concordia University Wisconsin system or network, adhere to the prevailing policies governing that system or network.
+This does not in any way release your obligation to abide by the established policies governing the use of Concordia University Wisconsin computer systems and networks.
+Consequences of Misuse and/or Non-Compliance Users who misuse University computing and network resources or who fail to comply with the University s written usage policies, regulations and guidelines are subject to one or more of the following consequences: Temporary deactivation of computer/network access Permanent deactivation of computer/network access Disciplinary actions taken by the Office of the Vice President of Student Life up to and including expulsion from school or termination of employment Subpoena of data files Legal prosecution under applicable Federal and State laws Possible penalties under the law, including fines and imprisonment Violations, complaints and questions should be reported to the Director of Computing Operations at 262.243.4526.

@@ -1,0 +1,47 @@
+Policy Purpose The use of Information Technology resources at the University of Wisconsin-Stevens Point is a privilege and carries with it the responsibility for making use of these resources in a secure, efficient, ethical, and legal manner.
+The purpose of this policy is to protect the well being of students and employees by outlining the acceptable use of information technology resources at UWSP.
+As the use of Information Technology resources at work, from home, and from remote locations continues to expand, it is important that everyone understand what is acceptable use and the difference between personal and university business use.
+Inappropriate use exposes UWSP to risks which may compromise our network systems and services or result in legal issues.
+NOTE: Phrases shown in italics at their first occurrence in this document are defined in the associated IT Common Definitions Policy document)
+Policy Scope All users of the Information Technology resources are responsible for respecting and adhering to the policies outlined in this document.
+Information technology resources include but are not limited to networks, computers, servers and workstations, software, e-mail accounts, internet access and university data.
+This document presents policies that apply in general to the use of information technology resources.
+Policy documents related to specific resources, such as e-mail, web page creation, etc., may be found on the Information Technology policy website at http://www.uwsp.edu/it/about/policies/.
+
+Policy Statement Use of information technology resources must be consistent with the University's mission and with its role as a public agency.
+Regulations that govern personal conduct and use of university facilities such as University handbooks also apply to the use of Information Technology resources.
+The governing policy on Use of University Information Technology Resources is the Board of Regents Policy, available at http://www.uwsa.edu/bor/policies/rpd/rpd25-3.htm.
+Acceptable use of information technology resources at the University of Wisconsin Stevens Point is based on common sense and best practices.
+Each member of the university community is expected to protect the confidentiality and integrity of these resources and to know and adhere to university rules, regulations and guidelines for their appropriate use.
+Acceptable Use of Information Technology Resources Page of University of Wisconsin -Stevens Point The following lists provide examples of acceptable and unacceptable uses that are most often misunderstood.
+Acceptable Use Student use of university-owned technology for personal, non-instructional purposes is acceptable.
+Faculty and staff use of technologies and services that integrate professional, educational, work, and personal purposes is acceptable.
+Examples of where integrated uses could occur include:
+o professional social networking using your professional or personal account o use of social networking for instruction or outreach o use of internet resources such as virtual worlds or gaming sites for instruction or outreach o loosely affiliated professional organization email lists Incidental( e., not extensive or recurring) personal use of university-owned technology by faculty and staff is allowed in order to make the use of information technology resources a natural part of daily work.
+Examples of allowable incidental personal uses of university-owned technology include:
+o infrequent personal social networking, email, web browsing, chatting, and instant messaging Unacceptable Use Extensive or recurring personal use of university-owned technology by faculty and staff is not acceptable.
+Examples of unacceptable personal uses of university-owned technology include:
+o frequent or extensive personal social networking, email, web browsing, chatting, instant messaging, gaming, etc.
+on university-owned computers and network Using the same logon/email account and/or password used at the university for non-university, external, or personal information technology services.
+Examples where you should not use your university logon/email account or password:
+o online or fantasy gaming for entertainment o personal email lists(e.g., coupon mailings, personal interest groups) o personal banking, shopping, eBay transactions, etc.
+Allowing anyone else(e.g., co-workers, friends, family, other household members) to use information technology resources under your name or logon.
+Acceptable Use of Information Technology Resources Page of University of Wisconsin -Stevens Point Any activity that is illegal under local, state, federal, or international law.
+Examples include:
+o illegal sharing of music, video and software files o any form of harassment via email, telephone or text messaging o online gambling and gaming Unauthorized activities such
+o impersonating a UWSP student or employee by applying for a logon ID under false pretenses, o forgery(or attempted forgery such as "e-mail address spoofing") of electronic mail messages, identity or logons, o copying of programs, files, or passwords belonging to others or to the university Causing security breaches or disruptions of network communication, including:
+o using programs to decipher encrypted password files, or network traffic o unauthorized connections to the university network or from remote networks o any action which deliberately damages or disrupts network services, or causes the malfunction of network services o the willful introduction of computer viruses or other destructive/disruptive programs into the university computing and network facilities o port scanning or security scanning Using information technology resources for unauthorized commercial or personal business purposes is prohibited, such as marketing, reselling of computing facilities, product advertisement, or business transactions between commercial organizations.
+Building and providing any special network services, such as email, web, FTP, DNS/WINS/DHCP, or wireless networks, without first seeking authorization from InformationTechnology.
+Unacceptable Use(Faculty and staff only does not apply to students) Using information technology computers, email, network, or other technology for political activity or lobbying.
+Investigation and Enforcement Information Technology will report all known illegal activities to the appropriate campus, local, state, and/or federal offices.
+All instances of improper use and conduct will be investigated and actions may be taken to prevent their further occurrence.
+Upon request by the appropriate campus authority or subpoena, designated information technology staff members may be directed to copy and examine files, network access logs, electronic mail boxes or other information on campus computing and network systems.
+Improper use of information technology resources may lead to disciplinary action.
+While Information Technology may suggest what actions could be taken to protect UWSP computing and
+Acceptable Use of Information Technology Resources Page of University of Wisconsin -Stevens Point network resources, Information Technology will ask that the appropriate university office determine what final disciplinary action should be taken.
+Student cases will be referred to the Student Rights and Responsibilities Office, in accord with the University of Wisconsin System Administrative Code.
+
+Terms and Definitions A common set of terms and definitions used in IT policies are defined in the IT Common Definitions document.
+
+Related Policies, Procedures, References, and Attachments The collection of University of Wisconsin - Stevens Point - IT policies and procedures contain acceptable use, security, networking, administrative, and academic policies that have been developed to supplement and clarify University of Wisconsin - Stevens Point policy.
+IT policies and procedures are available at http://www.uwsp.edu/it/about/policies/.

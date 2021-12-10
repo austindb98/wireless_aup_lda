@@ -1,0 +1,183 @@
+  Acceptable Use of IT Resources 
+(Network and Computing) Policy             Effective Date:
+ July 1, 2007  Policy Statement
+ Columbia University requires that all indivi
+duals accessing University electronic information 
+resources to abide by the standards of accep
+table usage indicated within this policy. 
+ The University is not responsible for information or mate
+rials residing on non-University systems or available over publicly accessible ne
+tworks even if accessed via the University™s network.  Such materials do not necessarily refl
+ect the attitudes, opinions, or values of the 
+University, its trustees, f
+aculty, staff, or students.   The University reserves the right 
+to modify or amend this policy a
+nd to limit or restrict the use of 
+its electronic information resources
+ at its sole discretion.    Reason for the Policy Columbia University™s network and compu
+ting technology provides information, data, and 
+communication services. Responsible use of electronic information resources is necessary to 
+create and maintain an open community of responsible users based on mutual respect and 
+cooperation, commitment to the integrity of 
+resources and data, and compliance with all 
+University policies and federal, state, and local statutes. 
+ This policy defines acceptable usage of Columbia
+ University network and computing resources. 
+ Primary Guidance to Which This Policy Responds This policy is established under the provisions of Columbia University™s Information 
+Technology Security and Policy Program. 
+ Responsible University Office & Officer The office of Columbia University Informati
+on Technology Security is responsible for the maintenance of this policy, and for responding to
+ questions regarding this policy.  The Chief Information Security Officer (CIS
+O) is the responsible officer.  Revision History This policy was established in July 2007.  Who is Governed by This Policy This policy applies to all individuals who access, use, or 
+control University electronic 
+information resources.  Those individuals covere
+d include, but are not limited to staff, faculty, 
+students, those working on behalf of the University, guests, tenants, visitors, and individuals authorized by affiliated institutions and organizations.  
+  Who Should Know This Policy 
+All individuals governed by this policy should be familiar with it. 
+  Acceptable Use of IT Resources Policy - final  
+  Page 1 of 4 
+  Exclusions & Special Situations None  Policy Text  This policy establishes the expectations for all users of the University™s electronic information 
+resources and data.  It addresses the availability and integrity of resources in support of the 
+University™s missions, codifies a
+ppropriate usage, establishes the 
+need for users to respect the 
+rights of others and to be in compliance with 
+other University policies, policies of external 
+networks and resources, and all applicable federal, state, and local statutes. 
+ The University™s electronic information resour
+ces are provided to support the teaching, learning, 
+clinical, and research missions of the Universi
+ty and their supporting administrative functions. 
+Inappropriate use of these electronic information resources threatens the atmosphere for the 
+sharing of information, the free exchange of id
+eas, and a secure environment for creating and maintaining electronic 
+information resources. 
+   Appendix A provides a partial list of relevant statues regarding use of electronic information 
+resources.   Examples to assist with interpretation a
+nd administration of this policy are provided 
+in Appendix B - ﬁExamples of the Acceptable Use IT Resourcesﬂ at the end of this document
+.  Responsibilities  General  No University electronic information resour
+ce may be used for a purpose that violates 
+University statutes or regulations or for an illegal or criminal purpose. 
+ Use of the University electronic informa
+tion resources for commercial purposes, except where explicitly approved, are strictly prohibited. Prohibited uses include but are not limited to: development of programs, data 
+processing or computations for commercial 
+use, preparation and presentation of advertising material, or the running of a server 
+connected to the Un
+iversity network.   Many people use University systems and netw
+ork for daily work; therefore, obstructing this work by consuming excessive amounts 
+of system resources or by deliberately 
+crashing the machine(s) will not be tolerate
+d. Before running large jobs on a shared 
+system, perform due diligence by contacting the 
+administrator of the system to determine 
+if the job is permitted and how to minimi
+ze the impact. Network usage is continuously 
+monitored and excessive use will 
+be automatically restricted.  
+  Copying, storing, displaying, or distributing copyrighted ma
+terial using University systems or networks without the express permission of the copyri
+ght owner, except as otherwise allowed under copyright laws, is prohibited. Under the Federal Digital Millennium Copyright Act of 1998, repeat infr
+ingements of copyright
+ by a user can result in termination of the user's access to University systems and networks.  
+ Network use 
+ The owner of any device connected to the network is responsible for the security of and 
+traffic generated by that device. This includes any traffic, regard
+less of origin, that travels through such a device.  A device initiating 
+or transmitting an attack on other systems 
+Acceptable Use of IT Resources Policy - final  
+  Page 2 of 4 
+  (e.g., having fallen victim to a virus, worm, or
+ break-in) will be taken off the network immediately until it has been made secure.  
+ Unauthorized creation of any program, Web form, or other mechanism that asks for a 
+Columbia user identity and password 
+(e.g., UNI, CUNIX ID) is prohibited.    No University network may be used as a ve
+hicle to gain unauthorized access to other systems.  
+ Computing use  Immediately report any systems, which contai
+n information classified as confidential, 
+that have been compromised to CUIT Secur
+ity using the ﬁContactsﬂ information below. 
+To preserve any evidence of tampering or 
+misuse, do not use the 
+system until a systems 
+administrator has investigated the problem. 
+ Computer accounts provide access to persona
+l and confidential data. Therefore, individual accounts cannot be transferred to or used by another individual and sharing accounts or passwords is not permitted.  
+ Each user is responsible for the proper use of his or her account, protecting data, and any activity performed via their 
+user account. Therefore, choose strong passwords and safeguard them, ensure that file protections 
+are set correctly, and review last logon status (if available) to ensure your user account was not compromised.  
+ Unauthorized attempts to escalate privileges on a University system, or access to any 
+account or system not belonging to you are not permitted.  
+ Report possible security lapse on any University system or network to the system 
+administrators.  
+ The system administrators conduct periodic 
+security checks of University systems and 
+networks, including password checks. Any user found to have an easily guessed or compromised password is required to change 
+his or her password during next login.   Any University system use by outside indi
+viduals or organizations requires special permission from the system's administrator and 
+payment of fees to the University and to 
+
+the appropriate software vendors where applicable.   University computing facility use for playing computer games is
+ strictly prohibited.  Frivolous, disruptive, or inconsiderate conduct in computer labs
+ or terminal areas is also 
+strictly forbidden.  Privacy and information / data protection 
+ All private information (e.g., Social Security
+ Numbers, credit information, passwords, 
+etc) must be protected from 
+unauthorized disclosure.    Unauthorized attempts to read another pers
+on's protected files or gain access to their 
+computer are prohibited. 
+ Local system administrators 
+and providers of University electronic 
+information resources 
+and data have the additional responsibility of ensuring the integrity, confidentiality, and 
+
+availability of the resources they are mana
+ging.  Persons in these positions are granted significant trust to use their privileges appropriately for their intended purpose and only when required to maintain the system. Any 
+private information obtained in carrying out 
+these duties must be treated in the strictest confidence. 
+Acceptable Use of IT Resources Policy - final  
+  Page 3 of 4 
+   Local system administrators s
+hould not override files protections unless necessary in the course of their duties, and must treat the contents of thos
+e files as private information at 
+all times. 
+ Privacy Expectations  User files or emails on central University systems are kept as private as possible. 
+ The University respects the privacy of individuals and does not routinely monitor the content of the information passing through its 
+network, data stored on its servers, or posted by individuals not acting in an official capacity.
+  However, to protect the integrity of its resources and the rights of all users, the University reserves the right to examine 
+material stored on or transmitted through its re
+sources if there is cause to believe that 
+either a user violated the standards for 
+acceptable computing use or a user gained 
+unauthorized access to the University™s electronic information resources.  
+ There may be inadvertent inspection in the or
+dinary course of ma
+naging and maintaining 
+the computer network and in carrying out othe
+r day-to-day activities. However, user files on central University systems are kept with utmost privacy. 
+ Enforcement Violations of these policies may result in th
+e immediate suspension of computer account and 
+network access pending investigation of circumstances and ma
+y lead to their eventual 
+revocation. Serious violations will be referred directly to the appropriate University or outside 
+authorities. Unauthorized use of University computing facilities is a criminal offense. The 
+penalties may be as severe as suspension or di
+smissal from the University and/or criminal 
+prosecution.  Definitions  Data is a stored collection of information th
+at may include alphanumerics, words, sounds, 
+symbols, or images.  
+ Electronic Information Resources
+ include data, networks, computers, and other devices that store or display data, communications devices
+, and software used on such devices.  Contacts For questions or comments: 
+Columbia University Information Technology 
+Web: http://www.columbia.edu/cuit/support/
+  Email: 
+security@columbia.edu
+Telephone: 212-854-1919   Cross References to Related Policies For CUIT Security Policies, s
+ee the University Administrative
+ Policy Library, CU Information 
+Technology section:  http://www.columbia.edu/cu/administration/policylibrary/responsible_office/cuit.html 
+  Acceptable Use of IT Resources Policy - final  
+  Page 4 of 4 

@@ -1,0 +1,65 @@
+Face coverings required indoors.
+if lte IE 8|!IE]> <!
+endif] [if gte IE 9|!IE]><!
+
+To respect the privacy of other users.
+Users shall not intentionally seek information on, obtain copies of, or modify files, or passwords belonging to other users or the University, or represent others, unless explicitly authorized to do so by those users.
+To respect the legal protection provided by copyright and licensing of programs, data, photographs, music, written documents and other material as provided by law.
+To respect the intended usage of accounts and authorization for specified purposes only.
+To respect the integrity of the system or network.
+One shall not intentionally develop or use programs, transactions, data, or processes that harass other users or infiltrate the system or damage or alter the software or data components of a system.
+To adhere to all general university policies and procedures including, but not limited to, policies on proper use of information resources, information technology, and networks; acquisition, use, and disposal of University-owned computer equipment; use of telecommunications equipment; ethical and legal use of software; and ethical and legal use of university data.
+Using university technology resources for commercial use is strictly prohibited.
+Such resources are to be solely used in conjunction with doing business for GVSU or purposes directly related to academic work.
+To refrain from unauthorized use of network Services which significantly hampers other GVSU constituents network access.
+Unauthorized use of GVSU networks and/or computers for non-academic purposes is prohibited, including revenue generating advertising and promotion of business not related to GVSU.
+Network connections in Student Housing are intended strictly for client access to GVSU and Internet resources.
+Residents are not permitted to offer services to other computers, either external or internal, within the GVSU Housing Network.
+External requests for services destined to the GVSU Housing Network are not permitted.
+Information Technology reserves the right to disable network connections within the GVSU Housing Network if complaints are received and it is verified that a computer is offering an internal service.
+The Computer Science and Engineering departments have dedicated networks that can be used for servers that need to offer services to other computers for educational purposes; in this case the department is responsible for monitoring and approving the services that are offered as well as verifying that the computers have been patched and secured against known Internet attacks.
+All users of Grand Valley's e-mail accounts are expected to adhere to the EMail Policy All users of Grand Valley's external network connections( e., Merit and NSFNET) shall comply with the evolving "Acceptable Use" policies established by the external networks' governing bodies.
+Merit Acceptable Use Policy General Use and Ownership While network administration desires to provide a reasonable level of privacy, users should be aware that the data they create on the corporate systems remains the property of GVSU.
+Because of the need to protect the network, management cannot guarantee the confidentiality of employee s personal information stored on any network device belonging to GVSU.
+IT recommends that any information that users consider sensitive or vulnerable be placed on secured locations and/or devices that are encrypted or approved by
+For security and network maintenance purposes, authorized individuals within GVSU may monitor equipment, systems and network traffic at any time.
+GVSU reserves the right to audit networks and systems on a periodic basis to ensure compliance with this policy.
+Security and Proprietary Information The user interface for information contained on Internet/Intranet/Extranet-related systems should be classified as either confidential or not confidential.
+Examples of confidential information include but are not limited to: credit card information, FERPA protected data, social security number, business identification number, employer identification number, paychecks, paystubs, benefit information, giving information, health information, grants, contracts, and research data.
+Employees should take all necessary steps to prevent unauthorized access to this information.
+Keep passwords secure and do not share accounts.
+Authorized users are responsible for the security of their passwords and accounts.
+System and user level passwords will be required to change periodically, depending on your role at GVSU.
+All PCs, laptops and workstations should be secured with a password-protected screensaver with the automatic activation feature set at 15 minutes or less.
+Employees should secure their workstations by logging off or locking(control-alt-delete for Windows users) when the host will be unattended.
+Because information contained on mobile devices is especially vulnerable, do not store any sensitive data without it being encrypted.
+Postings by employees from a GVSU email address to newsgroups should contain a disclaimer stating that the opinions expressed are strictly their own and not necessarily those of GVSU, unless posting is in the course of business duties.
+Employees must use extreme caution when opening e-mail attachments received from unknown senders, which may contain viruses.
+GVSU issued computers shall be restricted for use by a GVSU employee.
+Computers should not be loaned or used by family members or any other entity.
+Unacceptable Use The following activities are, in general, prohibited.
+Employees may be exempted from these restrictions during the course of their legitimate job responsibilities(e.g., systems administration staff may have a need to disable the network access of a host if that host is disrupting production services).
+Under no circumstances is an employee of GVSU authorized to engage in any activity that is illegal under local, state, federal or international law while utilizing GVSU-owned resources.
+The lists below are by no means exhaustive, but attempt to provide a framework for activities which fall into the category of unacceptable use.
+System and Network Activities The following activities are strictly prohibited, with no exceptions Violations of the rights of any person or university protected by copyright, FERPA or other intellectual property, or similar laws or regulations, including, but not limited to, the installation or distribution of "pirated" or other software products that are not appropriately licensed for use by GVSU.
+Unauthorized copying(outside of the TEACH Act) of copyrighted material including, but not limited to, digitization and distribution of photographs from magazines, books or other copyrighted sources, copyrighted music, and the installation of any copyrighted software for which GVSU or the end user does not have an active license is strictly prohibited.
+Connecting network devices such as wireless access points into the GVSU network environment without proper authorization from Information Technology.
+Exporting software, technical information, encryption software or technology, in violation of international or regional export control laws, is illegal.
+The appropriate management should be consulted prior to export of any material that is in question.
+Introduction of malicious programs into the network or server(e.g., viruses, worms, Trojan horses, e-mail bombs, etc.).
+Revealing your account password to others or allowing use of your account by others.
+This includes family and other household members when work is being done at home.
+Using a GVSU computing asset to actively engage in procuring or transmitting material that is in violation of sexual harassment or hostile workplace laws in the user's local jurisdiction.
+Making fraudulent offers of products, items, or services originating from any GVSU account.
+Making statements about warranty, expressly or implied, unless it is a part of normal job duties.
+Effecting security breaches or disruptions of network communication.
+Security breaches include, but are not limited to, accessing data of which the employee is not an intended recipient or logging into a server or account that the employee is not expressly authorized to access, unless these duties are within the scope of regular duties.
+For purposes of this section, "disruption" includes, but is not limited to, network sniffing, pinged floods, packet spoofing, denial of service, and forged routing information for malicious purposes.
+Port scanning or security scanning is expressly prohibited unless prior notification to IT is made.
+Executing any form of network monitoring which will intercept data not intended for the employee's host, unless this activity is a part of the employee's normal job/duty.
+Circumventing user authentication or security of any host, network or account.
+Interfering with or denying service to any user other than the employee's host(for example, denial of service attack).
+Using any program/script/command, or sending messages of any kind, with the intent to interfere with, or disable, a user's terminal session, via any means, locally or via the Internet/Intranet/Extranet.
+Providing information about, or lists of, GVSU employees to parties outside GVSU GVSU will not monitor or judge the content of information transmitted via the Services, but will investigate complaints of possible inappropriate use.
+In the course of investigating complaints, GVSU will attempt to preserve the individual's privacy.
+GVSU is subject to the Freedom of Information Act and may be required to supply personal computing information.

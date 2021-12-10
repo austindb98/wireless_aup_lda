@@ -1,0 +1,78 @@
+61719594 Event snippet for Submit lead form conversion page In your html page, add the snippet and call gtag_report_conversion when someone clicks on the chosen link or button.
+These resources include a high-speed local area network, access to shared network software and storage space, public computing facilities, support services, on-line library databases, access to the Internet, and more.
+Access to these resources is granted to all Whittier faculty, staff and currently-enrolled students.
+By sharing and using these resources, users accept full responsibility for their actions and agree that they will use these resources in an ethical manner.
+Because we are an academic community, the faculty, students and staff of Whittier College honor intellectual property, respect the privacy of data, and respect the rights of others.
+As a carrier of information, Whittier College does not subject users' files to prior review.
+However, the College does make its best effort to educate the community in responsible use and respond when violations are pointed out.
+College resources are provided solely for the education and research mission of Whittier College and may not be used for commercial or for-profit purposes.
+Users who express opinions and positions through the College's IT resources must make clear that these opinions and positions are those of the individual who posts them, not of the College.
+Because the College is the owner of all IT resources granted to users, the College reserves the right to deny use to those who have used them in an irresponsible manner.
+Offenders may also be subject to disciplinary action through existing structures for faculty, students and staff of the College, as laid out in the relevant College handbooks.
+People who use both on-campus and external network media(including any communication performed on the network for any purpose) must do so responsibly, in a manner that constitutes respectful behavior as laid out in the Faculty, Student and Staff Handbooks.
+It is unethical not to adhere to this type of behavior, even when communicating with people outside the Whittier community.
+For example, no form of harassment, as defined in the Student, Faculty and Staff Handbooks, will be tolerated within any media.
+In addition, all communications must include the sender's complete network or email address, unless the service explicitly invites anonymous communication.
+If someone requests you to stop communicating electronically with him/her, you are required to do so immediately.
+Students accessing "social networking services" such as Facebook, Instagram, Pinterest, Twitter, and others should carefully read the terms and conditions set forth by such services.
+Students are solely responsible for the content of their sites.
+Anonymous" gossip sites, many of which are created for use by a specific college campus population, permit the posting of messages without identification of the sender and are not authorized or controlled by Whittier College.
+We discourage all students from visiting these sites and from participating in the negative, damaging outcomes irresponsible use creates.
+Neither IT Services nor Whittier College assume any responsibility for what users place there.
+Each information technology resource those existing on campus as well as external ones to which we are connected has an owner.
+Attempts, even unsuccessful ones, to use or access any resource without the permission of the owner are a violation of this policy.
+All students and employees must respect conditions of access and use stipulated by the owner.
+Although individuals are not the owners of accounts assigned to them(the College is the owner), they are the owners of the files they create, and have rights to privacy and responsibilities to control access by others you must respect others rights when you communicate with them over networks.
+Anything less than adherence to the letter and spirit of copyright laws and regulations is unethical and possibly illegal.
+Users must obtain permission of the creator or publisher to copy materials created by others.
+Users must abide by license agreements controlling copying and use of software and data.
+Network Admission Control(NAC) Before you can use the campus data network you must first install a NAC software agent.
+The installation process will happen automatically when you connect your computer to the network and open a browser.
+NAC has three goals: it associates your computer's electronic address with you, in case we need to contact you about network issues; it safeguards that your computer has software running on it to protect your system from outside threats, like viruses and spyware; and it ensures that your system is not a threat to other computers on campus by being vulnerable to(or even currently infected by) viruses and spyware.
+To this end, NAC requires that you install all operating system updates and patches, and have up-to-date anti-virus programs.
+It is extremely important to install all updates when they become available.
+Whittier College provides a professional-quality virus scanner to students for free.
+You can download it and other software we provide from the IT Services website.
+Most game consoles and many handheld wireless devices(e.g.
+iPhone, iPad, Droid) are known to work with our campus network.
+You may need to manually register these devices by contacting the IT Services Help Desk.
+Network Vulnerability Responses "Compromised computers" are those that have been infected by threatening worms or viruses, have been hacked, or for some other reason interfere with normal network operation.
+Compromised computers cause grave threat to other computers sharing the network segment by emitting interfering data and/or retransmitting worms and viruses.
+Computers can be compromised unbeknownst to the owner if left without preventative software.
+Should IT Services detect a disruptive device on the College network, its network connection will be disabled until it is removed or repaired.
+Wireless access devices" are units which, when plugged into our network, emit a radio signal permitting properly equipped computers to access the network.
+Misconfigured access devices sometimes mimic the actions of central network control equipment and disrupt network access by other users of the network segment, possibly an entire residence hall.
+Such devices are not supported and are not to be connected to the College network.
+Should IT Services detect a disruptive wireless access device, its network connection will be disabled until it is removed.
+Copying Code of Ethics Because we are an academic community, the faculty, students and staff of Whittier College honor intellectual property, respect the privacy of data and recognize the rights of others.
+Each individual has a responsibility in turn to use copying technology in an ethical manner.
+Anything less than adherence to the letter and spirit of copyright laws and regulations is unethical.
+Respect for intellectual labor and creativity is vital to academic discourse and enterprise.
+This principle applies to works of all authors and publishers in media.
+It encompasses respect for the right to acknowledge, right to privacy and right to determine the form, manner and terms of publication and distribution.
+Because printed and recorded information is easily reproduced, respect for the work and personal expression of others is critical.
+Violations of authorial integrity, including plagiarism, invasion of privacy, unauthorized access and trade secret and copyright violations, may be grounds for sanctions against members of the academic community.
+At Whittier College, violation of the Copying Code of Ethics may subject the offender to disciplinary action.
+7, 101 and 106) grants all rights of public exhibition of a copyrighted work to the owner of the copyright.
+Such rights of public exhibition include the right to show a film, videotape, or DVD to a group, whether or not admission is charged.
+Congressional reports on copyright applications make clear that even "semi-public" exhibitions in residence halls, clubs and colleges are classified as public for copyright purposes.
+The College has determined that public or semi-public showing of films, videotapes, or DVDs without written permission or license, is prohibited on campus.
+Contact Media Services for additional information.
+Organizations and individuals desiring to show videotapes, films, or DVDs must secure permission from the holder of the copyright.
+Generally, this means that videotapes, films, or DVDs must be rented from companies who hold the rights.
+Neighborhood video stores do not hold these rights.
+Even if a tape or DVD has been purchased and is owned by a member of the community, it may not be shown outside of the student's room.
+Criminal penalty for willful violation of the Copyright Act is up to one year in jail and/or a $25,000 fine.
+Inadvertent or innocent violations may bring substantial civil penalties.
+The Digital Millennium Copyright Act(DMCA) of 1998 and the Higher Education Opportunity Act(HEOA) of 2008 demand effective response by the College when we are notified of potential copyright violations on our campus most commonly, music and movie files being distributed without the owners' permission.
+Copyright owners and their agents often scan file-sharing networks, such as BitTorrent, looking for such files and their sources.
+When these groups complain to the College about potential violations coming from our campus, the DMCA and HEOA require that we respond quickly and thoroughly.
+We have therefore developed the following policy on how to respond to notices about potential violations: IT Services will positively identify you from the notice and you will be notified of the infraction, the infringed work and your next actions.
+Your access to the College's network is suspended and the Dean of Students Office is notified.
+You are required to remove the file sharing application and the infringed work before your network access is restored.
+The Dean of Students Office may contact you regarding this infringement as a student conduct violation.
+After your computer has ceased the sharing of copyrighted works, we can restore your network access.
+Indemnification Users agree, in consideration of access to the College's technology resources and services, to indemnify, defend and hold harmless Whittier College and its trustees, employees, agents, and subcontractors from and against any claims, suits, actions, and proceedings from any and all third parties arising from such access.
+Additional Information Any questions regarding the ethical and legal use of Whittier College's technology resources should be directed to IT Services at(562) 907-4287.
+Any modification to this policy will be posted on the college web site.
+To report an accessibility issue, a website problem, or submit feedback, please submit a Website Feedback Form.

@@ -1,0 +1,61 @@
+POLICY STATEMENT The Information Technology division is responsible for the provision and management of enterprise-wide local area network services, including wireless networks.
+All connections to the network must be via university-approved mechanisms.
+Only authorized Information Technology staff may access, install, manage, or make changes to network infrastructure equipment including but not limited to enterprise servers, routers, switches or telecommunications equipment.
+REASON FOR POLICY The university will provide the required infrastructure for enterprise-wide local area network services,(including wireless) and connections to the internet, internet-2 and other external networks.
+This policy sets forth standards and requirements for configuring and connecting to the university network in order to maintain security, integrity and availability of resources.
+RELATED INFORMATION Related Links Wireless support - http://louisville.edu/it/departments/communications/wireless/ ISO-007 User Accounts and Acceptable Use ISO-008 Passwords ISO-012 Workstation and Computing Devices ISO-013 Server Computing Devices STANDARDS Administrative standards: Network Configuration Authority and Requirements(To help maintain the integrity, security, availability and necessary resources of the university network): All connections to the network must be via university-approved mechanisms.
+Information Technology provides all network address assignments.
+Unauthorized university network installations or modifications will be denied IP addresses for computing devices on the unauthorized network.
+Such devices will be physically disconnected from the university network and the device's IP and/or MAC addresses will be blocked from university network access.
+Note: This includes wireless networks not connected to the university's enterprise network and/or private network devices operating within university facilities or university campuses.
+All internal network devices including but not limited to routers, firewalls and access control servers, have unique passwords and other appropriate access control mechanisms.
+The internal network will be secured from external channels.
+All perimeter network devices within the university network are configured to meet hardening guidelines and to deny unnecessary services, connections and untrusted networks.
+An inventory of all connections to external voice and data networks and direct connectivity to all non-university entities or untrusted networks is maintained.
+Internal information system addresses, configurations, products and design information is restricted so that it is not accessible to unauthorized internal or external users.
+Implementation of non-standard, business required modification to network perimeter devices is the responsibility of university IT and must include a risk assessment and implementation of mitigating controls.
+Connecting to university and affiliated computing resources from outside the university network All connections to these resources(servers, personal computing devices, networking equipment, etc.)
+must, except as noted, follow these standards: Be via a secure and/or encrypted connection such as a VPN, secure HTTP, secure FTP, SSH, or other secure and/or encrypted method.
+Pass through a university standard access control point(e.g., firewall, gateway, etc.)
+that includes an approved user authentication.
+Be configured so that a user account and password is required and be compliant with the policies and standards described in ISO-007 User Accounts and Acceptable Use and ISO-008 Passwords.
+VPN/Remote connections will be configured: To time out after a period of inactivity.
+So that after a specified amount of consecutive failed log-on attempts an account will be suspended for a period of time.
+So that accounts are deactivated if not used within a specified period.
+If the connection is by a vendor or other third party(not faculty, staff or students) an Acceptable Use Agreement must be completed.
+The original completed Acceptable Use Agreement must be received by the IT Security and Accounts Management team before the connection is allowed.
+Note: The Acceptable Use Agreement documents the vendor or partner's agreement to abide by the ISO-007 User Accounts and Acceptable Use Policy and to maintain their systems and practices to at least the applicable university policies and standards.
+Remote access services used for occasional connections should be disabled except when required for authorized remote access.
+Exception: If the connection does not allow access to sensitive information then a properly configured and administered connection method is acceptable and no log-on is required.
+A web site providing information intended for public availability could use standard HTTP access.
+Network Use Faculty, staff and administrators with university Active Directory accounts may request secure personal drive space accessed via the network shared drives for individual use(commonly called the "H" drive).
+The university enterprise network drives also include a shared storage area(commonly called the I drive).
+Space in this area is used by departments to store shared data and is allocated by academic or administrative unit.
+Account holders have read/write access to sub directories as appropriate.
+Monitoring/Altering Network Traffic Users are expected to utilize end user systems and applications such as network drive access, email and similar programs, for their intended use on the university network.
+Scanning of the network, "packet sniffing", packet interception/copying/decryption and any other means of reading, altering, spoofing or otherwise monitoring and/or altering network communications is forbidden without specific approval in writing from both the Information Security Officer and Information Technology.
+The University reserves the right to analyze network traffic at any time deemed necessary by either manual or automated means.
+For example, the University may specifically monitor network traffic if instructed by legal authorities; for assessing system integrity, performance, or management; or for possible policy violations.
+Network audit logs may record the following: packet origination, date/time, source and destination, path, protocol and port and/or other packet monitoring for suspicious activity.
+The use of utility programs capable of overriding system and application controls is restricted to authorized technical support personnel.
+Guest/Temporary Network Use Limited guest(visitor) access via wired or wireless connection can be provided.
+Faculty, staff or administrator account sponsorship may be required.
+Technical Standards: General All enterprise level authentication requirements external to an application must be configured to use the university's enterprise directory services.
+Note: This also allows easier configuration of single sign-on abilities).
+Wireless Fully authenticated network access requires a secure wireless connection and client software that supports current university secure wireless standards(see http://louisville.edu/it/departments/communications/wireless/ for more information).
+A wireless adapter card that at minimum supports 802.1X is required to access the university network Voice The university's voice networking(Voice Over Internet Protocol - VoIP) provided by Information Technology is based on FCC standards and specifications.
+This consists of the telecommunications services, dial tones, telecommunications equipment, and specialized circuitry.
+All VoIP connections are maintained and provisioned by the IT Division.
+DEFINITIONS S ensitive Information Information of a confidential or proprietary nature and other information that would not be routinely published for unrestricted public access or where disclosure is prohibited by laws, regulations, contractual agreements or University policy.
+This includes(but is not limited to) full name or first initial and last name and employee ID(in combination), identifiable medical and health records, grades and other enrollment information, credit card, bank account and other personal financial information, social security numbers, grant reviews, dates of birth(when combined with name, address and/or phone numbers), user IDs when combined with a password, etc.
+Sensitive information does not include personal information of a particular individual which that individual elects to reveal(such as via opt-in or opt-out mechanisms)(see Information Management and Classification Standard) Spoofing The use of software or other techniques to appear on the network as something other than reality(masquerading as something you are not).
+Example: The hacker tricked the system into allowing him onto the trusted network by spoofing the identity of a trusted server.
+RESPONSIBILITIES Policy Authority/Enforcement: The University's Information Security Officer(ISO) is responsible for the development, publication, modification and oversight of these policies and standards.
+The ISO works in conjunction with University Leadership, Information Technology, Audit Services and others for development, monitoring and enforcement of these policies and standards.
+Policy Compliance: Failure to comply with these policies and standards and/or any related information security and/or information technology policy, standard or procedure may result in disciplinary action up to and including termination of employment, services or relationship with the University and/or action in accordance with local ordinances, state or federal laws.
+ADMINISTRATIVE AUTHORITY Vice President for Risk, Audit, and Compliance RESPONSIBLE UNIVERSITY DEPARTMENT/DIVISION Information Security Office 502-852-6692 isopol@louisville.edu HISTORY This policy is subject to change or termination by the University at any time.
+This policy SUPERSEDES all prior policies, procedures or advisories pertaining to the same subject.
+This policy will be reviewed annually to determine if the policy addresses University risk exposure and is in compliance with the applicable security regulations and University direction.
+In the event that significant regulatory changes occur, this policy will be reviewed and updated as needed per the Policy Management process.
+July 23, 2007 / Original Publication 1.1 / August 19, 2011 / Link change in wireless section 1.2 / January 29, 2013 / Content Update 2.0 / March 8, 2016 / Review/update content and update to template format 2.1 / June 12, 2017 / Review and clarify remote connection verbiage 2.1/ August 2, 2018 / Review and update grammar, punctuation and removed modem references Reviewed Date(s): September 29, 2014; March 8, 2016; June 12, 2017, August 2, 2018 The University Policy and Procedure Library is updated regularly.
+In order to ensure a printed copy of this document is current, please access it online at http://louisville.edu/policies.

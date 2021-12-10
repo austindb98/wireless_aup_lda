@@ -1,0 +1,244 @@
+Ball State University
+ 
+|
+Remote Password Reset Procedures
+ 
+|
+ 
+Version 
+3
+ 
+|
+Rev:
+ 
+04/12/2018
+  [
+Page
+1
+ 
+of 
+1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+I
+NFORMATION 
+T
+ECHNOLOGY 
+ 
+Remote Password Reset Procedures
+ 
+B
+ALL 
+S
+TATE 
+U
+NIVERSITY 
+O
+FFICE OF 
+I
+NFORMATION 
+S
+ECURITY 
+S
+ERVICES
+ 
+1.
+  [
+I
+NTRODUCTION
+ 
+This form is used for reset of the password associated with the Ball State computer username in circumstances where the accou
+nt 
+owner 
+is unable 
+do so using the methods described below.
+  [
+ 
+2.
+  [
+S
+TANDARD 
+M
+ETHOD OF 
+P
+ASSWORD 
+R
+ESET
+ 
+The standard procedure for pass
+word resets is to
+: 
+ 
+
+ 
+u
+se the on
+-
+line password reset system 
+
+
+ 
+or
+ 
+
+ 
+a
+ppear 
+in person at 
+BL101 with a valid state or Federal Government picture identification card (such 
+
+or passport)
+, or
+ 
+
+ 
+c
+all
+ 
+the 
+Technology 
+Helpdesk 
+at 765
+-
+285
+-
+1517 
+and verify
+ 
+your
+ 
+identity over the phone.
+ 
+3
+.
+  [
+S
+PECIAL 
+P
+ROCEDURES FOR 
+R
+EMOTE 
+C
+LIENTS
+ 
+Use of this form is limited to circumstances where personally appearing on campus would r
+esult in undue hardship.  [You must 
+contact the 
+Technology
+ 
+Helpdesk 
+at 
+www.bsu.edu/helpdesk
+ 
+or by calling
+ 
+765
+-
+285
+-
+1517 to discuss your circumstances prior to 
+submitting this form.
+ 
+ 
+4.
+  [
+P
+ROOF OF 
+I
+DENTITY AND 
+P
+ASSWO
+RD 
+R
+ESET 
+R
+EQUEST
+ 
+As proof of my identity, I have included a complete copy of my current Federal or State issued picture I.D. below, or as a se
+parate 
+page if more room is needed for an accurate copy:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+I understand I may only 
+request a password reset for myself, and that specifying a name or identifying information other than my 
+own is a violation of university policy and may also violate various state and federal laws, in particular those related to c
+omputer 
+tampering and iden
+tity deception.
+  [
+ 
+ 
+ 
+Submissions of this form deemed illegible, incomplete, or which appear inaccurate in any way will not be processed.  [If my re
+quest 
+is approved, my new password will be sent to the alternate e
+-
+mail address I have indicated below.  [
+ 
+ 
+Send
+ 
+this completed form to the IT Helpdesk by faxing a copy to 765
+-
+285
+-
+3059
+ 
+or scanning this completed form along with the 
+image of your valid picture ID and e
+-
+mailing to 
+passwordreset@bsu.edu
+. 
+ 
+ 
+Print Your 
+Current Full Name:
+ 
+ 
+ 
+Print Your BSU ID Number: 
+ 
+ 
+ 
+Print Your Current Contact Phone Number:
+ 
+ 
+ 
+Print Your Current Alternate E
+-
+Mail Address:
+ 
+ 
+ 
+Your Signature:
+  [  [  [  [  [  [  [  [  [  [  [  [  [  [  [  [  [  [  [  [  [  [  [  [  [  [  [  [  [  [  [  [  [  [  [  [  [  [  [  [  [  [  [
+  [  [ 
+Date: ____
+ 
+/__
+_
+_ /
+ 
+
+government issued photo identification card here and 
+photocopy this form, or include a photocopy of your ID 
+as a separate attachment 
+when faxing as described 
+below.
+ 
+ 
+

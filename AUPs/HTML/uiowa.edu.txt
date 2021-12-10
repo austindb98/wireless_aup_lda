@@ -1,0 +1,89 @@
+Description The University of Iowa maintains a robust and secure network that encompasses both wired ports and wireless access for devices.
+The following policy is broken down into three sections that describe the management and operation of the network.
+Unlicensed Radio Frequencies Wireless Networking Network Addressing Scope This policy affects any device located on University-owned or University-rented property, as well as any device that accesses, utilizes, or impacts University network resources.
+Unlicensed Radio Frequencies Description In order to minimize potential interference with University of Iowa wireless services, the University must remove sources of interference when possible.
+Additionally, the University needs to provide a central point of coordination for use of unlicensed radio frequencies to minimize interference and service disruptions related to the University mission.
+This will assure the highest level of service for all members of the U of I campus community.
+This policy asserts the right of the University to remove devices using publicly unlicensed bands that cause interference with University services, and to arbitrate between parties deploying their own services on the University campus.
+The University of Iowa s wireless data networking service allows authorized users to access computing resources from mobile computing devices via radio frequencies in the ISM and U-NII bands.
+In order to ensure the success of the wireless data networking service and other University services using ISM and U-NII radio frequencies, the University of Iowa needs the cooperation of all of its community members to minimize the number of devices that can cause radio interference and service disruption.
+Policy Statement The Information Technology Services(ITS) department of the University reserves the right to restrict the use of all 900 MHz, 2.4 GHz and GHz radio devices in University-owned buildings, University-rented spaces, and all outdoor spaces on the University of Iowa campus.
+This may require the removal of equipment not sanctioned by ITS, including(but not limited to) some devices of the following types: cordless telephones, wireless microphones, wireless cameras, and network access points.
+ITS will work with faculty, staff, students and volunteers to accommodate the use of devices for reasonable applications, such that they do not interfere with University delivered services, when possible.
+If you would like to use devices that utilize these radio frequencies, you must first contact the Help Desk via email at its-helpdesk@uiowa.edu, to initiate the process of making an impact assessment.
+Wireless Networking Description Provides guidance and procedures for the use of wireless networking technologies on the University of Iowa campus.
+This policy addresses the use of IEEE 802.11 wireless data networking protocols, commonly known as Wi-F These protocols are used for connecting client devices to a data network through the use of over-the-air radio signals.
+The primary advantages of wireless networks are mobility and flexibility.
+The primary disadvantages are that wireless networks are more susceptible to service disruptions and resource exhaustion.
+The phrase "Wi-Fi Service" in this document refers to the University of Iowa 802.11 wireless data networking service provided by Information Technology Services(ITS).
+It refers to all components used to deliver Wi-Fi(physical and logical).
+eduroam(education roaming) is a secure, world-wide Wi-Fi access service developed for the international research and education community.
+Its purpose is to facilitate collaboration by allowing students, faculty, and staff to move between higher educational institutions while maintaining their ability to connect to Wi-F
+eduroam is the primary Wi-Fi Service SSID provided to University students, faculty, and staff.
+An eduroam service provider is an organization that advertises the eduroam SSID as a member of the international eduroam federation.
+It is possible for an organization to be an eduroam service provider without becoming an eduroam identity provider.
+The University of Iowa is an eduroam service provider, because it advertises the eduroam SSID.
+An eduroam identity provider can create credentials that are valid for authenticating to an advertised eduroam SSID by any participating eduroam service provider.
+The University of Iowa is an eduroam identity provider, because it defines credentials that authorize clients to use the eduroam SSID.
+UI-Guest is a UI-supported wireless network service provided in a free-to-guest model, which means that users of the service are not required to pay for
+SSID devoted to devices that cannot use authentication credentials.
+Faculty, Staff and Students can register devices addresses to allow access to the campus network.
+Policy Statements Access to eduroam will be restricted to clients that have valid eduroam credentials.
+This includes current students, faculty, staff, and sponsored guests.
+Additionally, this includes members of remote institutions that are registered eduroam identity providers, allowing peers and collaborators easy access to the University s Wi-Fi Service without client reconfiguration or provisioning guest credentials.
+Students, faculty, and staff shall be authenticated with their Hawk ID for the eduroam network.
+Sponsored guests must provision an ITS Guest ID which can be used to authenticate to eduroam.
+Students, faculty, and staff should use the eduroam network when connecting devices to the Wi-Fi Service.
+The eduroam network is not dependent on equipment administered by a third-party, has few access restrictions, and provides high throughput.
+The eduroam network is also more reliable than UI-Guest.
+ITS will provide authentication services for students, faculty, and staff when connecting to an eduroam SSID advertised by a remote eduroam service provider location.
+This facilitates easy Wi-Fi access when traveling to other higher educational institutions.
+The Wi-Fi Service shall provide best-effort protection of eduroam authentication credentials through the use of data encryption.
+Internet of Thing devices have an option to connect to UI-DeviceNet.
+Guests to the University of Iowa campus should use the UI-Guest network.
+Guests who connect to the UI-Guest SSID must agree to our terms and conditions to be granted free access to the UI-Guest network.
+The UI-Guest network is bandwidth constrained and does not allow access to several University resources.
+Students, faculty, and staff are discouraged from connecting to the UI-Guest SSID.
+Users of the Wi-Fi Service are responsible for obtaining a device that meets the current implementation requirements.
+Appendix A contains a list of strings reserved for use by the University Wi-Fi Service.
+Use of the strings is restricted regardless of upper or lower case letters.
+Wi-Fi equipment in University owned or leased spaces that is not part of the University Wi-Fi Service shall not contain the restricted strings(in whole or in part) in their advertised SSIDs.
+ITS reserves the right to revoke Wi-Fi Service authorization for an individual Hawk ID, Guest ID, or for any device that is disrupting the operation of the Wi-Fi Service.
+Violation of the University of Iowa Network Citizenship policy or the Acceptable Use of Information Technology Resources policy will result in revocation of authorization to use the Wi-Fi Service.
+University students, faculty, staff, volunteers and guests shall not install wireless networking equipment in University owned or leased spaces without written consent from the Information Security and Policy Office.
+Contact the Help Desk( its-helpdesk@uiowa.edu) for more information.
+Wireless Networking Implementation Responsibility for implementing this policy rests with ITS.
+ITS is responsible for designing, configuring, installing, maintaining, and troubleshooting the University of Iowa Wi-Fi Service.
+ITS will maintain a written description of the current Wi-Fi Service implementation in the form of a service description.
+ITS will provide a mechanism for procuring Guest ID's authorized to use the Wi-Fi Service.
+ITS is authorized to monitor the implementation of unauthorized wireless devices.
+ITS reserves the right to remove and/or disable wireless equipment that is in violation of this policy, and/or may disable any wired uplink data port associated with a device in violation of this policy.
+For more information regarding the Wi-Fi service, please contact the ITS Help Desk( its-helpdesk@uiowa.edu).
+Network Addressing Description This policy defines appropriate IP address use of global and other address ranges, with overall responsibility resting with Network Services of ITS.
+The Network Services(NS) division of Information Technology Services(ITS) is responsible for planning, development, implementation and support of networking on the University main, research, and remote campuses, as well as other UI facilities.
+Coordination in the use of Internet Protocol version(IPv4) and Internet Protocol version(IPv6) addresses is included in this responsibility.
+The NS Hostmaster( hostmaster@uiowa.edu) is the service communication contact for requesting IPv4/IPv6 addresses and hostname reservations.
+Globally(or Internet) routable IPv4 addresses are assigned by the Internet Address Numbering Authority(IANA) to regional registries for administration.
+The American Registry for Internet Numbers(ARIN) is responsible for numbers assigned to North America.
+IPv4 address ranges registered by the University of Iowa include: 128.255.0.0 128.255.255.255(128.255.0.0/16) 129.255.0.0 129.255.255.255(129.255.0.0/16) 198.49.182.0 198.49.182.255(198.49.182.0/24) Private IPv4 addresses.
+IANA specifies IPv4 address ranges for use exclusively within a local network and cannot be assigned by a regional registry.
+Commonly referred to by the Internet Engineering Task Force(IETF) document RFC1918, these are not routed to the global Internet.
+The IP address ranges specified in RFC1918 include: 10.0.0.0 10.255.255.255(10.0.0.0/8) 172.16.0.0 172.31.255.255(172.16.0.0/12) 192.168.0.0 192.168.255.255(192.168.0.0/16) Public IPv6 addresses.
+Globally(or Internet) routable IPv6 addresses are also assigned by IANA to regional registries for administration.
+ARIN is responsible for numbers assigned to North America.
+The IPv6 address range registered by the University of Iowa is 2620:0:e50:0:0:0:0:0 2620:0:e5f:ffff:ffff:ffff:ffff:ffff(2620:0:e50::/48) IPv6 Unique Local Addresses(ULA).
+IANA specifies IPv6 address ranges for use exclusively within a local network and cannot be assigned by a regional registry.
+IETF document RFC4193 defines the IPv6 address ranges for use exclusively within an organization.
+These addresses are not routed to the global Internet.
+The full reserved range is fc00::/7.
+The portion of that range reserved for self-assigning ULA prefixes is fd00::/8, and addresses in this range cannot be assigned by a regional registry.
+Theoretically, organizations can locally define globally unique address ranges for internal use.
+The purpose of this is to allow easier integration of private addresses when organizations merge networks together.
+The ULA private address range defined by Network Services for use by the University of Iowa is: fd9a:2c75:7d0c:: fd9a:2c75:7d0c:ffff:ffff:ffff:ffff:ffff(fd9a:2c75:7d0c::/48) Policy: Systems requiring reachability from the global Internet should be configured with public(global) IPv4 or IPv6 addresses.
+Individual or blocks of IPv4/IPv6 addresses not observed to be in use for a period of time, such as six months, are subject to be reclaimed and reassigned by NS with notice to the affected person, group, or place.
+For use on University of Iowa networks, the 192.168.0.0/16 range of RFC1918 IP addresses is designated for use by system administrators on their local network without the coordination with NS Hostmaster, or monitoring or enforcement by
+The 10.0.0.0/8 and 172.16.0.0/12 range of private RFC1918 IP addresses are reserved for campus-wide or inter-campus applications such as the UI Anywhere VPN service and site-local scope routing of private IP addresses.
+Campus system administrators may elect to implement host access-controls based on network address, but are responsible for conforming to the address ranges defined in the policy, and changes in address ranges that may occur in the future.
+Enforcement ITS will monitor the RF spectrum and network, and may disconnect devices that interfere with operations.
+Appendix A Strings reserved for use by the University Wi-Fi service in SSIDs eduroam ui uiowa KinnickWiFi UI-DeviceNet UI-Guest UI-Athletics Paciolan Appendix B Related Policies, References and Attachments This collection of University of Iowa Information Technology policies and procedures contain acceptable use, security, networking, administrative, and academic policies that have been developed to supplement and clarify University of Iowa policy.
+They are incorporated into the University of Operations Manual( http://opsmanual.uiowa.edu) by reference, per the Policy on Acceptable Use of Information Technology Resources( http://opsmanual.uiowa.edu/community-policies/acceptable-use-information-technology-resources).

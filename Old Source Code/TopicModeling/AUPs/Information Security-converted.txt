@@ -1,0 +1,805 @@
+
+ 
+Responsible University Officer(s):
+ 
+
+ 
+Vice President for Information Technology
+ 
+Policy Owner(s):
+ 
+
+ 
+Chief Information Security Officer
+ 
+Policy contact(s):
+ 
+
+ 
+Brian Dahlin
+ 
+Date Revised:
+ 
+Apr 13, 2015
+ 
+Effective Date:
+ 
+Aug 9, 2010
+ 
+POLICY STATEMENT
+ 
+University information is a valuable asset to the University of Minnesota and requires appropriate protection. 
+Unauthorized use or disclosure of data 
+protected by laws or contractual obligations could cause severe harm to the 
+University or members of the University community, and could subject the University to fines or government 
+sanctions.
+ 
+In order to manage these risks, units and University community
+ 
+members must ensure that their electronic devices 
+and other resources which store, transmit, or process University information meet the information security processes 
+and standards contained in the
+ 
+appendices
+of this policy, and all pertinent laws or contractual obligations. Examples of 
+standards include controls related to data storage, access controls, security protection software, and awareness.
+ 
+This policy also applies to personall
+y owned devices used for University business.
+ 
+Enforcement
+ 
+Employees must report known non
+-
+compliance with any requirement of this policy to University Information Security 
+(
+security@umn.edu
+).
+ 
+Individual University co
+mmunity members who do not comply with this policy or the University's information security 
+standards may be denied access to University IT resources and may be subject to disciplinary action up to and 
+including termination.
+ 
+Exceptions
+ 
+Units unable to meet
+ 
+a requirement within the information security standards must obtain an exception through the 
+exception request procedure.
+ 
+Units may specify additional more stringent requirements within their physical or administrative areas of responsibility.
+ 
+The Univers
+ity Chief Information Officer or delegate may allow exceptions to this policy after consultation with the unit 
+and the appropriate compliance officer.
+ 
+REASON FOR POLICY
+ 
+This policy will help to:
+ 
+
+ 
+comply with legal and contractual requirements to protect 
+data;
+ 
+
+ 
+safeguard University IT resources from accidental or intentional damage and the data stored or accessed by these 
+IT resources from alteration or theft of data; and
+ 
+
+
+ 
+designate the appropriate level of security requirements for securing IT resources
+ 
+PRO
+CEDURES
+ 
+Requesting an Exception to the Information Security Policy
+ 
+Using the Information Security Standards
+ 
+FORMS/INSTRUCTIONS
+ 
+There are 
+no forms associated with this policy.
+ 
+APPENDICES
+ 
+Account Management Standard
+ 
+Application Access Control Standard
+ 
+Authentication Standard
+ 
+Backup and Recovery of Data Standard
+ 
+Backup and Recovery of Software, System Configur
+ation Standard
+ 
+Change Control Standard
+ 
+Data Center Standard
+ 
+Data Storage Standard
+ 
+Device Encryption Standard
+ 
+Device Firewall Standard
+ 
+Device Physical Security Stand
+ard
+ 
+Information Security Awareness, Education and Training Standard
+ 
+Log Management Standard
+ 
+Management of End User Device Standard
+ 
+Media Sanitization Standard
+ 
+Network Control S
+tandard
+ 
+Network Firewall Standard
+ 
+Operating System Access Control Standard
+ 
+Securit
+y Patching Standard
+ 
+Technical Vulnerability Management Standard
+ 
+User Administrative Privilege Standard
+ 
+Vendor/Supplier Management Standard
+ 
+Virus/Malware Protection Standard
+ 
+FREQUENTLY ASKED QUESTIONS
+ 
+1.
+ 
+If my smart phone or other electronic device only supports use of numbers, not 
+alphabetical and 
+special characters, is that acceptable authentication?
+ 
+For electronic devices that do not support use of complex passwords for authentication, use a non
+-
+obvious 
+number sequence. For example, do not use your employee ID or part of your 
+phone number. See
+ 
+Account 
+Management Standard related information
+ 
+for complex password features.
+ 
+2.
+ 
+On my University
+-
+owned computer, why do I need to use 
+a password after the screensaver is 
+activated and why is the time so short?
+ 
+The password helps protect you from malicious use of your computer or others viewing of your display when 
+your computer is not attended. The screensaver prevents anyone who steals 
+or finds your laptop from using 
+the computer, acting as you, stealing data, etc. See
+ 
+Operating System Access Control Standard
+ 
+for other 
+settings that help protect data and your computer.
+ 
+3.
+ 
+How does th
+e Information Security policy relate to vendor solutions?
+ 
+
+Vendor solutions also need to meet the Information Security Policy and the information security controls 
+contained in the policy.
+ 
+CONTACTS
+ 
+Subject
+ 
+Contact
+ 
+Phone
+ 
+Fax/Email
+ 
+Primary Contact(s)
+ 
+Brian Dahlin
+ 
+612
+-
+625
+-
+1505
+ 
+bdahlin@umn.edu
+ 
+HIPAA Compliance Medical Records, PHI
+ 
+Medical Records,PHI
+ 
+Lori Ketola
+ 
+612
+-
+626
+-
+5844
+ 
+ljketola@umn.edu
+ 
+FERPA Compliance
+ 
+ 
+Student Records
+ 
+Stacey Tidball
+ 
+612
+-
+626
+-
+0075
+ 
+tidball@umn.edu
+ 
+PCI Compliance Credit Card Data
+ 
+Accounts Receivable Services
+ 
+612
+-
+625
+-
+2392
+ 
+pmtcard@umn.edu
+ 
+DEFINITIONS
+ 
+Authentication
+ 
+A veri
+fication that substantiates a person's identity.
+ 
+Compensating Control
+ 
+An alternate but effective means of meeting a security requirement.
+ 
+Compliance Officer
+ 
+Representative of the University who is assigned compliance responsibilities for a particular area.
+ 
+Control
+ 
+A control is any administrative, management, technical, or legal method that is used to prevent, detect or 
+correct risks. Controls are also known as safeguards or countermeasures. Controls include practices, 
+policies, procedures, programs, techniq
+ues, technologies, guidelines, and organizational structures.
+ 
+Control Level
+ 
+A level assigned to a control at each security level.
+ 
+
+ 
+Required
+ 
+-
+ 
+Must apply the control.
+ 
+
+ 
+Recommended
+ 
+-
+ 
+Should apply the control. It is not required due to limitations in available 
+technology or 
+because the control could potentially place an undue burden on a unit to implement. Units should 
+evaluate the implications of not implementing the control and determine whether or not a compensating 
+control has/can be implemented.
+ 
+
+ 
+Optional
+ 
+-
+ 
+Evaluate and apply the control as appropriate.
+ 
+
+Critical Server
+ 
+A critical server is a server assigned the high or medium security level.
+ 
+Data
+ 
+Information collected, stored, transferred, or reported for any purpose, whether electronically or hard copy.
+ 
+Ente
+rprise system or application
+ 
+System or application that:
+ 
+
+ 
+can be used by all of the University of Minnesota, including also system campuses and all units;
+ 
+
+ 
+follows University policies and standards;
+ 
+
+ 
+fits into the University's enterprise architecture; and
+ 
+
+ 
+has
+ 
+been approved by the University's enterprise architect.
+ 
+Health Care Component
+ 
+Unit(s) of the University that provide health care or are part of the health plan or are designated by the 
+University as health care components covered under HIPAA. These covere
+d health care components 
+include units that provide health care ("Provider Components") and the Health Plan of the University.
+ 
+Information Technology Resource (IT resource)
+ 
+Facilities, technologies, and information resources used for University information
+ 
+processing, transfer, 
+storage, and communications. Included in this definition are computer labs, classroom technologies, 
+computing and electronic communications devices and services, e
+-
+mail, networks, telephones (including 
+cellular), voice mail, fax tran
+smissions, video, multimedia, and instructional materials. This definition is not all 
+inclusive but rather reflects examples of equipment, supplies and services. This also includes services that 
+are University owned, leased, operated or provided by the Uni
+versity or otherwise connected to University 
+resources, such as cloud and Software
+-
+as
+-
+a
+-
+Service (SaaS), or any other connected/hosted service 
+provided.
+ 
+Private Data
+ 
+For the purposes of this policy, private
+-
+highly restricted and private
+-
+restricted are defin
+ed in Administrative 
+Policy:
+ 
+Data Security Classification
+ 
+.
+ 
+Security Level
+ 
+A level (high, medium, or low) assigned to data or IT resource following the process in Administrative 
+Policy:
+ 
+Data Security Classification
+.
+ 
+Server
+ 
+A computer which provides services for other computers connected to it via a network. Common examples 
+are file servers, web servers, mail servers, and database servers
+.
+ 
+Standard
+ 
+Defines information security controls by which an individual or IT resource within the scope must adhere to.
+ 
+Unit
+ 
+A unit is an University entity such as a campus, college, program, or center.
+ 
+University Community Member
+ 
+A University community me
+mber is a student, faculty or staff member, University guest, volunteer, 
+contractor, or employee of an affiliated entity.
+ 
+University Data Network
+ 
+The University data network includes University telecommunications facilities such as the UM data network 
+with all wired or wireless links including departmental networks, ResNet, UM Wireless, academic and 
+administrative network facilities, network facilit
+ies serving affiliates or tenants, and system campus networks.
+ 
+University
+-
+Owned Computers
+ 
+All computers purchased using University related funds, irrespective of whether the source of those funds is 
+the legislature, research grants, sponsored, foundation 
+or departmental budgets.
+ 
+
+User Level Account
+ 
+An account or logon ID on a computer that is authorized to run programs and applications and use the 
+computer, but not to install programs or change the system configuration.
+ 
+RESPONSIBILITIES
+ 
+University Employee 
+and University Community Member
+ 
+
+ 
+Review and comply with this policy, the information security standards, and related procedures, as well as 
+pertinent laws or contractual obligations.
+ 
+
+ 
+Notify administrative and technical staff of private
+-
+highly restricted or 
+private
+-
+restricted data that is stored on 
+computers and other electronic devices.
+ 
+
+ 
+Work with their IT Director, IT Service Director, or Department Head through the exception request process 
+if needed.
+ 
+
+ 
+Report non
+-
+compliance with this policy to University Inf
+ormation Security (email
+ 
+security@umn.edu
+).
+ 
+Compliance Officer
+ 
+
+ 
+Monitor data security compliance.
+ 
+
+ 
+Investigate allegations and incidents of non
+-
+compliance.
+ 
+
+ 
+Recommend appropriate corrective and disciplinary actions.
+ 
+
+ 
+Develop and maintain policies related to the compliance requirements.
+ 
+
+ 
+Oversee and coordinate breach notification processes.
+ 
+
+ 
+Report non
+-
+compliance with this policy to University Information Security (email
+ 
+security@um
+n.edu
+).
+ 
+Technical Staff
+ 
+
+ 
+Take reasonable action to secure IT resources in accordance with this policy, information security standards 
+and related procedures, as well as pertinent laws or contractual obligations.
+ 
+
+ 
+Participate in campus and University
+-
+wide tec
+hnical and security groups or forums.
+ 
+
+ 
+Respond to technical questions from users related to securing IT resources.
+ 
+
+ 
+Report non
+-
+compliance with this policy to University Information Security (email
+ 
+security@umn.edu
+).
+ 
+Ca
+mpus, College, and Department Administrators
+ 
+
+ 
+Assign the responsibility of managing the risk and identifying specific security requirements associated 
+within the collegiate or departmental unit.
+ 
+
+ 
+Create, disseminate, and enforce local security requirements 
+to comply with University
+-
+wide policies for IT 
+resources under their control.
+ 
+
+ 
+Provide oversight and assure the security of legally or contractually private data created, stored, or 
+accessed by employees.
+ 
+
+ 
+Manage the security gap analysis for data and IT res
+ources for security control requirements.
+ 
+
+ 
+Request exceptions to policy or information security standards, if needed.
+ 
+
+ 
+Report non
+-
+compliance with this policy to University Information Security (email
+ 
+security@umn.edu
+).
+ 
+University Chief Information Officer (CIO)
+ 
+
+ 
+Delegated authority and responsibility for Information Technology security.
+ 
+
+ 
+Designate individuals who have the responsibility and authority for information technology resources.
+ 
+
+ 
+Designate individuals who have the
+ 
+responsibility for information technology policies.
+ 
+University Chief Information Security Officer or Designate
+ 
+
+ 
+Delegated authority and responsibility for Information Technology security from the CIO.
+ 
+
+
+ 
+Establish and maintain an Information Security Advisory
+ 
+Committee to provide guidance on information 
+security policy, standards, and procedures, requested exceptions to policies and information security 
+standards, information security risk, information security incidents, and other information security related
+ 
+matters.
+ 
+
+ 
+Establish information security policies and standards to protect University data, other private data, and 
+University IT resources. Review and approve final information security standards following the CIO 
+approved process.
+ 
+
+ 
+Establish a process to 
+review exception requests to information security policies and standards.
+ 
+University Enterprise Architect
+ 
+
+ 
+Review and approve final information security standards following the CIO approved process.
+ 
+
+ 
+Approve the listing of a system or application as an 
+enterprise system or application.
+ 
+Office of Information Technology (OIT) 
+-
+ 
+University Information Security
+ 
+
+ 
+Manage the information security policies and standards exception process.
+ 
+
+ 
+Provide guidance on information technology security issues.
+ 
+
+ 
+Monitor and 
+notify regarding potential intrusions.
+ 
+
+ 
+Review reported and discovered security incidents.
+ 
+
+ 
+Establish and publish the criteria upon which a server is determined to be a "critical server" and provide 
+oversight for the vulnerability scan process.
+ 
+
+ 
+Operational r
+esponsibility to remove non
+-
+compliant electronic devices from the network and, as appropriate, 
+retrieve equipment and data as part of an investigation.
+ 
+
+ 
+Coordinate with the unit administrative and technical/security staff to assure that actions are taken as
+ 
+necessary to protect University resources.
+ 
+
+ 
+Coordinate with law enforcement, compliance offices, and the Office of the General Counsel.
+ 
+Security Advisory Committee
+ 
+
+ 
+Advise on information security issues.
+ 
+
+ 
+Advise on exceptions to information security policies
+ 
+and standards for high
+-
+level risks to the University.
+ 
+RELATED INFORMATION
+ 
+Related Policies
+ 
+
+ 
+Administrative Policy:
+ 
+Acceptable Use of Information Technology Resources
+ 
+
+ 
+Administrative Policy:
+ 
+Accepting Revenue Via Payment Cards
+ 
+(Credit Cards PCI)
+ 
+
+ 
+Administrative Policy:
+ 
+Access to and Use of Physical Security Data
+ 
+
+ 
+Administrative Policy:
+ 
+Data Security Classification
+ 
+
+ 
+Administrative Policy:
+ 
+Internal Access to & Sharing University Information
+ 
+
+ 
+Adm
+inistrative Policy:
+ 
+Managing Student Records
+ 
+(FERPA)
+ 
+
+ 
+Administrative Policy:
+ 
+Protected Health Information
+ 
+
+ 
+Administrative Policy:
+ 
+Reporting and Notifying Individuals of Information Security Breaches
+ 
+Related Laws and Regulations
+ 
+
+ 
+Health Insurance Portability and Accountability Act (
+HIPAA)
+ 
+
+ 
+Family Educational Rights and Privacy Act (FERPA)
+ 
+
+ 
+Gramm
+-
+Leach Bliley 
+(GLBA)
+ 
+
+ 
+Minnesota Data Practices Act
+ 
+
+
+ 
+Payment Card Industry 
+-
+ 
+Data Security Standard (PCI
+-
+DSS)
+ 
+HISTORY
+ 
+Amended:
+ 
+April 2015 
+-
+ 
+Comprehensive 
+Review, Major Revision. Title of the policy changed from Securing Private Data, 
+Computers and Other Electronic Devices to Information Security. The content updated to reflect information 
+security controls and Data Security Classification. Basic and Enhance
+d Security for Computers and Other 
+Electronic Devices procedure removed.
+ 
+Effective:
+ 
+August 2010
+ 
+ 
+

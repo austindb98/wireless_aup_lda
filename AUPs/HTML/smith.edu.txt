@@ -1,0 +1,16 @@
+Use of the wireless network should be in conformance with the college s Policy on the Policy on the Acceptable Use of Computer Resources.
+Wireless networking is a broadcast and shared form of communication, and as such presents a variety of additional issues and security risks that are not present with a wired connection.
+Wireless data protocols also use the shared 2.4 GHz frequency airspace which is open and used by a variety of other technologies, including cordless phones, microwave ovens, and BlueTooth devices; this also presents reliability and performance issues for wireless networking.
+Therefore, Smith College has adopted the following policies and recommendations relating to the deployment and use of wireless networking on the college s network.
+Smith Guest network access is offered for temporary use to guests of the Smith College community; it offers limited bandwidth and restricted access to Smith services.
+Smith Guest access should not be used by Smith students, faculty or staff, except as needed for short term Internet access while resolving authenticated network access problems.
+Only wireless access points provided and installed by ITS, or authorized and approved by ITS, are permitted on the college s campus LAN.
+Personal access points are not permitted; where such devices are found connected to the network, data access to that location will be disabled until the access point is removed.
+Client computers with wireless network interface cards(NICs) are not permitted to be configured to act as access points.
+When conflicts arise between devices using the 2.4 Ghz airspace and Smith's wireless LAN, precedence will be granted to the wireless data network.
+Exceptions can be granted; requests for an exemption to this policy should be directed to the college CIO.
+Departments may request wireless network access in specific locations not currently covered by submitting an application to the Director of Network Operations or to designated alternates.
+Smith does not currently require all wireless communications to be encrypted, but use of the Smith Secure wireless mode is very strongly encouraged.
+Use of other secure communications options, such as SSH and HTTPS, is also highly recommended when such options are available.
+Access to Banner data or other Smith business systems via wireless access, regardless of location on or off campus, is strongly discouraged, even when using encrypted protocols.
+_________ Approved by ITCC: February 22, 2005 Last updated: August 2012 InstanceEndEditable Copyright 2014 Smith College | Last updated #BeginDate format:Am1 March 7, 2016 #EndDate search InstanceEnd

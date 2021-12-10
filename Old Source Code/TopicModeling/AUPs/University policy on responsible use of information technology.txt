@@ -1,0 +1,147 @@
+! - "#UNIVERSITY POLICY ON RESPONSIBLE USE OF INFORMATION
+TECHNOLOGY
+(A)Purpose. Access to modern information technology is essential to Kent state
+university's mission of providing the students, faculty and sta
+! with educationalservices of the highest quality. The pursuit of the missions of teaching, research
+and public service is greatly enhanced by the use of computing systems and
+software, access to the world wide web, and other technology resources that are
+available to the entire campus community. The preservation of those resources for
+the community requires that each faculty member, sta
+! member, student or other
+authorized user comply with institutional policies, applicable federal and state
+laws and responsible use of technical resources.
+(B)Operational procedure.
+(#)Authorized users of campus computing and network resources shall be
+faculty, sta
+!, student and other a"liated individuals or organizations
+authorized by the vice president for information services.
+($)Notwithstanding the geographical location of the user, authorized use of
+campus-owned or operated computing and network resources shall be
+consistent with the teaching, research and public service mission of Kent
+state university and consistent with this policy.
+(%)Information technology provides important means for both public and
+private communication. Users and systems administrators shall respect the
+privacy of person-to-person communications in all forms includingtelephone, electronic mail and Þle transfers, graphics and television to the
+fullest extent possible under applicable law and policy. The principle of
+academic freedom shall apply to public communication in all these forms of
+communication, as well as in the transmission of information in both the
+physical and virtual classrooms, subject to the limitations set forth
+hereinafter.
+(&)Subject to requirements of network administration, Kent state university
+
+shall not monitor or restrict the content of material posted on university-
+owned computers, or transported across its networks. However, Kent state
+university reserves the right to:
+(a)Limit access to its networks; and(b)Remove or limit access to content or to material residing on or
+transmitted on university-owned computers or networks when exigent
+circumstances arise (i.e., evidence of a reported violation of applicable
+university policies, contractual).
+(')Determination of violations shall be made in accordance with established
+applicable due process procedures (i.e., student code of conduct, collective
+bargaining agreement, academic and administrative grievances and appeals
+policies, as appropriate).
+(()In the normal course of system maintenance, both preventative and
+troubleshooting, sta
+! members operating the computer systems may be
+required to view Þles. Sta
+! shall be required to maintain the conÞdentiality
+and privacy of information in such Þles unless otherwise required by law or
+university policy.
+())Kent state university reserves the right, upon reasonable cause for
+suspicion, to access all aspects of its computing systems and networks,including individual login sessions to determine if a user is violating thispolicy or state or federal laws.
+(*)This policy may be supplemented with additional guidelines or regulations
+developed by units and companies that operate their own computers or
+networks, provided they are consistent with this policy.
+(!)A university member who stores or distributes copyrighted material must
+be the copyright holder or have the permission of the copyright holder asrequired under law. This includes duplication of audiotapes, videotapes,
+photographs, illustrations, computer software, and all other information for
+educational use or any other purpose.(#")No user may, under any circumstances, use Kent state university computing
+equipment, software or networks to harass or defame any other person.
+
+Policy E!ective Date: Policy E!ective Date: Policy Prior E!ective Dates: Policy Prior E!ective Dates: Mar. 
+#$
+, %#$&'/
+$(/
+%##%
+, )
+/
+$)
+/
+%##&, */
+$
+/
+%##+(C)Security and privacy of e-mail.
+(#)Access. The university recognizes the private nature of electronic mail
+communications. The university may access such Þles in the course of itsnormal supervision of the network or system (i.e., backing up of electronic
+messaging material), or when exigent circumstances arise (i.e., evidence of
+reported violations of policies or laws). Accordingly, the private nature of
+electronic mail communications sent or received by users on any computer
+system owned or operated by the university shall be maintained, subject to
+the technology limitations of the university's electronic systems and in a
+manner consistent with university polices, state and federal laws.
+($)Public records request. From time to time the university may receive
+requests pursuant to section 
+$()
+.
+(' of the Revised Code (the Ohio PublicRecords Act). When such requests are for access to a user's e-mail Þles, the
+university will make a good faith e
+!ort to notify the a!ected user. A good faith
+e!ort may include, though not be limited to, an e-mail message sent to the
+a!ected user's university e-mail address or telephone notice, including a
+message left on the university-based voice mail system.
+(%)Security. Kent state university employs various measures to protect the
+security of its computing resources and its users' accounts. Users should be
+aware, however, that the university cannot guarantee the absolute security
+and privacy of data stored on university computing facilities. Users should
+therefore engage in safe computing practices including but not limited to
+establishing appropriate access restrictions for their accounts, guarding their
+passwords, changing them regularly, and by backing up critical Þles when
+appropriate.
+CH #: DEFINITIONSCH #: DEFINITIONS(/POLICYREG/CHAPTER-
+#
+-(/POLICYREG/CHAPTER-
+#
+-
+DEFINITIONS)DEFINITIONS)CH $: GOVERNANCE
+CH $: GOVERNANCE
+(/POLICYREG/CHAPTER-
+$-(/POLICYREG/CHAPTER-
+$-ORGANIZATION-GOVERNANCE)
+ORGANIZATION-GOVERNANCE)
+CH %: TEACHINGCH %: TEACHING(/POLICYREG/CHAPTER-
+%-(/POLICYREG/CHAPTER-
+%-TEACHING-RESEARCH-AND-
+TEACHING-RESEARCH-AND-
+PUBLIC-SERVICE)
+PUBLIC-SERVICE)
+CH &: UNIVERSITY LIFECH &: UNIVERSITY LIFE(/POLICYREG/CHAPTER-
+&-(/POLICYREG/CHAPTER-
+&-UNIVERSITY-LIFE)
+UNIVERSITY-LIFE)
+CH ': ADMINISTRATION
+CH ': ADMINISTRATION
+(/POLICYREG/CHAPTER-
+'-(/POLICYREG/CHAPTER-
+'-GENERAL-ADMINISTRATION)
+GENERAL-ADMINISTRATION)
+CH (: PERSONNELCH (: PERSONNEL(/POLICYREG/CHAPTER-
+(-(/POLICYREG/CHAPTER-
+(-PERSONNEL)PERSONNEL)CH ): FINANCECH ): FINANCE(/POLICYREG/CHAPTER-
+)
+-(/POLICYREG/CHAPTER-
+)
+-FINANCE)FINANCE)CH *: REGIONALSCH *: REGIONALS(/POLICYREG/CHAPTER-
+*-(/POLICYREG/CHAPTER-
+*-REGIONAL-CAMPUSES)
+REGIONAL-CAMPUSES)
+CH !: TECHNOLOGY
+CH !: TECHNOLOGY
+(/POLICYREG/CHAPTER-
+!-(/POLICYREG/CHAPTER-
+!-INFORMATION-TECHNOLOGY-
+INFORMATION-TECHNOLOGY-
+SECURITY)SECURITY)CH #": RESEARCH & SPONSOREDCH #": RESEARCH & SPONSOREDPROGRAMSPROGRAMS(/POLICYREG/CHAPTER-
+#"-(/POLICYREG/CHAPTER-
+#"-RESEARCH-SPONSORED-
+RESEARCH-SPONSORED-
+PROGRAMS)PROGRAMS)

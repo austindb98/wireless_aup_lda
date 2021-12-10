@@ -1,0 +1,34 @@
+Page of 29.01.99.K1.290 Wireless Access Standard Administrative Procedure 29.01.99.K1.290 Wireless Access Standard Administrative Procedure Effective: April 20, 2011 Revised: April 26, 2013 Revised: March 13, 2019 Next Scheduled Review: March 13, 2024 Introduction With the proliferation of wireless enabled devices it is necessary to standardize the delivery of wireless network access to promote and maintain the security of the Texas A&M University-Kingsville(TAMUK) network.
+Purpose The purpose of this procedure is to establish rules for governing wireless networking at TAMUK.
+This procedure limits interference with the University's network infrastructure, promotes greater security in campus networking, and supports the academic mission of the University in order to provide reliable and secure wireless network access.
+Audience This procedure applies to wireless network users at TAMUK.
+Management of Radio Frequencies a. TAMUK reserves the right to govern unlicensed radio frequencies within its boundaries.
+iTech is responsible for managing these radio frequencies and may restrict the use of any devices that can cause interference in the unlicensed radio frequency ranges.
+These include cordless phones, microwave ovens, and high voltage audio speakers.
+iTech is solely responsible for providing wireless networking services on campus.
+No other department may deploy wireless network access points or other wireless service on campus.
+Personal or departmental wireless access points are strictly prohibited.
+Page of 29.01.99.K1.290 Wireless Access Standard Administrative Procedure 1) iTech may provide temporary wireless access points to support campus events when possible.
+The University will deploy a campus wireless network, based on the 802.11 standards.
+iTech will work with departments to accommodate specific educational or research applications where technically feasible.
+
+Wireless Service Considerations Wireless services may not be available in all areas of the campus.
+The wireless network should be viewed as augmenting the wired network, to provide more flexible network use and not as a primary means of network access.
+Applications that require large amounts of bandwidth, or are sensitive to changes in signal quality and strength may not be appropriate for wireless access.
+
+Security Standards a. IEEE 802.1X is the authentication standard.
+Additional security procedures may be applied as needed.
+Wireless users will be required to authenticate with their university provided credentials.
+
+Guest wireless access is offered in most locations on campus and provides internet service only.
+Guest users can self-register their portable devices for a specific period of time set by iTech.
+
+Guests must adhere to all university policies governing the use of information resources.
+Sponsors provide guest network access on good faith that they will not engage in any illegal or abusive activities while using the TAMUK network, and are ultimately responsible for the actions of their guests.
+
+Eduroam Wireless Access a. Eduroam wireless access is also available in most locations on campus and provides internet service only.
+Contact your home campus for assistance in authentication.
+Disciplinary Actions Violation of this procedure may result in disciplinary action up to and including termination for employees and temporaries;
+a termination of contract relations in the case of contractors or consultants; dismissal for interns and volunteers; or suspension or expulsion in the case of students.
+Additionally, individuals are subject to loss of TAMUK Information Resources access privileges, civil, and criminal prosecution.
+References

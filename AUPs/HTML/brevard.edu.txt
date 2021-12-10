@@ -1,0 +1,266 @@
+
+Accounts
+Requirements
+PURPOSE Brevard College provides a myriad of information technology resources to support the educational mission of the Brevard College community.
+The use of these resources must be consistent with the goals of the college.
+All members of the Brevard College community are expected to act responsibly, considerately and ethically, and to follow the college s guidelines, policies and procedures in utilizing information technology and electronic networks accessed by such technology.
+All rights granted are also governed by the regulations of Brevard College and local, state and federal laws.
+Brevard College provides computer and telecommunication services through the Information Technology Department and various other systems and resources to meet operational, financial, educational and informational needs.
+It is essential that these systems and machines be protected from misuse and unauthorized access.
+It is also essential that the college s computers, computer systems, computer networks, telecommunications, including cable television infrastructure, as well as the data they store and process, be operated and maintained in a secure environment and in a responsible and ethical manner.
+All users of the Brevard College computing resources agree to abide by these policies and principles.
+This policy applies to all College computer and telecommunication systems and refers to all hardware, data, software and associated communications networks.
+In particular, this policy covers computers ranging from multi-user timesharing systems to single user personal computers, whether free-standing or connected to the network.
+In addition to this computer policy, users of these computer systems are subject to applicable state and federal laws.
+Violations will be referred to the Director of Information Technology.
+Abuse involving theft or vandalism will also be reported to the Director of Campus Security.
+Brevard College reserves the right to terminate or suspend the computing privileges of any member of the Brevard College community at any time with or without advance notice.
+Computer and telecommunications resources are valuable, and their abuse can have a far-reaching negative impact.
+Computer abuse affects everyone who uses computing facilities.
+The same moral and ethical behavior that applies in the non-computing environment applies in the computing environment as well.
+Brevard College will ensure that all users are aware of the policy by publishing it in appropriate media designed to reach all faculty, staff and students.
+
+COMPUTER USAGE GUIDELINES & APPROPRIATE USE STATEMENT Brevard College provides computing and information technology resources for the academic, research and business purposes of the college.
+The use of these resources must be consistent with the mission and goals of the college.
+Use of these resources for commercial purposes or for personal profit is forbidden.
+All members of the Brevard College community are expected to act responsibly and to follow the college s guidelines, policies and procedures in utilizing information technology and electronic networks accessed by such technology.
+Users may not engage in any of the common forms of computer abuse listed in this document or use Brevard College technology resources to violate any rules in the College Faculty & Staff Handbook, Student Handbook or any local, state or federal laws.
+The EDUCOM/ADAPSO Statement on Software and Intellectual Rights has been adopted by Brevard College [1] Respect for intellectual labor and creativity is vital to academic discourse and enterprise.
+This principle applies to works of all authors and publishers in all media.
+It encompasses respect for the right to acknowledgment, right to privacy and right to determine the form, manner and terms of publication and distribution.
+Because electronic information is volatile and easily reproduced, respect for the work and personal expression of others is especially critical in computer environments.
+Violations of authorial integrity, including plagiarism, invasion of privacy, unauthorized access, and trade secret and copyright violations, may be grounds for sanctions against members of the academic community.
+Specific Guidelines for Appropriate Use of Technology In making use of computer and technology resources you MUST Use only authorized resources, for authorized purposes.
+Follow proper procedures for accessing the computer system.
+You are responsible for all activities performed under your login name and password.
+Use only legal versions of copyrighted software and use the software in compliance with licensing agreements.
+Avoid monopolizing systems, overloading the network with excessive data or wasting computer time, disk space, printer paper, manuals or other resources.
+Respect the physical equipment provided for your use.
+Be sensitive to the public nature of the facilities, and not display sexually explicit, graphically disturbing, or sexually harassing images, sounds, messages or any other content deemed to be offensive that could create an atmosphere of discomfort or harassment for others.
+Report violations or suspected violations to an appropriate staff member of the Information Technology Department.
+In making use of computer and technology resources you must NOT Provide your password to anyone else or use another person s login name and password.
+Use another person s files, system or data without permission Design or use computer programs to decode passwords, access control information, propagate viruses, disrupt services, damage files or change network settings.
+Attempt to modify system facilities.
+Attempt to bypass or remove system security measures or attempt to hack its secured systems over the Internet or by any other means using Brevard College resources.
+Use the college system for partisan political purposes,( e.
+using electronic mail to circulate advertising for political candidates), for commercial purposes or non-college related activities without authorization from appropriate College personnel.
+Make or use illegal copies of copyrighted software, store such copies on college systems or transmit them over college networks.
+Use electronic mail or messaging services to harass, intimidate or otherwise annoy another person, for example, by broadcasting unsolicited messages or sending unwanted mail.
+Waste computer resources, for example, by intentionally placing a program in an endless loop or by printing an excessive number of copies of a program or file.
+Prevent others from accessing the system or unreasonably slow down the system by running wasteful jobs, playing games or engaging in non-productive or idle computer "chatting."
+Use the college system for personal gain; for example, by participating in online gambling, by selling access to your login name and password or by performing work for profit in a manner not authorized by the college.
+Use computer resources to create, print, transmit, store or display sexually explicit, graphically disturbing or sexually harassing images or text or any other material that may be deemed in violation of local, state or federal laws Post on electronic bulletin boards or any type of electronic forum information that may be inappropriate, slanderous or defamatory in nature or any materials that violate existing laws or the college standards of employee/student conduct.
+Engage in any other activity that does not comply with the General Principles presented above.
+
+Accounts Users must have valid, authorized accounts and may only use their account and computer resources for which they are specifically authorized.
+Users may only use their account in accordance with its authorized purpose.
+Users are responsible for safeguarding their own computer account.
+All users are required to sign the Brevard College Campus Computing & Network Resources Appropriate Use Statement at the time they receive their Brevard College account information.
+Users should not let another person use their account unless authorized by the Director of Information Technology for a specific purpose.
+Passwords should be changed often to ensure that private and secure files are kept secure.
+The Information Technology Department will impose a 90 day mandatory password change.
+If each individual user does not change their password within that 90 day period they will be locked out of the Brevard College Network until they do
+Graduating student accounts will be held for 90 days after graduation.
+After this time is elapsed, all graduate accounts are deleted along with any files/emails stored on the Brevard College Network.
+This is a permanent operation and data cannot be recovered once deleted.
+Accounts for students who have withdrawn, been suspended or are not returning will be deleted immediately.
+Faculty and staff accounts will be terminated on the last day of employment.
+Individuals who demonstrate a need to retain their network account due to a continuing academic or business relationship to Brevard College may have their accounts extended provided arrangements are made prior to the termination date.
+This will require written approval from the President or appropriate Vice President.
+
+Security Users may not bypass any security mechanisms or circumvent data protection schemes in an attempt to change, copy, delete, read or otherwise access files or software without the express permission of the custodian of the files or the Director of Information Technology.
+Users may not attempt to modify software except when that software is intended to be user customized.
+Resources Users are responsible for all activity originating from their account.
+Excessive use of the network resources is not permitted and may result in the loss of user privileges.
+This includes running wasteful jobs, playing games, particularly multi-user games, engaging in live non-productive chats and connecting to real audio/video that unnecessarily slow down the College network.
+Preventing others from accessing the network or college systems and engaging in unauthorized commercial enterprises by using campus resources is expressly forbidden.
+Hardware: Any computing equipment attached to the Brevard College Network should be used for carrying out the mission or the business of the College.
+Users attaching personal equipment must abide by the Brevard College Computing and Network Resources Acceptable Use Policy, in particular guidelines set forth in section III, Personal Computers. If there is a need for a computer or any other technology resource to be moved, please contact the Department of Information Technology.
+DO NOT move Brevard College computer equipment yourself.
+Brevard College will upgrade or replace a computer assigned to faculty, staff or a lab when that computer is no longer able to fulfill the role for which it was originally intended or a Brevard College employee is unable to fulfill their specific job responsibilities because of provided equipment.
+To initiate this upgrade or replacement, the employee s supervisor must submit a request for upgrade or replacement to the Information Technology Department.
+If the computer cannot be upgraded, or an upgrade is not fiscally feasible, the computer will be replaced.
+All upgrades or replacements are subject to budgetary approval and constraints.
+Software: All software loaded onto any college computing resource must be legally obtained and legally installed by a staff member of the Information Technology Department.
+A copy of the valid software license must be kept on file at the Information Technology Department.
+All files and correspondence originating from, destined to, or stored on any Brevard College storage device is considered the property of Brevard College.
+Each user is responsible for the information in his/her private user account and the electronic data that their user account transmits across the Brevard College Network.
+Users are responsible to ensure that their files and data stored on Brevard College resources are work related and support the academic mission of Brevard College; personal files such as personal photos or music are not authorized.
+Each user is also responsible to delete outdated and duplicate files.
+Network & Internet: Network bandwidth is a shared resource.
+All systems generate some network traffic, such as logging on, printing a document or loading a web page.
+The Brevard College network is designed to handle this load with no reduced service.
+Much like a highway, though, as traffic increases, things slow down.
+The Internet is particularly susceptible to this problem.
+Currently, it is not feasible to provide unlimited connectivity for users whose activities are not strictly serving the mission of Brevard College.
+Therefore, Brevard College reserves the right to request users to reduce the amount of traffic caused by their system and when necessary to remove such systems from the campus network.
+In addition, peer-to-peer, file-sharing software such as Napster, Audiogalaxy, Morpheus, etc are not allowed on any machines connected to the Brevard College Network.
+To ensure that it can be supported by the Brevard College Network configuration, any subscription to an online Internet service, particularly one that requires streaming media, must be evaluated by the Department of Information Technology before purchase or commitment is made.
+This includes registration for non-Brevard College online training opportunities, academic resource libraries and music download providers.
+Any Web Site running in the BREVARD.EDU domain; official or unofficial, desiring to conduct on-line merchant activity, including the receipt of online credit card payments, must receive authorization from the Office of Finance.
+Any Web site discovered to be in violation of this provision is subject to removal from the Brevard College domain.
+Brevard College is not responsible for any liability resulting from any unauthorized activities prior to their discovery and appropriate remedy.
+Copyright Compliance Users shall assume that any software, music, video or any other files they did not create is protected under state, federal and international copyright laws, specifically the DMCA(Digital Millennium Copyright Act).
+Distribution or assimilation of copyrighted proprietary material, violation of copyright or patent laws, or any other means of copyright infringement will not be tolerated on the Brevard College network.
+Summary of Civil and Criminal Penalties for Violation of Federal Copyright Laws Copyright infringement is the act of exercising, without permission or legal authority, one or more of the exclusive rights granted to the copyright owner under section 106 of the Copyright Act(Title 17 of the United States Code).
+These rights include the right to reproduce or distribute a copyrighted work.
+In the file-sharing context, downloading or uploading substantial parts of a copyrighted work without authority constitutes an infringement.
+Penalties for copyright infringement include civil and criminal penalties.
+In general, anyone found liable for civil copyright infringement may be ordered to pay either actual damages or statutory damages affixed at not less than $750 and not more than $30,000 per work infringed.
+For willful infringement, a court may award up to $150,000 per work infringed.
+A court can, in its discretion, also assess costs and attorneys fees.
+Willful copyright infringement can also result in criminal penalties, including imprisonment of up to five years and fines of up to $250,000 per offense.
+For more information, please see the website of the U.S.
+Copyright Office at www.copyright.go
+E-mail Brevard College provides an email accounts and is an official means of communication for the College.
+In recognition that certain communications may be time-critical, each member of the Brevard College community is expected to check their official email address on a frequent and consistent basis in order to stay current with college and course communications.
+E-mail(electronic mail) is designed for direct communications between specific individuals or specified groups.
+It may also be used for communication to a wider general audience when appropriate.
+The Campus Network and E-Mail system is not to be used for "junk mail"(unsolicited mail that is of little interest or use to the majority of users receiving it) personal announcements, advertisements or other promotions.
+E-mail is considered a formal written record that carries the same legal weight as a formal memorandum.
+Users of e-mail should remember that e-mail messages become the possession of the receiver and can be easily duplicated and redistributed by recipients.
+College policy prohibits certain types of e-mail, including mail that may be perceived as harassment, political campaigning or commercial solicitation.
+Chain mail is also prohibited.
+Use of a Brevard College email address is to be limited to college business only.
+Faculty, staff and students are assigned a quota of space for storage of their e-mail.
+The e-mail server will automatically notify you when you are getting close to your storage quota.
+When an account reaches or surpasses the quota limit, the user account will not be able to send or receive e-mail until stored messages are deleted.
+Mass e-mail Mass E-mail at Brevard College is defined as an E-mail message sent to all members of one or more of the three principal groups on campus: BC Faculty, BC Staff, or BC Students.
+In recent years, both the number of messages and the size of individual E-mail messages sent to large groups on campus have grown tremendously, which collectively have the effect of putting undue stress on our E-mail server and quickly filling users E-mail inboxes, requiring users to spend more time removing messages to be able to send new messages.
+The large number of mass E-mails sent also makes it more difficult for users to discern messages of genuine necessity or urgency to the entire campus from those of lesser or more marginal interest to smaller groups of faculty, staff, or students.
+In order to cut down on both the size and frequency of mass E-mail, all users on campus should take note of the following policies concerning mass E-mail: Mass E-mail sent by a faculty or staff member to all faculty(BC Faculty) and/or staff(BC Staff) as part of the business or academic mission of the College does not require prior approval, but it must adhere to all other standards pertaining to mass E-mail.
+Mass E-mail is generally limited to one of the following types of information and must be approved and sent by an office or person responsible for that kind of information.
+Examples of such offices or persons are listed in parentheses): Announcements of emergency, crisis, weather, or campus security situations(the President's office, Campus Security office) Announcements of changes or disruptions of service(IT Dept., Maintenance Dept.)
+Announcements of significance to the campus(President's Office, Dean of Student Life, Dean of Faculty and VP for Academic Affairs, VP of Institutional Development, VP of Admissions and Marketing, Library Director, Director of Marketing and Communication, Division Chairs, Director of Athletics, Payroll) Announcements of official policies, changes in policies, or academic deadlines(Registrar's office, Dean of Faculty and VP for Academic Affairs, Dean of Student Life, Library Director, President's Office) Any other critical and/or time-sensitive situation affecting the campus as a whole(the VPs, President's Office, Dean of Student Life) All Mass E-mail must be sent as a plain text message.
+As a rule, all mass E-mail should not include attachments.
+When it is necessary to include attachments, the total size of all attachments must be less than 50kb.
+Attempts to circumvent these limitations, whether from inside or outside, may be considered a violation of the college's Acceptable Use Policy.
+Misuse Users shall disclose to their supervisor, the Director of Information Technology, the Dean of Students or the Director of Campus Security misuses of computing resources or potential loopholes in computer systems security and cooperate with the Director of Information Technology in the investigation of abuses.
+In connection with inquiries into possible abuses, the College reserves the right to examine files, programs, passwords, accounting information, printouts or other computing material without notice.
+Examinations may be authorized only by the Director of Information Technology.
+Whenever such an examination is conducted, the examiner will maintain an inventory of all items examined.
+Privacy and Confidentiality Privacy and confidentiality are important values for Brevard College.
+Normally, users can expect that their communications and the contents of their accounts will be treated as private and confidential and that their files will not be accessed without their express permission.
+However, no absolute rights of privacy should be inferred or expected.
+The College owns the information technology infrastructure and is responsible and liable for its use.
+The College reserves the right to take action to see that its information technology is used lawfully and appropriately in alignment with the mission of the institution.
+Unless contractual agreements dictate otherwise, messages sent over the computer and communications systems are the property of the College.
+To properly protect and manage this property, the College reserves the right to examine all data stored in or transmitted by these systems.
+Since the computer and communication systems are to be used for administrative purposes, users should have no expectation of privacy associated with the information stored in or sent through these systems.
+
+PERSONAL COMPUTERS Brevard College provides connection to the campus network and Internet in all residence halls, classrooms, labs and offices.
+Access to the network is a resource of the College and therefore is regulated according to the Brevard College Computing and Network Resources Acceptable Use Policy.
+These regulations apply to all students and employees connecting private equipment to the Brevard College Network and are intended to preserve the integrity of the network as an academic and administrative resource and to ensure fair and equal access for all students, faculty and staff.
+Users are responsible for all use of their personal computers and network connections and will be held accountable for any violations that occur involving their computer or network connections.
+Users should allow others to use their machine only with the full understanding of the consequences of that action.
+For the protection of the user s computer, as well as the protection of the Brevard College Network, the Brevard College Department of Information Technology has put forth the following rules and regulations.
+These rules apply to all computers connected to the Brevard College Network.
+All users will be required to authenticate their computer and run an agent that continually checks for compliance with this document to have access to the Brevard College Network.
+
+Requirements Hardware: All computers must meet a minimum set of requirements as set by the Department of Information Technology.
+These requirements are listed below.
+Software: Operating System Updates: All computers must have a legal operating system(OS) that has all current critical patches and updates.
+It is the student s responsibility to update their computer s
+It is strongly recommended that you set your OS to auto-update, if supported by your
+Anti-Virus: All computers must have a working and updated anti-virus program(AVP).
+It is the student s responsibility to update their computer s AVP.
+It is strongly recommended that you set your AVP to auto-update.
+Please note that most new computers come with a trial version of anti-virus software.
+These programs usually have a 60 day trial period after which they will not work.
+If you have purchased a new computer be sure to either purchase a new license for the trial software or purchase different anti-virus software.)
+Anti-Spyware: Spyware is a type of program that collects personal information from your computer and delivers it to an external computer.
+Spyware is usually considered malicious and is often installed on your computer without your knowledge or consent.
+All computers must have an anti-spyware program running on their machine.
+Like an anti-virus program, anti-spyware programs must be updated on a regular basis.
+It is strongly recommended that you set your anti-spyware program to auto-update.
+
+Recommendations Personal Firewall: It is strongly recommended that you use a personal firewall.
+A firewall is a piece of software or hardware that limits the access to your computer.
+Many attacks on your computer(including but not limited to Internet worms and attempts by people to take control of your computer) can be easily stopped by a firewall.
+Ad Blocking software: Ads are a part of the Internet.
+When visiting sites, pop-up ads can sometimes overload your computer and cause your computer to either crash or work very slowly.
+We recommend the Google toolbar.
+Not only does it give you quick access to one of the best search engines on the Internet, but it also serves as a pop-up blocker C. Employee Use College employees should be aware that any and all use may be accessed or monitored.
+Any personal device used for College business may be subpoenaed for legal discovery purposes.
+It is strongly advised that employees consult with the IT Department before conducting College-related business on a personal device.
+The College does not accept responsibility for any loss or damage to personal devices incurred while such devices are connected to the Brevard College Network.
+
+RESTRICTIONS The following devices and activities are not allowed on the Brevard College Network: Servers(Hardware or Software):
+A server is defined as a computer dedicated to providing a resource for use by others.
+This includes but is not limited to a file server, web server, P2P servers, game servers, mail servers and windows shares.
+No server is allowed on the network.
+A network connection supplied by the College is solely for the use of the individual subscriber assigned to that connection.
+Connections may not be shared among multiple users.
+Network services, wiring and other hardware may not be modified or tampered with in any way.
+This includes attempting to extend the network beyond the area of its intended use(for example: installing a hub or sharing connections).
+This includes but is not limited to a wireless access point(WAP), wireless routers, a computer with network sharing turned on, as well as hardware routers, switches or hubs.
+Users are allowed one device connected to the network.
+Connecting devices through personal switches, hubs, access points, etc.
+is not allowed.
+File Sharing: The sharing and downloading of files(through peer-to-peer(P2P), windows shares, FTP etc.)
+is not permitted on the Brevard College network.
+Unauthorized Access: As a user you have access to your network drive, your webspace, apps drive, email and the Internet.
+Users are not authorized to access any other computer, file or device without the expressed written permission of the Network Manager.
+This includes, but is not limited to, accessing, modifying or deleting files that do not belong to you, accessing servers and accessing networking hardware.
+Illegal Activities: Any activity deemed illegal by local, state, federal or international law is prohibited on the network, including, but not limited to, such practices as fraud, harassment, software piracy and copyright infringement.
+In addition, IP spoofing, packet sniffing, virus distribution or any activity that disrupts the network are violations of Brevard College computer abuse policies.
+Exceptions require specific authorization from the Brevard College Director of Information Technology or the Network Manager.
+Users may not assign static IP addresses to their computers without the written consent of the Director of Information Technology.
+PENALTIES Any violation of these Brevard College Computing and Network Policies will be considered a serious offense.
+The College reserves the right to copy and to examine files or information on systems that might be related to inappropriate use(already addressed above in examination of files).
+The following are the general guidelines for dealing with infractions of the network policy.
+Some infractions will warrant a more severe consequence than others.
+Violations and/or abuse of the Brevard College computing resources can result in termination of the violator s network and/or computer access.
+Any communication received by the college regarding inappropriate or illegal activities through the network will result in immediate termination of network access.
+The matter will also be referred to the appropriate department supervisor for action.
+The College also reserves the right to impose other sanctions such as dismissal if the violation(s) warrants
+Brevard College reserves the right to place limited restrictions on the use of its computers and network systems in response to complaints presenting evidence of violations of college policies or guidelines, or state or federal laws.
+Once evidence is established, computers involved in alleged violations may be disconnected from the network until the situation is resolved.
+First offense: Notification of violation will be sent to the user and supervisor by the Information Technology Department.
+Second offense: Notification of violation will be sent to the user, supervisor, and appropriate Vice-president by the Information Technology Department and the policy will be reviewed with a staff member of the Information Technology Department.
+Access to the network may be limited or denied.
+Third offense: Notification of violation will be sent to the user, supervisor, and Senior Staff by the Information Technology Department.
+Further penalties will be at the discretion of Senior Staff.
+If the user wishes to bring a formal grievance he or she should follow the Grievance Procedures listed in the Staff, Faculty, or Student Handbook.
+External fines or other penalties incurred through the use or misuse of the Brevard College network are the responsibility of the violator(s) on whom the fines or penalties are charged.
+Brevard College accepts no responsibility for such fines or penalties.
+
+DISTRIBUTION OF THIS POLICY Brevard College will insure that all users are aware of the policy by publishing it in appropriate media designed to reach all faculty, staff and students.
+
+DEFINITION OF TERMS Computer Systems: Computer systems include any microcomputer(stand-alone or networked), workstation, mini-computer or mainframe computer used on this campus or accessible by way of networks at other locations.
+Computer Networks: Computer networks include any local or wide area communications systems connecting above defined computer systems.
+Network Backbone: Network backbone consists of the primary communications media which connect small networks and individual terminals, microcomputers, workstations, etc., to other devices.
+Local Area Networking Media: Local area networking media may consist of copper wire, fiber optic cable, thin or thick wire cable which is used to connect one terminal, microcomputer, workstation, etc., to another or to network interface equipment.
+Telecommunications: Telecommunications is comprised of telephone and television devices, including but not limited to telephone hardware, wiring, connectors, panels or any other device whose primary purpose is to facilitate telephone or television communications.
+Personal Digital Assistant, is a small, portable handheld digital organizer that combines computing, and in some cases telephone/fax, Internet and networking features.
+PDAs consist of a display screen, a processor, memory and an operating system.
+There is a wide range of operating systems that PDAs run
+Most PDAs use a stylus rather than a keyboard for input, incorporating handwriting recognition features.
+V
+COMMON FORMS OF COMPUTER & TELECOMMUNICATION ABUSE Misuse or abuse of computers, computer systems, computer networks and telecom resources are prohibited.
+The following topics are considered areas of abuse:
+Privacy vs.Open Records Investigating or reading another user s files is considered a violation of that person s privacy.
+Reading protected files without authorization, by any mechanism, is a violation of the Brevard College Computing and Network Resources Policies and Appropriate Use Statements.
+Brevard College reserves the right to examine files, programs, passwords, accounting information, printouts or other computing material without notice for the purpose of investigating possible abuses of this policy.
+Violations include, but are not limited to attempting to access another user s computer/files without permission supplying or attempting to supply false or misleading information or identification in order to access another user s account deliberate, unauthorized attempts to access or use College computers, computer facilities, networks, systems, programs or data; the unauthorized manipulation of Brevard College s computer systems, programs or data the unauthorized capturing of Brevard College network data.
+
+Theft Theft includes the taking/borrowing of any property without the express permission of the owner.
+Violations include, but are not limited to unauthorized use of college computing resources, including the use of E-mail or Internet communications, for personal gain or profit using subterfuge to avoid being charged for the use of computer or telecommunication resources deliberate, unauthorized use of another user s account to avoid being billed for the computer or telecommunication usage abusing specific computer resources, such as the Internet attempting unauthorized access to computers outside the College using the College s computers or communications facilities removing any computer equipment(hardware, software, data, etc.)
+without written authorization; copying, or attempting to copy, data or software without proper authorization.
+Any unauthorized alteration or attempt at alteration, manipulation or damage to any telecommunication system is also forbidden.
+This includes attempting to illegally tap into the TV cable system, as well as modification of any part of the phone system so as to allow illegal phone calls.
+Vandalism Any user s account, as well as the operating system itself, is a possible target for vandalism.
+Attempted or detected alteration of user system software, data or other files, as well as equipment or resources disruption or destruction, is considered vandalism.
+Violations include, but are not limited to sending either mail or a program which will replicate itself or do damage to another user s account.
+This includes the creation and introduction of computer viruses, regardless of how harmless or benign they may seem tampering with or obstructing the operation of the College s computer systems or network(for example, attempting to crash the system) inspecting, modifying or distributing data or software without proper authorization from the owner or attempting to do so attempting to interfere with the performance of any system or network resource damaging any computer hardware or software.
+Copyright Issues Users of the Brevard College Network shall assume that any software, music, video or data of any kind that the user did not create is protected by copyright and is therefore subject to state, federal and international law; the exception to this being the use of software, video or music that is expressly allowed by the DMCA and which is accessed at an approved station.
+The College owns licenses to a number of proprietary programs.
+Users who redistribute software from the computing systems break agreements with its software suppliers, as well as applicable federal copyright, patent and trade secret laws.
+Therefore, the redistribution of any software from computing systems is strictly prohibited except in the case of software which is clearly marked as being in the public domain.
+Violations include, but are not limited to Making, distributing or using illegal copies of copyrighted material including software, music, video storing illegal copies of copyrighted materials on College systems transmitting copyrighted information over College networks.
+Harassment Harassment of other users may be the sending of unwanted messages or files.
+Violations include, but are not limited to interfering with the legitimate work of another user sending abusive or obscene messages viewing of materials that may be considered offensive in a public setting using computer resources to engage in abuse of other users.
+Miscellaneous Other uses commonly considered unethical include, but are not limited to unauthorized and time consuming recreational game playing sending chain letters or unauthorized mass mailings using computer resources for personal profit, the private benefit of other individuals or organizations, or for other illegal purposes personal advertisement.
+1] EDUCOM is a non-profit consortium of over 450 colleges and universities committed to the use and management of information technology in higher education.
+ADAPSO is an association of the computer software and services industry.
+0 Global site tag(gtag.js) - Google Analytics Previous image Next image

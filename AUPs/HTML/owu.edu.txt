@@ -1,0 +1,64 @@
+The confidentiality and integrity of our campus records and other resources are of primary concern.
+The internet and world wide web have proven to be an open marketplace and crossroads for commerce and communication of all types, both positive and negative.
+Institutions, associations and the government have all weighed in on how to safely navigate the complicated online world.
+For background information on the context in which these security measures have been implemented familiarize yourself with the Family Educational Rights and Privacy Act(FERPA) and the Communications Assistance for Law Enforcement Act(CALEA), along with copyright law and fair use.
+The Ohio Wesleyan University data network, whether wired or wireless, is a private network.
+There is no free access to the general public; guests must register with the library circulation desk or Information Services Help Desk and are provided limited access on an as-needed basis.
+Expand the topics below to learn more.
+Passwords The first line of defense against unauthorized access to any data network is a unique username and password for every authorized individual.
+Anyone with an OWU username and password is personally responsible for all activity on their account, so it is important that you select and maintain your own personal password as a safeguard for your account.
+Choose your password with care.
+OWU passwords must be between 32 characters, and may contain letters, numbers and some punctuation marks.
+For more information about OWU passwords, see the passwords page.
+Link to this section of the page.
+Student and Employee Responsibility OWU calls upon each user on campus students, faculty, and staff to exercise responsible behavior when using the computer network.
+The University s network allows quick and easy downloading of internet files for scholarly work.
+Please know that the downloading of unauthorized internet media files is a violation of the University s Computer Use Policy.
+It also may be illegal.
+See the Copyright and Fair Use LibGuide for additional information.
+For more information, including policy documents, see the Security Best Practices page on our department website.
+Link to this section of the page.
+Wireless Security To ensure that the campus wireless network is secure and private it utilizes 128-bit encrypted WiFi Protected Access(WPA2 Enterprise) security over an 802.1X wireless network.
+This means that any computer accessing the wireless network must have the correct configuration, including the proper server addresses, the proper certificate and the proper credentials.
+Once connected to the wireless network, you must still register your computer by again entering your username and password to access the internet.
+Find your operating system or device in the BishopNet submenu under Network above for connection instructions.
+Link to this section of the page.
+Mac Addresses Every computer that connects to any network is identified by a physical hardware address.
+This Media Access Control(MAC) address identifies the particular network interface card(NIC) used by that connection.
+So the wired(Ethernet) card will have one address while the wireless network card will have another.
+These addresses along with whose computer they belong to are recorded by the university and used to identify every connection to our network.
+Sometimes the registering of these addresses is an automated process, such as when students point a new computer to wif owu.edu, and at other times you must provide the MAC address to the help desk to register it, as necessary for all gaming systems.
+Instructions on how to find the MAC address on your computer are available here.
+Link to this section of the page.
+Common Sense Malware Precautions Many computer viruses are spread via email, either as a file attachment or via a hyperlink within the email itself.
+This is why it is important that you should not open any attachment that you are not expecting or click on any link you re not sure
+If you receive an email attachment that you were not expecting, you should contact the sender to verify that they purposely sent you the attachment before you open
+Also keep in mind that a large percentage of the virus warnings circulating via email are hoaxes.
+Forwarding these bogus warnings takes time and computing resources and may cause unintended harm.
+Before forwarding any virus warning, always verify the information through a trusted anti-virus resource, such as the McAfee Threat Center, or an urban legends reference site, such as Snopes.com.
+When browsing the internet be cautious clicking any advertisement.
+Many instances of malware spread attached to downloaded files or posing as a banner
+Also pay attention to your browser s address bar, where you should see indication of site security, a lock icon or the base domain(www.whatever.com) in green.
+And don t download content from untrusted sites.
+Link to this section of the page.
+Virus Protection It is mandatory that all Windows computers connecting to the OWU campus network have up-to-date virus protection currently running on them.
+New viruses are being introduced every day.
+Virus software must be constantly updated for it to be effective.
+Ohio Wesleyan has a site license for Sophos antivirus software for university owned computers.
+Students can download the Sophos home edition for free here: Sophos Home.
+Link to this section of the page.
+Spyware Protection Spyware is computer software that is installed surreptitiously on a personal computer to intercept or take partial control over the user s interaction, without the user s informed consent.
+Unlike viruses, spyware does not directly spread itself to other computers.
+Spyware often comes piggy-backed on other freely distributed software or disguises itself as something useful and legitimate like a web accelerator or even as anti-spyware.
+Up-to-date and currently running anti-spyware software is also required to connect to the OWU network.
+Many internet security providers include anti-spyware and protect against other malware in their scans.
+Link to this section of the page.
+Spam Protection Anyone who uses email is familiar with the scourge of spam.
+Email spam is a costly problem for all organizations.
+With OWU using BishopMail, Google provides spam protection instead of the University itself.
+If you receive anything suspicious, click the Report Spam button that has an icon of an exclamation point inside a stop sign shape.
+Learn how to identify fraudulent emails and phishing attempts [although the article says it applies to Outlook 2003 there is no software-specific information and is relevant to all email users.]
+Link to this section of the page.
+entry-content.post-entry Chat with Us!
+a.m. - 4:30 p.m. M-F Support Links Online Request Form(login req) You're also welcome to chat with us, above.
+021 Oh-Wooo Help Desk All rights reserved Powered by Designed with the Customizr theme end #tc-page-wrap Search

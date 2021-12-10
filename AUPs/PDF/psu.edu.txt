@@ -1,0 +1,97 @@
+Unacceptable computer use exposes the organization to risks including but not limited to virus attacks, network systems and services compromises, and litigation possibilities.
+Unacceptable computer use reduces adherence to regulatory compliance.
+OHR computing systems are for business purposes in serving the administrative, academic, and research activities of the University, faculty, staff, and students.
+Effective security is a team effort involving the participation and support of every OHR employee and affiliate who deals with information and/or information systems.
+It is the responsibility of all computer users to understand and comply with this policy and conduct their activities accordingly.
+Scope This policy applies to but is not limited to faculty, staff, students, vendor representatives, consultants, temporary staff, and other workers in OHR, including all personnel affiliated with third parties.
+This policy applies to but is not limited to all equipment that is connected to OHR networks, used in OHR facilities, or is used outside OHR facilities to conduct OHR business.
+Exceptions to this policy may be necessary to perform security audits or other authorized purposes.
+Any exceptions must be coordinated through the OHR Information Technology(IT) Security Officer and approved by the Director or Associate Vice President for Human Resources.
+Policy 3.1 General Use and Ownership
+The OHR IT Security Officer will be responsible to ensure that OHR complies with University data encryption standards.
+Users should consult with the OHR IT Security Officer before transmitting or sharing any information that may be considered sensitive or vulnerable to unauthorized disclosure.
+
+For security and network maintenance purposes, authorized individuals within OHR may monitor or audit equipment, systems, and network traffic at any time to ensure compliance with policies.
+Security and Proprietary Information
+Employee information contained on the OHR intranet or central business systems may be classified as confidential, as defined by University confidentiality guidelines.
+Users should take all necessary steps to prevent unauthorized access to this
+Page of information.
+
+Keep passwords secure and do not share accounts.
+Authorized users are responsible for the security of their passwords and accounts.
+System level passwords must be changed every three months.
+All PCs, laptops, and workstations must be secured with passwords for all local accounts in compliance with the OHR IT security standards.
+Use additional settings as deemed necessary to prevent unauthorized access to resources and data that resides either locally or remotely.
+The OHR IT Security Officer will ensure that all OHR PCs, laptops, and workstations shall have security logging capabilities and basic Operating System level audit logging turned on to facilitate tracking of user accounts in the event of a security breach or other unauthorized access.
+Users are not permitted to modify these security settings.
+
+Users are expected to exercise extreme caution when utilizing portable systems, storage media, and remote computers containing sensitive University data.
+Portable systems include, but are not limited to: laptop computers, Personal Digital Assistant(PDA) devices, memory sticks, CD/DVD, and smart phones.
+Users requiring confidential information to be placed on portable systems or storage media must consult with the OHR IT Security Officer to ensure they have the proper level of data encryption to protect the data in the event of unauthorized physical access to the system.
+
+All electronic devices used by the employee that are connected to the OHR system, whether owned by the employee or the OHR, must be continually executing approved virus-scanning software with a current virus database, if capable.
+
+Employees must use extreme caution when opening unsolicited e-mail attachments which may contain viruses, e-mail bombs, or Trojan horse code.
+
+Systems utilizing sensitive information should not use open wireless data connections.
+If the use of a wireless data connection is necessary, the use of an approved Virtual Private Network(VPN) or other strong encryption and protection methods is required.
+Systems transferring sensitive University data over non-secure networks(wired or wireless) must encrypt that data during transmission.
+
+Unacceptable Use Under no circumstances is an employee of OHR, or other users connected to the OHR system, authorized to engage in any activity that is illegal under local, state, federal, or international law while utilizing OHR owned resources.
+The list of prohibited activities presented below is by no means exhaustive, but attempts to provide a framework for activities which fall into the category of unacceptable use.
+Page of 3.3.1 System and Network Activities The following activities are strictly prohibited for OHR users.
+Some exceptions are noted for certain activities performed by Network/Systems Administrators during the course of security audits.
+
+Violations of the rights of any person or entity protected by copyright, trade secret, patent, or similar laws or regulations, including, but not limited to, the installation or distribution of "pirated" software products or other intellectual property(including, but not limited to, digitization and distribution of photographs from magazines, books or other copyrighted sources, copyrighted music) that are not appropriately licensed for use by OHR.
+
+Unauthorized copying of copyrighted material and the installation of any copyrighted software for which OHR or the end user does not have an active license is strictly prohibited.
+
+It is illegal to export software, technical information, encryption software or technology, in violation of international or regional export control laws.
+The OHR IT Security Officer should be consulted prior to export of any material that is in question.
+
+Introduction of malicious programs into the network or server(e.g., viruses, worms, Trojan horses, e-mail bombs, etc.).
+
+Revealing your account password to others or allowing use of your account by others.
+This includes family and other acquaintances when work is being done at a location other than a normal work location.
+
+Using an OHR computing asset to engage in procuring or transmitting material that is sexually explicit or in violation of applicable University policies.
+
+Making fraudulent offers of products, items, or services originating from any OHR account.
+Or, offers of products, items, or services for personal profit from any OHR account.
+
+Causing security breaches or disruptions of network communication.
+Security breaches include, but are not limited to, accessing data of which the employee is not an intended recipient or logging into a server or account that the employee is not expressly authorized to access.
+Disruptions of network communication, including denial or interference
+Port scanning or security scanning is prohibited, except by Network/Systems Administrators.
+
+Executing any form of network monitoring which intercepts data not intended for the employee's device, unless this activity is a part of the employee's normal job/duty such as Network/Systems Administrators.
+
+Circumventing user authentication or security of any host, network, or account.
+Page of
+Using any program/script/command, or sending messages of any kind, with the intent to interfere with, or disable, a user's terminal session, via any means, locally or via the Internet/Intranet/Extranet.
+
+Providing information about, or lists of, University employees, which is not intended to be available publicly to unauthorized parties outside the University.
+2.
+Sending mass email messages including the sending of "junk mail" or other advertising material to individuals who did not specifically request such material(email spam).
+
+Any form of harassment via email, instant messaging, text messaging, telephone, or paging, whether through content, language, frequency, or size of messages.
+
+Unauthorized use or forging of email header information, misleading content, or signatures.
+
+Solicitation of email for other email addresses, other than that of the poster's account, with the intent to harass or to collect replies.
+
+Posting unauthorized, non-business-related messages to list-serves or other types of messaging accounts.
+Enforcement Any employee found to have violated this policy may be subject to disciplinary action by their Administrative unit or the University.
+Disciplinary action may include termination of employment.
+Definitions Term Definition Audit Logging Audit Logging is the means by which access and changes to the system(logins, file reads, file updates or deletes, etc.)
+are recorded in a separate 'audit' file so that they can be reviewed later.
+Confidential Information Information that is accessible only to those authorized to have access often to comply with relevant business policies, laws, and regulations.
+to- Extranet A private network that uses the Internet protocol and the public telecommunication system to securely share part of a business's information or operations with suppliers, vendors, partners, customers, or other businesses.
+Page of Internet A worldwide system of computer networks.
+Intranet A private network that is contained within an enterprise.
+Operating) System Level Consists of several programs that help the local computer manage its own resources, such as manipulating files, running programs and controlling the keyboard and screen.
+Regulatory Compliance Describes the goal that corporations or public agencies aspire to in their efforts to ensure that personnel are aware of and take steps to comply with relevant laws and regulations.
+Sensitive Information Any information that is not intended to be public, and requires special precautions to ensure its confidentiality, integrity, and availability.
+Spam Unauthorized and/or unsolicited electronic mass mailings.
+Virtual Private Network(VPN) An encrypted and restricted network connection that traverses a public or open network to securely connect remote computer systems.
+Page of 7.0 Revision History This Version Effective Date 07/28/10 Revisions to entire policy to clarify language, add definitions, and complement information provided in additional OHR security policies.

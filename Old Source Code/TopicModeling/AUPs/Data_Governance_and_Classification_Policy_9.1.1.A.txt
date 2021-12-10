@@ -1,0 +1,460 @@
+  Data Governa
+nce & Classification Policy v3.8
+ Œ Data Classification and Data Types   
+                             
+   
+Page 
+1 of 
+7 Data 
+Governance & Classification 
+Policy 
+9.1.1.A
+ Data Classification 
+and Data Types
+   Data Classification and Data Types
+  The university utilizes v
+arious
+ data 
+types
+. Data types with similar 
+levels of 
+risk 
+sensitivity
+ are grouped together
+ into data classifications.
+ Four 
+data classifications
+ are 
+used by the university
+: Export Controlled
+, Restricted
+, Controlled
+ and 
+Public
+. The 
+Data T
+rustee is ultimately responsible for deciding how to classify their data 
+(see 
+Roles and Responsibilities
+ for list of D
+ata Truste
+es and additional information
+).   On a periodic basis, it is important to re
+-evaluate the classification of university data 
+to ensure the assigned classification is still appropriate based on changes to legal 
+and contractual obligations as well as changes 
+in the use of the data or its value to 
+the uni
+versity. This evaluation must 
+be conducted by the appropriate Data Trustee.
+ Conducting an evaluation on an annual basis is 
+recommend
+ed; 
+however, the Data 
+Trustee must
+ determine 
+the 
+frequency
+ that
+ is most appropriate based on
+ need.
+ If a 
+Data Trustee determines that the classification of a certain data set has changed, an 
+anal
+ysis of security controls must
+ be performed to determine whether existing 
+controls are consistent with the new classification
+. If gaps are found in existin
+g security controls, they must
+ be corrected in a timely manner, commensurate with 
+the level of risk presented by the gaps.
+ If you have any questions related to 
+classification of data, please contact the IT@UC Office of Informa
+tion Security (OIS) 
+at 
+513-558-ISEC (4732)
+ or 
+ infosec@uc.edu
+.  Data Types
+  The University of Cincinnati has defined four 
+Data Types and created a data 
+classification for each university data: 
+Export Controlled
+, Restricted
+, Controlled 
+and 
+Public
+. The following sections will define these data and provide examples of 
+each type:
+  Export
+ Control
+led  As a means to promote national security, the U.S. Government controls export of 
+sensitive 
+data, 
+equipment, software and technology. This data is labeled Export 
+Controlled. Trustees, Stewards, Custodians and Users of Export Controlled data must 
+follow
+ all safeguards for Restricted data plus additional safeguards as directed by 
+the 
+Export Controls Office
+. Trustees, Stewards and Custodians of systems that have 
+
+  Data Governa
+nce & Classification Policy v3.8
+ Œ Data Classification and Data Types   
+                             
+   
+Page 
+2 of 
+7 Export Controlled data are responsible to work with the Export Controls Office to 
+identify appropriate additional
+ safeguards.
+  The following table contains examples of
+ Export Controlled data.
+ Please note this is 
+a list of common examples and 
+not an exhaustive listing.
+ Please work with the
+ Export 
+Controls Office i
+f you require additional assistance.
+  Export Controlled
+   Ł Any information 
+labelled Export Controlled or ITAR USML Category 
+or EAR CCL ECCN or any DoD Distribution Statement other than A.
+   Ł Information or technology subject to the authorization 
+requirements of 10 CFR part 810, or Restr
+icted d
+ata as 
+defined in 
+section 11 y. of the Atomic Energy Act of 1954, as amended, or of 
+other information, data, or technology the release of which is 
+controlled under the Atomic Energy Act and regulations therein.
+   Ł Proprietary or 3rd Party information not in the
+ public domain or 
+being published
+, must be protected until an export classification 
+determination is complete.
+  Restr
+icted
+   Data is classified as Restricted when the unauthorized disclosure, alteration or 
+destruction of that data could cause a 
+significant level of risk to the university or its 
+affiliates. Users of Restricted data must follow all safeguards for Controlled data 
+plus additional safeguards identified for Restricted data. High levels of security 
+safeguards must be applied to Restrict
+ed data.
+  The following table contains examples of Restricted data, please note this is 
+a list 
+of common examples and
+ not an exhaustive listing.
+ Please work with the Data 
+Trustee 
+and OIS
+ if you require additional assistance classifying data.
+   Restricted
+   Personally Identifiable Information
+   Personally Identifiable Information (PII) that consists of an individual™s 
+name, including the last name along with the individual™s first name or 
+first initial, in combination with and linked to any one or more of 
+the 
+following data elements:
+  Ł Social Security number or partial Social Security number
+  Ł Driver™s 
+license number
+  Ł State identification card number 
+  Ł Passport number
+ 
+  Data Governa
+nce & Classification Policy v3.8
+ Œ Data Classification and Data Types   
+                             
+   
+Page 
+3 of 
+7 Restricted 
+- continued
+  Ł United States Per
+manent Resident Card or similar 
+identification
+  Ł SSID Œ Statewide Student Identifier 
+  Ł Financial account number
+  Ł Credit card number
+  Ł Debit card number
+  Ł Electronically stored biometric information
+   HIPAA
+ For more HIPAA information please view the university's 
+HIPAA Policy
+.   Ł Patient names
+   Ł Street address, city, county, zip code
+   Ł Dates (except year) related to an individual e.g. clinical encounters
+   Ł E-mail, URLs, & IP addresses
+   Ł Social Security numbers or partial Social Security numbers
+   Ł Account/Medical record numbers
+   Ł Health plan beneficiary numbers
+   Ł Certificate/license numbers
+   Ł Vehicle id's & serial numbers
+   Ł Device id's & 
+serial numbers
+   Ł Biometric identifiers
+   Ł Full face images associated with HIPAA records
+   Ł Payment guarantor's information 
+   Ł Any PHI not de
+-identified per the Safe Harbor De
+-Identification 
+method listed in the university HIPAA Policy
+   Employee Information
+   Ł Social Security number or partial Social Security number
+   Ł Home address or personal contact information
+   Ł Benefits information
+   Ł Worker's compensation or disability claims
+   Legal Information
+   Ł All data in the Office 
+of the General Counsel unless otherwise 
+classified by the General Counsel
+   FERPA Restricted Non
+-Directory Data
+   Ł Transcripts, defined as any cumulative listing of a student™s grades
+   Ł Student 
+financial services 
+information
+   Ł Credit 
+card numbers
+/Bank 
+account numbers
+/Debit 
+cards numbers
+   Ł Birth name is R
+estricted if a preferred name is selected
+   Ł Wire 
+transfer 
+information
+   Ł Payment 
+history
+   Ł Financial Aid
+/Grant information
+   Ł Student 
+tuition bills
+ 
+  Data Governa
+nce & Classification Policy v3.8
+ Œ Data Classification and Data Types   
+                             
+   
+Page 
+4 of 
+7 Restricted 
+- continued
+   Donor 
+Information
+   Ł Name
+   Ł Credit 
+card numbers
+/Debit 
+card numbers
+   Ł Bank 
+account numbers
+   Ł Social 
+Security 
+numbers or partial 
+Social Security 
+numbers
+   Ł Amount/what donated
+   Ł Telephone/Fax numbers
+   Ł Employment information
+   Ł Family 
+information(spouse(s)/children/grandchildren)
+   Ł Medical 
+history
+   Housing
+ Data
+   Ł Name; Credit rating/history
+   Ł Financial worth; Income levels and sources, etc.
+   Research Information
+   Ł Human subject information
+   Ł Lab animal care 
+information
+   Ł Proprietary data as classified by an industry sponsor
+   Ł UC 
+proprietary 
+or 3rd 
+party 
+information
+   Ł Not in the public domain or
+ information being 
+published
+   Business Information
+   Ł Credit 
+card 
+numbers; Bank account information
+   Ł Proprietary data covered by confidentiality or non
+-disclosure 
+agreements such as
+ but not limited to
+: Contracts or proposals; 
+project specifications; proprietary company data; m
+odels, figures, 
+illustrations.
+   Ł Purchasing card (P
+-card) numbers
+   Ł Social 
+Security 
+or other t
+axpayer ID numbers
+   Ł Contract information
+ (between UC and third parties)
+   ISO Number
+   Ł Bearcat Card
+   Ł Campus Recreation Center
+   Ł Parking and Housing
+   Ł Administration and operation of the Card Access/Badge system 
+including creating ISO number replacement for lost badges 
+  Ł Contract information (between UC and third parties)
+   Ł Remote student printing service
+   Ł Swipe UC IDs for Patron record 
+checkouts in the libraries
+   Ł Campus dining and meal plans
+   Ł UC Bookstore
+   Ł Time clock in/out
+ 
+  Data Governa
+nce & Classification Policy v3.8
+ Œ Data Classification and Data Types   
+                             
+   
+Page 
+5 of 
+7 Restricted 
+- continued
+   Ł GradesFirst
+   Ł Tutor Trac
+   Ł DAAP System
+   Ł eProfessional
+   Ł Blackboard
+   Ł UCFileSpace
+   Ł Data Warehouse
+   Ł Identity Management
+   Miscellaneous Restricted Data
+  Ł Data that the university classifies or determines to be highly 
+sensitive
+  Controlled
+  Data is classified as Controlled when the unauthorized disclosure, alteration or 
+destruction of that data could 
+result in a moderate level of risk to the university or its 
+affiliates. By default, all institutional data that is not explicitly classified as Export 
+Controlled, Restricted or Public data must be treated as Controlled data. A 
+reasonable level of security 
+safeguards must be applied to controlled data.
+  The following table contains examples of 
+Controlled d
+ata, please note this is a
+ list of 
+common examples and 
+not an exhaustive listing.
+ Please work with the Data Trustee 
+and OIS if you require additional assis
+tance classifying data.
+  Controlled
+   FERPA Controlled Non
+-Directory Data
+   Ł Graded work, grade book, etc.
+   Ł Name
+; Birth name is controlled if no preferred name is se
+lected
+   Ł Date of birth
+   Ł Place of birth
+   Ł Directory address and phone 
+number
+   Ł Electronic mail address
+   Ł Mailing address
+   Ł Campus office address (for graduate students)
+   Ł Secondary mailing or permanent address
+   Ł Residence assignment and room or apartment number
+   Ł Dates of attendance, i.e. specific semesters
+ of registration
+   Ł Enrollment status
+   Ł UC degree(s) awarded and date(s)
+   Ł Major(s), minor(s)
+ and field(s)
+ 
+  Data Governa
+nce & Classification Policy v3.8
+ Œ Data Classification and Data Types   
+                             
+   
+Page 
+6 of 
+7 Controlled
+ - continued
+   Ł University degree honors
+   Ł Institution attended immediately prior to UC
+   Ł ID card photographs for 
+university classroom use
+   Ł UCID (unique identifier for all students)
+   Ł College and class
+   FERPA Controlled Directory Data
+    Note that the following data may ordinarily be revealed by the university 
+for Directory Information Purposes without 
+student consent unless the 
+student designates otherwise. If the student designates otherwise, then 
+the following da
+ta elements must be treated as C
+ontrolled data.
+   Ł Name
+; Birth name is controlled if no preferred name is se
+lected
+   Ł Directory address 
+and phone number
+   Ł Dates of attendance, i.e. specific quarters or semesters of registration
+   Ł Enrollment status, i.e. college, class (frosh, sophomore, etc...)
+   Ł UC degree(s) awarded and date(s)
+   Ł College and class
+   Ł Major(s), minor(s)
+ and 
+field(s) of study
+   Ł University degree honors and awards
+   Management Data
+   Ł Faculty and staff reviews and 
+performance 
+evaluations
+   Miscellaneous Controlled Data
+   Ł Data from research germane to intellectual property that is not 
+categorized as 
+Restricted
+   Ł Data whose integrity must be maintained
+   Ł Other data that must be prot
+ected but is not classified as R
+estricted
+  Public
+  Data that is readily available to the public. This data requires no confidentiality or 
+integrity protection.
+  Related
+ Links
+  Data 
+Governance & Classification 
+Policy
+  Contact Information
+  IT@UC Office of Information Security
+ 513-558-ISEC (4732)
+ infosec@uc.edu
+  
+  Data Governa
+nce & Classification Policy v3.8
+ Œ Data Classification and Data Types   
+                             
+   
+Page 
+7 of 
+7 History
+  Issued: 
+07/01/2009
+ Revised: 
+05/30/2014
+ Revised
+: 01/25/201
+7 Revised:
+ 10/25/2017
+ Revised
+: 09/26
+/2018
+ 

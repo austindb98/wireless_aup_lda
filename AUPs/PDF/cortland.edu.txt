@@ -1,0 +1,112 @@
+Introduction Access to istudents, faculty and staff with the tools to achieve academic excellence and conduct legitimate college-related business.
+Every SUNY Cortland student, faculty, staff member, and authorized affiliate is provided with the privilege of using the College computing systems and software, internal data networks as well as access to the Internet, and communication systems.
+This access is granted through an official College NetID.
+An official e-mail address and NetID account are assigned to all student, faculty, and staff while enrolled or employed.
+Users are expected to comply with this policy as well as all other Information Resources policies and the use of these resources is considered an acknowledgement that they understand and will abide by these policies.
+SUNY Cortland information technology resources, such as: computers, servers, networks and communication systems, and applications, are owned by the College and exist expressly for the purpose of educational use and legitimate College-related business.
+Therefore, all of these resources are to be utilized by authorized users for work consistent with the goals of the College.
+
+Authorized use of information technology resources owned by the College shall be consistent with the education, research and public service mission of the College and consistent with this policy.
+By connecting to the campus network, users agree to the terms and conditions of this policy as well as all other College policies.
+staff and students and other affiliated individuals and organizations as defined in the Guest Access Policy.
+SUNY Cortland applies security procedures and protocols to abide by applicable policies, codes, contractual obligations or state or federal laws and generally does not review the content of material stored or transported on College-owned information technology resources.
+shall have no expectation of privacy.
+SUNY Cortland reserves the right to access all aspects of its information technology resources including individual login sessions, e-mail and file storage.
+member is consenting to monitoring of the use by the College without further notice to that individual facultyinformation of all sorts for compliance, investigatory and/or disciplinary purposes.
+Incidental Use: as a convenience to Cortland users, limited incidental personal use of information technology resources is permitted.
+Incidental use includes, but is not limited to, personal email, social networking(e.g., Facebook, Twitter), and blogging activities unrelated to College business.
+Users are responsible for exercising good judgment about personal use in accordance with this and other College policies, as well as with Cortland and SUNY policies and ethical standards for state officers and employees.
+Incidental personal use must comply with the following:
+It cannot be illegal.
+
+It cannot interfere with a
+It should be limited to breaks, whenever possible, and should not consume an excessive amount of work time.
+
+information technology resources.
+It cannot cause harm to any person while technology resources.
+
+It cannot be inconsistent with the -profit, tax exempt status.
+Wireless Use
+Anyone wishing to use the campus wireless network to connect laptops or other wireless devices must use the wireless networks provided and managed by Information Resources.
+The Networking and Telecommunications Department of Information Resources maintains a secure wireless network for use by faculty, staff and students that safeguards college information when you are working wirelessly.
+In addition, an isolated guest wireless network is available for use by authorized guests and visitors to the campus.
+
+Extending the campus wireless network through the use of unauthorized wireless access points, routers, media/content streaming devices(Apple TV, Roku, etc.)
+or other devices is strictly prohibited.
+The Networking and Telecommunications Department routinely scans for such devices and has the right to remove or shutdown network service to these devices without prior notification.
+If faculty or staff need to use a media/content streaming device they must contact Campus Technology Services at 5793 to discuss installation options.
+
+Devices that provide wireless Internet service that are not connected to the campus network, such as MiFi devices, are permitted for temporary use within the campus airspace.
+Typical uses of a device like this may be in support of a vendor demonstration or meeting.
+However, as these devices do compete for wireless airspace with the campus wireless, their use should be temporary and not exceed three days.
+The network name(SSID) must not conflict with the defined campus wireless network names.
+
+User Responsibilities a. Privacy: No user should access, view, or -mail or files without permission unless required to do so in accordance with policy enforcement, law or regulation.
+must be kept secure by keeping passwords secret and changing them often.
+No user should ever c. Copyright: SUNY Cortland is committed to complying with all the laws regarding intellectual property.
+That commitment includes the full exercise of the rights accorded sions of federal copyright laws.
+This includes the duplication of audio, video, photographs, illustrations, computer software, and all other works used in the pursuit of teaching, learning, and scholarship.
+Copyrighted material stored, viewed, and transported using SUNY Cortland information technology resources must comply with campus copyright policies and appropriate state and federal laws.
+Access:
+NetIDs and Accounts: NetIDs and accounts are assigned to a specific, authorized user, and are only to be used by that individual.
+Users are responsible for any use of their NetID and/or account.
+You should never share it with anyone.
+If a NetID or account is shared, the holder of the NetID or account will lose all privileges and be personally responsible for any actions that arise from the misuse of the account.
+
+Faculty/Staff: NetIDs and accounts will be de-activated when faculty and staff terminate employment from SUNY Cortland.
+Faculty and staff who retire may retain their e-mail accounts.
+
+Students: NetIDs and accounts will be de-activated 90 days after the student is no longer actively enrolled at the College.
+
+Circumventing Security: Users are prohibited from attempting to circumvent or Deliberate attempts to breach security will result in immediate suspension of privileges.
+Inappropriate Use of Information Technology Resources These shall not preclude teaching, research or discussion on controversial topics as part assigned duties.
+
+Game Playing: Limited recreational game playing, which is not part of authorized and assigned research or instructional activity, is acceptable in a public computing facility; however, recreational game players must give up the use of the computer when others who need to use the facility for academic or research purposes are waiting.
+
+Chain Letters: The propagation of chain letters is considered unacceptable practice by SUNY and is prohibited.
+
+Unauthorized Servers: The establishment of a server outside of the authorization of Information Resources is prohibited.
+
+A user may not use information technology resources for unauthorized monitoring of communication.
+Spamming:
+A user may not use information technology resources to send spam e-mail messages.
+
+Private Commercial Use: The information technology resources of SUNY Cortland must not be used for personal or private commercial purposes or for financial gain.
+
+Political Advertising or Campaigning: The information technology resources of SUNY Cortland shall be used in compliance with the College policy on the Use of State Equipment for Union/Political Activities.
+v
+Illegally downloading and sharing copyrighted materials: Copyrighted material resources must comply with copyright policies, state and federal laws.
+
+Violation of laws and/or policies including but not limited to those regarding:
+Use of inappropriate language;
+Use of inappropriate content of any sort or kind
+Posting or promoting any illegal activity or proof of illegal activity
+Harassing or discriminating against any person
+Posting defaming comments or remarks against any person; and f. Copyright and trademark.
+
+Other prohibited uses:
+Making public complaints of any sort against the College or its employees;
+Posting any personal opinions of any sort or kind regarding the College without a disclaimer that such opinions are not the official position of the College; and/or c. Posting unprofessional or rude comments, responses or postings of any sort or kind about the College or its employees.
+A personal Web page is defined as a Web page for any SUNY Cortland individual faculty member, staff member or student that contains information of a personal nature unrelated to their responsibilities at the College and to which a link has been established from an official College page.
+
+Faculty, staff and students - Individual members of the faculty and staff may create their own personal Web pages using the information technology resources of the College.
+
+As authorized by their department head, faculty and staff may link their personal
+The following disclaimer must appear on all personal pages to which there is a link from any official College page: "The views and opinions expressed in this page are strictly those of the page author.
+The contents of this linked page have not been reviewed or approved by SUNY Cortland."
+
+The content of personal Web pages will not be maintained by Information Resources staff.
+The College does not guarantee the privacy or the public accessibility of personal Web pages.
+
+Faculty and staff must abide by the the Web Advisory Team's Policy Statement, taken from the SUNY Cortland Communication Guide.
+If a personal Web page is judged by the Web Advisory Team to contain material that is grossly offensive or inappropriate, the College may remove all links from official College pages to that personal page.
+
+Personal Web pages that violate College security policies, state and federal laws will be disabled immediately.
+v
+Personal Web pages are subject to appropriate use as described in Section III, User Responsibilities.
+
+Sanctions Violations of this policy may result in the immediate suspension and/or revocation of information technology resources privileges.
+Students may also be subject to disciplinary action in accordance with the Code of Student Conduct, and employees may also be subject to disciplinary action in accordance with appropriate Agreements between the State of New York and the various bargaining units.
+Violations of state and/or federal laws in the use of riminal prosecution of the individual student/employee and/or civil liability for the individual student/employee.
+To report violations or request further information, please email APIR@cortland.edu.
+2015

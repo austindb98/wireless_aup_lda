@@ -1,0 +1,61 @@
+Reznet Acceptable Use Policy | Wireless | SIU This website uses cookies to ensure you get the best experience on our website.
+Learn more Got it!
+This website uses cookies to ensure you get the best experience on our website.
+Learn more Got it!
+The " RezNet " network includes wired and wireless networks(such as "eduroam" and "SIU-limited") in the SIU residence halls.
+Access to "RezNet" at SIU Carbondale is a privilege and must be treated as such by all "RezNet" users.
+Each resident has the responsibility to utilize the service appropriately and in compliance with all University, City, County, State, and Federal laws and regulations.
+The SIUC Office of Information Technology(OIT) reserves the right to restrict access without notice and enforce the terms of this policy.
+RezNet" users will not hold OIT, SIUC, or SIU System(SIU) liable for malicious acts by other network users.
+RezNet" services are for the use of SIUC residents only.
+Commercial or for-profit use of "RezNet" is prohibited.
+Each "RezNet"user is responsible for any and all activity associated with their Network
+Network ID owners are prohibited from sharing their Network ID and password.
+List of Prohibited Network Devices: routers, wireless access points, wireless printers, proxy servers, DSL modems, gateways or hardware firewalls(software firewalls are allowed).
+Use of any wireless device that interferes with the wireless network is prohibited.
+Any attempts to impersonate or duplicate the "RezNet" wireless network are strictly prohibited.
+It is incumbent upon all "RezNet" users to comply with the security standards enforced on the network.
+RezNet" and bandwidth are shared resources.
+Consequently, network users or applications that use excessive bandwidth or otherwise inhibit or interfere with the use of the wireless network by others is not permitted.
+Bandwidth is allocated on a per Network ID basis; meaning each Network ID is allocated a set amount of bandwidth.
+OIT reserves the right to immediately disconnect any computer temporarily if the computer is found to contain malicious software in order to protect the network.
+It is the responsibility of the user to make sure their computer has current virus protection software installed and operational.
+The user's "RezNet" connection will be restored when it has been determined that the user's computer is completely free of malicious software.
+Any personally owned computing equipment or devices that allow sharing of resources must be password protected, and restricted to only those individuals who expressly have permission to access that resource.
+RezNet" users are prohibited from accessing a connected resource, to which they have not obtained express permission to that resource even when a password is not enforced.
+All applicable copyright laws, licenses, etc.
+apply to "RezNet" use.
+RezNet" may only be used for legal purposes.
+Using "RezNet" to access systems, software, and data that the user is not authorized to is a violation of this policy.
+Sharing any copyrighted material(s)(including MP3 files from copyrighted music, media, and digitized video from copyrighted motion pictures, etc.)
+is prohibited unless specifically authorized by the copyright owner.
+RezNet" may not be used to provide Internet or SIUC network access to anyone other than those individuals contractually residing in the SIU residence hall.
+Webcams are permitted for personal use only, for example: peer-to-peer chats.
+All other use is prohibited.
+Any user who circumvents or attempts to circumvent the "RezNet" security systems, or any other campus security mechanism, will be subject to immediate termination of service and possible disciplinary action.
+RezNet" network software, services, and physical media may not be modified or extended; to include wireless access points, wiring, and/or hardware.
+Costs to repair physical damage to the "RezNet" wireless access points, conduit, etc., will be charged to the resident(s).
+Use of additional networks must be in compliance with the rules and acceptable use policies of those networks and resources.
+This includes but is not lim8ited to the campus network SIUNET and resources, the Internet, and Internet2.
+Use of additional networks must be in compliance with the rules and acceptable use policies of those networks and resources.
+This includes but is not lim8ited to the campus network SIUNET and resources, the Internet, and Internet2.
+RezNet" users are prohibited from probing or data collection on "RezNet".
+This policy allows for monitoring of data network traffic/activities by authorized University personnel without prior consent of the originator of said traffic/activity.
+OIT reserves the right to immediately disconnect any device that is disrupting the network regardless of cause.
+If you suspect unauthorized access or other malicious activity; immediately report the problem to SalukiTech.
+SALUKITECH Phone:(618) 453-5155 Email: salukitech@siu.edu More Information: SIU REZNET ACCEPTABLE USE POLICY ENFORCEMENT Listed are the consequences for AUP violations, per offense type: 1st Offense: Warning through voice or e-mail or in-person discussion 2nd Offense: Two-day suspension of service or until the issue is resolved 3rd Offense: Five-day suspension of service or until the issue is resolved 4th Offense: The issue reported to Student Judicial Affairs and the service suspended pending resolution.
+Note: Based on the offender's role as a student, and in order to maintain security, access to on-campus educational resources, and to sites needed for patching and security updates will be accessible during suspensions.
+Minor violations of this policy, when accidental, such as consuming excessive resources or overloading the network, are normally resolved informally.
+This may be done through voice or e-mail, or in-person discussion and education.
+OIT also has a help desk to assist with anti-virus, system security configuration, etc.
+Recurrent minor violations or misconduct that is more serious will result in the temporary or permanent loss of "RezNet" access privileges, or the modification of those privileges.
+For example, multiple offenses will result in extended periods of service suspension.
+More serious violations include but are not limited to: unauthorized use or distribution of computer resources, attempts to steal passwords or data, unauthorized use or distribution of copyrighted materials, repeated file sharing violations, repeated wireless offenses, repeated virus infections, repeated bandwidth offenses, and/or harassment or threatening behavior.
+In addition, offenders may be referred to their sponsoring advisor, department, or other appropriate University office, or the matter may be referred to the Student Judicial Affairs(SJA) for disciplinary action.
+Any action that violates local, state, or federal laws may result in the immediate loss of "RezNet" service, and will be referred to the appropriate University offices and/or law enforcement authorities.
+SIUC OIT may require that the user bring their computer or electronic equipment to SalukiTech in order to verify compliance with this acceptable use policy before service is restored.
+DEFINITIONS "RezNet" is simply the name of the wired & wireless data networks within the SIU residence halls.
+RezNet" includes all network systems and services such as wireless access points, routers, switches, hubs, and cabling inside and outside each residence hall room, and many infrastructure systems required to deliver services.
+Networked Entertainment Systems includes gaming systems(e.g.
+Entities Affected by this Policy: All SIU "RezNet" users Disclaimer "RezNet" users connect to the network at their sole risk.
+OIT, SIUC, and the SIU System(SIU) will not be responsible for any damage or loss of hardware, software or data stored on computers located on the university property or connected to the network.

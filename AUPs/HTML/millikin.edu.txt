@@ -1,0 +1,30 @@
+Copy the code below and paste it onto every page of your website.
+The first tag should be placed as close to the opening tag as possible.
+The second tag should be placed immediately after the opening tag.
+Applies to: All employees, students, contractors, consultants, temporary workers and others who use the Millikin University network must adhere to this policy.
+This policy applies to all infrastructure devices that connect to the Millikin University network or reside at the Millikin University owned, leased or rented site that provides connectivity to endpoint devices including, but not limited to laptops, tablets, desktops, and cellular phones.
+This includes any form of communication device capable of transmitting packet data.
+Policy: This policy specifies the conditions and requirements personal and Millikin owned devices must satisfy to connect to the Millikin network.
+Only those devices that meet the standards specified in this policy are approved for connection to the network.
+Standards: All devices connecting to the Millikin network must have up to date virus protection and malware protection.
+It is the user s responsibility to maintain their device(s) and keep it current.
+Millikin employees are responsible for taking the necessary precautions to protect the integrity of Millikin s network.
+Millikin Information Technology maintains both the wireless and wired Networks across campus and reserves the right to deny or revoke access to any user if suspected or identified violations to this or any other technology use policy have occurred.
+Students and employees are granted access to both the wireless network and wired network where available.
+All users have access to technical support through Millikin s Help Desk in the event of network connectivity issues.
+Millikin Information Technology strives to provide a high standard of service and Network availability.
+In the event of a Network outage, Information Technology will provide updates through the communication source that is not affected by the outage.
+Wireless Network Considerations: Wireless networking may have bandwidth limitations compared to the wired network.
+Applications that require large amounts of bandwidth, or are sensitive to changes in signal quality and strength may not be appropriate for wireless access.
+Wireless technology is and will for the foreseeable future be a shared bandwidth technology.
+Some protocols and services will not effectively work in or may be inappropriate for, a wireless environment.
+Millikin University policy requires that all deployments of wireless infrastructure be installed and maintained by
+Installing departmental or do-it-yourself wireless access points is prohibited to avoid possible interference with the university wireless network, unnecessary impact to the wired network and to minimize undue security risks to the university.
+As stated above, in areas where the centrally-managed wireless network is available, any locally managed access points must be removed.
+Use of the wireless network is subject to the established policies for the use of the campus network services(e.g., Technology Acceptable Use Policy).
+Only devices authenticated via Millikin university account credentials may access network resources on the university network.
+Unauthenticated visitors will be able to access only the Internet.
+Role-based access to the network shall be established using the user's Millikin University account credentials.
+All data transactions shall be encrypted and secured by the protocols listed in the supported standards above.
+Services allowed through the wireless network should be substantially identical to those for wired access.
+Role-based users will be limited to those same services they are permitted to access via wired network controls.

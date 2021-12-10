@@ -1,0 +1,25 @@
+endif] [if IE 8]> <!
+endif] [if IE 9]> <!
+Users of Georgia Tech IT Resources are expected to be good stewards of these resources and to act in a responsible manner.
+Appropriate use of IT Resources allows the Institute to achieve its academic and research missions while maintaining a culture of openness, trust, and integrity within our digital spaces.
+Policy Statement: Institute IT Resources must be used in accordance with applicable licenses and contracts, and according to their intended use in support of the Institute s mission.
+All users must comply with federal, state, and local laws, as well as Georgia Tech policies, when using Georgia Tech IT Resources.
+The following sections define the acceptable uses of Georgia Tech IT Resources.
+Any conflict between these policies and the legitimate business of the institute can be resolved through the policy exception request process as defined with the Policy Exception Policy.
+Acceptable Use Employees and student employees - With the exception of incidental personal use, as defined below, Georgia Tech IT Resources must be used only to conduct the legitimate business of the Institute(e.g., scholarly activity, academic instruction, research, learning, business operations).
+Incidental personal use of Georgia Tech IT Resources by Georgia Tech employees is permitted if the personal use does not interfere with the execution of job duties, does not incur cost on behalf of the Institute, and is not unacceptable as defined in the Unacceptable Use section below.
+Students - Georgia Tech students may use the ResNet, EastNet, and LAWN networks for recreational and personal purposes to the extent that such use is not unacceptable as defined in the Unacceptable Use section below, and does not adversely affect network service performance for other users engaged in academic, research, or official business activities.
+Unacceptable Use Georgia Tech employees, including students acting as employees, are prohibited from the following actions when using Georgia Tech IT Resources: Unauthorized use of IT Resources for commercial purposes or personal gain Transmitting commercial or personal advertisements, solicitations, or promotions All users are prohibited from using Georgia Tech IT resources in a manner which results in a violation of law or policy or potentially adversely affects network service performance.
+Examples of Unacceptable Use include, but are not limited to, the following: Activity that violates federal, state, or local law Activity that violates any Institute or Board of Regents policy Activities that lead to the destruction or damage of equipment, software, or data belonging to others or the Institute Circumventing information security controls of Institute IT Resources Releasing malware Intentionally installing malicious software Impeding or disrupting the legitimate computing activities of others Unauthorized use of accounts, access codes, passwords, or identification numbers Unauthorized use of systems and networks Unauthorized monitoring of communications This list is not complete or exhaustive.
+It provides examples of prohibited actions.
+Any user in doubt about the acceptable use of Georgia Tech IT Resources should contact Cyber Security for further clarification and assistance.
+Scope: All Georgia Tech IT resource users are covered by this policy.
+Policy Terms: Georgia Tech IT Resources Georgia Tech owned computers, networks, devices, storage, applications, or other IT equipment.
+Georgia Tech owned is defined as equipment purchased with either Institute funding(including sources such as Foundation funds etc.)
+or Sponsored Research funding(unless otherwise specified in the research agreement).
+Enforcement: Violations of this policy may result in loss of Georgia Tech system and network usage privileges, and/or disciplinary action(up to and including termination or expulsion) as outlined in applicable Georgia Tech policies.
+If user suspects that they are a victim of a violation of this policy, then the violation may be reported directly to the Georgia Tech Cyber Security team by sending an email to cyber@security.gatech.edu per the Incident Reporting procedures found in the Cyber Security Policy.
+Users should report any other violations through Georgia Tech s EthicsPoint, a secure and confidential reporting system, at https://secure.ethicspoint.com/domain/en/report_custom.asp?clientid=7508.
+endif] [if IE 8]> <!
+endif] [if IE 9]> <!
+endif]

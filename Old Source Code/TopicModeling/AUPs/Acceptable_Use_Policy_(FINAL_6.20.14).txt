@@ -1,0 +1,639 @@
+ 
+1
+ 
+
+ 
+Acceptable Use Policy
+ 
+ 
+Draft:  
+6
+.
+20
+.14
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ACCEPTABLE USE POLICY
+ 
+ 
+I.
+ 
+Policy Statement
+ 
+ 
+Portland State University
+ 
+provides a wide variety of computing
+ 
+and networking resources to 
+qualified members of the U
+niversity community. Access to computers, computing systems, and 
+networks owned by PSU is a privilege which imposes certain responsibilities and obligations
+ 
+on users.  Use of these 
+resources
+ 
+is subject to U
+niversity policies and 
+regulations
+, and local, 
+state, and federal laws. All users of these resources must comply with specific policies and 
+guidelines governing their use, and act responsibly while using sh
+ared computing and network 
+resources. 
+ 
+ 
+II.
+ 
+Reason for Policy/Purpose
+ 
+ 
+The purpose of this policy is to outline the acceptable use of information technology
+ 
+resources
+ 
+at Portland State University
+ 
+and to 
+promote the efficient
+, ethical, and lawful use of PSU
+'s 
+i
+nformation technology
+ 
+resources
+. 
+This policy address
+es
+ 
+the responsibilities and obligations of 
+users once access is granted
+, but does not address the criteria for granting such access
+. 
+This 
+policy is intended to
+ 
+protect students, 
+faculty and staff, as well
+ 
+as the University and its 
+resources.
+ 
+ 
+ 
+III.
+ 
+Applicability
+ 
+ 
+This Policy applies to all employees, students, and other users of PSU information technology 
+resources.
+ 
+ 
+IV.
+ 
+Definitions
+ 
+ 
+ 
+Information Technology Resource
+:
+  
+Any
+ 
+information technology
+ 
+or 
+network
+ 
+equipment, 
+facility or service made available to users by Portland State University
+.
+ 
+System Administrator
+:
+ 
+ 
+A
+ny individual authorized to administer a particular information 
+technology hardware system, operating system, or application.
+ 
+ 
+ 
+ 
+ 
+Responsible Officer:
+ 
+Chief Information Officer  
+    
+ 
+ 
+Responsible Office:
+ 
+  
+Office of Information Technology
+ 
+ 
+ 
+
+ 
+2
+ 
+
+ 
+Acceptable Use Policy
+ 
+ 
+Draft:  
+6
+.
+20
+.14
+ 
+ 
+ 
+ 
+Password
+: 
+ 
+A
+ 
+string 
+of characters that a user must supply to meet security requirements before 
+gaining 
+a
+ccess to a particular information technology resource
+.
+ 
+User ID
+: 
+ 
+A
+ 
+character string that uniquely identifies a particular user of PSU information 
+technology resources.
+ 
+Inci
+dental Use
+:
+  
+A U
+se that does not adversely affect the performance of 
+an 
+employee's duties 
+or the organization's work performance, 
+is
+ 
+not disruptive of 
+others
+, 
+and is
+ 
+of limited duration 
+ 
+a
+nd frequency.
+ 
+ 
+V.
+ 
+Policy
+ 
+ 
+1
+.
+0
+ 
+ 
+PSU information technology resources are provided for 
+U
+niversity
+-
+related 
+academic, 
+business, and research 
+activities
+ 
+and are to be used in a manner consistent with PSU 
+policies, regulations, and procedures
+
+Conduct
+ 
+and Student Conduct Code
+. 
+ 
+Employees may use such resources for 
+employment
+-
+related communications, including union
+-
+related communications, 
+subject to the provisions of any applicable collective bargaining agreement.
+ 
+ 
+2.0
+ 
+The viewing, storing or accessing 
+of illegal content is not permitted.
+ 
+ 
+3
+.0
+ 
+Although 
+PSU information technology 
+resources
+ 
+are provided to employees for 
+University
+-
+related purposes, the University recognizes that resources such as email 
+and internet access
+ 
+may
+ 
+be
+ 
+appropriately and occasiona
+lly
+ 
+used 
+by
+ 
+University
+ 
+employees 
+for incidental personal use.
+  
+Such personal use must be of a limited and 
+reasonable nature, comply with all of the requirements of this policy, and not interfere 
+with the performance of work duties, disrupt the workplace or
+ 
+be otherwise 
+inconsistent with the needs or functioning of the University.
+ 
+ 
+4.0
+ 
+U
+niversity e
+mployees
+ 
+may not 
+use PSU information technology resources to view, 
+store or access 
+obscene
+ 
+material
+s
+,
+ 
+such as pornography,
+ 
+except when
+ 
+clearly required 
+to do so in
+ 
+the course of 
+their 
+work. 
+  
+ 
+ 
+5.0
+ 
+University employees may not use PSU information technology resources to support 
+or oppose a candidate for public office or a ballot measure in a manner contrary to 
+Oregon laws governing the political activities of public
+ 
+employees.
+ 
+ 
+6.0
+ 
+The use of PSU information technology resources, including the posting of 
+
+posting or downloading information to or from the internet, the user is responsible f
+or 
+
+Copyright Policy.
+ 
+
+ 
+3
+ 
+
+ 
+Acceptable Use Policy
+ 
+ 
+Draft:  
+6
+.
+20
+.14
+ 
+ 
+ 
+ 
+7.0
+ 
+All software installed, stored, or operated on PSU systems must be properly licensed, 
+whether used for educational, professional, or private use
+. 
+ 
+ 
+8
+.0
+ 
+U
+sers are not authorized to 
+access, use, copy, modify
+ 
+or
+ 
+delete
+ 
+data,
+ 
+or grant 
+access
+ 
+to 
+others,
+ 
+in 
+a 
+manner 
+inconsistent
+ 
+with the University Information Security Policy.
+  
+For 
+security and network policy information, please refer to the PSU Information Security 
+Policy.
+ 
+ 
+9
+.0
+ 
+Users may not gain access to any files, data, or systems through the use of another 
+user
+
+s User ID and Password.
+ 
+ 
+10
+.0
+ 
+Users may not forge or misrepres
+ent their
+ 
+identit
+y, or enable others
+ 
+to 
+falsify 
+an 
+identity
+, when using University information technology resources
+. This type of forgery 
+can result in criminal penalties and disciplinary action.
+ 
+ 
+11
+.0
+ 
+Users of PSU information technology resources with acc
+ess to University data, such as 
+student or employee information, are responsible for the continued protection and 
+integrity of such data.   This includes the responsibility of users to:
+ 
+ 
+11.l
+ 
+Ensure that University data is accurate, including the 
+prevention of any 
+intentional  defacement or mishandling of such data;
+ 
+ 
+11.2
+ 
+Ensure that access to 
+University 
+data is restricted based on the needs of a job 
+function, and ensure that proper authorization has been granted for all access;
+ 
+ 
+11.3
+ 
+Ensure that d
+ata is available for appropriate University personnel;
+ 
+ 
+11.4
+ 
+Ensure that confidential data be rigorously protected and used solely for 
+University business;
+ 
+and
+ 
+ 
+11.5
+ 
+Ensure the equitable availability of University 
+i
+nformation 
+t
+echnology 
+r
+esources 
+by not pa
+rticipating in any behavior that would unreasonably interfere with 
+another user
+
+s access
+.
+ 
+ 
+12
+.0
+ 
+The University may monitor and record usage to enforce its policies and may use 
+information gained in this way in disciplinary and criminal proceedings.
+ 
+ 
+13
+.0
+ 
+Any employee found to have violated this policy may be subject to disciplinary action, 
+up to and including termination of employment. 
+  
+Any student found to have violated 
+this policy may be subject to disciplinary action, up to and including expulsion from 
+the University. 
+Student employees 
+may be disciplined both as an employee and as a 
+student, resulting in both professional and education
+al consequences. 
+ 
+Additional civil 
+and/or criminal punishments may be applicable. 
+ 
+ 
+
+ 
+4
+ 
+
+ 
+Acceptable Use Policy
+ 
+ 
+Draft:  
+6
+.
+20
+.14
+ 
+ 
+ 
+14.0
+ 
+The Office of Information Technology is authorized to develop guidelines necessary to 
+implement this policy.
+ 
+ 
+VI.
+ 
+Links To Related Forms
+ 
+ 
+Student Conduct Complaint Form: 
+https://pdx
+-
+advocate.symplicity.com/public_report/
+ 
+ 
+VII.
+ 
+ 
+Links To 
+Related 
+Policies, Procedures and Information
+ 
+ 
+Prohibited Discrimination and Harassment Policy: 
+http://www.pdx.edu/ogc/sites/www.pdx.edu.ogc/files/Policy_on_Prohibited_Discrimination_a
+nd_Harassment.Final_.pdf
+ 
+ 
+Email Communication Policy: 
+http://www.pdx.edu/ogc/sites/www.pdx.edu.ogc/files/Email_Policy_Draft_5.31.12.pdf
+ 
+ 
+Copyright Guide
+: 
+http://library.pdx.edu/copyright/copyright_guide.php
+ 
+ 
+Information 
+Security Policy: 
+http://www.oit.pdx.edu/files/PSU_Info_Sec_Policy_June_2011.pdf
+ 
+ 
+Banner access information:
+ 
+http://www.pdx.edu/oit/banner
+ 
+ 
+University Communications Identity Standards: 
+http://www.pdx.edu/sites/www.pdx.edu.ucomm/files/psu_identity_standards.pdf
+ 
+ 
+Student Code of Conduct: 
+http://www.pdx.edu/dos/psu
+-
+student
+-
+code
+-
+conduct
+ 
+ 
+Faculty Code of Conduct: 
+http://www.pdx.edu/dos/psu
+-
+faculty
+-
+code
+-
+conduct
+ 
+ 
+Professional Standards of Conduct Policy: 
+http://www.pdx.edu/hr/professional
+-
+standards
+-
+conduct
+ 
+ 
+Privacy Policy: 
+http://library.pdx.edu/about
+/
+privacy/
+ 
+ 
+ 
+User Rights & Responsibilities: 
+http://library.pdx.edu/about
+/
+user
+-
+rights
+-
+responsibilities/
+ 
+ 
+ 
+VIII.
+ 
+Contacts
+ 
+ 
+Questions regarding this Policy should be directed to the Office of Information Technology at 
+(503) 725
+-
+6246 or can be emailed to 
+cio@pdx.edu
+.
+ 
+ 
+ 
+
+ 
+5
+ 
+
+ 
+Acceptable Use Policy
+ 
+ 
+Draft:  
+6
+.
+20
+.14
+ 
+ 
+ 
+ 
+ 
+

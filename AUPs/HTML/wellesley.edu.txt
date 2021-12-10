@@ -1,0 +1,96 @@
+I can't get to some Wellesley sites, but I'm on Wellesley Secure.
+Which wireless network should I use?
+How do College-owned computers connect to the wired network?
+How do mobile devices connect to wireless?
+Can guests connect to the wireless network?
+Can Alumnae use the wireless network?
+How do I connect other devices(e.g.
+game consoles, internet TVs)?
+Why aren't wireless printers or personal routers allowed on campus?
+Still need help?
+Call: 781-283-7777 Email: helpdesk@wellesley.edu Hours: Monday through Thursday 6:45am - 10pm, Friday 6:45am - 7pm.
+My wireless frequently disconnects, what should I do?
+The most common issue with frequent disconnects is that other Wellesley wireless networks are saved on your list of known wireless networks.
+Removing them will help keep your computer connected only to Wellesley Secure and will stop it from trying to connect to the other networks.
+Follow the directions below for your device.
+In System Preferences, on the third row, click Network.
+In Network, click WiFi on the left then click Advanced on the bottom right.
+Look through the list of Preferred Networks.
+Remove all the Wellesley networks you see - Wellesley Secure, Wellesley Setup, Wellesley Guest, or eduroam by clicking on each one then clicking the minus button below the list of networks to remove them from the list one at a time.
+In the Network Name drop-down, click and choose Wellesley Secure.
+Login with your domain account when prompted.
+Accept the certificated when prompted.
+Login with your local computer account if prompted.
+Click Advanced to get to the list of WiFi networks again.
+Find Wellesley Secure in your list, and drag it to the top of your list of WiFi networks.
+Windows 10: Click on the wireless icon in the bottom right of your screen.
+Click Manage known networks.
+If you see Wellesley Guest, Wellesley Setup, or eduroam listed, click on each one of them, then click the Forget button that appears for each one.
+Once you have looked for and removed these networks, close the Network Settings window.
+iPhone / iPad: Tap on the Settings app.
+Tap on the Wi-Fi setting.
+For Wellesley Setup, Wellesley Guest, and eduroam, tap on the blue( circle to get to the settings for each network.
+If you see an option to Forget this network, tap on it, then tap the < Wi-Fi at the top to go back to the list of networks and go to each of them.
+Once you have looked at the three other Wellesley wifi networks to make sure you've forgotten all of them, you can exit the Settings app.
+Tap on the Wi-Fi setting.
+For Wellesley Setup, Wellesley Guest, and eduroam, tap and hold for a second on each one to get a popup menu.
+If Forget this network is in the menu, tap
+If not, tap anywhere else on the screen to exit the popup menu.
+Once you have looked at the three other Wellesley wifi networks to make sure you've forgotten all of them, you can exit the Settings app.
+I can't get to some Wellesley sites, but I'm connected to Wellesley Secure.
+Your computer may be set to use Domain Name Server(DNS) settings from another internet provider.
+DNS Servers translate the name of the website into a number(eg www.wellesley.edu to 149.130. .
+Some of Wellesley's servers require the use of Wellesley's DNS servers when you are on campus, so you need to remove any custom DNS settings.
+Your computer will automatically pick up Wellesley's DNS servers when you connect to Wellesley Secure.
+You can contact the Help Desk to assist you, or follow the directions below: Mac OS Go to the Apple logo in the menu bar and click System Preferences.
+In System Preferences, click on the Network setting.
+In Networks, click on WiFi on the left, Advanced on the bottom right.
+In the Advanced popup, go to the DNS tab and make sure they all start with 149.130.
+If they don't, click on each one and click the minus at the bottom to remove them.
+The 149.130 ones should appear after all the others have been removed.
+Click OK and Apply to save the changes.
+Go to the Settings app and tap WiF
+Tap on the network that's connected and make sure the DNS server starts with 149.130.
+If the DNS server is not 149.130, tap on it and delete
+A 149.130 IP should then appear.
+You can now exit out of the Settings app.
+Windows: Click on the WiFi icon in the bottom right notification area, and click Network Settings.
+In Network & Sharing Center, under Access Connections, click on the connection listed(usually Wi-F.
+In the popup window, both IP and DNS should be set to 'Obtain xxxxx automatically'.
+Click OK, click OK again, click Close, and close the other windows.
+Which wireless network should I use for my computer?
+Current students, faculty, and staff should use Wellesley Secure.
+Most devices can connect directly to the Wellesley Secure wireless network by selecting in their list of available networks when on campus.
+When prompted to login, use your Wellesley Domain Account username and password.
+On some devices you may need to accept, save, or trust a certificate from *.wellesley.edu to connect.
+Visitors, guests, and non-computer devices may need to connect to Wellesley Guest for WiFi access.
+If you do not have an active Wellesley domain account, you should connect to Wellesley Guest.
+Also, if your device does not support WPA2-Enterprise encryption, such as many internet-of-things devices, try connecting the device to Wellesley Guest.
+How do College-owned computers connect to the wired network?
+Most faculty and staff College-owned computers now use WiFi rather than an ethernet cable, and in either case will authenticate to the network when you log into the computer with your Domain Account.
+You will not need to login a second time, and you should not see a popup window.
+Non-standard College-owned computers may prompt for your domain username and password the first time you connect to the network.
+For details of what the prompt looks like and how to enter your Domain Account information, please see the links below: Windows Mac OS X Linux OS Chrome OS How do mobile devices connect to wireless?
+Connect Wellesley Secure and login with your Domain Account username and password.
+Detailed directions can be found in the links below: iOS devices(iPhone, iPad, iPod Touch) Android devices Windows Phone Windows RT devices Can guests connect to the wireless network?
+Connect to the Wellesley Guest WiFi network and enter your email address in the connection popup window.
+Can Alumnae use the wireless network?
+Connect to the eduroam WiFi network and enter your Wellesley domain username and password.
+How do I connect other devices(e.g.
+game consoles, internet TVs)?
+Some devices are not capable of connecting to Wellesley Secure due to the type of encryption used(WPA2 Enterprise), or they require broadcast traffic to communicate with other devices.
+If your device does not support WPA2 Enterprise encryption or requires broadcast traffic, try the Wellesley Guest WiFi network.
+If that doesn't work, contact the Help Desk.
+What devices work or don't work on the network?
+Most internet enabled devices are designed to work on small home networks.
+Since Wellesley's wireless network is much more complex, some devices may not work properly or at all.
+If you device doesn't work on Wellesley Secure, you can contact the Help Desk and we will provide best effort support to try and get the device working.
+At this time we don't have a list of what devices work or do not work on the network, except for wireless printers.
+Wireless printers work by creating their own wireless network, which can interfere with the already very busy wireless signal of our access points and all the wireless devices in use in the residence halls.
+They also tend to require static internet addresses so computers can always find them, which our network doesn't provide.
+Because of these issues, we strongly recommend you disable wireless on your printer and use a USB cable to connect to your printer.
+Why aren't wireless printers or personal routers allowed on campus?
+Faculty, staff, and students are not allowed to set up personal wireless printers or routers(including Time Capsule and other backup systems that use WiF because they may interfere with the campus wireless network performance.
+LTS may disable the device and attempt to contact the owner if needed.
+As of May 2014, Wellesley also participates in eduroam.
+If you are a visitor from an eduroam institution, you may connect to the eduroam WiFi network on campus.

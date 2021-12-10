@@ -1,0 +1,111 @@
+ROGER WILLIAMS UNIVERSITY Acceptable Use Policy Purpose: This is intended to regulate the use of Roger Williams University s electronic communications systems.
+Users of Information Technology systems are encouraged to review and understand the contents of this policy.
+Scope: Scope includes all students or any other end-users of the University s electronic communications systems, facilities, and equipment.
+This policy applies to the use of all communications systems, consisting of all equipment, telephone systems, networks, software, data, servers, computer systems, computers, computer laboratory equipment, workstations, Internet connection, and all other services considered property of Roger Williams University.
+Uses of Information Technology systems, even when carried out on a privately owned computer, are regulated by this policy.
+Appropriate Use Policy: All community members who use any computer systems and resources at Roger Williams University are responsible for using computer resources in an ethical and legal matter.
+Utilizing the University Information Technology resources is a privilege that must be treated in a responsible manner.
+If abuse of computer systems occurs, those responsible for such abuse will be held accountable to Information Technology, the Office of Judicial Affairs and Community Standards, and/or the proper legal authorities.
+This Appropriate Use Policy describes how the University information systems are permitted to be used:
+Users may only utilize the computer password assigned to them, unless multiple access has been authorized.
+Attempting to disguise the identity of an account or machine is not permitted.
+
+Users may not use IT technicians as resources to gain or attempt to gain unauthorized access to remote computers.
+
+Deliberately performing an act that will impact the operation of computers, terminals, printers, or networks is not permitted.
+This includes, but is not limited to, tampering with components of a local area network(LAN) or network backbone otherwise blocking communication wires or interfacing including Denial of Service(DoS) attacks(either intentional or unintentional).
+
+Users may not run, install, or give to another a program that could result in the eventual damage to a file, computer, or network on any computer system.
+This includes,
+but is not limited to, computer programs known as viruses, trojan horses, and worms.
+
+Attempting to circumvent data protection schemes is not permitted.
+Terms of software licensing agreements and copyright laws must be followed.
+Unauthorized duplication of copyrighted materials including software, digital images, music, movies, etc.
+is not permitted(see next section entitled Copyright Law).
+Copying of site-licensed software for use at a location not covered under the terms of agreement is not permitted.
+
+Acts that are wasteful of computing resources or which unfairly monopolize resources to the exclusion of others are not allowed.
+These acts include, but are not limited to, sending mass mailings or chain letters, creating unnecessary multiple jobs or processes, or printing or creating unnecessary network traffic.
+
+The Appropriate Use Policy prohibits the use of Roger Williams University information systems to: Infringe upon the rights of another person including harassment, intimidation, threat, or slander of any individual or group.
+Transmit or make accessible material, which in the sole judgment of the University, is abusive, offensive, pornographic, profane, or sexually offensive.
+Transmit information that may injure another person and/or lead to a lawsuit or criminal charges.
+Examples include: pirated software, DMCA or RIAA covered digital files, destructive software, or libelous material.
+Place advertisements for commercial enterprises on any University owned computer system.
+Harass via sending or posting annoying, threatening, libelous, sexually, racially, or religiously offensive messages.
+Attempt to monitor another user s data, read, copy, change, or delete another user s files or software, without the permission of the owner.
+Performing intrusion attempts including, but not limited to, port scanning or other invasive acts.
+Excessive gaming on any of the computers or networks other than for instructional purposes.
+
+Any computer placed on the University network shall have its operating system patched to date and shall be running current anti-virus software.
+Any machine found creating virus attacks against other hosts on the University network shall be disconnected until corrective action is completed.
+Repeat offenses shall be grounds for prolonged termination of network services.
+
+Information Technology computers, workstations, printers, or networks are to be used exclusively for Roger Williams University courses, research projects, departmental activities, or personnel communications.
+Although community members have an expectation of privacy, if a user is suspected of violating this policy, the user s
+right to privacy may be superseded by the University s obligation to protect the integrity of information technology resources, the rights of all users, and the property of the University.
+The University reserves the right to investigate and restrict any user s access.
+The University reserves the right to take any action necessary to protect the computer and network systems.
+
+Information Technology systems may not be used to violate civil or criminal law at the federal, state, or local level.
+These policies may be periodically reviewed and modified by the University.
+Copyright Law, the Illegal Use of File Sharing Programs, University Policies and Procedures for Handling Violations This document is intended to explain the policies and procedures Roger Williams University follows in responding to notifications of alleged copyright infringements on the University network.
+What is copyright?
+Copyright is legal protection of intellectual property, in whatever medium, that is provided for by the laws of the United States to the owners of copyright.
+Types of works that are covered by copyright law include, but are not limited to, literary, dramatic, musical, artistic, film and multi-media works.
+Many people understand that printed works such as books and magazine articles are covered by copyright laws but they are not aware that the protection extends into software, digital works, and unpublished works and it covers all forms of a work, including its digital transmission and use.
+What is the current law concerning digital copyright?
+The Digital Millennium Copyright Act(DMCA), signed into law in 1998, recognizes that digital transmission of works adds complexity to the Copyright Law.
+The DMCA provides non-profit educational institutions with some protections if individual members of the community violate the law.
+However, for Roger Williams University to maintain this protection we must expeditiously take down or otherwise block access to infringing material, whenever it is brought to our attention and whether or not the individual who is infringing has received notice.
+It is important to note, that the DMCA contains serious implications with respect to infringing activities of faculty, graduate students, undergraduate students, or staff who are performing teaching or research functions if the University has received more than two notices of infringement against an individual within a three-year period.
+Individuals and universities can be subject to the imposition of substantial damages for copyright infringement incidents relating to the use of University network services.
+In a civil action, the individual infringer may be liable for either actual damages or
+statutory damages of up to $30,000(which may be increased to up to $150,000 if the court finds the infringement was willful).
+In addition, individual infringers may be subject to criminal prosecution.
+Criminal penalties include up to ten years imprisonment depending on the nature of the violation.
+Why is it an important issue right now?
+Copyright is an issue of particular seriousness because technology makes it easy to copy and transmit protected works over our networks.
+While Roger Williams University encourages the free flow of ideas, and provides resources such as the network to support this activity, we do so in a manner consistent with all applicable state and federal laws.
+Roger Williams University does not condone the illegal or inappropriate use of material that is subject to copyright protection and covered by state and federal laws.
+What kinds of activities violate the federal law?
+The following are some examples of copyright infringement that may be found in a university setting: Downloading and sharing MP3 files of music, videos, and games without permission of the copyright owner Using corporate logos without permission Placing an electronic copy of a standardized test on a department s web site without permission of the copyright owner Enhancing a departmental web site with music that is downloaded and artwork that is scanned from a book, all without attribution or permission of the copyright owners Scanning a photograph that has been published and using it without permission or attribution as the background of a web site Placing a number of full-text articles on a course web page that is not password protected, therefore, the web page is accessible to anyone who can access the Internet Downloading licensed software from non-authorized sites without the permission of the copyright or license holder Making a movie file or a large segment of a movie available on a web site without permission of the copyright owner Specifically, is sharing and downloading MP3 files and videos illegal?
+It is true that some copyright holders give official permission to download MP3 files and you might be able to find a limited number of videos that are not copyright protected.
+It is also true that some MP3 files are copyright free and some MP3 files can be legally obtained through subscription services.
+However, most MP3 and video files that are shared do not fall into any of these categories.
+US Copyright Law allows you to create MP3s only for the songs to which you already have rights; that usually means you purchased the CD or song legally online.
+And US Copyright Law allows you to make a copy of a purchased file only for your personal use.
+Personal use does not mean that you can give a copy to other people, or sell a copy of
+How do you get caught violating copyright law?
+Copyright holders represented by organizations such as the Recording Industry Association of America, the Business Software Association, and the Motion Picture Association of America are applying serious efforts to stop the infringing download of copyrighted music, movies, and software.
+The companies or their agents locate possible copyright infringements by using automated systems, or bots that search the networks looking to see if any of the common music, movie or software sharing programs are active on a port(e.g.
+The bot then asks the sharing program if it has a music title by a particular artist.
+If the sharing program answers positively, the bot reports the particular IP address and title to an authority, who then sends out the violation notices to the owners of the IP address.
+Roger Williams University s network has a range of IP addresses and all computers connected to the Roger Williams University network have an IP address.
+When we get a violation notice, Roger Williams University locates the IP address and whenever possible, the user of that address.
+At that point, Roger Williams University is required to act on the notification.
+If the IP address leads to my computer, what happens next?
+These notices come to the Chief Information Officer and Director of IT from organizations that represent the artists and copyright holders.
+When Roger Williams University receives such a notice, staff in IT look up the network IP address and stop network services to the port that is connected to the computer where the infringing material resides.
+At this point, the computer cannot use any Roger Williams University resources or Internet resources.
+Once the identity of the individual is known, they are notified that they must remove the infringing material from their computer and inform IT and the Office of Judicial Affairs and Community Standards of its removal before network access will be reinstated.
+First-time Notifications: If this is the first notification that the University has received on an individual, IT will temporarily disable the network port of the offending
+The offending student must verify that the infringing material has been removed from the computer and sign a certification document.
+Once this is done, the network connection will be reinstated and the computer can return to the network.
+A report about the violation of copyright will be sent by IT to the Office of Judicial Affairs and Community Standards if you are a student; to your senior administrator and Human Resources if you are staff; and to the department chair and the Dean of
+Faculty and Provost if you are faculty.
+Second Notification Process for Students: If students are found in violation a second time, their privileges to access the network from their personal computers, either through a wired port or through wireless, will be denied for two weeks.
+If it is subsequently determined that a student did not violate the policy, the network connection will be allowed.
+The Office of Judicial Affairs and Community Standards will be notified when second infringements have occurred and may take appropriate action within the University s disciplinary process and a letter of disciplinary action will be entered into the student s record.
+If the student tries to connect his/her computer to the Internet from a university port that is assigned to someone else, through an open port in a classroom or through the wireless service, further disciplinary action may take place.
+During this two week period, the student will be allowed to access the Internet only from University computers.
+Subsequent Notification Process for Students: If students are found in violation a third time, their privileges to access the network from their personal computers will be denied for a full semester.
+If it is determined that a student did not violate the policy, the network connection will be allowed.
+These subsequent infringements also will be reported to the Office of Judicial Affairs and Community Standards and will result in action taken within the University s disciplinary process.
+If the student tries to connect to the Internet from a University port that is assigned to someone else, through an open port in a classroom, or through the wireless service, further disciplinary action may take place.
+During the period when they cannot connect a personal computer to the network, the student will be allowed to access the Internet only from University computers.
+Additional infringements will result in permanent loss of network privileges and/or referral of the student s name to the appropriate authorities for civil or criminal prosecution.
+Second Notification Process for Faculty, Graduate Students and Staff: Faculty, graduate students, and staff who are engaged in teaching and research functions are expected to understand and act in accordance with applicable copyright laws.
+The University is obligated to exercise greater responsibility to address instances of repeated infringing activity by these individuals There are potentially serious implications for both the individual and the University if the University receives more than two notices of infringement against an individual within a three-year period.
+For this reason, in an instance of a second notification of an individual s infringing activities, the University s Chief Legal Counsel is also notified of the infringement and a meeting with the relevant administrators will be held to determine the action(s) to be taken.

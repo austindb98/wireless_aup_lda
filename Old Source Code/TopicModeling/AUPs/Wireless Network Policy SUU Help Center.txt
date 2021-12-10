@@ -1,0 +1,70 @@
+SUU Help Center
+/Information Technology
+/Policies
+/Wireless Network Policy
+Wireless Network Policy
+WARNING! The SUU, SUUstudents, and the suu-conference wireless networks are the property of Southern Utah University and may
+be accessed only by authorized users. These networks are intended to provide network access to registered SUU students, SUU
+employees and temporary use for visitors on the SUU campus. Unauthorized use of this system is strictly prohibited and may be subject
+to criminal prosecution. The University may monitor any activity or communication on the system and retrieve any information stored
+within the system within the scope of University Policies and Procedures section 5.2, 'Computing, Internet Use, and Network Security.'
+System personnel may disclose any potential evidence of crime found on SUU network systems for any reason. By accessing and
+using this network, you are consenting to such monitoring and information retrieval for law enforcement and other purposes. Users
+should have no expectation of privacy as to any communication on or information passed through the system.
+The use of the Service for the following activities is prohibited:
+Trading or sharing copyrighted materials, including music, video, and software.
+Spamming and Invasion of Privacy: Sending of unsolicited bulk and/or commercial messages over the Internet using the Service or
+using the Service for activities that invade another's privacy.
+Intellectual Property Right Violations: Engaging in any activity that infringes or misappropriates the intellectual property rights of others,
+including patents, copyrights, trademarks, service marks, trade secrets, or any other proprietary right of any third party.
+Obscene or Indecent Speech or Materials: Using Southern Utah University's network to advertise, solicit, transmit, store, post, display,
+or otherwise make available obscene or indecent images or other materials. Southern Utah University will notify and fully cooperate with
+law enforcement if it becomes aware of any use of the Service in any connection with child pornography or the solicitation of sex with
+minors.
+Defamatory or Abusive Language: Using the Service to transmit, post, upload, or otherwise making available defamatory, harassing,
+abusive, or threatening material or language that encourages bodily harm, destruction of property or harasses another.
+Forging of Headers: Forging or misrepresenting message headers, whether in whole or in part, to mask the originator of the message.
+Hacking: Accessing illegally or without authorization computers, accounts, equipment or networks belonging to another party, or
+attempting to penetrate security measures of another system. This includes any activity that may be used as a precursor to an
+attempted system penetration, including, but not limited to, port scans, stealth scans, or other information gathering activity.
+Distribution of Internet Viruses, Trojan Horses, or Other Destructive Activities: Distributing information regarding the creation of and
+sending Internet viruses, worms, Trojan Horses, pinging, ßooding, mailbombing, or denial of service attacks. Also, activities that disrupt
+the use of or interfere with the ability of others to effectively use the Node or any connected network, system, service, or equipment.
+Facilitating a Violation of this Agreement of Use: Advertising, transmitting, or otherwise making available any software product, product,
+or service that is designed to violate this Agreement, which includes the facilitation of the means to spam, initiation of pinging, ßooding,
+mailbombing, denial of service attacks, and piracy of software.
+
+Have more questions? 
+Let us know
+Export Control Violations: The transfer of technology, software, or other materials in violation of applicable export laws and regulations,
+including but not limited to the U.S. Export Administration Regulationsand Executive Orders.
+Other Illegal Activities: Using the Service in violation of applicable law and regulation, including, but not limited to, advertising,
+transmitting, or otherwise making available ponzi schemes, pyramid schemes, fraudulently charging credit cards, pirating software, or
+making fraudulent offers to sell or buy products, items, or services.
+Resale: The sale, transfer, or rental of the Service to customers, clients or other third parties, either directly or as part of a service or
+product created for resale.
+Disclaimer: You acknowledge (i) that the Service may not be uninterrupted or error-free; (ii) that viruses or other harmful applications
+may be available through the Service; (iii) that Southern Utah University does not guarantee the security of the Service and that
+unauthorized third parties may access your computer or Þles or otherwise monitor your connection; (iv) that Southern Utah University's
+and that its Volunteers ability to provide the Service without charge is based on the limited warranty, disclaimer and limitation of liability
+speciÞed in this Section and it would require a substantial charge if any of these provisions were unenforceable. THE SERVICE AND
+ANY PRODUCTS OR SERVICES PROVIDED ON OR IN CONNECTION WITH THE SERVICE ARE PROVIDED ON AN "AS IS", "AS
+AVAILABLE" BASIS WITHOUT WARRANTIES OF ANY KIND. ALL WARRANTIES, CONDITIONS, REPRESENTATIONS,
+INDEMNITIES AND GUARANTEES WITH RESPECT TO THE CONTENT OR SERVICE AND THE OPERATION, CAPACITY, SPEED,
+FUNCTIONALITY, QUALIFICATIONS, OR CAPABILITIES OF THE SERVICES, GOODS OR PERSONNEL RESOURCES PROVIDED
+HEREUNDER, WHETHER EXPRESS OR IMPLIED, ARISING BY LAW, CUSTOM, PRIOR ORAL OR WRITTEN STATEMENTS BY
+Southern Utah University, OR OTHERWISE (INCLUDING, BUT NOT LIMITED TO ANY WARRANTY OF SATISFACTORY QUALITY,
+MERCHANTABILITY, FITNESS FOR PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT) ARE HEREBY OVERRIDDEN,
+EXCLUDED AND DISCLAIMED. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF CERTAIN WARANTIES, SO THE
+ABOVE EXCLUSIONS MAY NOT APPLY TO YOU.
+No Consequential Damages. UNDER NO CIRCUMSTANCES WILL Southern Utah University, ITS VOLUNTEERS, THEIR SUPPLIERS
+OR LICENSORS, OR THEIR RESPECTIVE OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, AND AFFILIATES BE LIABLE FOR
+CONSEQUENTIAL, INDIRECT, SPECIAL, PUNITIVE OR INCIDENTAL DAMAGES OR LOST PROFITS, WHETHER FORESEEABLE
+Was this helpful? 
+! " 1 out of 1 found this helpfulRelated Articles:
+General Information Technology Policies
+Student Information Technology Policies
+P2P File Sharing
+Bulk Email Best Practices
+
+

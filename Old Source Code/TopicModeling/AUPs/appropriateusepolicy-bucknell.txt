@@ -1,0 +1,493 @@
+ 
+Appropriate Use Policy
+ 
+August 4, 2017
+ 
+Page
+ 
+| 
+1
+ 
+ 
+Appropriate Use Policy (AUP)
+ 
+Effective Date: 
+February 15
+, 201
+8
+ 
+ 
+Summary
+ 
+Bucknell University provides a wide variety of computing and networking facilities in order to promote 
+and support academic pursuits as well as 
+the 
+administrative and residential needs of our students, 
+faculty, and staff. Library and Information Technology
+ 
+identifies
+, maintains, and supports the computing 
+and networking needs of the university.
+ 
+The use of Bucknell University 
+computing and networking 
+resources is a privilege, not a right, and is 
+granted under the conditions of appropriate use as stated in th
+
+computing facilities, resources, and accounts, users agree to 
+comply with this Appropriate Use Policy
+. 
+ 
+Bucknell reserves the right to search, inspect and review any and all voicemail, email, text messages, 
+instant 
+m
+essages
+, and all other communication transmitted through
+ 
+or stored on
+ 
+
+communications systems, including any communications records of any kind the University stores with 
+a
+uthorized
+ 
+third party vendor
+s
+. While there should be no legal expect
+ation of privacy in Bucknell
+-
+provided resources, Bucknell does seek to protect the privacy interests of its constituents and, 
+therefore, such steps are taken only by specifically authorized employees in Library & Information 
+Technology and only as approved
+ 
+by the General Counsel
+ 
+or their designee in specific instances
+ 
+including, for example, when necessary to respond to court orders or subpoenas, to assist in 
+troubleshooting and resolving systems problems, and in connection with authorized investigations.
+ 
+T
+he U
+niversity
+ 
+reserves the right to immediately take any action 
+it deems 
+necessary
+,
+ 
+including 
+disconnection of devices and/or suspension of users or services
+,
+ 
+to 
+maintain the stability, security, and 
+operational effectiveness 
+of computing and networking 
+facilities.
+ 
+Scope
+ 
+This policy applies to all individuals using Bucknell L&IT resources regardless of affiliation, location, or 
+device ownership. 
+ 
+Appropriate Use Policy
+ 
+The 
+
+appropriate use of university computing resources 
+takes
+ 
+into 
+consideration the limited nature of resources, the expectation of individual responsibility, and the 
+requirement that resources be used in an ethical manner and in 
+compliance with all applicable 
+laws
+ 
+and 
+university 
+p
+olicies.
+ 
+ 
+ 
+ 
+
+ 
+Appropriate Use Policy
+ 
+August 4, 2017
+ 
+Page
+ 
+| 
+2
+ 
+Appropriate Use
+ 
+
+ 
+The 
+Bucknell computing and networking facilities
+, including all ancillary systems,
+ 
+are first and 
+foremost to be used in support of the academic mission of the university. All other services 
+provided are on a best effort basis.
+ 
+
+ 
+Use resources responsibly and eff
+iciently. Do not engage 
+in conduct that unreasonably wastes 
+such resources
+.
+ 
+
+ 
+Do not use university resources to defame, harass, intimidate
+,
+ 
+threaten 
+or discriminate against 
+any other person(s).
+ 
+
+ 
+Do not attempt to interfere with, interrupt, or obstruct the ab
+
+computing facilities, software, and network services. This includes, but is not limited to, 
+disconnecting cables in lab environments/common areas, introduc
+ing
+ 
+additional software or 
+devices in common areas or 
+classrooms
+,
+ 
+o
+r 
+using 
+devices that interfere with the normal 
+operation of the 
+wired/
+wireless network 
+(e.g. 
+
+)
+ 
+without the express written permission of L
+ibrary 
+&
+ 
+I
+nformation 
+T
+echnology
+ 
+management.
+ 
+Individual Responsibilities
+ 
+
+ 
+Pro
+tect your data and the institutions data
+ 
+o
+ 
+Do not share your password with ANYONE or allow anyone else to use your account(s). 
+
+ 
+o
+ 
+Be 
+vigilant
+ 
+in identifying various types of phishing attacks to gain access to your 
+information
+.
+ 
+o
+ 
+Store confidential and/or sensitive data on appropriate university sanctioned services 
+only
+.
+ 
+
+ 
+Keep 
+personally owned devices 
+connecting to and/or accessing university resources 
+up to date 
+with current operating system and software patches
+,
+ 
+as well as 
+appropr
+iate 
+up
+-
+to
+-
+date 
+security 
+measures
+.
+ 
+
+ 
+Do not utilize Bucknell computing resources, including personally owned computers connected 
+
+,
+ 
+for non
+-
+
+interest policy
+.
+)
+ 
+
+ 
+Users who co
+
+or who permit others to use their computers, whether directly or through user accounts
+,
+ 
+have 
+the additional responsibility to respond to any use of their server that is in vio
+lation of the 
+Appropriate Use Policy. Server administrators and those who permit the use of the computers 
+by others are responsible for the security and actions of others on their systems.
+ 
+Ethical Use
+ 
+
+ 
+Do not publish, post, transmit or otherwise make availa
+ble content that is obscene or legally 
+objectionable
+. 
+Users should be aware, however, that t
+he university cannot protect individuals 
+against the existence or receipt of material that may be offensive to them. 
+ 
+
+ 
+Computers located in public areas of the unive
+rsity are for academic/research purposes and 
+incidental personal use. Electronic mediums such as games, chat, instant messag
+ing, social 
+networking
+, recreational movies or TV shows displaying obscene images are not permitted.
+ 
+
+ 
+Appropriate Use Policy
+ 
+August 4, 2017
+ 
+Page
+ 
+| 
+3
+ 
+
+ 
+Do not provide, assist in, or u
+
+inappropriate access to 
+Bucknell U
+niversity computing resources or systems at remote sites.
+ 
+
+networks, bypas
+s implemented network security controls, introduce self
+-
+replicating code or 
+actions meant to degrade performance or deny access for legitimate use by others.
+ 
+
+ 
+Do not use Bucknell computing resources to violate federal, state or local laws or 
+regulations, or
+ 
+university policies
+. This includes the illegal use of non
+-
+licensed software
+ 
+or other material in 
+violation of copyright law, or the illegal download of digital content in violation of the Digital 
+Millennium Copyright Act (DMCA)
+.
+ 
+
+ 
+Do not violate the privacy
+ 
+of 
+other 
+individuals. This includes 
+by 
+viewing, monitoring, copying, 
+altering, or destroying any file, data, transmission or communication not explicitly owned by you 
+unless 
+you
+ 
+have been given explicit permission by the owner.
+ 
+
+ 
+Do not forge, maliciously d
+isguise or misrepresent your personal identity. This policy does not 
+prohibit users from engaging in anonymous communications, providing that such 
+communications do not otherwise violate the Appropriate Use Policy.
+ 
+Reporting Suspected AUP Violations
+ 
+Reports of suspected violations to the Acceptable Use Policy may be made to the Tech Desk by 
+calling
+ 
+570
+-
+577
+-
+7777 or to 
+techdesk@bucknell.edu
+.
+ 
+Response to AUP violations
+ 
+Library &
+ 
+IT will make every attempt to respond to reports of AUP violations within one business 
+day. 
+ 
+Any behavior in violation of the AUP is subject to disciplinary action
+ 
+and, if applicable, criminal 
+prosecution and/or civil liability
+. 
+Depending on the identity 
+of the individual involved, v
+iolations of 
+this Appropriate Use Policy will be adjudicated
+ 
+and sanctioned
+, as appropriate, by the Office of the 
+Dean of Students, 
+the appropriate academic Dean, the Provost, 
+Human Resources, or 
+Library & 
+I
+nformation 
+T
+echnolog
+y
+.
+ 
+In addition to appropriate sanctions, individuals may be required to attend 
+a class, meeting or other training session on appropriate usage.
+ 
+If you would like more information about the Bucknell University Appropriate 
+Use Policy, please contact 
+the 
+Libr
+ary and Information Technology staff
+ 
+at 
+techdesk@bucknell.edu
+. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Appropriate Use Policy
+ 
+August 4, 2017
+ 
+Page
+ 
+| 
+4
+ 
+ 
+Policy Name:
+ 
+A
+ppropriate U
+s
+e 
+Policy
+ 
+P
+olicy ID:
+ 
+IS
+-
+001
+ 
+ 
+Related Policies:
+ 
+ 
+ 
+-
+ 
+Conflict of Interest Policy
+ 
+-
+ 
+Academic Responsibility
+ 
+-
+ 
+Information Security Policy
+ 
+ 
+ 
+ 
+Policy Owner:
+ 
+Chief Information Security Officer
+ 
+ 
+ 
+Policy Reviewed By:
+ 
+ 
+Next Policy Review Date:
+ 
+-
+ 
+General Counsel
+ 
+-
+ 
+Enterprise Systems Advisory Council
+ 
+-
+ 
+Committee on Library and Information Resources
+ 
+Nov
+/2017
+ 
+Oct
+/2017
+ 
+Oct/2017
+ 
+September 2018
+ 
+ 
+ 
+ 
+ 
+

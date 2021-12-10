@@ -1,0 +1,367 @@
+MONTANA BOARD OF REGENTS OF HIGHER EDUCATION
+ 
+ 
+Policy and Procedu
+res Manual
+ 
+ 
+SUBJECT:  [INFORMATION TECHNOLOGY
+ 
+ 
+ 
+ 
+Policy 1304.1 
+
+ 
+User 
+Responsibilities 
+
+ 
+Students
+ 
+Adopted:  [May 24, 2002
+ 
+__________________________
+____________________________________________________
+ 
+ 
+SCOPE
+ 
+ 
+ 
+This policy applies to all MUS students using MUS
+-
+owned or managed computing and information 
+resources for student purposes. In this policy "user" refers to student user, as distinct from any role the 
+individual may also have as an employee (Policy
+ 
+1303.1) or patron (Policy 1305.1).
+ 
+ 
+ 
+A.  [
+REQUIREMENTS
+ 
+ 
+ 
+
+fundamental importance of information resources and recognize his/her responsibility for the safekeepin
+g 
+of those resources. Users and system administrators must guard against abuses that disrupt or threaten 
+the viability of all systems, including those connected to the MUS telecommunication network, the State 
+telecommunication network, and other telecommun
+ication networks to which MUS systems are 
+connected.
+ 
+ 
+ 
+Each user is responsible for having knowledge of MUS policies concerning security, privacy, and 
+acceptable computing practices.
+ 
+ 
+Each user of MUS computing and information resources must act 
+responsibl
+y. Each user is responsible for the integrity of these resources. Each user of MUS
+-
+owned or 
+managed computing systems must be knowledgeable of and adhere to MUS policies, respect the rights 
+of other users by minimizing unnecessary network traffic that migh
+t interfere with the ability of others to 
+make effective use of shared resources, respect the integrity of the physical facilities and controls, and 
+obey all pertinent federal, state, county, and local laws and ordinances. Each user must abide by these 
+pol
+icies, laws, and contractual obligations, and adhere to appropriate ethical standards.
+ 
+ 
+
+Students should never, without explicit permission, modify or ins
+tall software on MUS computers; attach 
+unauthorized hardware or otherwise modify the MUS network in any manner; modify, delete, or in any 
+
+prohibited by loc
+al campus policies.
+ 
+ 
+In that regard, each campus must clearly identify what MUS information technology resources are 
+available for use by its students, and clearly identify those activities that are and are not appropriate for 
+each resource. This includes 
+but is not limited to use of resources such as e
+-
+mail systems, internal and 
+external network facilities, student
+-
+accessible computer labs, and accounts on MUS
+-
+owned or operated 
+computer systems.  [If a campus provides special services to residents of its un
+iversity
+-
+provided housing, 
+it must clearly identify what special services are provided and what activities are and are not appropriate 
+in the use of those services by residents.
+ 
+ 
+B.  [
+ENSURING COMPLIANCE
+ 
+ 
+It is the responsibility of the Student Affairs Offic
+e on each campus to ensure that all students are aware 
+of MUS policies and procedures concerning the use of MUS computing and information technology 
+resources, understand them, and comply with them. In the case of special services provided to residents 
+of 
+university
+-
+provided housing, it is the responsibility of the campus housing operation unit to ensure that 
+residents are aware of and comply with separate policies that govern the use of special services available 
+only to housing residents.
+ 
+ 
+C.  [
+REPORTING AND 
+DISCIPLINARY ACTION
+ 
+
+MONTANA BOARD OF REGENTS OF HIGHER EDUCATION
+ 
+ 
+Policy and Procedu
+res Manual
+ 
+ 
+SUBJECT:  [INFORMATION TECHNOLOGY
+ 
+ 
+ 
+ 
+Policy 1304.1 
+
+ 
+User 
+Responsibilities 
+
+ 
+Students
+ 
+Adopted:  [May 24, 2002
+ 
+__________________________
+____________________________________________________
+ 
+ 
+ 
+ 
+Users of MUS information technology resources must cooperate with requests from system 
+administrators for information about 
+computing activities; follow MUS procedures and guidelines in 
+handling diskettes and external files in order t
+o maintain a secure, virus
+-
+free computing environment; 
+follow MUS procedures and guidelines for backing up data and making sure that critical data are saved to 
+an appropriate location; and honor the Acceptable Use Policies of any MUS or non
+-
+MUS networks th
+ey 
+access through MUS facilities.
+ 
+ 
+ 
+Users must report acceptable use violations and other security violations to their immediate supervisors, 
+to local personnel responsible for local network policy enforcement, or to personnel responsible for the 
+enforceme
+nt of the policies pertinent to the violation.
+ 
+ 
+ 
+Misuse of MUS computing or information resources will result in disciplinary action appropriate to and 
+consistent with BOR policies and the campus Student Conduct Code. 
+ 
+ 
+D.  [
+GUIDELINES: RECOMMENDATIONS, NOT REQ
+UIREMENTS
+ 
+ 
+Examples of Misuse of Information Technology Resources
+ 
+ 
+ 
+The following items represent, but do not fully define, misuse of 
+information technology resources. Note 
+that many of these examples may be considered appropriate uses of technology resour
+ces in specific 
+
+academic supervisor (e.g., instructor, department chair, dean, or provost).
+ 
+ 
+ 
+1.
+ 
+Using resources for derogatory, racially offensive, sexua
+lly offensive, harassing, threatening, or 
+discriminatory purposes.
+ 
+2.
+ 
+Downloading, installing, or running security programs or utilities that reveal weaknesses in the 
+security of MUS computer resources, except by a MUS employee as specifically required by that 
+
+ 
+3.
+ 
+Unauthorized use of
+ 
+computers and User IDs, or use of User IDs for purpose(s) other than those 
+for which they have been issued. 
+ 
+4.
+ 
+Modifying, installing, or removing computer equipment, software, or peripherals, or attempting to 
+do so, without proper authorization. 
+ 
+5.
+ 
+Access
+ing computers, computer software, computer data or information, or networks without 
+proper authorization, regardless of whether the computer, software, data, information, or network 
+in question is owned by the MUS. For example, using the networks to which 
+the MUS has access 
+
+computing privileges.
+ 
+6.
+ 
+Circumventing or attempting to circumvent normal resource limits, logon procedures, or security 
+regulations. 
+ 
+7.
+ 
+Sending fraudulent e
+-
+mail, breaking into another user's e
+-
+mail account, or reading someone 
+else's e
+-
+mail without his or her permission, unless
+ 
+specifically authorized to do so. 
+ 
+8.
+ 
+Sending any fraudulent electronic transmission, including but not limited to fraudulent requests for 
+confidential information, fraudulent submission of electronic purchase requisitions or journal 
+vouchers, or fraudulen
+t electronic authorization of purchase requisitions or journal vouchers. 
+ 
+
+MONTANA BOARD OF REGENTS OF HIGHER EDUCATION
+ 
+ 
+Policy and Procedu
+res Manual
+ 
+ 
+SUBJECT:  [INFORMATION TECHNOLOGY
+ 
+ 
+ 
+ 
+Policy 1304.1 
+
+ 
+User 
+Responsibilities 
+
+ 
+Students
+ 
+Adopted:  [May 24, 2002
+ 
+__________________________
+____________________________________________________
+ 
+ 
+9.
+ 
+Violating any legal software license agreement or copyright, including copying or redistributing 
+copyrighted computer software or data without proper, recorded authorization. 
+ 
+10.
+ 
+Vi
+olating the property rights of those who hold copyright to computer
+-
+generated data, reports, or 
+software. 
+ 
+11.
+ 
+Taking advantage of another user's naiveté or negligence to gain access to any system account, 
+data, software, or file which would not otherwise b
+e accessible. 
+ 
+12.
+ 
+Physically interfering with other users' access to MUS computing facilities, unless authorized to 
+do so by the appropriate authority. 
+ 
+13.
+ 
+Encroaching on or disrupting others' use of MUS network resources by creating unnecessary 
+network traf
+fic (for example, by playing games or sending excessive amounts of e
+-
+mail); wasting 
+computer processing time, connect time, disk space, or other resources; modifying system 
+facilities, operating systems, or disk partitions without authorization; attempting
+ 
+to crash or deny 
+service to a MUS computer; damaging or vandalizing MUS computing facilities, equipment, 
+software, or computer files. 
+ 
+14.
+ 
+Disclosing proprietary information, software, printed output, or magnetic media without the explicit 
+permission of the owner. 
+ 
+15.
+ 
+Reading other users' data, information, files, or programs on a display screen, as printed output, 
+or via electronic means, w
+ithout the owner's explicit permission, except in the case of MUS 
+employees authorized to do so in the performance of their jobs.
+ 
+16.
+ 
+Knowingly transferring or allowing to be transferred to, from, or within the MUS, textual or 
+graphical material commonly con
+sidered to be child pornography or obscene as defined in 45
+-
+8
+-
+201(2), MCA. 
+ 
+17.
+ 
+Any other activity involving use of MUS computing and information resources that violates 
+established MUS policies, state laws, or federal laws, whether or not those policies or 
+laws relate 
+specifically to the use of computing or information resources.
+ 
+ 
+ 
+History: 
+ 
+ 
+Item 114
+-
+104
+-
+R0102, User Responsibilities 
+-
+ 
+Students, approved by the Board of Regents on May 24, 2002.
+ 
+

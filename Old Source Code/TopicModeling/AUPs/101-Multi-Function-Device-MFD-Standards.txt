@@ -1,0 +1,342 @@
+101 Multi
+-Function Device Standards 1
+ University Standards
+ Subject:
+ Multi
+-Function Device Standards
+ Standards Number:
+ 101 Effective Date:
+ 07-24-10 Revised
+ Date:
+ 03-05-18 Responsible Authority:
+ Information 
+Security Office
+ Pages:
+ 5 ACCOUNTABILITY/APPLICABILITY:
+ This standard applies to all 
+multifunction devices and appliances owned by the University of 
+Central Florida
+ that are physically and logically capable of supporting the standard.  [ 
+STANDARDS
+ STATEMENT:
+ All who have access to use a
+ networked university 
+Multi
+-Function Devices (MFD) 
+have the 
+responsibility to ensure the overall security of the data and 
+documents 
+it processes.  [
+Members of 
+the university using or administering MFDs should comply 
+with the Data Classification and 
+Protection policy (4
+-008) and the standards set forth in this document.  [ 
+BACKGROUND:
+ The University of Central Florida has a need to 
+centralize
+ network capable 
+MFD
+s throughout the 
+campus as a way of reducing the need f
+or multiple devices, 
+realizing cost savings, 
+ease of use, 
+less
+ening our impact on the environment, and improving 
+efficiencies of process. MFDs provide 
+
+great value to the university, but also raise security concerns when not properly configured. 
+
+Securing networked devices is important for a number of reasons: 
+Most are simply ﬁplugged
+-inﬂ to the network using the minimal settings required to make
+the device operate.
+Once installed, they rarely receive recommended updates and patches.
+Administration of MFDs 
+takes place on the network; physical access to the device may
+
+not be required.
+Due to increased sophistication (built-
+in ﬁintelligenceﬂ) and ever
+-increasing storage
+capacity, hackers use MFDs to launch attacks, store unauthorized data, retrieve scanned
+and printed documents, and print 
+unauthorized material.
+This Information Security Office (ISO)
+ sets the minimum acceptable security standards required 
+for
+ attaching
+ and deploying any MFD to the 
+UCF 
+network while 
+providing for maximum 
+security, 
+efficiency
+, ava
+ilability
+, and risk reduction. 
+
+101 Multi
+-Function Device Standards 2
+ STANDARDS
+: 
+When using MFDs, UCF conforms to certain standards to protect documents and the information 
+they contain.  [
+Listed below are the responsibilities and requirements for 
+all users
+, departments, 
+and administrators
+. 
+1.Passwords
+Follow all user and server level password standards outlined in Standards Document 501
+Password Standards
+.2.Network
+Ensure embedded management 
+web interfaces use encryption (e.g.
+, SSL with a self
+-signed certificate, SSL with a certificate issued from a certificate authority)
+.Change default SNMP community strings and use SNMPv3 if possible.
+Ensure the 
+device
+ can only access the internal network and not the external internet
+(place 
+devices on a non-
+NATed
+ VLAN
+.)To effectively synchronize the 
+MFD™s 
+time, set the NTP server to the following:
+oUCF Time Servers:
+time.ucf.edu (Primary)
+ucf1.ucf.edu (Secondary)
+ucf2.ucf.edu (Tertiary)
+ucf3.ucf.edu (Quaternary)
+Disable all unused wireless communication technologies (
+e.g., 
+Wi-Fi, Bluetoot
+h, infrared,
+etc.)
+Transmit restricted data (refer to the Data Classification Policy
+ 4-008
+) by usi
+ng only
+secure methods such as 
+SMTP
+s, 
+TLS, SSL, SSH, etc. 
+ No 
+E-
+mail
+ (SMTP
+), 
+FTP, HTTP
+,or T
+elnet
+.oUCF IT
+ campus wide 
+SMTP
+ server information:
+Enable SSL to 
+accept
+ all certificates without a Certificate Authority.
+Use TLS.
+SMTP Server Address:  [ucfsmtps1.mail.ucf.edu.
+No 
+authentication.
+Port:  [25.
+Device must use a 10.x.x.x address to utilize SMTPs.
+Disable services, applications, and user accounts that are not being utilized.
+3.Device Data Settings
+Whenever possible, disable the ﬁsave documents, copies, or scans to local device driveﬂ
+(sometimes called ﬁe
+-fileﬂ) settings
+ on the device.  [
+NOTE:  [
+Make e
+very effort
+ not to store
+data on the local MFD regardless of the 
+selected function.
+
+101 Multi
+-Function Device Standards 
+3  [ Whenever possible, set device to delete documents, spooled files, images, and other 
+temporary data using secure 
+overwrite between jobs
+.  [Whenever possible, set the device to mask the file
+ names sent to it for processing.
+  [Use encryption methods to protect data on the drive
+.  [ When the MFD
+ requires
+ maintenance or the 
+college and/or 
+department 
+intends to discard 
+the uni
+t, always cleanse
+/degauss
+ the magnetic media
+. o Always e
+rase and over write
+ all documents
+. o Always erase a
+ny address books on the device
+. o Use software to wipe the drive
+.  [Active@ Kill Disk 
+- http://killdisk.com/
+  [Darik's
+ Boot and Nuke ("DBAN") 
+- http://dban.sourceforge.net/
+  [Eraser 
+- http://sourceforge.net/projects/eraser
+  [Wipe 
+- http://sourceforge.net/projects/wipe/
+ Note:  [If the college and/or department is a customer of UCF Business Services, they have 
+
+the option to use the ﬁToshiba Data Overwrite Kit.ﬂ  [Contact UCF Business Services for 
+more information:  [
+ https://copiers.busserv.ucf.edu/
+  [4. Logs
+  [Enable 
+detailed system logging.
+  [Review
+ audit
+ logs on a regular basis
+.  [All devices must follow the
+ State of Florida Records Retention Schedule
+. 5. Physical Security
+  [MFD should be physically located in an access
+-controlled environment.
+  [Disable users
+™ ability to modify
+ any global configuration settings.
+ 6. Education
+  [Alert employees and students to the risk of making copies
+ off
+-site 
+and provide
+ information 
+regarding
+ the 
+university™s
+ data policies
+ (refer to the Data Classification 
+Policy 4
+-008)
+.  [This is also an opportunity to reinforce the need to protect PII.
+  [Encourage users and employees to follow proper cross
+-shredding disposal procedures for
+ all 
+hard
+-copy 
+documents while adhering to the State of Florida Records Retention 
+Schedule.
+  [Notify the Security Incident Response Team (SIRT) of any incidences
+ that
+ arise.
+  [Contact 
+information provided below.
+  [ 
+101 Multi
+-Function Device Standards 4
+ DEFINITIONS:
+ Audit logs:
+  [A 
+registry that shows the identifier, date, and time that stored data is accessed.
+ Cross shredding
+:  [The process of using a shredder to cut paper both vertically and horizontally to 
+provide more completely destroy
+ed documents.  [
+Data
+:  [
+Numerical or other information represented either in a physical form or in a form suitable 
+for electronic processing or storage.
+ Degaussing
+:  [The process of completely removing information from electronic media so that 
+retrieving the data is impossible.
+ Employees:
+  [Individuals acting on behalf of the university in processing, storing, and retrieving 
+data.  [This includes any paid or volunteer acting on behalf of the university. 
+Encrypted or truncated:  [Data converted to a code or shortened for security purposes. 
+Information Security Office (ISO
+):  [The mission of the Information Security Office is to provide 
+a secure infrastructure that protects the confidentiality, integrity, and availability of inf
+ormation 
+resources.  [To this end, the ISO develops security best practices, coordinates security issues, 
+conducts investigations, and works with Information Technology (IT) and other campus 
+
+departments to minimize security risks and assure compliance with 
+security policies and 
+procedures. 
+Multi
+-Function Device (MFD):  [A
+n office machine that incorporates the functionality of multiple 
+devices in one to provide centralized document management, distribution, or production in a 
+office setting.  [A typical MFD
+ may act as a combination of some or all of the following devices: 
+printer, scanner, photocopier, email, or fax.  [
+Network Address Translation (NAT
+):  [The process of modifying network address information in 
+datagram (IP) packet headers while in transit 
+across a traffic routing device for the purpose of 
+remapping one IP address space into another.  [Antonym:  [Non-NATed, for UCF™s purposes, only 
+
+allows network traffic within the network.  [Non-NATed network traffic cannot be sent outside 
+the UCF network because it is non-
+routable.
+ Network Time Protocol (NTP
+):  [A protocol that allows other servers to download and 
+synchronize to the official network time. 
+Personal Restricted Data
+:  [
+(Also called Personally Identifiable Information or PII)  [P
+ersonal 
+Restri
+cted Data includes personally identifiable information.  [This is any information from which 
+an individual may be uniquely and reliably identified or contacted (e.g.,  [social security number, 
+account relationships, account numbers, account balances, account histories, and passwords). 
+
+101 Multi
+-Function Device Standards 5
+ Virtual LAN (VLAN
+):
+  [A group of hosts with a common set of requirements that communicate 
+as if they were attached to the same broadcast domain, regardless of their physical location.  [A 
+VLAN has the same attributes as a phy
+sical LAN but reconfiguring the network is accomplished 
+through software instead of physically relocating devices. 
+RELATED DOCUMENTS:
+ 2.100.1 Florida Public Records ActŠScope and Compliance 
+policy 
+
+4-008 
+Data Classification and Protection 
+policy
+ 501 Password Standards 
+CONTACTS:
+ UCF IT Support Center 
+(407) 823-5117 
+
+https://ucf.service
+-now.com/ucfit 
+servicedesk@ucf.edu 
+  [Security Incident Response Team (SIRT)
+ https://infosec.ucf.edu/incident-
+response/ 
+sirt@ucf.edu
+ Information Security Office
+ http
+s://
+infosec.ucf.edu  [ 
+infosec@ucf.edu 
+INITIATING OFFICE
+: Information Security Office
+ STANDARDS APPROVAL
+ (For use by the Information Security Office) 
+Standards Number:  [101 
+Initiating Office:  [Information Security Office
+ Chief Information Security Officer:  [
+Chris Vakhordjian  [  [  [  [
+Signature:_______________________________________________  [Date:______________ 
+

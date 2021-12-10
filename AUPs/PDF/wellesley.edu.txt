@@ -1,0 +1,49 @@
+Policy Governing the Acceptable Use of Information Technology Resources 1.0 Overview Wellesley College provides and maintains information technology resources to support its academic programs and administrative operations.
+These resources are provided to all Wellesley College employees, students, and authorized guests.
+Wellesley College seeks to ensure the integrity of information technology resources made available to the community to prevent disruption to academic and administrative needs.
+Purpose This policy is intended to protect the users of Wellesley College information technology resources by ensuring a reliable and secure technology environment that supports the educational mission of Wellesley College.
+The purpose of this policy is to provide guidelines for the appropriate use of information technology resources at Wellesley College and establish sanctions for violations of this policy.
+This policy is not intended to inhibit the culture of intellectual inquiry, discourse and academic freedom.
+Scope This policy applies to all Wellesley College employees, students and any other individual that is granted access to the information technology resources owned, managed, leased or otherwise provided by Wellesley College.
+Definitions Wellesley College employees: for the purpose of this document, includes all faculty, administrative staff, union staff, contract and temporary workers, and hired consultants.
+Information Technology Resources: refers to all computer and communication facilities, services and resources, including but not limited to networking devices, telephony equipment, email services, wireless devices, computers, workstations, servers, and any associated peripherals and software that are owned, managed, maintained, leased or otherwise provided by Wellesley College.
+Policy 4.1 Ownership and Responsibilities Wellesley College owns and maintains the information stored in its information technology resources, and limits access to authorized users.
+Users of information technology resources have a responsibility to properly use and protect these resources, respect the rights and privacy of other users, and behave in a manner consistent with any local, state, and Federal law and regulation, as well as any Wellesley College policy.
+Information technology resources, including Internet bandwidth, are shared among the community, and users will utilize resources with this understanding.
+Users must respect all intellectual property rights, including any licensing agreements, applicable to information and resources made available by Wellesley College to its community.
+See the Copyright Policy for information.
+Any behavior or activity that alters the normal functioning of the information technology resources or negatively impacts their use by any other member of the community is strictly prohibited.
+Wellesley College retains the right to take any reasonable action necessary to protect the integrity and security of its information technology resources, to curtail illegal use of the resources, to ensure the resources are equitably shared, and to protect the rights and privacy of its users.
+Information technology resources are provided to support the work of the college, therefore Wellesley College bears no responsibility for the loss of any non-Wellesley College information stored or located on any system.
+Wellesley College reserves the right to make unannounced changes to the infrastructure or accessibility of any information technology resources in case of system instability or suspicion of possible criminal activity.
+Wellesley College does not systematically monitor communications or files and cannot reasonably be aware of, or responsible for, material which community members may post, send or publish using its network, servers, and other resources including the Web.
+However, Wellesley College is committed to educating the community in the responsible use of information technology resources and will respond as appropriate when notified of violations of this policy.
+This policy has been approved by the President.
+The Chief Information Officer has responsibility for this policy.
+Security Wellesley College seeks to protect the security of its information technology resources and of users accounts, and to prevent unauthorized access by others.
+Users of Wellesley College information technology resources have a responsibility to protect the confidentiality of the information to which they have access.
+Users shall only access information technology resources to which they have authorization, and shall protect the privacy of passwords and accounts to prevent unauthorized access by others.
+Users shall not use Wellesley College resources intentionally to distribute viruses or other items that have a destructive or deceptive nature, and shall not interfere with the use of information technology resources, alter, disable, or circumvent those resources, or use those resources in a manner not authorized by Wellesley College.
+Unauthorized access by any member of the Wellesley College community to any information technology resources will result in disciplinary action, up to and including termination, expulsion and/or legal action.
+See the Wellesley College Password Guidelines for information about secure passwords.
+Privacy Wellesley College strives to protect the privacy of this information, although it cannot guarantee confidentiality.
+Under certain circumstances, it may be necessary to disclose information in response to court orders or other legal action, disciplinary processes, health and safety emergencies or to protect the integrity of information technology resources.
+Wellesley College retains the right to use its discretion in reviewing and disclosing records in order to comply with these requirements.
+Some data is protected by privacy laws.
+Wellesley College seeks to fulfill its legal obligations in protecting any personally identifiable information managed on information technology resources to which any local, state or Federal law applies.
+In addition, Wellesley College seeks to protect any additional confidential or sensitive information at its own discretion.
+See policies cross-referenced at the end of this document for more information.)
+Members of the Wellesley College community must meet the requirements of these and other Federal and state laws concerning privacy, to the extent that the laws apply to records stored and/or managed on Wellesley College information technology resources.
+Prohibited Uses Use of another individual s account or other misrepresentation of one s identity via electronic means is strictly prohibited.
+Users are prohibited from adding, removing or modifying equipment comprising the information technology resources at Wellesley College unless they have been explicitly authorized to make such changes by the Chief Information Officer or his representative.
+Users shall not add, delete or otherwise modify data in Wellesley College information technology resources unless authorized to do
+LTS system administrators facilitate
+authorized access; authorization is determined by the administrative office responsible for the data.
+Users are prohibited from using information technology resources in a manner that is construed by another as hateful, threatening or harassing, or that otherwise might contribute to the creation of a hostile academic or work environment.
+Users of Wellesley College information resources are expressly prohibited from engaging in any political activities that are forbidden by local, state or Federal law or engaging in any personal commercial activity.
+Wellesley College reserves the right to determine other prohibited activities not identified in this document.
+Enforcement Failure to comply with any of the above policies may result in suspension or termination of network services, appropriate disciplinary action, termination in the case of employees or expulsion in the case of students.
+Members of the Wellesley College community that use any information technology resources in the furtherance of activities prohibited by state, local or Federal law, or Wellesley College policy, will be subject to disciplinary and/or legal action.
+Appropriate discipline for any violation will be determined by the head of the relevant constituency group, in consultation with the Chief Information Officer(e.g., the College Provost for faculty violations, the Chief Financial Officer for staff violations, and the Dean of Students for student violations).
+Effective Date This policy is effective 5/9/2011 and will be reviewed at least annually.
+Wellesley College reserves the right to change, modify, or otherwise alter this policy at its sole discretion and at any time as it deems circumstances warrant.

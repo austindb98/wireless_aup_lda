@@ -1,0 +1,54 @@
+Students and employees demonstrating symptoms should complete the Initial Assessment Survey.
+At its discretion, the University reserves the right to restrict or deny the use of its network facilities and capabilities.
+Canvas Office 365 Submit Request Lindenwood Network and Technology Resources The Lindenwood-Guest network is an UNSECURED network and Lindenwood University makes no representations or warranties concerning the availability or security of the guest wireless network, and all use is provided on an as-is basis.
+By using the guest wireless network you agree to defend, indemnify, and hold harmless Lindenwood University for any losses or damages that may result from your use of the guest wireless network.
+Individuals who access to University computer facilities and to the campus-wide communications network assume responsibility for their appropriate use.
+The University expects individuals to be careful, honest, responsible, and civil in the use of the University network, computers and information technology.
+Computer, technology and network facilities are primarily for educational and administrative use.
+These facilities have tangible value.
+Attempts to circumvent accounting/information systems or to use the accounts of others will be treated as forms of attempted theft and prosecuted accordingly.
+Individuals must not attempt to damage or degrade the performance of Lindenwood's computers and/or network and must not disrupt the work of other users.
+Individuals must not attempt to circumvent security systems or to exploit/probe for security holes in any Lindenwood network or system.
+In addition, individuals must not attempt any such activity against other public or private systems accessed through Lindenwood's facilities.
+Individuals assume personal responsibility for the use of their accounts.
+User's must not disclose their passwords or otherwise make Lindenwood's facilities available to unauthorized individuals or groups.
+Moreover the possession or collection of others passwords is prohibited.
+Physical theft, rearrangement, or damage to any University computer, technology, network equipment, facilities, or property is strictly prohibited, and will be prosecuted according to applicable laws and enforcement methods.
+This includes all public computer labs, network equipment, wiring and links.
+Users with personal computers on the Lindenwood network are expected to take reasonable precautions to ensure the security of their systems.
+All computers require a valid, up-to-date virus-scanning program.
+Individuals may be held responsible for any misuse that occur on their systems.
+Users are not permitted to register external domain names that reference systems on the Lindenwood network.
+Using the Lindenwood network for commercial purposes is strictly prohibited.
+Connecting any secondary physical network to the Lindenwood network without authorization is strictly prohibited.
+Providing services or running applications that consume excessive bandwidth on the Lindenwood network is prohibited.
+No Lindenwood system is to be used for any illegal or criminal purpose.
+Users must observe intellectual property rights including in particular copyright laws as they apply to software and electronic forms of information.
+Users are expected to report any evidence of actual suspected violation of this policy to their Residence Director or the Vice President for Information Technology.
+File Sharing software including(but not limited to), Aimster Ares(All versions) BearShare Bitorrent Bulbster Gnutella Hotline Imesh Kazaa(All versions LimeWire Madster Monolito Napster NeoNapster WinMX are prohibited on the Lindenwood University network(including residence halls, apartments, classrooms, public spaces, and faculty/staff offices).
+Because the Lindenwood network and Internet connections are shared by many university services(the University Library, Lindenwood University website, Electronic Mail, etc.
+the Lindenwood Information Technology departments actively monitors network traffic to ensure reliable service for everyone.
+File sharing software can account for a large portion of traffic on our network.
+As such, network traffic shaping may be used to address instances of misuse or policy violation.
+Streaming media(such as streaming video, streaming audio programs, etc.)
+are permitted as they use significantly less bandwidth.
+However, during peak hours, any bandwidth-intensive application may be terminated to ensure continued services to the rest of the university.
+If you have file sharing applications on your computer, you must remove them.
+Simply disabling these applications may not mitigate their effect on the Lindenwood network as these applications share your computer with the entire Internet in the background, generating an enormous amount of traffic.
+If you have any questions, please contact the Information Technology Help Desk at x5100.
+Copyright Compliance As a part of its compliance with federal copyright law, Lindenwood University deploys a procedure to respond to bona fide notices of copyright violation by copyright holders.
+This procedure operates as follows: The Digital Millennium Copyright Agent for the university requests that the Network Operations Center block the Internet Protocol(IP) address alleged by the notice to be in violation of federal law and provide the agent with the identity of the user or party responsible for the computer(responsible party).
+The agent then notifies the user or responsible party of the notice and requests a cease and desist statement.
+Upon receipt of that statement, the agent then requests that the Network Operations Center unblock the IP address.
+Because intentional file sharing of material for which the user does not have the copyright holder's permission is a violation of the University policy, the user shall be reported to the Provosts Office for disciplinary processing.
+In the case where the copyright notice is the result of a computer compromise(electronic activities that cause damage to a computer), or a "hacking," and not the intentional activity of file sharing on the part of the computers user, the agent shall instruct the user to fix the computer or to make an appointment with the Helpdesk(helpdesk@Lindenwood.edu) to have it fixed.
+The agent will request the block be lifted upon receipt of information that the machine has been repaired.
+Obscene or Harassing Electronic Communications Obscene or harassing electronic communication is prohibited, as are messages that target individuals in a threatening manner.
+Individuals who send such communications will be reported to the proper authorities.
+Lindenwood Department of Information Technology reserves the right to monitor any computer activity on a Lindenwood computer or any computer connected to the Lindenwood network.
+Policy Violation Lindenwood Department of Information Technology reserves the right to deny system or network access on a temporary or permanent basis to anyone who violates these rules.
+This includes the ability to terminate processes or connections that threaten system or network security, performance or integrity.
+The network administrator will attempt to notify the user of any such action.
+Contact Info IT Help Desk To submit a request email the help desk.
+Chat with an expert !
+New Chat Thanks for contacting us start a new chat 1890 1891 1892 1893 1894 1895 1896 1897 1898 1899 1900 1901 1902 1903 1904 1905 1906 1907 1908 1909 1910 1911 1912 1913 1914 1915 1916 1917 1918 1919 1920 1921 1922 1923 1924 1925 1926 1927 1928 1929 1930 1931 1932 1933 1934 1935 1936 1937 1938 1939 1940 1941 1942 1943 1944 1945 1946 1947 1948 1949 1950 1951 1952 1953 1954 1955 1956 1957 1958 1959 1960 1961 1962 1963 1964 1965 1966 1967 1968 1969 1970 1971 1972 1973 1974 1975 1976 1977 1978 1979 1980 1981 1982 1983 1984 1985 1986 1987 1988 1989 1990 1991 1992 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036 2037 2038 2039 2040 2041 Today Facebook Pixel Code DO NOT MODIFY End Facebook Pixel Code

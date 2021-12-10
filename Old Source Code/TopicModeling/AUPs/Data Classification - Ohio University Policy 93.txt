@@ -1,0 +1,153 @@
+93.001:  Data Classification
+Status:
+Re-formatted on June 20, 2016
+Approved on September 9, 2013
+Signatures and dates 
+on archival copy
+Effective:
+when approved
+ Initiated by:
+Matthew Dalton
+Director of Information Security
+ Endorsed by:
+Pam Benoit
+Executive Vice President and Provost
+ Approved by:
+Roderick J. McDavis
+President
+ OverviewThis policy establishes that all information assets will be classified according to their confidentiality,
+integrity and availability. 
+This policy sets forth procedures based on those classifications so that the
+university can protect each asset in an appropriate manner.
+This policy is based on federal information processing standards (FIPS) publication 199, "
+Standards for
+Security Categorization of Federal Information and Information Systems
+" and the corresponding NIST
+special publication, 800-53 revision 4, "
+Security and Privacy Controls for Federal Information Systems
+and Organizations
+."Key elements of this policy are the appointment of data stewards and the classification of data elements
+or data assets.
+A.Security objectives
+As part of the university's data classification scheme, data will be classified, in terms of security, as
+B.
+high, medium, or low in three areas:
+Confidentiality
+"Confidentiality" refers to the requirement and need for preserving authorized restrictions on
+information access and disclosure, including means for protecting personal privacy and
+proprietary information. Examples include student social security numbers, which require a high
+level of confidentiality; the contents of university work emails, which require a medium level of
+confidentiality; and the university's "front door" web pages, which require a low level of
+confidentiality.
+1.Integrity
+"Integrity" refers to the necessity of guarding against improper information modification or
+destruction, and includes ensuring information non-repudiation and authenticity. Student grades
+and university financial data are examples of data that requires a high degree of integrity.
+2.Availability
+"Availability" refers to the requirement to ensure timely and reliable access to and use of
+information. Medical information, such as an individual's potential allergic reactions to certain
+drugs, is an example of data that has a requirement for a high degree of availability.
+3.Potential impact
+C.High
+Failure to meet this particular security objective could pose a significant threat to: reputation,
+university mission, intellectual properties, legal compliance, financial health, or life or liberty.
+Information exempted from the "sunshine" laws usually has a high degree of confidentiality.
+Information regarding grades, confidential or proprietary research, health care, or personal
+financial information typically requires a high degree of integrity.
+1.Medium
+Failure to meet this particular security objective could pose a moderate threat to: reputation,
+university mission, intellectual properties, legal compliance, financial health, or life or liberty.
+Typically, items in this classification are subject to release under the "sunshine" laws.
+2.Low
+3.
+Failure to meet this particular security objective could pose little or no threat to: reputation,
+university mission, intellectual properties, legal compliance, financial health, or life or liberty.
+A low degree of confidentiality is typically used for information that is intended for public
+consumption.
+Data stewards
+The data steward is the individual whom the university has identified as being responsible for the
+quality and utility of data elements. A primary duty of the data steward is to ensure that all data for
+which the steward has responsibility is properly rated and classified. 
+The data steward is responsible for
+ensuring that a particular data element remains useful for the university, and that data is made
+available to appropriate parties as defined by role.
+A data steward must be identified for all data elements that have a medium or high potential impact.
+The data steward works with Ohio university to ensure that the right policies, procedures, and operating
+practices are in place to protect the data element.
+D.University information security officer
+The director of information security, fulfilling the role of university information security officer, is tasked
+to coordinate, develop, implement, and maintain an organization-wide information security program.
+This includes responsibility for the overall information risk posture of the university, and ensuring that
+the security objectives listed in this policy are adequately addressed.
+E.Procedures for levels of data
+All institutional data shall be rated according its criticality in the dimensions of confidentiality, integrity,
+and availability. These ratings will occur over time, starting with those data elements that pose the
+greatest risk to the university, or that have the greatest compliance requirements.
+A list of data elements with their corresponding data classification ranking will be generated by the
+information security office through collaboration with university parties, including at a minimum the
+listed reviewers of this policy, and approved by the Ohio university president and executive staff. 
+Those
+officially classified data sets and guidance for the different levels of data, including notation and
+suggested methods of protection will be included at 
+https://www.ohio.edu/oit/security/consulting-
+standards/classifying-sensitive-data
+.The following policies apply to data elements at these particular levels. 
+If a particular data element has
+a combination of ratings, the highest rating will take precedence. 
+Failure to adhere to the following shall
+also be considered to be a violation of policy 
+91.003 and may result in disciplinary action.
+F.High
+User roles or systems handling data with a high classification shall be reviewed and approved by
+the appropriate data steward, information security office, and chief information officer on an
+annual basis with appropriate input from interested parties throughout the university. Those
+systems and business processes surrounding the data elements shall be reviewed prior to being
+put into production, or containing sensitive information, and thereafter on an annual basis, by
+1.
+ReviewersProposed revisions of this policy should be reviewed by:
+1. Chief Information Officer
+2. Information Assurance and Privacy Advisory Group
+3. DeansForms, References, and History
+the information security office, to ensure that security controls are adequate.
+Medium
+User roles or systems handling data with a medium classification shall be reviewed and
+maintained by the information security office, appropriate data steward, and supervisor or
+department head as appropriate. Those systems and business processes surrounding the data
+elements shall be reviewed on a periodic, sequential basis by the information security office, to
+ensure that security controls are adequate.
+2.Low
+User roles or systems handling data with a low classification shall be reviewed and maintained by
+the appropriate supervisor or department head as appropriate. Guidelines for best practices in
+handling this classification of data will be provided by the information security office upon
+request. A security review of systems with a low security rating will be done by the information
+security office at the request of the department as time and resources allow.
+3.Forms
+There are no forms that are specific to this policy.
+1.ReferencesThe following items are relevant to this policy:
+2.FIPS Publication 199, 
+Standards for Security Categorization of Federal Information and
+Information Systems
+.a.
+Administrative Policy Manual
+ Andrea Swart revised this page 
+(https://www.ohio.edu/policy/93-001.html)
+ on March 22, 2017.
+policy@ohio.edu
+Ohio University   |   Athens, OH 45701   |   740.593.1000
+Copyright © 2017 
+Ohio University
+.   All rights reserved.
+NIST special publication 800-53 revision 4, 
+Security and Privacy Controls for Federal
+Information Systems and Organizations
+.b.https://www.ohio.edu/oit/security/consulting-standards/classifying-sensitive-data
+.c.Policy 
+91.003, "Computer and Network Use."
+d.History
+Draft versions of this policy that were circulated for review, their cover memos, their forms, and
+Reviewers' comments on them are available on the password-protected Review site, at
+https://www.ohio.edu/policy2/93-001/
+.Prior versions of this policy were approved on:
+3.June 20, 2016 (re-formatted)
+a.September 9, 2013
+b.

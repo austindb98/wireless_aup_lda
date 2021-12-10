@@ -1,0 +1,428 @@
+1
+ 
+ 
+IDAHO STATE UNIVERSITY 
+POLICIES AND PROCEDURES
+ 
+(ISUPP)
+ 
+Information Technology Services 
+Acceptable Use
+ 
+ISUPP 2400
+ 
+ 
+ 
+POLICY INFORMATION
+ 
+Policy Section: 
+Information Technology Services
+ 
+Policy Title: 
+Information Technology Services Acceptable Use 
+Responsible Executive (RE): 
+Chief Information Officer 
+Sponsoring Organization (SO): 
+Information Technology Services 
+Dates: Effective Date
+: 
+March 
+28
+, 20
+16
+ 
+Revised: 
+ 
+August 15, 2018 
+ 
+ 
+(prev.: 
+5
+-
+4
+-
+1
+8
+)
+ 
+Annual Review: 
+August 15, 20
+19
+ 
+ 
+I.
+ 
+INTRODUCTION
+ 
+It is the objective of Idaho State University (ISU or University) to establish rules for 
+the acceptable use of information and assets associated with information processing.
+ 
+II.
+ 
+POLICY
+ 
+STATEMENT
+ 
+ISU will ensure 
+the confidentiality, integrity, and availability of its IT System while 
+supporting academic freedom and general access for the campus community.
+ 
+III.
+ 
+AUTHORITY AND
+ 
+RESPONSIBILITIES
+ 
+All members of the ISU community, including students, faculty, staff, retirees, 
+alumni, volunteers, contractors, and visitors are responsible for protecting 
+Information and the IT System.
+ 
+The Information Technology Services department is charged with seeing that all 
+procedures are followed and for taking corrective action when Informa
+tion and/or the 
+IT System is or may be compromised.
+ 
+IV.
+ 
+DEFINITIONS
+ 
+A.
+ 
+Information 
+-
+ 
+An electronic data set that is considered valuable to an organization. 
+Information is classified in the 
+Information Technology Services Asset 
+Management ISUPP
+ 
+2430
+.
+ 
+B.
+ 
+Information S
+ecurity Manager 
+-
+ 
+The ISU employee that is responsible for
+ 
+leading 
+information security activities at
+ 
+ISU.
+ 
+C.
+ 
+IT System 
+
+ 
+
+equipment and infrastructure, data storage devices, and the electronic inform
+ation 
+stored, processed, or transmitted via these components (including electronic
+ 
+mail).
+ 
+D.
+ 
+Workforce or Workforce Member 
+
+ 
+Faculty, staff, contractors, and volunteers
+ 
+at 
+ISU. Excludes students, unless they are performing a specific work function 
+similar to 
+faculty or
+ 
+staff.
+ 
+ 
+V.
+ 
+PROCEDURES TO
+ 
+IMPLEMENT
+ 
+
+2
+ 
+ 
+A.
+ 
+General
+ 
+Use
+ 
+1.
+ 
+
+mission including, but not limited
+ 
+to:
+ 
+a.
+ 
+Instruction (including classroom
+ 
+support);
+ 
+b.
+ 
+Research and creative
+ 
+activities;
+ 
+c.
+ 
+Administration;
+ 
+d.
+ 
+Healthcare;
+ 
+e.
+ 
+Personal use that neither conflicts with state requirements nor impedes
+ 
+the 
+previous four (4)
+ 
+uses.
+ 
+2.
+ 
+Individuals will utilize the IT System primarily for completion of job or 
+academic 
+responsibilities, with occasional personal use allowed, provided that 
+it does not interfere with normal job or academic activities, involve illegal 
+content, create unnecessary legal risk, interfere with the work of other users of 
+
+ 
+in unreimbursed costs to
+ 
+ISU.
+ 
+3.
+ 
+Individuals will not share their username or password nor allow others to use 
+their
+ 
+accounts.
+ 
+4.
+ 
+
+to damage systems or information, to obtain access 
+to resources beyond those 
+they have been authorized to obtain, or to take resources away from other 
+individuals.
+ 
+5.
+ 
+Individuals will not test or attempt to compromise internal controls unless this 
+activity is specifically approved in advance, and in writing, 
+by the
+ 
+Information 
+Security
+ 
+Manager.
+ 
+6.
+ 
+
+commercial actions including, but not limited to, running a business
+ 
+or 
+running advertisements of
+ 
+businesses.
+ 
+7.
+ 
+Individuals will not request, view, di
+stribute or store obscene or pornographic 
+material unless the respective Vice President approves in writing and such use 
+is specifically related to an academic discipline or grant/research project. 
+Workforce Members who become aware of potential violations
+ 
+involving 
+obscene or pornographic material must report it to the manager of their 
+administrative or academic unit immediately. Incidents that may involve the 
+administrative or academic manager should be reported to the appropriate 
+Vice President or the Ch
+ief Information Officer. Willful failure to report such 
+a potential violation (see: 
+ISUPP 2490
+) may result in sanctions (see: 
+ISUPP 
+2460
+).
+ 
+8.
+ 
+Users may not knowingly or willfully create or propagate any virus, worm, 
+Trojan or other destructive program
+ 
+code.
+ 
+9.
+ 
+All opinions, advice, services, and other information expressed using ISU's 
+IT 
+System resources must be clearly presented as those of the individual and not 
+representing the views or position of ISU unless acting in an official capacity, 
+within the limits 
+
+System for political lobbying; however, subject to item 2. above, individuals 
+may use the system to communicate with elected representatives and to 
+express their opinion on political
+ 
+issues.
+ 
+B.
+ 
+Copyrig
+hted
+ 
+Material
+ 
+
+3
+ 
+ 
+1.
+ 
+Individuals will not use ISU's IT System to perform activities that illegally 
+infringe on copyrighted
+ 
+material.
+ 
+2.
+ 
+
+used. Software will not be installed 
+
+
+
+ 
+use.
+ 
+C.
+ 
+Acceptable Use
+ 
+Agreement
+ 
+1.
+ 
+
+ 
+abide by ethical 
+and legal standards at all times, be responsible for their own behavior, and 
+
+asked to will acknowledge their agreement to this expectation on an annual 
+basis. O
+ther authorized users will be asked to acknowledge their agreement 
+before being granted access (see attached 
+Acceptable Use
+ 
+Agreement
+).
+ 
+ 
+VII.
+ 
+REFERENCES
+ 
+Information Technology Services Electronic Messaging ISUPP 2470
+ 
+ 
+VIII.
+ 
+ATTACHMENTS
+ 
+Acceptable Use Agreement
+ 
+ 
+ 
+
+4
+ 
+ 
+ 
+ 
+Acceptable Use Agreement
+ 
+
+software, data transmission equipment and infrastructure; data storage devices; and the electronic 
+information stored, p
+
+IT System) I agree to abide by the following guiding principles:
+ 
+Confidentiality
+ 
+I agree to maintain confidential access to all ISU IT System resources to which I am given access
+, 
+and to accept full responsibility for any activity performed via my ISU IT System account.
+ 
+All ISU IT System accounts are non
+-
+transferable and each individual must obtain separate and unique 
+access. Passwords must be changed from the originally assigned 
+password and remain private, unknown 
+to all others.
+ 
+Integrity
+ 
+
+
+ 
+Legitimate use of a
+n ISU IT System account does not extend to whatever I am capable of doing with it. 
+Although some rules are built into the system itself, these restrictions cannot limit completely what I can 
+do and can see. In any event, I am responsible for my actions whe
+ther or not rules are built in, and 
+whether or not I can circumvent them. Misuse includes (but is not limited to): unauthorized access to or 
+
+use of anoth
+er individual's program(s) or file(s); and knowingly attempting to circumvent established 
+security policies and procedures.
+ 
+Availability
+ 
+I will take reasonable care of all ISU IT System resources to which I am granted access to protect 
+the resources from 
+unnecessary wear or abuse.
+ 
+
+manner as to not interfere with the work of other individuals.
+ 
+Copyrighted Material
+ 
+I will not download, share and/or 
+distribute copyrighted materials without the permission of the 
+copyright holder.
+ 
+Idaho State University does not own much of the computer software in use on campus. Instead, the 
+University obtains licenses for the use of computer software from a variety of
+ 
+outside sources. Neither 
+faculty nor staff has the right to reproduce it unless authorized.
+ 
+Policies and Procedures
+ 
+Terms of acceptable behavior found in the Information Technology Policies also apply. Any violation of 
+acceptable behavior as defined in th
+ese policies and procedures may also be considered a violation of this 
+agreement.
+ 
+ 
+
+healthcare, or authorized personal use activities. I further acknowledge that a
+ny abuse of this 
+agreement may result in the loss of my computer privileges, suspension and/or dismissal.
+ 
+

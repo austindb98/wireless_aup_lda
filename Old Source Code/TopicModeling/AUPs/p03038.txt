@@ -1,0 +1,562 @@
+ 
+MANUAL OF UNIVERSITY POLICIES
+ 
+PROCEDURES AND GUIDELINES
+ 
+Number:
+ 
+3
+-
+38
+ 
+Page 
+1
+ 
+of
+ 
+4
+ 
+ 
+ 
+ 
+Authority:
+ 
+George E. Ross, President
+ 
+History:
+ 
+2014
+-
+10
+-
+01
+ 
+ 
+ 
+Indexed as:
+ 
+Web Policy; CMU Web Sites; Affiliated Web Sites; Personal Web Sites
+ 
+ 
+Title/Subject:
+ 
+WEB POLICY
+ 
+ 
+ 
+Applies to:
+ 
+ 
+faculty
+ 
+ 
+staff
+ 
+ 
+students
+ 
+ 
+student employees
+ 
+ 
+visitors
+ 
+ 
+contractors
+ 
+Effective Date of This Revision:
+ 
+July 1, 2018
+ 
+ 
+ 
+Contact for More Information:
+ 
+Office 
+of Information Technology
+ 
+ 
+ 
+ 
+Board Policy
+ 
+ 
+Administrative Policy
+ 
+ 
+Procedure
+ 
+ 
+Guideline
+ 
+ 
+BACKGROUND
+:
+ 
+ 
+Central 
+Michigan University (CMU)
+ 
+is a large and comprehensive higher education organization that serves multiple unique 
+populations locally, regionally, nationally, and internationally.  Our websites support an increasing amount of academic 
+activity and are our m
+ost vital tool for communications and business operations both internal and external to CMU.  Our 
+various audiences and constituencies rely heavily on our website to communicate, manage operations, and make decisions 
+that directly impact students, employee
+s, and other constituents of CMU.  
+ 
+ 
+ 
+DEFINITIONS:
+ 
+ 
+A.
+ 
+Controls are protections or safeguards implemented to protect data.  Controls can be administrative, physical, and 
+technical in nature, simple or complicated, and are often implemented in combinations or 
+layers to protect data from 
+simultaneous and ongoing threats.
+ 
+ 
+WEBSITES SUBJECT TO THIS POLICY:
+ 
+ 
+All CMU websites are subject to this policy and will be classified as either Official Sites or Affiliated Sites as described 
+below.
+ 
+ 
+OFFICIAL SITES:
+ 
+ 
+
+ 
+Official Sites include those that are sponsored, endorsed or created on authority of the university or any of its 
+departments or administrative units.  These include the 
+CMU home page
+; 
+CentralLink
+; academic department and 
+program pages; research and academic center pages; office, administrative, and support unit pages. Official Sites 
+must be housed in the content management system hosted by OIT for this purpose. All unive
+rsity departments and 
+
+ 
+
+ 
+Each unit must use approved templates and must also adhere to the standards described in the 
+CMU Web Style 
+Guide
+.  Revisions to existing templates can be requested through the OIT Help Desk.
+ 
+
+ 
+Units that publish information on an Official Site are responsible for ensuring the c
+urrency, factual accuracy, and 
+editorial quality of all information presented on the site. 
+ 
+
+ 
+Units hosting Official Sites through which they wish to conduct commercial activity, including receipt of online 
+credit card payments, must receive authorization fr
+om the Associate Vice President of Financial Services and 
+Reporting. 
+ 
+
+ 
+
+
+
+address or linking to such a site within an Official Site is not allowed.
+ 
+
+ 
+CMU provides an online blogging platform for CMU faculty, staff, students, and offices who wish to have a CMU
+-
+hosted place to provide more infor
+mal or conversational information to the community. This blog space is not for 
+
+ 
+MANUAL OF UNIVERSITY POLICIES
+ 
+PROCEDURES AND GUIDELINES
+ 
+Number:
+ 
+3
+-
+38
+ 
+Page 
+2
+ 
+of
+ 
+4
+ 
+ 
+ 
+ 
+ 
+Title/Subject:
+ 
+WEB POLICY
+ 
+ 
+ 
+ 
+Authority:
+ 
+George E. Ross, President
+ 
+History:
+ 
+2014
+-
+10
+-
+01
+ 
+ 
+ 
+Indexed as:
+ 
+Web Policy; CMU Web Sites; Affiliated Web Sites; Personal Web Sites
+ 
+
+must use the provided, CMU
+-
+
+
+standards. Departments utilizing these sites are still required to maintain an official site on cmich.edu. All sites in 
+this space must be sponsored by a faculty or staff member who will be responsible for keeping the blog c
+ontent 
+appropriate and current.
+ 
+ 
+CONTRACTED SITES:
+ 
+ 
+
+ 
+Contracted sites and applications include online services and other websites that are sponsored, endorsed or 
+created on authority of the university or any of its departments or administrative units but ar
+e not hosted in 
+
+  
+Contracting of these sites must follow established OIT and Purchasing 
+standards and procedures.
+ 
+
+ 
+Contracted sites and applications must adhere to the standards described in the CMU Web Style Guide to the 
+ext
+ent possible.  Any exceptions or deviations from the Web Style Guide must be approved in advance by the 
+Office of Information Technology and University Communications.
+ 
+
+ 
+Contracted sites and applications must adhere to federal accessibility requirements like
+ 
+all other CMU sites 
+
+ 
+
+Product Accessibility Template) or similar document with OIT through the process of contracting.  In the event 
+that the vendor
+ 
+does not make a VPAT or similar document available, units should understand that they may be 
+required to provide suitable accommodation for those users of the Contracted Site with documented disabilities.
+ 
+
+ 
+Units that publish information on a Contracted Sit
+e or application are responsible for ensuring the currency, 
+factual accuracy, and editorial quality of all information presented on the site.  
+ 
+ 
+AFFILIATED SITES:
+ 
+ 
+
+ 
+Affiliated Sites are those that are voluntarily created by individual or small groups of uni
+versity faculty and 
+
+pages created by students in fulfillment of course requirements, sites created by faculty for academic or research 
+purposes,
+ 
+and conference sites hosted at CMU on a periodic basis.  Affiliated Sites need not share the templates 
+provided for or be housed in the same systems as Official Sites.  
+ 
+
+ 
+
+the following information 
+about Affiliated Sites: "Central Michigan University respects the diversity of values and opinions held by 
+members of its community. 
+ 
+The views expressed on this page are those of the author and not necessarily those 
+of Central Mi
+chigan University or its officers and trustees. The content of this page has not been reviewed or 
+approved by Central Michigan University, and the author is solely responsible for its content."
+ 
+
+ 
+Central Michigan University will not undertake to approve or r
+eview the content of Affiliated Sites. However, 
+sites discovered in violation of this policy are subject to immediate removal from university web space.
+ 
+
+ 
+
+Solicitations and Fundraising Policy
+, 
+Affiliated Sites may not be used for 
+commercial purposes or for personal financial gain or benefit. Central Michigan University 
+is not responsible 
+for any liability resulting from any such activities prior to their discovery and appropriate remedy.
+ 
+
+ 
+An owner of an Affiliated Site is responsible for making arrangements for the removal or maintenance of that 
+site once his/her employme
+nt and/or academic relationship with Central Michigan University has ended, such as 
+when an individual leaves university employment or a student graduates or is otherwise no longer enrolled at 
+CMU. In the absence of such arrangements, CMU reserves the righ
+t to remove Affiliated Sites authored by an 
+individual and/or group who/that no longer maintains an employment and/or academic relationship with CMU 
+as part of its routine maintenance of university servers and web space. 
+ 
+
+ 
+Faculty and staff wishing to estab
+lish social media channels in relationship to their activities at Central 
+
+Social Media Guidelines
+.
+ 
+
+ 
+MANUAL OF UNIVERSITY POLICIES
+ 
+PROCEDURES AND GUIDELINES
+ 
+Number:
+ 
+3
+-
+38
+ 
+Page 
+3
+ 
+of
+ 
+4
+ 
+ 
+ 
+ 
+ 
+Title/Subject:
+ 
+WEB POLICY
+ 
+ 
+ 
+ 
+Authority:
+ 
+George E. Ross, President
+ 
+History:
+ 
+2014
+-
+10
+-
+01
+ 
+ 
+ 
+Indexed as:
+ 
+Web Policy; CMU Web Sites; Affiliated Web Sites; Personal Web Sites
+ 
+
+ 
+
+
+d
+irectly at an IP address or linking to such a site within an Official Site is not allowed.
+ 
+ 
+PERSONAL SITES:
+ 
+ 
+CMU respects the rights of its students, faculty, and staff to create personal web pages outside CMU web space (ex. 
+www.<studentname>.com).  Becaus
+
+web presence and must not be housed on CMU owned or contracted servers.  Use of the CMU logo or branding icons, 
+inclusion of CMU intellectual property, and use of URLs th
+at suggest CMU ownership are inappropriate on personal web
+ 
+pages.  CMU departments may link to personal web pages at their discretion.  In such cases, the links should be identified as
+ 
+
+d open in a new window. 
+ 
+ACCESSIBILITY:
+ 
+ 
+CMU is federally mandated to maintain websites that meet the accessibility requirements defined in Section 508 of the 
+Rehabilitation Act of 1973.  Because these requirements are subject to change, Site Owners should consult the 
+CMU Web 
+Style Guide
+ 
+and the links contained within it if they have questions about the compliance of their websites. Concerns related 
+to compliance with this sectio
+n of this policy may be directed to CMU Student Disability Services Office 
+(
+https://www.cmich.edu/ess/studentaffairs/SDS/Pages/default.aspx
+
+ator 
+(
+https://cmich.teamdynamix.com/TDClient/Requests/ServiceDet?ID=18129
+, CMU Office of Information Technology, Park 
+Library 101, 989.774.3668); or to the CMU Accessibilit
+y and Disability Advisory Council 
+(
+https://www.cmich.edu/colleges/chsbs/About/ADAC/Pages/default.aspx)
+.
+ 
+ADVERTISING:
+ 
+ 
+Consistent with all appropriate university
+ 
+policies, u
+niversity sites may not contain advertising for non
+-
+university functions or 
+commercial enterprises without advance approval by University Communications.  
+Links to commercial entities from 
+university websites are allowed provided these entities are related
+ 
+to the university's missions of research, teaching, and 
+service and the presence of the link does not imply endorsement of the entity by the university.
+ 
+ 
+CONTENT AND COPYRIGHT:
+ 
+ 
+University departments, schools, facilities, organizations, and individuals are responsible for the currency, legitimacy, 
+
+subject to intel
+lectual property law. Violations of this law should be reported to the Office of Information Technology Help 
+Desk at 
+helpdesk@cmich.edu
+.  See the 
+C
+MU Copyright Site
+ 
+for more information.
+ 
+ 
+OVERSIGHT:
+ 
+ 
+
+Technology Planning Council (TPC)
+, University 
+Communications, and the Office of Information Technology.
+ 
+Violations of the web 
+policy will be made known to the CMU 
+Web Team
+ 
+for resolution. Sites found to be noncompliant with this or other university policies will be rem
+oved from 
+university web space. The Web Team meets regularly
+ 
+and can be contacted through the Office of Informati
+on Technology 
+Help Desk at
+ 
+helpdesk@cmich.edu
+.
+ 
+ 
+RELATED POLICIES AND RESOURCES:
+ 
+ 
+In addition to compliance with this policy, all CMU Official and Affiliated Sites must be in compliance with applicable 
+federal and 
+state laws (including, but not limited to the law of copyright), and consistent with the policies of CMU.
+ 
+
+ 
+CMU Advocacy Policy
+ 
+
+ 
+MANUAL OF UNIVERSITY POLICIES
+ 
+PROCEDURES AND GUIDELINES
+ 
+Number:
+ 
+3
+-
+38
+ 
+Page 
+4
+ 
+of
+ 
+4
+ 
+ 
+ 
+ 
+ 
+Title/Subject:
+ 
+WEB POLICY
+ 
+ 
+ 
+ 
+Authority:
+ 
+George E. Ross, President
+ 
+History:
+ 
+2014
+-
+10
+-
+01
+ 
+ 
+ 
+Indexed as:
+ 
+Web Policy; CMU Web Sites; Affiliated Web Sites; Personal Web Sites
+ 
+
+ 
+CMU Solicitations and Fundraising Policy
+ 
+ 
+ 
+Central Michigan University reserves the right to make exceptions to, modify or eliminate 
+this policy and or its content.  This document supersedes all previou
+s policies, procedures 
+or guidelines relative to this subject.
+ 
+ 
+ 
+

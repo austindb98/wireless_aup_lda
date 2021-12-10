@@ -1,0 +1,36 @@
+Walk-In Centers McGinley 229 | RH Lowenstein SL19A | LC Tel: 718-817-3999 Email: HelpIT@fordham.edu @Fordham IT rel:snippet googleon: index googleoff: all Home Network Access Control(NAC) Acceptable Use Policy googleon: all Network Access Control(NAC) Acceptable Use Policy Version 1.0.1 All computers connected to Fordham University s wireless network must have installed adequate and approved software to ensure a secure environment.
+Fordham IT will ensure compliance with this policy and will assist users in maintaining their computers in the manner prescribed.
+Software needed to ensure a secure environment will include: Fordham University approved antivirus software.
+Bitdefender is available for free to all in the Fordham community.
+The most current software for your operating system(s) and applications.
+Software to ensure that copyrighted files are not freely shared over the Internet.
+Other software deemed appropriate by the University to ensure a safe and secure Internet and Intranet.
+Please note the following regarding the use of Fordham University s wireless network: Bandwidth consumption is monitored to prevent abuse of network resources.
+Excessive or sustained bandwidth consumption may burden the network and such usage may be restricted.
+The primary purpose of the wireless network is to support the University s academic mission.
+The following activities are prohibited without the expressed written consent of Fordham IT: Setting up a router and building a private subnet Setting up any type of information server such as web, email, game, print, FTP, etc.
+Propagating email chain letters Allowing unauthorized people access to the network Using the network for personal financial gain Copying University-owned or licensed information to another computer Sharing copyrighted files and/or software over the network Modifying or attempting to modify University-owned or licensed information including software and/or data Attempting to damage or disrupt network services Using the network or related resources in the commission of a crime Using traffic-intensive applications that may cause problems within the network or diluting the level of service to other users The user of wireless networks must abide by the Acceptable Use of IT Infrastructure and Resources.
+Any violation of this policy may result in revocation of network access, possible disciplinary charges per the applicable handbook, judicial action and/or criminal charges.
+1/10/2018 Initial document 1.0.1 01/16/2020 Reviewed, minor update googleoff: index New York is my campus.
+Fordham is my school.
+TM Contact Us Maps and Directions Nondiscrimination Policy Privacy Policy 2021 Fordham University googleon: index Close Button Logo Tag Close Button Fordham Privacy Preference Center When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies.
+This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it
+The information does not usually directly identify you, but it can give you a more personalized web experience.
+Because Fordham University respects your right to privacy, you can choose not to allow some types of cookies while using our website.
+Click on the different category headings to find out more and change your default settings.
+Pleas note blocking some types of cookies may impact your experience of the Fordham site and the services we are able to offer.
+Fordham Privacy Policy Allow All Manage Consent Preferences Accordion header Strictly Necessary Cookies Always Active accordion detail These cookies are necessary for the Fordham website to function properly and cannot be switched off in our systems.
+They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms.
+You can set your browser to block or alert you about these cookies, but some parts of the site will not then work.
+These cookies do not store any personally identifiable information.
+Accordion header Performance Cookies Performance Cookies accordion detail These cookies allow Fordham University to count visits and traffic sources so we can measure and improve the performance of our site.
+They help the university to know which pages are the most and least popular and see how visitors move around the site.
+All information these cookies collect is aggregated and therefore anonymous.
+If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+Accordion header Functional Cookies Functional Cookies accordion detail These cookies enable the Fordham website to provide enhanced functionality and personalization.
+They may be set by the university or by third party providers whose services we have added to our website.
+If you do not allow these cookies then some or all of these services may not function properly.
+Accordion header Targeting Cookies Targeting Cookies accordion detail These cookies may be set through the Fordham University site by our advertising partners.
+They may be used by those organizations to build a profile of your interests and show you relevant advertisements on other sites.
+They do not store personal information, but are based on uniquely identifying your browser and Internet device.
+If you do not allow these cookies, you will experience less targeted advertising.

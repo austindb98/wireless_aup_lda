@@ -1,0 +1,368 @@
+Home
+ : Responsible Use Policy - Overview and Summary
+QUICKREFERENCESNews and Resources
+Free Antivirus Software
+Cal Poly Policies and
+Standards
+Responsible Use Policy
+Information Security
+Forms
+Copyright Compliance
+CSU Policies
+SANS Security
+SANS Security
+Awareness Tip of
+Awareness Tip of
+the Daythe DayTwo-Step Veri
+!cation 
+NOV 13, 2018Cloud Security 
+NOV 8, 2018Phone Call Attacks 
+NOV 7, 2018Email and Emotions NOV 5, 2018When Away 
+OCT 31, 2018See All Articles
+!MAPS!MAPSInformation Security
+"MENU"MENU#SEARCH#SEARCH
+US CE!
+T Current
+US CE!
+T Current
+Activity
+Activity
+Holiday Scams and
+Malware Campaigns NOV 19, 2018Google Releases
+Security Updates for
+Chrome NOV 19, 2018Cybersecurity and
+InfrastructureSecurity Agency 
+NOV 19, 2018Microso" Releases
+November 2018
+Security Updates 
+NOV 13, 2018Adobe Releases
+Security Updates 
+NOV 13, 2018See All Articles
+Responsible Use Policy - Overview and Summary
+Introduction
+Preface
+Applicability
+Rights and Responsibilities
+Existing Legal Context
+Critical Issues That Impact the Conduct of Users with Respect to IT Resources
+Compliance and Enforcement
+Reporting Irresponsible or Inappropriate Use
+Some Examples of Misuse
+Implementation
+Policy Development History
+
+Introduction
+A polytechnic university must excel in helping its users understand and conduct their teaching,
+learning and administrative e
+!
+orts so as to be leaders in the responsible uses of such powerful
+and increasingly pervasive technologies.  Cal Poly has established, posted and communicated a
+detailed 
+Responsible Use Policy (RUP)
+ outlining the respective responsibilities and required
+actions by members of the campus community regarding responsible use of the UniversityÕs
+information technology (IT) resources. 
+The intent is to be clear and current in identifying the critical issues that impact the use of these
+resources and to o
+!
+er speci
+"
+c policy and procedural guidance that expands understanding of
+campus requirements while encouraging compliance. The full policy describes the legal and policy
+requirements with which the University must comply in order to function e
+!
+ectively in todayÕs
+complex information rich teaching and learning environment, providing de
+"
+nitions, examples and
+context where appropriate.
+This document summarizes the key policy requirements and includes a brief overview of its
+guidelines to encourage users to understand how and why they should wisely and e
+#
+ciently use
+campus IT resources and become aware of the important laws and practices in place to ensure
+they comply with the policy and its requirements.  While this summary provides a good starting
+point, each user is responsible for being fully aware of the RUP and its implications to personal
+conduct. Please take time as soon as possible to 
+read and review the RUP in its entirety
+.  For more
+information, contact 
+it-policy@calpoly.edu
+The Information Services O
+#
+ce of the CIO will continue to solicit user feedback to insure that the
+policy is clear, well understood and communicated, and kept current to the issues and factors
+that underlie the role and uses of IT throughout the University.
+PrefaceAs a public institution of higher education, Cal Poly is committed to fostering an educational
+climate in which students, faculty and sta
+!
+ can approach their respective roles with a sense of
+high purpose and in which they may study and work free from harassment and intimidation.
+The  RUP recognizes that personal viewing or transmittal of potentially o
+!
+ensive digital materials
+(for example, sexually explicit materials) may result in excessive use of campus computer and
+network resources inconsistent with professional responsibilities and ethical standards. Such
+practices may also result in educational and work environments that are hostile or are perceived
+to be hostile.
+In consequence, all members of the campus community are advised that the University does not
+
+condone and will not tolerate any such actions that are proven to constitute excessive use, to
+create a hostile work environment, or to have the e
+!
+ect of harassing or intimidating members of
+the campus community. In addition, any viewing or transmitting of illegal materials (for example,
+child pornography or obscene materials) is explicitly prohibited.
+The University also emphasizes that its policies are not aimed to impair free expression and open
+inquiry or unduly to restrict access to any lawful digital materials by those who would do so within
+the guidelines of the RUP.
+Applicability
+The RUP applies to all users and all IT resources provided by the University and its direct a
+#
+liated
+partners in support of Cal PolyÕs core academic mission and to enable users to access,
+communicate, store, retrieve, and transmit messages, digital 
+"
+les, and images.  The RUP also
+relates to the impact and consequences such actions of individuals or groups may have on the IT
+infrastructure and identi
+"
+es suitable conduct where such conduct is known or described as part
+of law or acceptable practice.
+Additional use policies and terms and conditions may be in place for speci
+"
+c resources provided
+by Information Technology Services (ITS) or other Cal Poly units.  Users must become familiar with
+any policies when agreeing to use IT resources provided by or on behalf of the Cal Poly. 
+Commercial IT services also require compliance with their use policies and users should be aware
+of them as well to the extent they could be di
+!
+erent and in some cases more restrictive.
+Rights and Responsibilities
+Computers and networks can provide access to resources on and o
+!
+ campus, as well as the
+ability to communicate with other users worldwide.  Such open access is a privilege, in much the
+same way as a driverÕs license is granted and requires that the individual user know what is
+expected of them and that they act responsibly.
+The principal concern of the RUP is the e
+!
+ective and e
+#
+cient use of IT resources to insure that
+the resources are used in a manner that does not impair or impede the use of these resources by
+others in their pursuit of the mission of the University.  Users must respect the rights of other
+users, respect the integrity of the systems and related virtual and physical resources, and observe
+all relevant laws, regulations, and contractual obligations.
+Users are responsible for staying informed of applicable laws and regulations governing the use
+of IT resources and, when unsure, to seek advice and guidance from the full RUP as posted and
+issued and from the appropriate University o
+#
+cials assigned to advise on such matters.
+
+Existing Legal Context
+All existing laws (federal and state) and University regulations and policies apply, including not
+only those laws and regulations that are speci
+"
+c to computers and networks, but also those that
+apply generally to personal conduct.
+Critical issues that impact the conduct of users with respect to IT
+resourcesIT resources are provided to support the UniversityÕs core mission of education, research and
+service and such use has priority over all other uses.
+Electronic mail and computer 
+"
+les are considered private to the full extent of the law.
+The scrutiny of content will not be the normal practice of o
+#
+cials in determining how IT
+resources are used; however, the University will act on alleged violations that concern
+content or speci
+"
+c uses and will investigate such claims as appropriate.
+The University reserves the right to limit access and to use appropriate means to safeguard
+its resources, preserve network/system integrity and ensure continued service delivery at all
+times, including routine monitoring of IT resources.
+All members of the University are responsible for ensuring that their handling of information
+about individuals is consistent with university policies and federal/state laws on the privacy
+of such information.
+Certain activities will not be considered misuse when clearly authorized by appropriate
+university o
+#
+cials for designated educational or administrative purposes, including security
+or performance testing, provided they do not interfere with other uses of campus resources.
+Responsible use will be given priority over the current or potential design, capability or
+functionality of speci
+"
+c technologies and resources.
+Access to IT resources implies a degree of risk that users may encounter Òo
+!
+ensiveÓ
+materials.  As a matter of policy, the University protects expression by members of its
+community. However, in exceptional cases, such materials may present a hostile
+environment under the law and warrant certain restrictive actions.
+The impact of a single user or group of users (e.g., residence halls) on campus IT resources
+will be of direct interest and primary concern in determining how the RUP is applied.
+Compliance and Enforcement
+Users may be held accountable for their conduct under any applicable University policies,
+procedures, or collective bargaining agreements.  Enforcement will be based upon receipt of one
+or more formal complaints about a speci
+"
+c incident or through discovery of a possible violation in
+the normal course of administering IT resources. 
+
+Complaints alleging serious misuse will be directed to those responsible for taking appropriate
+disciplinary action.  Appeals of university actions resulting from enforcement of this policy will be
+handled through existing disciplinary/grievance processes. First o
+!
+enses and minor infractions
+are generally resolved informally by the entity responsible for the resource.  Repeat o
+!
+enses and
+serious incidents may lead to formal disciplinary action up to and including dismissal or
+termination.  Misuse may result in the loss of computing privileges and prosecution under
+applicable civil and criminal statutes.
+Reporting Irresponsible or Inappropriate Use
+Suspected infractions of this policy should be reported to ITS at 
+abuse@calpoly.edu
+ in accordance
+with 
+Appendix D, Policy Implementation and Practices
+.Some examples of misuse include, but are not limited to, the following
+activities:Reproducing, distributing or displaying copyrighted materials without prior permission of the
+owner, including text, images, photographs, music and movie 
+"
+les, etc.
+Using a computer account, IP address, computer name or port you are not assigned or
+authorized to use.
+Sharing a password for your computer/network account with others.
+Deliberately or inadvertently wasting computing resources.
+Using electronic communications to harass others, send phishing or SPAM messages,
+disseminate mass mail without permission, or send mail "bombs."
+Using the campus network to gain unauthorized access to any computer systems.
+Running a port scan on a computer system without prior permission of the owner.
+Performing an act that interferes with the normal operation of any IT resources.
+Knowingly running or installing, or giving to another user, a program intended to damage or
+to place 
+"
+les on another users' account/system without their knowledge.
+Using applications that inhibit or interfere with the use of the network by others.
+Attempting to circumvent data protection schemes or uncover security loopholes.
+Violating terms of applicable software licensing agreements or copyright laws.
+Masking the identity of an account or machine.
+Attempting to monitor or tamper with another user's electronic communications, or reading,
+copying, changing, or deleting another user's 
+"
+les or software without the explicit permission
+of the owner.
+Using campus IT resources for personal gain, including running a business for pro
+"
+t or non-
+pro
+"
+t purposes, promoting and selling products and services, etc.
+
+Providing services or accounts from your computer to anyone but yourself, e.g., web servers,
+FTP servers. Providing a pass-through site to other campus hosts. Providing remote log in
+(e.g. telnet access) on your computer for anyone other than yourself.
+Registering a Cal Poly IP address with any other domain name.
+Registering a non-calpoly.edu domain name without permission.
+Capturing passwords or data on the network not meant for you.
+Posting materials that violate existing laws or the University's codes of conduct.
+Modifying or extending Cal Poly network services and wiring beyond the area of intended
+use. This applies to all network wiring, hardware and in-room jacks.
+Using your Cal Poly portal password on any other system or online service
+Appendix B - Speci
+"
+c Examples of Responsible and Irresponsible Uses
+Implementation
+EFFECTIVE DATE:3/12/2001REVIEW FREQUENCY:AnnualRESPONSIBLE OFFICER:Vice Provost/Chief Information O
+#
+cer
+Policy Development History
+DATEACTIONMarch2015Migrated, reformatted and updated as needed RUP and related pages
+04/25/2005Modi
+"
+ed Section E.11 and Appendix C to address accessibility to websites and digital content,
+and to add references to related policies and laws. Updated link to Con
+"
+dential-Security
+Agreements in Section E.2.
+03/01/2005Modi
+"
+ed Section E.4, E.4.8 and E.4.12 and Appendix A to address network attached devices and
+network communication devices. Added reference to Cal Poly's Information Security Policy to
+Section E.4 and Appendix C. Updated links to campus websites as needed.
+06/30/2003Added FAQ and modi
+"
+ed E.2 and Appendices A and D to comply with State law on disclosure of
+personal information, and updated Appendix C
+04/16/2003Added preface, reformatted and updated policy development history, updated links in Appendix
+CApril 2002Appendices and links to websites were updated and more FAQs were posted online
+3/12/2001Final policy approved by President Warren Baker and posted online
+2/13/2001Academic Senate passed a resolution endoring the policy
+Feb 2001
+Policy endorsed by Associated Students, Inc. (ASI)
+
+Feb 2001
+Policy endorsed by 
+Information Resource Management Policy and Planning Committee (IRMPPC)
+Feb 2001
+Policy endorsed by 
+Instructional Advisory Committee on Computing (IACC)
+Feb 2001
+Policy endorsed by 
+Administrative Advisory Committee on Computing (AACC)
+Aug 2000Interim policy released and posted online
+Oct 1999
+Initial draft policy released and posted online
+ Continue to Responsible Use Policy, Table of Contents
+Related Content
+QUICK REFERENCESNews and Resources
+Free Antivirus Software
+Cal Poly Policies and Standards
+Responsible Use Policy
+Information Security Forms
+Copyright Compliance
+CSU Policies
+SANS Security Awareness Tip of the Day
+SANS Security Awareness Tip of the Day
+Two-Step Veri
+"
+cation 
+NOV 13, 2018Cloud Security 
+NOV 8, 2018Phone Call Attacks 
+NOV 7, 2018Email and Emotions 
+NOV 5, 2018When Away 
+
+OCT 31, 2018See All Articles
+US CE!
+T Current Activity
+US CE!
+T Current Activity
+Holiday Scams and Malware Campaigns 
+NOV 19, 2018Google Releases Security Updates for Chrome 
+NOV 19, 2018Cybersecurity and Infrastructure Security Agency 
+NOV 19, 2018Microsoft Releases November 2018 Security Updates 
+NOV 13, 2018Adobe Releases Security Updates 
+NOV 13, 2018See All Articles
+
+Security Tips
+Security Tips
+Five Steps to Staying Secure - SANS (PDF)
+Best PracticesBest PracticesOur 10 Best PacticesContact UsContact UsContactsDid you know?
+Did you know?
+Stay Safe Online Tips
+CP Home
+Directory
+Campus Maps & Directions
+University Store
+Calendar
+Employment
+Campus Policies
+Contact Us
+Privacy NoticeWeb Accessibility Statement
+CONNECT WITH CAL POLY
+© 2018 California Polytechnic State University  
+  San Luis Obispo, California 93407
+Phone: 805-756-1111
+

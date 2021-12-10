@@ -1,0 +1,53 @@
+PURPOSE To establish policy and guidelines for the provision of a wireless communications stipend to employees who have documented an official university business need for a communications device and continue to meet this need under the Eligibility Requirements section of this policy.
+SCOPE This policy applies to all faculty, staff, and administrators who, as a part of their official university employment, have a constant and recurring need for using a wireless communications device.
+The wireless communication stipend is intended to reimburse the employee for the business use of the device.
+The stipend is not intended to fund the cost of the device nor pay for the entire monthly bill.
+The assumption is that most employees also use their wireless communication devices for personal calls.
+OBJECTIVE To assist the university in achieving maximum productivity and cost-effectiveness when employing wireless communication technology as a business solution; to comply with IRS Regulations on wireless communications devices as described in special substantial rules applicable to listed property; and effectively manage the reimbursement of costs associated with the business use related to personally owned wireless devices and plans.
+A device that transmits and receives voice, data, and/or text without being physically connected to the university network.
+This definition includes but is not limited to such devices as cellular telephones, pagers, wireless internet services, wireless data devices, and cellular telephone/two-way devices.
+This policy does not include radio devices that interface with a defined non-public radio frequency such as the 800 MHz Statewide Radio System.
+The wireless communications stipend does not constitute an increase in base pay, nor will it be included in the calculation of percentage increases to base pay.
+The stipend will be itemized and
+Effective10.9.12 reported on employee pay statements and W-2s and subject to withholding taxes.
+EFFECTIVE DATE Policy language as noted below becomes effective January 1, 2009.
+POLICY Eligibility Requirements 1.To qualify for the wireless communication stipend, the employee musthave a business need, defined and approved by the supervisor, thatincludes one or more of the following:a.The duties of the position may lead to potentially dangerousscenarios and situations with no other acceptable or reliable meansof alternative communications.b.The duties of the position require that the employee work regularlyin the field and need to be immediately accessible.c.The duties of the position are such that immediate emergencyresponse is critical(executive, police, or emergency responder) orthe employee is responsible for critical infrastructure or operationalsupport and needs to be immediately accessible at all times(telecommunication, computer, or network responder).d.The duties of the position require a significant amount of travelduring regular work hours or outside normal hours but related toofficial university business and access to information technologysystems, which in the judgment of the university, render theemployee more productive and/or the service the employeeprovides more effective.e.The duties of the position require response and decision making tolife-threatening or public safety issues and situations.f.The duties of the position make it necessary that the employee beaccessible to communicate with senior management at any time.g.The President of the University deems it necessary to ensure theflow of information and critical support of the university mission.
+Effective10.9.12 Responsibilities of Employees Receiving Stipend 1.When a wireless communication stipend has been approved and providedto an employee for the conduct of official business, the employee mustcomply with the following:a.The employee will provide the phone number to their supervisor ordepartment head/chair within five days of activation and will beavailable for calls(in possession of the wireless communicationdevice and have it turned on) during those times specified by theappropriate department management.b.In most cases, the employee may select any wireless carrier whoseservice meets the requirements of the job responsibilities asdetermined by the supervisor or department head.
+The departmenthead, Director of Telecommunications, and the Vice President forInformation Technologies and Services will work together todetermine carrier requirements if problems arise or circumstancesexist that require a specific carrier/technology be used.c.The employee must inform the university immediately when theeligibility criteria are no longer met or within working days if thewireless service has been cancelled.d.Management may periodically request that the employee provide acopy of the first page of the phone bill in order to verify that he/shehas an active wireless phone plan.
+Management may alsoperiodically request documentation of substantial business use.
+Atminimum, documentation is required when initially applying for thestipend and annually when the stipend is renewed.
+The WirelessCommunications Stipend Status form(attached) will be used forthe yearly review and re-authorization, or cancellation of allowance.e.The employee is responsible for all charges on his/her personalwireless plan, including early termination fees.
+If the employeeleaves the position, he/she continues to be responsible for thecontractual obligations of his/her wireless plan.f.The employee is personally responsible for complying withinternational, federal, state, and municipal laws regarding the use ofwireless phones and other communication devices while driving.Under no circumstances will Shippensburg University be liable fornon-compliance.g.The employee should use discretion in relaying confidentialbusiness related information over any wireless devices since
+Effective10.9.12 wireless transmissions are not secure.
+See more on security for wireless communication devices below.)
+The employee does not need to maintain a log for business and personal phone calls if receiving a wireless stipend.
+The Wireless Communication Device Justification and Acknowledgment Request form(attached) defines maximum recommended stipends to be paid to an employee based on current package plans available under current Commonwealth of Pennsylvania contracts for wireless communications devices with Verizon Wireless.
+Voice, text, and data packages will be approved through normal authorization procedures addressed in this policy.
+Users will be provided a recommended allowance based on their employment position and anticipated plan requirements as a function of their position.
+Users that require additional voice minutes, text messages, or data access should prepare written justification through the dean or director that may include specific documentation as to projects or circumstances that require higher than the recommended packages.
+These allowances will be reviewed annually and adjusted when necessary.)
+
+The Wireless Communication Device Justification and Acknowledgment Request form(attached) defines recommended allowances for plans based on position/organizational rank.
+Voice and data packages which will be approved through normal authorization procedures addressed in this policy will be provided a recommended allowance based on their employment position and anticipated plan requirements as a function of their position.
+Users that require upgraded data plans should prepare written justification through the dean or director that may include specific documentation as to projects or circumstances that require higher than normal voice packages or additional wireless services.
+
+In most cases, a stipend for the equipment will not be provided.
+However, if circumstances exist that require a specific carrier/technology be used, the respective Vice President(in consultation with the department head and Director of Telecommunications) may approve a stipend to off-set the additional cost of this specific equipment.
+
+In most cases, a stipend for early termination fees will not be provided.
+However, if circumstances exist that require early termination of an existing contract, the respective Vice President(in consultation with the President) may approve a stipend to off-set the cost of early termination fees.
+Effective10.9.12 IRS Compliant Cell Phone Procedure Step Responsibility PROCEDURE 1.Department Head/ChairDetermines if the employee will be required to conduct University business away from his /her usual University place of work and would need a wireless communication device to accommodate those requirements.
+Forward the signed form to Division Vice President.
+If you do not approve request, return the form to the Department Head/Chair.
+If you approve, sign and date Section C and forward to the VP for Administration and Finance.
+If you do not approve request, return the form to requesting Division Vice President.
+If you approve, sign and date Section C and forward to the Computing Technologies Center.
+Computing Technologies Center /Based on the information supplied in Sections A Telecommunicationsand B of the Wireless Communication Device Justification and Acknowledgement Request Form, supply advice on phones compatible with our network and computer systems.
+Sign and forward the form to Human Resources.
+Provide information to Administrative Services as needed.
+
+Human Resources / Payroll Section B will provide the dollar value to be included in the Provide information to Administrative Services as needed.
+Effective10.9.12 In collaboration with CTC/Telecommunications review and annually update stipends based on plan costs, levels, and types of services, and gross
+Provide updated stipend information to department heads/chairs and request completed Wireless Communication Stipend Status forms.
+Department Head/ChairUse Wireless Communication Stipend Status form to conduct yearly review and re-authorization, or cancellation of allowance.
+Forward the form to Human Resources.

@@ -1,0 +1,69 @@
+Information Technology
+Data, Video and Voice Networks
+Policy
+ PURPOSEThe purpose of this rule is to ensure the integrity of the video, voice, and data
+communication systems on the WMU campuses.
+SCOPE
+This rule applies to the UniversityÕs Kalamazoo campus facilities (main
+campus, Parkview campus, and Oakland Drive campuses) and to the regional
+site facilities, except for those regional sites that obtain network services from
+another institution. These systems include the Ethernet network,
+which consists of the data ports, the wiring for the system, thousands of
+wireless access points and hundreds of network switches and routers
+necessary for the system to operate. It also includes the traditional and voice
+over-internet telephone system and the video system popularly known as
+EduCablePOLICYThe Office of Information Technology is the office on campus that manages
+and owns the video, voice, and data networks. All changes to this system
+must be authorized by the Office of Information Technology and must be
+implemented by IT staff or by licensed contractors working under IT
+supervision.
+No devices with multiple network interfaces may be connected to the
+network without advance approval from the Office of Information
+Technology. To obtain more information or request advance approval, 
+openO!ice of Information Technology
+Western Michigan University
+Kalamazoo MI 49008-5206 USA
+(269) 387-5430
+an IT service request
+. You will be taken to ITDirect and asked to login with
+your Bronco NetID and password.
+No other office on campus is authorized to install new data ports, telephone
+jacks, or video connections.
+No other office on campus may connect hubs, switches, routers or wireless
+access points to the network.
+No other office on campus is authorized to change the location or
+configuration of any network equipment.
+No other office on campus is authorized to run any wire or fiber connection
+to add new devices to the network, other than cable that connects directly
+to an already existing wall-mounted data port, telephone jack, or video
+jack.
+No other office on campus may utilize information technology video, voice
+and data network services to subscribe to, or connect to, television services
+from an outside entity. All subscriptions and connections must be made
+through the Office of Information Technology.
+Any office found to be in violation of this policy will be financially
+responsible for costs associated with their actions, including costs
+associated for repair or replacement of damaged equipment and costs for
+IT staff time spent on recovery. OIT will not be responsible for maintaining
+network connectivity for any devices installed in violation of this rule.
+RATIONALE
+The video, voice, and data network is a highly complex system and it is
+essential that all components of the system work together. Only if this system
+is centrally managed and centrally owned can we have any assurance that all
+parts of the network are installed to code, are installed to University network
+standards, and are able to operate together. This policy is also necessary
+because the telecommunications budget at Western is self-supporting and all
+who use the network should share in the costs on the same basis.
+DOCUMENT ACTION
+Approved: IT Executive Advisory Board, March, 2018
+Approved: College Representatives, March, 2018
+Revised: March, 2018
+Direction/Purpose: Chief information officer, June 2010
+Reviewed/Approved: IT leadership team, June 2010
+Reviewed: President's senior leadership team, July 2010
+
+ Western Michigan University
+Kalamazoo MI 49008-5200 USA
+(269) 387-1000Contact WMU
+© 2018 All rights reserved.
+

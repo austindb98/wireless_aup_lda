@@ -1,0 +1,34 @@
+Federal and state law, and University policies and procedures govern the use of this equipment and technologies.
+Additional rules and regulations may be adopted by divisions/departments to meet specific administrative or academic needs.
+Any additional requirements must be in compliance with applicable federal and state laws, and this policy.
+Wireless communications networks use radio waves as a transport medium in lieu of copper cables to transmit voice and data signals.
+As such, they permit wireless-equipped communications devices to have mobile access to the University(wired) network wherever wireless communications access points are installed.
+The purpose of this policy is to set the standard for network operation and security, specifically in the context of wireless network access.
+The configuration, installation, and maintenance of wireless communication network access point devices, if unmanaged, could result in severe interference with other network users and serious security risks.
+Information Technology Services(ITS) defines the standards for the use of networks, including the wireless communications spectrum on campus.
+Scope This policy applies to all faculty, staff, students, and others who use the wireless communications spectrum.
+Adherence to the policy will help protect the integrity of the campus wireless network and mitigate security risks.
+Policy The Wireless Spectrum UNCG regulates and manages all unlicensed radio frequencies on campus.
+Wireless equipment installed by ITS uses either the FCC unlicensed 2.4 GHz Industrial/Scientific/Medical(ISM) band or the FCC 5.0 GHz Unlicensed National Information Infrastructure(U-N band.
+Wireless equipment transmissions within the 2.4 GHz and 5.0 GHz bands conform to current IEEE 802.11 wireless LAN specifications.
+Other wireless devices that also use the above mentioned frequency bands, including but not limited to wireless LAN devices, cordless telephones, cameras, and audio speakers, will cause interference with ITS-installed devices.
+As such, use of these devices is prohibited on the University campus.
+ITS may restrict the use of any potentially interfering wireless radio device in university-owned buildings and all outdoor spaces on the UNCG campus.
+Faculty who believe they have special wireless needs should contact ITS.
+Wireless Network Operation and Security The enterprise wireless infrastructure is managed campus-wide by ITS as part of the university s telecommunications network.
+ITS will provide spectrum tuning, and general device management per access area according to wireless access device management standards.
+Wireless networks will be segmented and treated as a foreign/untrusted network from a security standpoint.
+A firewall, router/switch VLAN technology, or similar technology will be employed to provide this segmentation.
+Wireless users must be authenticated with unique user credentials.
+Wireless traffic involving data classified as Restricted under the Data Classification Policy must be encrypted in accordance with acceptable encryption standards.
+Only authorized access points will be permitted.
+Unauthorized access points will be disabled.
+Unauthorized traffic interception and/or bridging between the wired and wireless network is prohibited.
+Applications supported over the wireless network will be limited, as long as this is necessary to provide an acceptable quality of service for all users.
+No wireless spectrum interference or disruption of other authorized communications is permitted.
+Enforcement ITS will enforce the Wireless Communications Policy and establish standards, procedures, and protocols in support of the policy.
+Any violation of this policy by faculty and staff is misconduct under EPA policies(faculty and EPA non-faculty) and unacceptable personal conduct" under SPA policies, including any appeal rights stated therein.
+Any violation of this policy by students is subject to the Student Code of Conduct in the student handbook.
+Violations of law may also be referred for criminal or civil prosecution.
+ITS has the authority to disconnect network service or modify/enhance network security without notification in the event of law violation, systems compromise involving Restricted data as defined by the Data Classification Policy, or negative network communications impact affecting service for other users.
+Review The Chancellor has approved the Wireless Communications Policy and ITS will periodically review the policy.

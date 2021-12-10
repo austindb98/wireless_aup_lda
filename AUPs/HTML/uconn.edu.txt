@@ -1,0 +1,52 @@
+Acceptable Use, Information Technology | Policies & Procedures Our websites may use cookies to personalize and enhance your experience.
+By continuing without changing your cookie settings, you agree to this collection.
+For more information, please see our University Websites Privacy Notice.
+OK [if lt IE 7]> <!
+endif] [if IE 7]> <!
+endif] [if IE 8]> <!
+endif] [if IE 9]> <!
+endif] Skip to Navigation Skip to UConn Search Skip to Content Our websites may use cookies to personalize and enhance your experience.
+By continuing without changing your cookie settings, you agree to this collection.
+For more information, please see our University Websites Privacy Notice.
+These resources must be used in a responsible manner consistent with Federal and State laws and University policies.
+PURPOSE To define expectations of appropriate use and inform all users of information technology(IT) resources at UConn of their obligation to comply with all existing laws and institutional policies in their use of IT resources.
+APPLIES TO This policy applies to all constituents(students, faculty, staff, affiliates and guests) who use UConn s information technology resources, including but not limited to wired and wireless networks, computer-based systems and services, printers/copiers, and cloud-based services.
+A networking hardware device that allows other Wireless(Wi-F devices to connect to the University network.
+Information Technology(IT) Resources: Include but are not limited to: Systems and equipment such as computers, hard drives, printers, scanners, video and audio recorders, cameras, photocopiers and other related devices.
+Software such as computer software, including open-source and purchased software, and all cloud-based software including infrastructure-based cloud computing and software as a service.
+Networks such as all voice, video, and data systems, including both wired and wireless network access across the institution.
+IoT: Internet of Things are devices that communicate across a network without direct human interaction.
+These include but are not limited to smart assistants, lightbulbs, appliances, and televisions.
+POLICY STATEMENT The appropriate use of UConn IT Resources focuses on three primary areas including:(1) the fair and equitable use of limited resources by all constituents;(2) individual responsibilities in the use of UConn IT resources; and(3) the appropriate use of IT resources in compliance with all applicable federal and state laws, university rules, regulations and policies.
+All activities involving the use of UConn IT resources are not personal or private; therefore, users should have no expectation of privacy in the use of these resources.
+Information stored, created, sent or received via UConn systems, including cloud-based systems, may be accessible when required by law, including requests made under the Freedom of Information Act(FOIA), the Family Educational Rights and Privacy Act(FERPA), subpoena, or other legal process, statute, or regulation.
+ACCEPTABLE USE UConn provides IT resources to enable faculty, students, and staff to accomplish their university-related work and support the University s mission.
+University equipment is to be used primarily in support of the University s mission and may not be used to conduct commercial activities or any activity prohibited by state and federal law or University policy.
+UConn IT Resources may not be used for the illegal download, copying, or distribution of copyright materials without the copyright owner s permission or where not permitted by fair use standards under the TEACH Act.
+Actions that negatively impact the ability of the University to operate or cause undue stress on IT resources are prohibited.
+These actions include but are not limited to interfering with the legitimate use of IT resources by others, introducing additional software or devices to any IT resource without appropriate authorization, or the mass mailing of unapproved email or other electronic communication.
+Do not intentionally seek or provide information or access to IT resources to which one is not authorized, nor assist others in doing
+Do not attempt to subvert or circumvent University systems security measures nor use University IT resources to subvert or circumvent other systems security measures for any purpose.
+Do not publish, post, transmit or otherwise make available content that is in violation of law or policy.
+The University cannot protect individuals against the existence or receipt of material that may be offensive to them.
+As such, those who make use of electronic communications are warned they may come across or be recipients of material they find offensive or objectionable.
+Do not violate the privacy of other individuals.
+This includes viewing, monitoring, copying, altering, or destroying any file, data, transmission or communication unless you have been given explicit permission by the owner.
+Do not forge, maliciously disguise or misrepresent your personal identity.
+This policy does not prohibit users from engaging in anonymous communications, providing that such communications do not otherwise violate the Acceptable Use Policy.
+University technology resources may not be used by employees of the University for partisan political purposes or presenting the impression the University has a particular political position except for those individuals authorized by the University as part of their formal responsibilities.
+INDIVIDIUAL RESPONSIBILITIES Protect your data and the institution s data Do not share your password with ANYONE or allow anyone else to use your account(s).
+Do not use anyone else s account.
+Be vigilant in identifying and reporting various types of phishing attacks to gain access to your information.
+Store confidential and/or sensitive data on appropriate University approved services only.
+While UConn owned computers often are maintained by ITS and other University IT organizations, any personally owned devices connecting to the University network(including tablets, cell phones and IoT devices) are expected to be kept up to date with current operating system and software patches, as well as employing appropriate security measures which are automatically updated.
+Do not utilize UConn computing resources, including personally owned computers connected to UConn s network for non-University related commercial activity.
+Users who connect personally owned computers to UConn s network that are used as servers, or who permit others to use their computers, whether directly or through user accounts, have the additional responsibility to respond to any use of their server that is in violation of the Acceptable Use Policy.
+IT Resource administrators and those who permit the use of the computers by others are responsible for the security and actions of others on their systems.
+ENFORCEMENT Violations of this policy may result in appropriate disciplinary measures in accordance with University By-Laws, General Rules of Conduct for All University Employees, applicable collective bargaining agreements, and the Student Code.
+Individual or system access may be revoked at any time based on the decision of the Chief Information Security Officer or the Chief Information Officer to protect the confidentiality, integrity, and/or availability of UConn IT Resources.
+entry-footer #post-## Previous Next.nav-links.navigation #main #primary Frequently Viewed By-Laws of the University of Connecticut By-Laws, Rules and Regulations of the University Senate Information Security Policy Manual Policy Against Discrimination, Harassment and Related Interpersonal Violence #secondary.container #content Reportline The University welcomes and encourages good-faith reporting of compliance concerns and/or seeking advice regarding compliance issues.
+Visit https://compliance.uconn.edu/reporting-concerns/reporting-overview/ for more information.
+University of Connecticut Disclaimers, Privacy & Copyright Accessibility Webmaster Login #footers #page [if lte IE 9]> <!
+data-ally-af-style" can be one of the following values to customize the look and feel: - flag_small - flag_large - bar_bottom Custom Feeds for Instagram JS Performance optimized by W3 Total Cache.
+Learn more: https://www.boldgrid.com/w3-total-cache/ Page Caching using disk: enhanced Served from: policy.uconn.edu @ 2021-11-16 00:17:34 by W3 Total Cache Download alternative formats.

@@ -1,0 +1,357 @@
+Frequently Asked
+Questions (F.A.Q.)
+Organizational Chart (pdf)
+Technology Comments,
+Complaints, &
+SuggestionsTechnology Purchases
+Contact Us
+ABOUTADMISSIONS & AIDACADEMICS
+STUDENT AFFAIRS
+ATHLETICS
+GIVINGFaculty & Sta
+!
+ Services
+Lab Information
+Policies
+Appropriate Use of IT
+Resources
+Banner Security (pdf)
+Campus Network
+Cellular Service
+Computer Labs
+Illegal Downloading -
+HEOA Compliance
+Standard Practices
+Student E-mail
+Tablet
+Web
+Student Services
+Winthrop University Policy
+on the Appropriate Use of
+Information Technology
+Resources
+1 Introduction
+The Winthrop University community understands that information
+technology has become an integral resource in ful
+"lling our mission of
+teaching, learning, research, public service, and administrative
+responsibilities. The University therefore encourages students, faculty,
+and sta
+!
+ to acquire computer literacy and technological skill. Computers
+and networks empower us openly to 
+"nd, consider, and disseminate
+information developed at Winthrop and elsewhere, to communicate and
+collaborate with others near and far, and to build the technological skills
+base on which the twenty-
+"rst century depends. With this
+empowerment, however, comes commensurate responsibility. Each of
+us is obliged to support and abide by the ethical and legal standards
+that apply to information technology, including rights of authorship,
+con
+"dentiality, privacy, and dissemination. In doing so, we respect the
+codes of honesty, integrity, and intellectual freedom upon which
+institutions of higher learning rely.
+In A Vision of Distinction
+, the Winthrop community was challenged to "ensure
+that information technology resources are used e
+!
+ectively and e
+#ciently in
+support of the mission, goals, and objectives of the University. Information
+technology resources at Winthrop will conform to national and international
+standards...." To meet this challenge, the Appropriate Use Policy has been
+developed in consultation with faculty, students, sta
+!
+, and administrative
+o
+#cers of the University, taking into consideration applicable legal standards,
+state policy, guidelines from respected professional organizations, and the
+policies developed by leading public and private universities throughout the
+United States. In putting forth this policy, we intend to establish a framework
+of responsible, considerate, and ethical behavior expected by the University in
+the use of information technology
+2 Policies
+Throughout this document, the words ÒcomputersÓ and Òcomputer systemsÓ
+include but are not limited to faculty and sta
+!
+ desktops and laptops, library
+and lab computers as well as any hosted and cloud-based systems used by
+Winthrop University.
+2.1 Usage Consistent with Law
+Usage of Winthrop University computing resources shall be consistent with
+local, state, and federal law.
+2.2 Copyright Law
+CONTACT INFORMATION
+Computing & Information 
+   Technology
+1 McBryde Hall
+Rock Hill, SC 29733
+803/323-2400
+803/323-2580 (fax)
+helpdesk@winthrop.edu
+QUICK LINKS
+Webpage Editing
+Computer Virus 
+   Precautions and Hoaxes
+Safe Computing Practices
+SPAM - Unwanted Emails
+EMAIL WINGSPAN
+ BLACKBOARD
+ MAP SITE  PEOPLE 
+  
+It is the policy of Winthrop University to respect the ownership of all
+intellectual material protected by copyright laws.
+Users shall not make or use illegal copies of copyrighted materials, store such
+copies on University systems, or transmit them over University networks.
+For further information relating to the copyright policies of Winthrop
+University,
+refer to the Winthrop University 
+Policy on Copyrighted
+ Material, available in
+the library.
+2.3 Systems Security
+Compliance with policies that ensure the security and integrity of all campus
+information systems is mandatory and critical to ensure continuing provision
+of computer resources to the entire Winthrop community.
+2.3.1 User Accounts
+The University owns the computer facilities, resources, and accounts.
+Information Technology and its respective departments must approve all
+access to central computer systems, including the issuing of passwords.
+Access to administrative systems is limited and must be obtained through the
+appropriate Systems Security O
+#cer. The department chair or an authorized
+representative must approve all access to departmental computer systems.
+All Winthrop students, faculty members, sta
+!
+, and employees of contracted
+auxiliary services are eligible to receive a computer system account.
+Members of employees' families, who are not members of one of the above
+categories, are not eligible for computer system accounts.
+Only the Assistant Vice President for Computing and Information Technology
+may grant others access to Winthrop University electronic resources and then
+only in those cases where there is a strong likelihood that the activity will
+signi"cantly bene
+"t the University as a whole.
+Users shall not provide false or misleading information to obtain access to
+computing resources or facilities.
+2.3.2 Responsibility for security of accounts
+An account is given to an individual for the exclusive use by that individual. It
+is against University policy for a user to give someone his or her password or
+allow others to use his or her account. However, this is not to preclude others
+temporarily assisting a user in the performance of his or her university
+functions (for example faculty helping a student with a computer project;
+associates showing a new feature of the computer system) while supervised
+by the user. Users are responsible for all activity on their accounts.
+Attempting to discover another user's password or attempts to gain
+unauthorized access to another person's 
+"les or mail is prohibited. The only
+exception will be when computer center personnel are working on the
+security of the computer system.
+2.3.3 Circumvention of network security
+Users shall not attempt to circumvent or subvert system or network security
+measures.
+2.4 Con
+!dentiality and privacy
+2.4.1 Con
+!dentiality
+Winthrop University considers 
+"les (for example: class programs and
+assignments, spreadsheets, E-mail, etc.) to be con
+"dential, and all users are
+expected to treat them as such. Files may be shared with others by explicitly
+making those "les available to them. It is against University policy to access
+
+another person's 
+"les without permission from the owner of those 
+"les.Winthrop University personnel will not read the E-mail or 
+"les of a user with
+the following exceptions when: (a) it is necessary to diagnose a computer
+system problem, (b) the University has probable cause to believe a violation of
+University policy or applicable law has occurred, (c) the University is
+complying with a valid subpoena or search warrant issued by a court of
+competent jurisdiction.
+2.4.2 Noti
+!cation
+Unless noti
+"cation would hinder an investigation of adherence to this
+appropriate use policy or would compromise a criminal investigation, a user
+will be noti
+"ed when his or her E-mail or 
+"les will be read or have been read
+by University o
+#cials.2.4.3 Interception of network tra
+"cUsers shall not intercept network tra
+#c for any purpose unless engaged in
+authorized network administrative duties.
+2.5 Appropriate and inappropriate uses
+2.5.1 Damage or disruption
+Users may not damage computer systems or knowingly cause disruptions in
+its operations or use. Users shall not use the network to disrupt network users,
+services or equipment. Disruptions include, but are not limited to, distribution
+of unsolicited advertising, propagation of computer "worms" and viruses, and
+sustained high volume network tra
+#c that substantially hinders others in their
+use of the network.
+2.5.2 Personal Gain
+Users shall not use the computer systems for personal gain such as selling
+access to a USERID or by performing work for pro
+"t with University resources
+in a manner not authorized by the University.
+2.5.3 ConsultingUsers wishing to use University computing resources for consulting related to
+their academic specialty shall obtain advance written approval from their
+dean or equivalent supervisor in consultation with the Assistant Vice President
+for Computing and Information Technology.
+2.5.4 Excessive use
+Users shall refrain from monopolizing systems, overloading networks with
+excessive data or wasting computer time, connect time, disk space, printer
+paper, manuals or other resources.
+2.5.5 Nonessential use of laboratory resources
+Because public University computer laboratory resources are limited,
+nonessential use of these resources is discouraged. When others are waiting
+for computer laboratory resources to complete class assignments, they may
+preempt people using resources for nonessential purposes.
+2.5.6 Billable services
+Users shall assume responsibility for any charges associated with billable
+services unless appropriate authorization has been obtained.
+2.5.7 Electronic Mail
+Electronic mail is a service provided by the University to users as an aid to
+
+communication.
+2.5.7.1 Acceptable uses of electronic mail
+2.5.7.1.1 Uses of Electronic Mail
+Electronic mail may be used for a wide variety of on- and o
+!
+-campuscommunication. Examples include subscriptions to listservs, professional
+communications, notices of University activities, personal correspondence,
+actions and scheduling of University and faculty committees, administration
+and board activities, announcement of University policies and schedules, and
+University announcements.
+2.5.7.1.2 System-Provided Mailing Lists
+Only messages relating to University activities should be sent to the system-
+provided mailing lists, e.g., All Users, All Faculty, All Sta
+!
+, etc. Such mailing
+lists are for noti
+"cation of University events, communication of o
+#cialUniversity messages, and noti
+"cation of bulletin board discussions. System-
+provided mailing lists shall not be used for "classi
+"ed ads" (e.g., "For Sale," "For
+Lease," etc.) or "free items" (e.g., free kittens, free books, etc.). Users shall not
+use the system-provided mailing lists for commercial or partisan political
+purposes.2.5.7.1.3 Bulletin Board System
+As an alternative to the use of system-wide mailing lists, the University
+provides a bulletin board system as a forum for discussion of issues,
+announcements of activities, "classi
+"ed ads," and communications that are
+inappropriate for distribution by system-provided mailing lists. To assure the
+most economical use of computer resources and to avoid sending messages
+to persons who do not want to receive them, users are encouraged to use the
+bulletin board system when they wish to communicate to the campus at
+large.
+2.5.7.1.4 User-created Mailing Lists
+Users may also create their own mailing lists. When creating and using a
+mailing list, users shall ensure that everyone on the list agrees to be included
+on the list.2.5.7.2 Unacceptable uses of Electronic Mail
+2.5.7.2.1 Prohibited uses
+Electronic mail is not to be used for the following:
+commercial ventures
+personal pro
+"tsolicitations for contributions for non-University sponsored entities
+chain letters
+"pyramid schemes"
+or any illegal activity or unlawful purpose.
+2.5.7.2.2 Harassment and intimidation
+Users shall not use E-mail to harass or intimidate another person.
+2.5.7.2.3 "Sensitive" information
+No memos containing "personnel-sensitive" or "legal-sensitive" information
+shall be sent via E-mail.
+2.5.8 Intellectual freedom
+
+Winthrop University recognizes the right of all users to use resources of their
+choosing. Computer resources are available for the interest, information, and
+enlightenment of the Winthrop community. Information will not be proscribed,
+censored, or removed by the University because of partisan or doctrinal
+disapproval.
+2.5.9 Respect for rights of others
+Computer users at Winthrop have a responsibility to be aware of materials
+that may be objectionable to others when using computer facilities in public
+areas. Monitors and printers in public areas, such as open access computer
+labs and o
+#ces that more than one person may share, should not be used to
+display or print materials that might be de
+"ned as harassing or disruptive.
+Users are reminded that any state and federal laws dealing with these or
+related matters apply to Winthrop facilities and are encouraged to use good
+judgment.
+3 Enforcement and Penalties
+3.1 Enforcement
+The Assistant Vice President for Computing and Information Technology is
+responsible for administering and enforcing this policy. Questions concerning
+this policy should be directed in writing to the Assistant Vice President for
+Computing and Information Technology.
+Violations of these policies shall be reported in writing to the Assistant Vice
+President for Computing and Information Technology. When potential
+damage to University computing resources or data is immediate, the Assistant
+Vice President for Computing and Information Technology may suspend the
+alleged violator's access to such resources immediately. Notice of such
+suspension shall be communicated to the alleged violator promptly. Ordinarily
+the Assistant Vice President for Computing and Information Technology will
+discuss the alleged violation with parties involved and/or the individual's
+supervisor, instructor, or dean, as appropriate. If the problem cannot be
+resolved, the Assistant Vice President for Computing and Information
+Technology may refer alleged violations of this policy to the appropriate
+administrator or judicial body.
+If a Web page mounted on a University computing resource, in the opinion of
+the Assistant Vice President for Computing Information Technology, violates
+this Appropriate Use Policy or the Web Page Policy, access to that Web page
+may be temporarily suspended pending prompt adjudication of the matter as
+described in the paragraph above.
+3.2 Penalties.
+Any violations of the policies included in this document may result in
+penalties as described below. Students may face review for disciplinary
+actions as described in the Student Conduct Code in the Student Handbook.
+These may include, but are not limited to, the suspension of or loss of access
+to University computer resources, suspension or expulsion from the
+University.
+Faculty and sta
+!
+ may face review for disciplinary action as described in the
+Faculty Handbook or Personnel Policies and Procedures Manual. These may
+include, but are not limited to, the suspension of or loss of access to
+University computer resources, and other penalties listed in the Handbook or
+Manual including possible termination of employment by the University.
+Appeals from penalties assessed under this policy will follow the appropriate
+grievance procedure as stated in the Faculty Handbook or Personnel Policies
+and Procedures Manual.
+ For more information, contact 
+Patrice Bruneau
+, Assistant Vice President for
+Computing and Information Technology.
+Please forward complaints to 
+servicedesk@winthrop.edu
+.
+IN THE HEART OF THE CAROLINAS
+A-Z Site Map
+Accessibility
+Alumni & Friends
+ArtsBoard of Trustees
+CalendarsDirections
+Directory
+DisclaimerEmergency/Safety
+Employment
+Family Programs
+Finance & Business
+Financial Aid
+Library
+Majors & More
+O#ce of the President
+Online Learning (Graduate)
+Records & Registration
+Residence Life
+Site Feedback
+Tuition & Fees
+Visit the CampusVisitors Center
+© Winthrop University á 701 Oakland Avenue á Rock Hill, SC 29733, USA á 803/323-2211
+

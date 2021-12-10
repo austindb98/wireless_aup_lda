@@ -1,0 +1,16 @@
+IT Acceptable Use Policy Policy# IT 10.02 Effective Date: Responsible Department: Information Technology Services 1.PURPOSEThe purpose of this policy is to outline the acceptable use of computing and telecommunication resources at the University of Central Florida Foundation, Inc(Foundation).
+These are established to protect the constituent, employee and the Foundation.
+Inappropriate use exposes the Foundation to risks including virus attacks, compromise of network systems and services and legal issues.
+The Foundation is committed to protecting constituents, donors, employees, affiliates and the Foundation from illegal or damaging actions by individuals while ensuring computer and network resources are leveraged to maximize customer satisfaction/service and allow employees an efficient avenue to perform their duties.
+APPLICABILITYThis policy applies to full, part-time and temporary University of Central Florida(UCF) and Foundation employees, contractors, consultants, interns, students, and other workers at the Foundation, including all personnel affiliated with third party employees, who use Foundation information technologies and resources.
+POLICYAll users will adhere to UCF standards and policies for the responsible use of computing systems, software, and telecommunications networks as described in the UCF 4-002.2 Use of Information Technology(IT) and Resources policy.
+Computing resources are defined as personal computers, laptops, and portable computing and communication devices, servers, mainframes, data storage systems, and similar equipment capable of processing, accessing, displaying, or communicating electronic information.
+Telecommunication resources are defined as wired or wireless voice or data communications circuits or networks and associated electronic equipment.
+User is defined as a person who makes use of or accesses university computing, telecommunications, or electronic information resources.
+Additional requirements apply to the collection, use, storage, and maintenance of restricted data and can be found in the UCF 4-008.1 Data Classification and Protection policy.
+All users will sign the IT 0020-A01 Acceptable Use Agreement for access to Foundation computing systems.
+Enforcement Violations of computer and network procedures and policies will result in disciplinary action, in accordance with enforcement identified within UCF and Foundation policies.
+CLARIFICATIONRequests for clarification of this policy should be sent to the Associate Vice President for Advancement Strategy.
+Certified as approved by the Executive Committee of the Foundation Board of Directors on _.
+013 Revised:
+020 History: 747

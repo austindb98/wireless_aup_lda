@@ -1,0 +1,42 @@
+Status: Approved Purpose The purpose of this policy is to define the requirements and responsibilities that all users connecting or using the internet through the St. Norbert College network must follow.
+This policy provides awareness and notification of what we deem to be acceptable and unacceptable use of the St. Norbert College Network.
+It is necessary to make sure that the St. Norbert College Network is properly used to avoid distractions in the work environment, or harm to our reputation, or financial well-being.
+To do this, we rely upon appropriate practices and end-user behaviors.
+This policy applies to all St. Norbert faculty, staff, students, contractors, and consultants, as well as college alumni and retirees who maintain SNC accounts.
+Scope We believe information assets that process data electronically in conjunction with the Internet, if used properly in conducting business related purposes and furthering academic studies, can be a valuable asset.
+Used correctly, the St. Norbert College network can provide a wide range of information, as well as facilitate the appropriate secure transmission of business and academic related information efficiently.
+Policy St. Norbert College provides computing and networking facilities to support its educational mission.
+The computing and networking facilities are a college community resource.
+Their use by students, faculty, staff, and other members of the college community is a requirement and a right that is accompanied by a corresponding responsibility to use them in an appropriate manner.
+Each computer user must respect the rights of others.
+Users must apply the highest level of ethical conduct to their use of computing and networking facilities.
+Confidentiality and Privacy The College will treat all data transmitted over the College network and/or associated with College accounts as confidential and will only disclose their contents: when authorized by the owner, or when directed by authorization of the Vice President and CIO.
+Such actions will be taken when: required by legal obligations or responsibilities; there is evidence or presumption of violation of civil or criminal laws; there is evidence or presumption of violation of College policies; there is concern about the safety or well-being of a member of the College community.
+Appropriate use of computing and networking facilities Students, faculty, staff, and other members of the College community may: use College-owned computers, programs, and data to which each user is authorized access; connect to College-owned resources with their own devices; use College-provided networking, including access to the Internet; use computing and networking facilities and resources for the purposes for which they are assigned, particularly in the case of specialized facilities; use computing and networking facilities and resources in a manner that is consistent with the mission and educational purpose of the College.
+Inappropriate use of computing and networking facilities Students, faculty, staff, and other members of the College community may not use computing and networking facilities and resources in a way that: violates any applicable laws, contractual agreements, or licenses, including copyright laws; is not consistent with the mission and educational purpose of the College, misrepresents the College, or violates any College policy including the Academic Honor Code and the College's behavioral policies; is considered harmful or harassing to a person or that would violate human dignity as described in the St. Norbert College Core Values; interferes with the ability of others to make effective use of these facilities, including: disruption of computer operations or communications, destruction or unauthorized modification of equipment; views, copies, alters, or destroys data, software, documentation, or data communications belonging to the College or another user without permission, unless required by the employee s roles and responsibility; consciously disregards computer security directives, such as: sharing their passwords or permitting another person to use their accounts; using a computer account belonging to another user; intentionally exposing other computers or the network to security threats such as viruses and spyware.
+extends the college network to form a private network by means of technology such as a router, access point, or other means.
+Sanctions for inappropriate use Sanctions for inappropriate use of computing and networking facilities and resources may include, but are not limited to, one or more of the following: temporary or permanent revocation of access to some or all computing and networking resources and facilities; disciplinary action according to applicable College policies; legal action according to applicable laws and contractual agreements.
+Computer Networking Terms and Conditions Network service is provided by St. Norbert College to enhance the educational experience.
+It is a privilege and must not be abused.
+By accepting a connection to the network, you agree to the following terms and conditions.
+If you do not adhere to these terms and conditions, you will be subject to losing your network connection privilege.
+I agree to adhere to the St. Norbert College Computing and Networking Appropriate Use Policy, and in particular I agree to adhere to all applicable laws, contractual agreements, and licenses, including copyright laws.
+I will register and properly configure every computer that I connect to the College network.
+I will not set up my computer to be a web, mail, ftp, or any other type of server, use peer-to-peer file sharing software, or share resources such as printers, files, programs, games, music, movies, etc.
+I will not install or use any networking hardware, software, or protocols, including wireless networking equipment, without the express permission of Information Technology Services.
+I am responsible for malware detection and removal on each device that I use on the College network.
+I understand that if my device becomes infected with malware, it may be removed from the College network.
+I will legally acquire any software I wish to install on my computer.
+I will be responsible for any software installation or other changes that I make to my computer.
+If such changes cause my computer to become inoperable on the network, I may be required to reverse the changes if I wish my computer to successfully use the network.
+I understand that Information Technology Services will make its best effort to help me connect my computer to the campus network, provided it meets the minimum requirements, but that there may be computers that simply will not work with the network.
+Information Technology Services is responsible for college-owned network equipment only.
+I agree that I am responsible for all maintenance, repairs, or enhancements to my devices.
+Internet Traffic Management St. Norbert College provides computing and networking facilities and services to support its educational mission, including access to the Internet.
+Internet use by students, faculty, staff, and other members of the College community over the campus network is a privilege, and is accompanied by a corresponding responsibility to use it in an appropriate manner.
+There are a wide range of services and resources available over the Internet.
+Some use significant amounts of Internet bandwidth, some use very little.
+Because Internet bandwidth(capacity) is a finite resource, it is important that we manage our Internet traffic in such a way as to support the primary mission of the College.
+Additional Information This document is made available primarily for ease of use during the device registration process.
+The original version of this and other ITS-related polices are available on the ITS Polices web page.
+Have more questions?

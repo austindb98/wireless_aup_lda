@@ -1,0 +1,33 @@
+Purdue University provides a wireless network known as Purdue Air Link, or PAL, on the West Lafayette campus.
+While wireless access is convenient and promotes efficient use of time and resources, Purdue's wireless network is intended to serve as a convenient supplement to the University's wired network infrastructure.
+Although the Federal Communications Commission protects everyone's right to utilize certain communication frequencies, this does not obviate any user of the Purdue wireless network from the responsibility to comply with University policies, standards, regulations, or safeguards.
+Wireless Network Acceptable Use Standards All users of Purdue's wireless network are responsible for taking appropriate steps, defined herein, for the acceptable use of the wireless network.
+Service Expectations The wireless network is intended as a supplement to the wired network and for use with portable electronic devices; it is not intended to be a user's sole connection to the University network or IT Resources.
+The wireless network should not be expected to provide the same quality of service as the University's wired network infrastructure.
+When reliability and performance are critical, the University's wired network infrastructure should be used.
+Stationary computing devices, such as PC towers, printers, servers, and other critical IT Resources such as research equipment must be connected to Purdue's wired network infrastructure where reasonably possible.
+User Expectations Use of the Purdue University wireless network must comply with University policies and regulations, in particular the IT Resource Acceptable Use Policy, as well as federal, state, and local laws.
+Use of the Purdue wireless network for University business purposes must follow applicable University policies as well as the University's Data Handling Requirements and any restrictions stated therein.
+The following actions are prohibited: Using a wireless enabled device or wireless access point to provide access to the Purdue University wireless network, wired network, or the internet to users who are not members of the Purdue community.
+Using a wireless enabled device or wireless access point to extend the University-approved coverage areas of the Purdue University wireless network or to avoid charges for connection to the University's wired network infrastructure.
+Users who attach a private wireless access point to the Purdue University wired network are reminded that they have undertaken responsibility for the actions of any users or clients that use their private wireless access point to access the Purdue University wireless network, wired network, and internet.
+When configuring a wireless enabled device or wireless access point, users of the Purdue wireless network must not give their private wireless network a name(also known as SSID) that is similar to that of the Purdue wireless network(Purdue Air Link, PAL, PAL2.0, or PAL2.0 Instructions).
+A user's private wireless network should have a distinct name to help identify it, to assist when troubleshooting wireless network problems, and to avoid confusion with the Purdue wireless network.
+Wireless network devices and wireless access points must be configured to minimize the ability of unauthorized individuals to monitor data communications or to gain access to the Purdue University wireless network, wired network, the internet, or other University resources.
+Technical Support ITaP and IT Networks and Security do not support private wireless devices or the use of computing equipment, other than University-owned equipment, within Purdue's wireless network.
+Limited configuration instructions for Purdue wireless network access, lists of compatible vendor hardware, and user instructions for various operating systems are provided by ITaP Networks and Security(references included below) as a courtesy to members of the Purdue community.
+Compliance This standard applies to all users of Purdue University wireless network IT Resources, including faculty, staff, students, guests, outside contractors, vendors, and other agents.
+All users of Purdue's wireless network are responsible for taking appropriate steps, defined herein, for the acceptable use of the wireless network.
+Use of Purdue's wireless network is subject to the general conditions stated in Purdue's IT Resource Acceptable Use Policy.
+As with any private device connected to the campus network, the University reserves the right to restrict the use of or permanently disconnect any wireless device from the campus network if that wireless device or wireless access point disrupts or interferes with services provided by the University, or behaves in such a way that the service or security of University IT Resources is impacted.
+Centralized and departmental IT units requiring wireless service in contravention of this standard when the University's wired network option is not feasible must file the formal Security Policy/Procedure Exception Form with the Executive Director of Networks and Security and their Departmental Manager prior to use of wireless service in contravention of this standard.
+WiFi Location Data Purdue s wireless infrastructure(PAL) and associated WiFi access points are managed by ITaP and provide, monitor and maintain WiFi network connectivity for faculty, students, staff, and guests on the West Lafayette campus.
+As part of this work, the system collects basic location data as wireless devices(e.g., computers, phones, tablets, etc.)
+connect to different WiFi access points and as they move across campus.
+Information such as the Career Account, device(type, MAC address), and the name/location of the access point are captured and currently retained for a period of years.
+In light of the public health situation caused by COVID-19, WiFi location data will be retained for years beyond the end of the pandemic.
+Revised August 12, 2020.
+Added WiFi location data.
+Revised December 28, 2011.
+This standard was developed to support the implementation of the IT Resource Acceptable Use Policy( A.2).
+Questions about this standard can be addressed to itap-securityhelp@purdue.edu.

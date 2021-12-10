@@ -1,0 +1,3 @@
+paper with instructions/implementation
+get vector of topic loadings
+mapping of words to weights

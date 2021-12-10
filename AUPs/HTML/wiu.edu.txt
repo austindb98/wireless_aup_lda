@@ -1,0 +1,16 @@
+Our purpose.
+Our purpose.
+Macomb Quad Cities APPLY NOW end of masthead_small end of header The Right Choice for Your Success WIU Home > Policies Section Menu com.omniupdate.div label="mainContentFull" group="Everyone" button="788" com.omniupdate.editor csspath="/_resources/ou/editor/css/interior-template2-mainContentFull.css" width="1000" File code: TECH.WIRELESS.POL Approval Date: 2/23/2009 Approved By: President Wireless Policy Wireless access points or devices with wireless capability are allowed in one of three fashions.
+Restricted non-secure wireless access to Internet(no university network access) Secure wireless access to the university network and the Internet A secure non SSID broadcasting wireless network will be supported for areas that take credit cards as payment and must have access to wireless.
+The OPS isolated wireless LAN is a noted exemption to this policy.
+Additional guidelines on wireless: Use the strongest supportable authentication available.
+Use the strongest supportable encryption available.
+WEP is not acceptable encryption.
+Must be installed, supported, and maintained by University Technology(uTech).
+Rogue Access Points(APs) and other wireless devices violate university policy.
+Maintain a hardware address(MAC address) that can be registered and tracked.
+Wireless clients that cannot support these security requirements will only be allowed limited access to the internet.
+Any area that takes credit cards as payment for products or services must ensure that wireless is not used within their area or must use a University Technology(uTech) supported secure wireless network that does not broadcast its SSID.
+Areas will be required to demonstrate a need for wireless networking.
+ResNet wireless will conform to university wireless options #1 and #2.
+Rogue Access Points(APs) are not allowed.

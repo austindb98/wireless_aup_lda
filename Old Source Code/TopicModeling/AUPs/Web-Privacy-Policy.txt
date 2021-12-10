@@ -1,0 +1,133 @@
+  3341-6-49 BGSU
+ Web Privacy Policy
+.   Applicability
+  All University units
+  Responsible
+ Unit
+  The 
+Vice President for Finance and 
+Administration
+  Policy
+ Administrator
+  The Office of the 
+Chief Information Officer
+  
+(A)
+ Policy Statement and Purpose
+  
+Bowling Green State University (BGSU) 
+uses best industry practices for 
+
+website 
+user privacy. 
+This policy 
+shall guide developers and users 
+regarding 
+website 
+privacy guidelines 
+for
+ BGSU. 
+  (B)
+ Policy
+ Scope
+  This policy applies to webpages that are developed and maintained by 
+
+BGSU. The university 
+is not responsible for 
+unofficial pages (i.e. those 
+
+belonging to individual faculty or other staff members). 
+  
+In addition, 
+some
+ webpages maintained by BGSU 
+contain
+ links to external 
+websites. BGSU is not responsible for any content, availability or privacy 
+
+policies of such 
+non-BGSU 
+sites.
+   
+(C)
+ Policy 
+  (1)
+ Personal Information
+  (a)
+ At times BGSU may require contact information (i.e. name, 
+
+address, email address, ZIP code and country of residence) 
+
+to be provided when requesting information about college 
+
+programs and services. This contact information is used to 
+
+provide you with the sp
+ecific information you requested. 
+Occasionally, you may receive subsequent notifications of 
+
+3341-6-49  2  important information regarding the programs or services 
+for which you made your initial inquiry. 
+  (b)
+ A user™s browser sends us a variety of information such as 
+
+IP (Internet Protocol) address, browser session, SSL 
+
+Encryption and URL (Uniform Resource Locator). This 
+
+information lets us know how the user is finding our site 
+
+and which pages they have visited 
+most often. All of this is 
+
+used to improve the navigation of the site and to make it 
+
+more useful for our visitors. 
+  (c)
+ In addition to the information provided by the browser, we 
+
+also collect information that the user voluntarily provides 
+
+when filling out any
+ information request or an application 
+for one of the programs featured on our site. 
+  (2)
+ Online Advertising
+ 
+ 
+(a)
+ Certain BGSU websites utilize the Google AdWords 
+
+marketing service to advertise on third
+-part
+y websites 
+(including Google).  
+Third
+-party vendors use 
+cookies to 
+serve ads based on someone™s past visits to the BGSU 
+
+website. Any data collected will be used in accordance with 
+
+our own privacy policy and Google™s privacy policy.
+  (b)
+ Users can set preferences for how Google advertises to 
+
+them using the Google Ad
+ Preferences page found here: 
+https://www.google.com/settings/u/0/ads/authenticated
+. In 
+addition, you can opt out of 
+interest
+-based advertising 
+on 
+this same webpage.
+   (3)
+ Consent
+  By using the official BGSU
+ website, you consent to the collection 
+and use of information discussed above as described in this policy. 
+  
+Registered Date: 
+September 
+8, 2016  

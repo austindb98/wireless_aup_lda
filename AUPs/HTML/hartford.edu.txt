@@ -1,0 +1,69 @@
+Centrally located alongside Connecticut s capital city and midway between Boston and New York City, our 350-acre campus offers big opportunities, from major industry partnerships to vibrant cultural destinations.
+Beyond just landing a job after graduation, we empower you to rise quickly in your field.
+With more than 100 student clubs and organizations, 17 Division I sports teams, and a support system to help you succeed, you can dabble, experiment, and broaden your passions at UHart.
+Centrally located alongside Connecticut s capital city and midway between Boston and New York City, our 350-acre campus offers big opportunities, from major industry partnerships to vibrant cultural destinations.
+Beyond just landing a job after graduation, we empower you to rise quickly in your field.
+With more than 100 student clubs and organizations, 17 Division I sports teams, and a support system to help you succeed, you can dabble, experiment, and broaden your passions at UHart.
+Students have their own high speed Ethernet connection to the Campus Network and the Internet via 10 base T(twisted pair) jacks in their rooms.
+This provides 100 megabit per second(Mbs) twisted-pair Ethernet for each PC or Macintosh connected.
+All residence halls are also equipped with wireless connectivity.
+A WiFi signal should be available in all areas of your suite or bedroom, and in most laundry rooms and meeting rooms, and some areas outside of the buildings.
+Our network is designed to work with both Windows and Macintosh computers.
+While the University of Hartford makes no brand preference for students when purchasing a new computer, we do have some guidelines for performance to ensure suitable compatibility with our Ethernet network in the Residences.
+Information Technology Services recommends that you use WPA, and only use WEP if your device does not support WPA, or if you do not want your computer or device to permanently store your University password.
+Where to get help Need help connecting to the wireless network?
+Call the ITS Computer Support Line at 860.768.5999 or bring your computer or device to the Computer Support Center in CC113.
+Most computers and devices can permanently store your University username and password so that you don't have to manually log in to the network each time you turn your device on(especially convenient with phones and tablets).
+No need to configure your device with a complicated security key.
+Some computers or devices may also prompt for one or more of the following: Connection type: Infrastructure Security type: WPA2-Enterprise Encryption type: AES Authentication method: PEAP Note: Some computers and devices may warn you that they cannot verify the authenticity of the network's security certificate.
+Windows displays a particularly ominous message!)
+How to connect most computers, laptops, tablets, and mobile phones Most computers and WiFi-capable devices will automatically "see" the network.
+Look for and select the network on your computer or device named "hawknet."
+You'll need the following settings in order to configure your wireless computer to connect to the University network via WPA: Network name: hawknet Username: Your UofH email name(without the "@hartford.edu" part) Password: Your UofH email password The computer or device will ask for a Username and a Password.
+Enter your University of Hartford email name(only -- without the "@hartford.edu" part) and your email password.
+If your computer or device displays a message about the network's security certificate, click "Ok" or "Continue" as prompted.
+The computer is now connected to the campuswide network, and the Internet.
+If you have a game console, or an older computer that does not support WPA-2 Enterprise networks, try connecting to our WEP network."
+Connecting via WEP UHDEVICES: Works with more computers and operating systems than WPA.
+Your computer or device does not store your University password.
+Must start a web browser each time you start up(or resume) your computer or device in order to log on to the network via an authentication web page.
+if your computer cannot connect to hawknet) Only use the following directions for devices such as game consoles and older computers.
+If it is a device that does not do web authentication, you will need to register the device.
+Registering a Game Console or Streaming Player on WiFi You'll need the following settings in order to configure your wireless computer to connect to the University network via WEP.
+Some operating systems and/or network card drivers may not ask some of the following.
+SSID: uhdevices(must be typed in all lowercase letters!)
+Password: Hartfordhawks Look for and select the network on your computer or device named "uhartford."
+The computer or device may then ask for a network password, often called a "security key" The University's key for the uhdevices network(which is the same everywhere on campus) is Hartfordhawks.
+It's a long password, but easy to remember and type -- notice that it's just Hartford hawks with no space and the first letter capitalized.
+Most computers and devices will remember this password forever once you type it in, so you shouldn't need to memorize
+Once your network card "associates" itself with the network, start your web browser, if on a device you did not register.
+You will automatically be directed to the Network Authentication System where you must enter your University of Hartford email name(only -- without the "@hartford.edu" part), and your email password.
+Your web browser will then automatically continue to its usual home page, and your device is now connected to the campus wide network, and the Internet.
+You will have to start a web browser and log in each time you turn on your device.
+Registering a Game Console or Streaming Player on WiFi Devices, such as game consoles(Playstation, Xbox, W and video streaming players(Apple TV, Roku, Blu-ray players, Smart TVs) are not designed to work in an enterprise-class, high density, authenticated WiFi environment such as that in a University.
+These devices are best connected to the University network via a wired connection for best gameplay and best video streaming performance.
+Information Technology Services recommends that you connect such devices to the wired network via an Ethernet cable.
+However, they can be connected to the University s WiFi network by registering them to use a lower-security(less powerful encryption) that the device can support, and by storing your network credentials for the device in the WiFi system.
+Registration is accomplished by entering a unique fingerprint (called a Media Control Access or MAC address) on your device into the WiFi system and associating it with your University network account.
+Every networkable device has a unique MAC address.
+Follow the Registering a Game Console or Streaming Player on WiFi guide to register your device to the University s WiFi network.
+Limitations There are limitations to how you can use the "airspace" on campus and some devices will not work in an authenticated system such as the University's.
+You may not operate your own wireless network on campus You must not operate your own wireless network "access point" devices at the University of Hartford.
+These devices will interfere with the University's wireless signal and deprive others access to the network.
+These are considered "Unauthorized devices" which ".interfere. with the activities of others." under the University's Responsible Technology Use Policy.
+Unauthorized devices are referred to as "rogue access points."
+An "access point" device is any item that acts as a "wireless infrastructure" device.
+Computer Policies These devices include: Wireless routers(such as Linksys, Netgear, Belkin, Apple Airport) Wireless disk drives(such as Maxtor Central Axis, Apple Time Capsule) MiFi "hot spots"(such as offered by Sprint, Verizon) Cell phones operating as "hot spots"(such as Android, iPhone) You may only operate wireless "client" devices on the University campus.
+Such devices include laptop and desktop computers with WiFi, smartphones that can connect to WiFi networks, tablets such a Apple iPad, Kindle Fire, and most Androids.
+Some devices cannot connect to a WPA-2 Enterprise network such as HawkNet.
+You can try connecting them to the University's WEP network as described in "Connecting via WEP."
+Why can't I install my own wireless network?
+Crowded airspace: To provide a robust and reliable signal to all residents, over 1,000 access points within a small confined area.
+To ensure maximum network performance of(speed, signal strength, and reliability), these radios operate on one of three non-overlapping channels(WiFi channels 1, 6, and 11), and are all tuned to maximize signal strength in all locations while not interfering with each other.
+When two radios are on the same channel(or within channels of each other) and are too close to each other, their signals interfere with each other, causing connected computers to communicate slowly within a network.
+The University network was designed, and is continuously monitored to maintain the maximum performance and reliability possible for the thousands of people using
+Introducing a new("rogue") access point into the system damages the balance of the system.
+While you might be able to connect to your rogue device, it would "pollute" the airwaves for up to two hundred feet in all directions above, below, and around it, denying others access to the University network.
+It continuously monitors the airwaves for "rogue" devices, triangulates their physical locations, and then "attacks" them in an attempt to render them unusable.
+University Code of Conduct: Anyone found operating a device acting as an access point will be charged under the University Code of Conduct, as doing so negatively impacts other residents.
+Penalties may include housing selection ineligibility.

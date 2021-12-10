@@ -1,0 +1,70 @@
+What majors does UMSL offer?
+Where can I sign in to Canvas?
+What courses are offered this semester?
+How can I get IT help?
+How do I request a transcript?
+How do I add or drop a class?
+Who is my advisor?
+All users of the UMSL network must conform to the University of Missouri-St. Louis Acceptable Use Policy.
+Upon connecting a computer to the UMSL network, there are additional policies that must be followed.
+Violation of any of the following policies may result in immediate disconnection from the network.
+Network Usage: All UMSL network traffic to and from the Internet must go through the firewall.
+Any network traffic going around the firewall must be accounted for and explicitly allowed by the Computer Security Incident Response Team(CSIRT).
+Computer Security Incidents and Abuses can be reported to the CSIRT at abuse@umsl.edu, or call the Technology Support Center at 314-516-6034.
+Applications which transmit sensitive information over the network in clear text, such as telnet and ftp, are prohibited and will be blocked.
+Exceptions must be accounted for and explicitly allowed by the CSIRT.
+Secure free replacements to telnet and ftp are SSH and SFTP.
+UMSL has enabled port locking which locks a specific PC to a specific network port.
+Moving a PC to another port, or plugging a new PC into an old PC's port will result in an automatic disabling of that port.
+The Technology Support Center will have to reset the port.
+Users may not go outside UMSL for network connectivity, such as signing up for a connection to an outside Internet Service Provider, without the consent of Information Technology Services(ITS).
+Activities that inhibit the ability of others to connect to or use the network are prohibited.
+This includes, but is not limited to: unauthorized file-sharing, initiating denial of service attacks, initiating viruses or worms, and network scanning.
+ITS will attempt to satisfy all requests for special network topologies that are needed for research or teaching.
+There may be costs associated with these accommodations.
+Workstation Configuration and Network Administration: Only UMSL approved and updated Operating Systems will be allowed to access the UMSL network.
+Windows based Faculty and Staff systems must be joined to the UMSL Domain.
+Exceptions must be approved by ITS.
+Faculty and Staff Windows based systems must run the current campus anti-virus software.
+All systems on the UMSL network must be registered through our Network Access Control System(NAC).Faculty and Staff Windows and Macintosh systems must have the NAC Persistent Agent installed.
+Faculty and Staff are responsible for the servers they manage and for keeping them in compliance with campus rules.
+Students may not provide accounts, disk storage, or web pages for other users.
+Users may not set up servers without first notifying ITS.
+This includes but is not limited to DHCP, DNS, WINS, FTP, Web, or Mail servers.
+By default, IP addresses are automatically assigned by Dynamic Host Configuration Protocol(DHCP).
+The use of a hard-coded or non-approved IP address is prohibited.
+IP addresses can change without notice unless arrangements are made with ITS to assign a static
+A computer should not be connected to the network via wired connection and wireless connection at the same time.
+Network administration tools are not allowed without the consent of ITS.
+This includes, but is not limited to: Network monitors Sniffers Vulnerability scanners Port scanners SNMP tools Network Hardware: University computing equipment must not be tampered with in any way.
+Wiring may not be split, re-wired, or re-configured.
+Mini-hubs, routers, switches, bridges, wireless access points, wireless bridges, or other network hardware are not allowed.
+Only one computer at a time may connect to each in-room jack.
+A PC with multiple network cards is not allowed to function as a network address translation gateway.
+No device other than an ITS device will be permitted to route or bridge packets.
+A PC with a wireless card may not be configured to act as a wireless access point.
+Game Systems as well as Video/Audio streaming devices such as Roku, Google Chromecast and AppleTV are not allowed on the wireless network.
+If the device is able, it can be connected to the wired network after it s been registered in NAC.
+Network Maintenance Window: Sunday mornings(midnight thru noon), 1st and 3rd Wednesday of the month(4:00a.m.
+thru 7:00a.m.)
+and 2nd and 4th Friday of the month(5:30p.m.
+thru Sat 6:00a.m.)
+are reserved for network maintenance.
+Every effort will be made to give prior notice.
+The network and or servers may be unavailable during this time so updates can be made.
+Access to the network may be suspended to preserve the integrity of the network.
+Temporary Guest Accounts: Non-UMSL users may be granted a temporary guest account with approval by ITS to help facilitate collaboration with researchers at other Universities and sites.
+These accounts will be allowed to VPN into UMSL.
+A faculty member must request the account, fill out a form, and be responsible for the account's usage.
+Individual Responsibility for Security on the Student Network: Users in UMSL student housing are expected to take reasonable steps to ensure that their computer systems do not create a security risk when connected to the network.
+This includes but is not be limited to the following steps: Users must register their computer on the student network using an SSO/ MyGateway username and password.
+Windows based systems must run a current and updated anti-virus software.
+Operating systems and software must be kept current with the latest patches and service packs offered by the vendors.
+Wired Windows and Macintosh student systems must have the NAC Persistent Agent installed.
+All accounts on student owned machines should have passwords.
+It is recommended that individual computers be protected by a personal firewall.
+It is recommended that users perform regular scans for malware using anti- spyware software.
+For more information, visit ITS Security.
+Louis, MO 63121-4400 Office Number:(314) 516-6034 Admissions Toll-Free 1-888-GO-2-UMSL list column left end widgets column left list Academic Units footer list Arts and Sciences Business Administration Education Engineering Graduate School Honors College Nursing Optometry Social Work list column left end list column left list Administration Academic Affairs Chancellor Finance and Administration Human Resources Information Technology University Advancement 2021 Curators of the University of Missouri | Disability Resources | DMCA Policy | Privacy Policy UMSL is an equal opportunity/access/affirmative action/pro-disability and veteran employer and does not discriminate on the basis of sex in our education programs or activities, pursuant to Title IX and 34 CFR Part 106.
+For more information, visit our UMSL Statement of Nondiscrimination.
+Footer

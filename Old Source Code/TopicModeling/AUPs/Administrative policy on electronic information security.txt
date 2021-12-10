@@ -1,0 +1,154 @@
+! - "#
+.$ADMINISTRATIVE POLICY ON ELECTRONIC INFORMATION SECURITY
+(A)Purpose. The purpose of this policy is to enable the use of innovative technologyby members of the university community while utilizing available resources to
+mitigate the risk of unauthorized access or disclosure. All computer systems either
+accessing or storing institutional data or operating on the university network must
+meet the information security standards as deÞned or otherwise referenced in this
+rule.(B)DeÞnitions.(#)Application.  A set of one or more computer programs designed to permit
+users to perform a group of coordinated functions, tasks, or activities.
+Examples of applications include but are not limited to: student support
+systems, administrative support systems, databases, and other application
+programs installed by the user or administrator on a device or server. For the
+purpose of this rule, covered applications are limited to those applications
+running or installed on university-owned information technology, on any
+server and/or storage device used to hold or transmit institutional data, or
+any cloud-based server and/or storage device.
+(%)Physical server. A dedicated physical computer on a network that is capable
+of accepting requests from multiple university clients and providing
+responses accordingly.
+(&)Virtual server. A server created through the use of software known as a
+hypervisor that allows a single physical computer to be partitioned intomultiple server computing units.($)Storage device.  A device used for recording and storing information (i.e.
+institutional data).(')Network attached storage device. A computer connected to a network that
+provides only Þle-based data storage services to other devices on the
+network.
+
+(()Firewall.  A part of a computer system or network that is designed to block
+unauthorized access while permitting outward communication.
+())Institutional data. All data created, collected, maintained, recorded or
+managed by the university, its sta
+!, and agents working on its behalf. Itincludes data used for planning, managing, operating, controlling, auditing
+and reporting on university functions. When appropriate, institutional data
+may also include research data that contains personally identiÞable subject
+information, or proprietary university information.
+(C)Scope. This policy applies to all student employees, faculty, sta
+!, (collectivelyÒuniversity stakeholdersÓ) and third parties acting on behalf of Kent state university
+as well as any other university a"liate authorized to access or is in possession of
+Kent state university institutional data and IT resources.  This policy applies but is
+not limited to all computer systems (applications, physical servers, virtual servers,and storage devices) that process or store university information.  The policy
+applies both to computer systems that are run locally at Kent state university
+campuses and those that are hosted or maintained by outside vendors. 
+Exceptions to this policy must be approved by the vice president for information
+services and formally documented.  Exceptions will be reviewed on a periodic
+basis and may be withdrawn at the discretion of the vice president for information
+services.(D)Procedures.
+(#)The division of information services (ÒISÓ or Òinformation servicesÓ) isresponsible for documenting the required security standards, updating on a
+periodic basis, and posting to the IS website at www.kent.edu/is/security
+(/is/security)
+.(a)Such security standards as adopted and maintained by the division of
+information services are intended to ensure adherence to the
+standards set forth by existing laws and regulations, such as but not
+limited to: Sections #$%&
+.
+#& and #%&
+.
+%$ of the Ohio Revised Code; theFamily Educational Rights and Privacy Act; and the Health Insurance
+Portability and Accountability Act.
+
+(%)Existing computer systems (applications, servers, and storage devices) will
+be audited against the current standards.
+(&)All new requests for computer systems (applications, servers, and storage
+devices) must be reviewed by information services to ensure the proposed
+system meets the security standards.
+($)University stakeholders must receive prior approval from the division of
+information services before utilizing externally managed services,
+applications, and servers.(a)Vendors of externally managed services and applications shall be
+required to complete the vendor security checklist prior to
+engagement of such resources or transmission of institutional data.
+Such checklists must be reviewed by IS.
+(b)Service agreements and terms of use shall be submitted by the
+requesting university stakeholder for review by information services
+and other university stakeholders as required under rule 
+$$%'-(-)%.
+# ofthe Administrative Code.
+(c)Any storage of institutional data with external service providers
+requires the prior approval of information services.
+(')Servers and network-attached storage devices operating on the Kent state
+university network shall be secured according to the risk they pose to
+institutional data, to critical univeristy processes, or to the ongoing
+compliance of the university to state, federa, or other regulations.
+(a)Servers and network-attached storage devices will be located in the
+data center if they:(i)Contain sensitive personal identiÞable information (PII);(ii)Fall under state, federal, or other regulatory compliance
+obligations;(iii)Directly integrate with other servers located in the data center;
+(iv)Provide mission-critical functions to departmental faculty, sta
+!,
+Policy E!ective Date: Policy E!ective Date: Policy Prior E!ective Dates: Policy Prior E!ective Dates: Oct. 
+)$, ')#*)+/
+)#
+/
+')#(or to students; or(v)Provide or impact Þnancial-related processes.
+(b)Access to the data center shall be controlled by IS operations sta
+!.(c)All data center devices shall reside behind IS-managed Þrewalls.
+(d)Remote access shall be approved and managed by IS o
+"ce of securityand access management.
+(()All applications are subject to vulnerability assessments by IS.  In the event
+of the identiÞcation of a critical vulnerability, IS shall require remediation in
+order for the user and/or server/storage device to remain on the network.
+())The use or storage of sensitive institutional data (including but not limited
+to personally identiÞable information, or other information protected from
+unauthorized disclosure by law, regulations or policy) on any server or
+storage device for any purpose must adhere to the processes, standards, and
+requirements as directed by IS o
+"ce of security and access management.
+(*)Domain names other than kent.edu acquired by university stakeholders for
+the operation of applications must be obtained and registered through
+information services.(!)Violations of this policy may result in suspension or loss of the userÕs access
+to computing, storage, or network resources, with respect to institutional
+data and university-owned information technology.
+CH #: DEFINITIONSCH #: DEFINITIONS(/POLICYREG/CHAPTER-
+#
+-(/POLICYREG/CHAPTER-
+#
+-DEFINITIONS)DEFINITIONS)CH %: GOVERNANCE
+CH %: GOVERNANCE
+(/POLICYREG/CHAPTER-
+%-(/POLICYREG/CHAPTER-
+%-ORGANIZATION-GOVERNANCE)
+ORGANIZATION-GOVERNANCE)
+
+CH &: TEACHINGCH &: TEACHING(/POLICYREG/CHAPTER-
+&-(/POLICYREG/CHAPTER-
+&-TEACHING-RESEARCH-AND-
+TEACHING-RESEARCH-AND-
+PUBLIC-SERVICE)
+PUBLIC-SERVICE)
+CH $: UNIVERSITY LIFECH $: UNIVERSITY LIFE(/POLICYREG/CHAPTER-
+$-(/POLICYREG/CHAPTER-
+$-UNIVERSITY-LIFE)
+UNIVERSITY-LIFE)
+CH ': ADMINISTRATION
+CH ': ADMINISTRATION
+(/POLICYREG/CHAPTER-
+'-(/POLICYREG/CHAPTER-
+'-GENERAL-ADMINISTRATION)
+GENERAL-ADMINISTRATION)
+CH (: PERSONNELCH (: PERSONNEL(/POLICYREG/CHAPTER-
+(-(/POLICYREG/CHAPTER-
+(-PERSONNEL)PERSONNEL)CH ): FINANCECH ): FINANCE(/POLICYREG/CHAPTER-
+)
+-(/POLICYREG/CHAPTER-
+)
+-FINANCE)FINANCE)CH *: REGIONALSCH *: REGIONALS(/POLICYREG/CHAPTER-
+*-(/POLICYREG/CHAPTER-
+*-REGIONAL-CAMPUSES)
+REGIONAL-CAMPUSES)
+CH !: TECHNOLOGY
+CH !: TECHNOLOGY
+(/POLICYREG/CHAPTER-
+!-(/POLICYREG/CHAPTER-
+!-INFORMATION-TECHNOLOGY-
+INFORMATION-TECHNOLOGY-
+SECURITY)SECURITY)CH #": RESEARCH & SPONSOREDCH #": RESEARCH & SPONSOREDPROGRAMSPROGRAMS(/POLICYREG/CHAPTER-
+#"-(/POLICYREG/CHAPTER-
+#"-RESEARCH-SPONSORED-
+RESEARCH-SPONSORED-
+PROGRAMS)PROGRAMS)

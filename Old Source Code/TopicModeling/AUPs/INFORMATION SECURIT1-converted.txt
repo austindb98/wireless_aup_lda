@@ -1,0 +1,1122 @@
+
+ 
+1.
+ 
+Issued:
+April 8, 2003
+ 
+2.
+ 
+Revised:
+November 28, 2017
+ 
+3.
+ 
+Policy Number:
+FO
+-
+36
+ 
+4.
+ 
+Responsible Office:
+Office of the Chief Information Officer
+ 
+5.
+ 
+Policy Contact:
+itpolicy@illinois.edu
+ 
+6.
+ 
+Provide 
+Feedback
+ 
+7.
+ 
+Print Policy
+ 
+ 
+Purpose
+ 
+University information, including third party information that may be accessed or stored 
+by the University of Illinois at Urbana
+-
+
+Univers
+ity and requires appropriate protection. Unauthorized use or disclosure of Data 
+could have adverse consequences for the individuals involved and could subject the 
+University to fines, lawsuits, and government sanctions.
+ 
+This policy is intended to:
+ 
+
+ 
+help the
+ 
+University and its community members comply with legal and 
+contractual requirements to protect Data;
+ 
+
+ 
+
+from accidental or intentional damage and Data from alteration or theft; and
+ 
+
+ 
+d
+esignate the appropriate level of security requirements for securing Data 
+and
+ 
+IT
+ 
+Resources.
+ 
+Scope
+ 
+This policy applies to everyone (including, but not limited to, all University faculty, 
+researchers, staff, students, visitors, vendors, contractors, 
+volunteers, and employees of 
+an affiliated entity) who accesses Data or University networks or who stores Data 
+through the use of University credentials or under the authority of and pursuant to 
+
+olicy also applies to such 
+access and storage by University Community Members whether the Data is accessed, 
+stored or otherwise resides on University owned or controlled devices, personally 
+owned or controlled devices, or devices owned or controlled by a t
+hird party under 
+contract with the University.
+ 
+Timeline
+ 
+This policy is effective the date of publication but will be implemented in phases given 
+the scope and complexity of the
+ 
+Information Security Standards
+. For details on the 
+implementation schedule, please refer to the
+ 
+compliance timeline
+.
+ 
+
+Authority
+ 
+Chief Information Officer
+ 
+Policy
+ 
+A.
+ 
+In order to manage information security risks, University Community Me
+mbers 
+must ensure that their actions with respect to Data and
+ 
+IT
+ 
+Resources and their 
+electronic devices and other resources that store, transmit, or process Data 
+meet:
+ 
+o
+ 
+the
+ 
+Information Security Standards
+ 
+policy, and
+ 
+o
+ 
+all applicable laws, University policies, and University contractual 
+obligations.
+ 
+B.
+ 
+Individuals must report known non
+-
+compliance with this policy and its
+ 
+Information 
+Security Standards
+ 
+to the University
+ 
+IT
+ 
+Security Office,
+ 
+security@illinois.edu
+, 
+(217)
+ 
+265
+-
+0000.
+ 
+C.
+ 
+Failure to comply with this policy and its
+ 
+Information Security Standards
+ 
+may 
+result in 
+denied access to
+ 
+IT
+ 
+Resources and disciplinary action, up to and 
+including termination or dismissal.
+ 
+D.
+ 
+University Community Members must review and comply with the following 
+Information Security Standards:
+ 
+1.
+ 
+University Data: Protect the confidentiality, integr
+ity, and availability of 
+Data.
+ 
+i.
+ 
+Data must be properly classified, labeled, and handled. 
+See
+ 
+DAT01
+-
+Data Security Stan
+dard
+.
+ 
+ii.
+ 
+Authorized access to and possession, use, and modification of 
+Data must be provided. See
+ 
+DAT02
+-
+I
+nformation Access Control 
+Standard
+.
+ 
+2.
+ 
+Program Management: Develop and maintain a program management 
+strategy focusing on information risk management, information security, 
+security assessment, and business continuity.
+ 
+i.
+ 
+A risk management strategy, which 
+includes but is not limited to 
+periodic risk assessments and reporting, must be developed and 
+maintained. See
+ 
+MGT01
+-
+Information Risk Management Standard
+.
+ 
+ii.
+ 
+An information security plan, which includes but is not limited to 
+assigning appropriate security roles and resources, must be 
+developed and maintained. See
+ 
+MGT02
+-
+Information Security 
+Management Standard
+.
+ 
+iii.
+ 
+Periodic security assessments must be performed to comply with 
+this policy and all pertinent la
+ws and University policies and 
+contractual obligations. See
+ 
+MGT03
+-
+Compliance Management 
+Standard
+.
+ 
+iv.
+ 
+Business 
+continuity and disaster recovery plan(s) must be 
+developed, maintained, and periodically reviewed to limit the 
+negative impact of a disruptive event upon University operations. 
+
+See
+ 
+MGT04
+-
+Business Continuity Management Standard
+ 
+and
+ 
+IT01
+-
+Disaster Recovery Standard
+.
+ 
+3.
+ 
+Legal: Identify laws and regulations applicable to Data and
+ 
+IT
+ 
+Resources 
+as they become known in order to foster compliance. See
+ 
+LEG01
+-
+Legal 
+and Regulatory Compliance Standard
+.
+ 
+4.
+ 
+Business: Verify segregation of duties in applicable University financial 
+systems and processes to minimize financial fraud
+. See
+ 
+BUS01
+-
+Financial 
+Systems Security Standard
+.
+ 
+5.
+ 
+Purchasing: Include contractual obligations on vendor
+s of third party 
+
+information security requirements. See
+ 
+PUR01
+-
+Contract Management 
+Security Standard
+ 
+and
+ 
+IT09
+-
+Vendor Management Security 
+Standard
+.
+ 
+6.
+ 
+Personnel Security: Manage the risk presented by each University 
+
+with the University. Such management includes but is not limited to:
+ 
+i.
+ 
+Reviewing the background and needs of
+ 
+University Community 
+Members before they are placed in positions with access to Data in 
+order to match permitted access with the needs of both the 
+University Community Members and the University.
+ 
+ii.
+ 
+Establishing and maintaining a process to authorize, revoke
+, and 
+audit access to Data and
+ 
+IT
+ 
+Resources by University Community 
+Members.
+ 
+iii.
+ 
+Establishing and maintaining a process to retrieve Data 
+and
+ 
+IT
+ 
+Resources from University Community Members as 
+appropriate when they are transferred within or leave the 
+University.
+ 
+See
+ 
+PS01
+-
+Personnel Security Standard
+.
+ 
+7.
+ 
+Facilities: Equip University locations and workspaces with physical acces
+s 
+controls to prevent the theft of, tampering with, or destruction of Data 
+and
+ 
+IT
+ 
+Resources. See
+ 
+FAC01
+-
+Site Securit
+y Standard
+,
+ 
+FAC02
+-
+IT 
+Workspace Security Standard
+, and
+ 
+IT02
+-
+Infrastructure Security Standard
+.
+ 
+8.
+ 
+Information Technology:
+ 
+i.
+ 
+Training and Awareness
+ 
+a.
+ 
+University Community Members must complete the 
+appropriate privacy and inf
+ormation security training. 
+See
+ 
+IT16
+-
+Security Training Standard
+.
+ 
+b.
+ 
+University Community Members must be made aware 
+of 
+their obligation to know and follow the
+ 
+Policy on Appropriate 
+Use of Computers an
+d Network Systems at the University of 
+Illinois at Urbana
+-
+Champaign
+.
+ 
+ii.
+ 
+Security Incidents 
+
+ 
+There must be prompt, effective response and 
+management of information security incidents. See
+ 
+IT14
+-
+Security 
+Incident Management
+.
+ 
+iii.
+ 
+Identity Management 
+
+ 
+There must be secure use and 
+management of digital identities and use of secure authentication 
+processes in order for Univers
+ity Community Members to access 
+
+Data or
+ 
+IT
+ 
+Resources as appropriate. See
+ 
+IT05
+-
+Identity 
+Management Standard
+.
+ 
+iv.
+ 
+Sys
+tem, Network, and Communication Protection 
+
+ 
+There must be 
+secure operation and timely access of:
+ 
+a.
+ 
+Network devices. See
+ 
+IT03
+-
+Network Security Standard
+.
+ 
+b.
+ 
+Server systems. See
+ 
+IT04
+-
+Server Security Standard
+.
+ 
+c.
+ 
+Client systems and 
+applications. See
+ 
+IT10
+-
+Client Computer 
+Security Standard
+.
+ 
+d.
+ 
+Mobile devices and applications. See
+ 
+IT11
+-
+Mobile Device 
+Security Standard
+.
+ 
+e.
+ 
+Digital Communications. See
+ 
+IT12
+-
+Digital Communications 
+Security Standard
+.
+ 
+v.
+ 
+Malicious Software 
+
+ 
+Maximize reasonable protection of Data 
+and
+ 
+IT
+ 
+Resources from exploitation by malicio
+us software, which 
+includes, but is not limited to, malware, viruses, and spyware. 
+See
+ 
+IT06
+-
+Malicious
+ 
+Software Protection Standard
+.
+ 
+vi.
+ 
+System Development Life Cycle 
+
+ 
+Establish a comprehensive 
+approach to manage risks to
+ 
+IT
+ 
+Resources and to provide the 
+appropriate levels of information security based on the levels of risk 
+as
+ 
+IT
+ 
+Resources are being developed,
+ 
+modified, used, and retired. 
+This approach must include the following:
+ 
+a.
+ 
+Development Process 
+
+ 
+Reasonably maximize the 
+production of secure applications and software in the 
+software development process. See
+ 
+IT08
+-
+Development 
+Process Standard
+ 
+b.
+ 
+Application Development 
+
+ 
+Reasonably maximize the secure 
+operation of applications so that they produce the correct 
+results and
+ 
+perform only authorized transactions and so that 
+Data is not inadvertently exposed during processing. 
+See
+ 
+IT07
+-
+Application Development Security 
+Standard
+ 
+and
+ 
+IT13
+-
+Web Application Security Standard
+.
+ 
+vii.
+ 
+Secure
+ 
+Use and Disposal of Information and Equipment 
+
+ 
+Require 
+that University storage media, which includes but is not limited to 
+optical media (CDs or DVDs), magnetic media (tapes or diskettes), 
+disk drives (external, portable, or removed from information 
+syst
+ems), flash memory storage devices (SSDs or UBS flash 
+drives) and documents (paper documents, paper output, or 
+photographic media), are used and disposed of securely. See
+ 
+IT15
+-
+Storage Media Security Standard
+.
+ 
+viii.
+ 
+Equipment and Software Inventory Management 
+
+ 
+Require 
+that
+ 
+IT
+ 
+Resources, including information assets and software, are 
+identified so they can be managed s
+ecurely and in compliance with 
+appropriate license agreements and copyright laws. See
+ 
+IT17
+-
+Asset Management Standa
+rd
+ 
+and
+ 
+IT18
+-
+Software License 
+Management Standard
+.
+ 
+E.
+ 
+Responsible parties and their duties under this polic
+y include:
+ 
+
+0.
+ 
+University Community Members shall:
+ 
+
+ 
+review and comply with:
+ 
+
+ 
+this policy;
+ 
+
+ 
+the
+ 
+Information Security Standards
+;
+ 
+
+ 
+the
+ 
+Policy on Appropriate Use of Computers and Network 
+Systems
+; and
+ 
+
+ 
+applicable laws and Un
+iversity policies and contractual 
+obligations;
+ 
+
+ 
+complete required privacy and information security training;
+ 
+
+ 
+notify administrative and technical staff of high risk or sensitive 
+Data that is stored on computers and other electronic devices;
+ 
+
+ 
+work with their 
+local
+ 
+IT
+ 
+staff or unit liaison through the exception 
+request process if needed; and
+ 
+
+ 
+report non
+-
+compliance with this policy to the University
+ 
+IT
+ 
+Security 
+Office,
+ 
+security@illinois.edu
+, (217)
+ 
+265
+-
+0000.
+ 
+1.
+ 
+University Community Members with compliance responsibilities shall in 
+addition to the duties of a University Community Member:
+ 
+
+ 
+monitor Data security compliance;
+ 
+
+ 
+investigate allegations and incidents of non
+-
+compliance;
+ 
+
+ 
+recommend appropriate corrective and disciplinary actions;
+ 
+
+ 
+develop and maintain policies related to the compliance 
+requirements; and
+ 
+
+ 
+participate in breach notification processes.
+ 
+2.
+ 
+University Community Members with Information Technology 
+responsi
+bilities shall in addition to the duties of a University Community 
+Member:
+ 
+
+ 
+Take reasonable action to secure Data and
+ 
+IT
+ 
+Resources in 
+accordance with this policy,
+ 
+Information Security Standards
+ 
+and 
+related standards and procedures, as well as pertinent laws and 
+University policies and contractual obligations;
+ 
+
+ 
+Participate in University and University of Illinois System technical 
+and security g
+roups and forums, as appropriate; and
+ 
+
+ 
+Respond to technical questions from University Community 
+Members related to securing
+ 
+IT
+ 
+Resources
+ 
+3.
+ 
+Unit administrators shall in addition to the duties of a University 
+Community Member:
+ 
+
+ 
+assign the responsibility of manag
+ing the information security risk 
+and identifying specific security requirements associated within the 
+relevant unit;
+ 
+
+ 
+create, disseminate, and enforce local information security 
+requirements to comply with University policies and standards for 
+Data and
+ 
+IT
+ 
+Resources under their control;
+ 
+
+ 
+provide oversight and manage the security of Data created, stored, 
+or accessed by University Community Members as applicable for 
+their units;
+ 
+
+
+ 
+manage the security gap analysis for Data and
+ 
+IT
+ 
+Resources for 
+security control req
+uirements as applicable for their units;
+ 
+
+ 
+request exceptions to this policy or
+ 
+Information Security Standards
+, 
+if needed; and
+ 
+
+ 
+exercise dele
+gated authority and responsibility for unit Information 
+Technology security, unit Data, and unit
+ 
+IT
+ 
+Resources, including 
+designating unit individuals as appropriate.
+ 
+4.
+ 
+University Chief Privacy and Security Officer or Designate shall in addition 
+to the duties
+ 
+of a University Community Member:
+ 
+
+ 
+exercise delegated authority and responsibility for privacy and 
+information security from the
+ 
+CIO;
+ 
+
+ 
+establish and maintain an Information Security Advisory Committee 
+to provide guidance on information security policy, stan
+dards, 
+procedures, exceptions, and other information security related 
+matters;
+ 
+
+ 
+establish information security policies and standards to protect Data 
+and
+ 
+ITResources;
+ 
+
+ 
+review and approve final information security standards;
+ 
+
+ 
+establish a process to review 
+exception requests to this policy and 
+related standards;
+ 
+
+ 
+review and approve exceptions to information security policies and 
+standards; and
+ 
+
+ 
+review and manage university information security incidents.
+ 
+5.
+ 
+Technology Services 
+
+ 
+Privacy and Information Security p
+ersonnel shall in 
+addition to the duties of a University Community Member:
+ 
+
+ 
+oversee the information security policy and standards and related 
+exception process;
+ 
+
+ 
+provide guidance on information technology security issues;
+ 
+
+ 
+monitor and notify regarding potenti
+al information security 
+intrusions;
+ 
+
+ 
+review information security incidents;
+ 
+
+ 
+establish and publish the criteria upon which a server is determined 
+
+scan process;
+ 
+
+ 
+exercise operational respons
+ibility to remove non
+-
+compliant 
+electronic devices from the University network and, as appropriate, 
+retrieve
+ 
+IT
+ 
+Resources and Data as part of an investigation;
+ 
+
+ 
+coordinate with the unit administrative and technical/security staff to 
+assure that actions are 
+taken as necessary to protect
+ 
+IT
+ 
+Resources 
+and Data; and
+ 
+
+ 
+coordinate with law enforcement, compliance offices, and 
+University Counsel.
+ 
+6.
+ 
+Security Advisory Committee shall in addition to the duties of a University 
+Community Member:
+ 
+
+ 
+advise on information securi
+ty issues; and
+ 
+
+
+ 
+advise on exceptions to information security policies and standards 
+for high
+-
+level or unquantifiable risks to the University.
+ 
+7.
+ 
+Office of University Counsel shall, in addition to the duties of a University 
+Community Member, review and comply w
+ith:
+ 
+
+ 
+this policy;
+ 
+
+ 
+the
+ 
+Information Security Standards
+, including in particular D.
+ 
+3 and 
+D.
+ 
+5;
+ 
+
+ 
+the
+ 
+Policy on Appropriate Use of Computers and Network Systems
+; 
+and
+ 
+
+ 
+applicable University policies, laws or contractual obligatio
+ns.
+ 
+8.
+ 
+University Office of Business and Financial Services personnel shall, in 
+addition to the duties of a University Community Member, review and 
+comply with:
+ 
+
+ 
+this policy;
+ 
+
+ 
+the
+ 
+Information Security Standards
+, including in particular D.
+ 
+4;
+ 
+
+ 
+the
+ 
+Policy on Appropriate Use of Computers and Network Systems
+; 
+and
+ 
+
+ 
+applicable laws and University policies and contractual obligations.
+ 
+9.
+ 
+University Purchasing Div
+ision shall, in addition to the duties of a 
+University Community Member, review and comply with:
+ 
+
+ 
+this policy;
+ 
+
+ 
+the
+ 
+Information Security Sta
+ndards
+, including in particular D.
+ 
+3 and 
+D.
+ 
+5;
+ 
+
+ 
+the
+ 
+Policy on Appropriate Use of Comp
+uters and Network Systems
+; 
+and
+ 
+
+ 
+applicable laws and University policies and contractual obligations.
+ 
+Processes/Procedures/Guidelines
+ 
+Procedures
+ 
+
+ 
+The
+ 
+Information Security Standards
+ 
+
+ 
+Requests for an exception to this policy or to the Information Security Standards
+ 
+Process
+ 
+
+ 
+Identifying Securi
+ty Level
+ 
+Exceptions
+ 
+The Information Security Policy represents a baseline of information security 
+requirements for the University.
+ 
+In certain situations, compliance with this policy or the
+ 
+Information Security 
+Standards
+ 
+contained within this policy may not be immediately possible.
+ 
+
+In such cases, exceptions to this policy or the
+ 
+Information Security Standards
+ 
+may be 
+requested through the
+ 
+exception request procedure
+.
+ 
+ 
+

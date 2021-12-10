@@ -1,0 +1,1287 @@
+The Ohio State University 
+Œ University Policies 
+policies.osu.edu/
+ Page 
+1 of 
+7 Institutional Data
+  University Policy
+  Applies to:
+ Faculty, staff, students, contractors, volunteers, visitors, sponsored guests of academic and administrative units, and 
+affiliated entities who have access to institutional data.
+  Responsible Office
+ Office of the Chief Information Officer
+  
+ POLICY Issued:
+ 10/18/2007
+ Revised:
+ 08/15/2014
+  This policy specifies requirements for the protection of The Ohio State University™s 
+institutional data
+ from unauthorized 
+exposure or access
+ and 
+for 
+relinquishment of such
+ data when 
+terminating relationship with the university
+. All institutional 
+data must be assigned one of four data classification levels based on compliance, privacy, 
+sensitivity,
+ operational usage, 
+and risk
+. Institutional data must be protected with securi
+ty controls and access authorization mechanisms identified within 
+The Ohio State University™s 
+Information Security Standard
+. The 
+level 
+of protection
+ required for institutional data
+ is based 
+on the data classif
+ication level assigned
+ to such data
+. Institutional data includes
+, and
+ is not limited to, information in paper, electronic, audio, and visual formats
+.   Purpose of the Policy
+ The purpose of this policy is to protect the university™s institutional data 
+while
+ preserving the open, information
+-sharing 
+mission of its academic culture.
+  The 
+university
+ classifies 
+institutional data
+ in 
+accordance 
+with
+ legal
+, regulatory
+, administrative
+, and contractual
+ requirements
+; intellectual property and 
+ethical considerations
+; strategic or proprietary 
+value
+; and
+/or
+ operational use
+.   Definitions
+ Term
+ Definition
+ Data steward
+s Data stewards are d
+esignated university officials whose functional areas of responsibility include the creation or 
+origination of institutional data. They 
+have
+ overall
+ responsibility for managing and maintaining 
+such
+ data.
+ Data 
+manager
+s Data managers are individuals assigned specific data management responsibilities by 
+the
+ data steward
+(s).
+ They 
+typically have operational
+ level responsibility for the manageme
+nt of 
+institutional
+ data in their functional area.
+ Data 
+custodian
+s Data custodians are individuals authorized by 
+the 
+data manager
+(s)
+ or 
+data 
+steward
+(s)
+ who have operational 
+responsibility for the administration of the systems and devices that store, proce
+ss, transmit
+, or provide access to 
+institutional data. 
+ Data user
+s Data users are individuals that have access to non
+-public institutional 
+data to conduct university business and 
+operations.
+ Institutional 
+data
+ Institutional data is
+ information
+ created, c
+ollected, maintained, transmitted
+, or recorded by
+ or for
+ the university
+ to 
+conduct university business
+. It includes (
+a) data used for
+ planning, managing, operating, controlling, or auditing 
+university functions
+, operations, and 
+mission;
+ and
+ (b) pursuant
+ to the requirements as set forth in
+ the
+ Research 
+Data policy
+, information 
+created, collected
+, and maintained 
+in the conduct or reporting of research at or under the 
+authority
+ of Ohio Stat
+e, as applicable.
+ Institutional
+ data
+ includes, but is not limited to, information in paper
+, electronic
+, audio, and visual
+ forma
+ts. 
+ Personal data
+ Personal data
+ is information 
+created, collected, maintained, transmitted
+, or recorded 
+by university
+ owned dev
+ices, 
+media
+, or systems
+ in accordance with the 
+Responsible Use of University Computing and Network Resources policy
+ that is personal in nature
+ and not related to university business
+. Pers
+onal
+ data
+ includes, but is not limited to, information in paper
+, electronic
+, audio, and visual
+ forma
+ts.
+  
+Institutional Data
+  Universi
+ty Policy
+  Applies to:
+ Faculty, staff, students, contractors, volunteers, visitors, sponsored guests of academic and administrative units, and 
+affiliated entities who have access to institutional data
+  The Ohio State University 
+Œ University Policies 
+policies.osu.edu/
+ Page 
+2 of 
+7 Policy Details
+ I. Compliance
+.  A. Permission to access institutional data will be granted to eligible university community members for legitimate 
+universit
+y purposes.
+  B. Data users
+ who access institutional data must comply with all applicable
+: laws and regulations
+; university rules, 
+policies, procedures, and standards
+; and contracts. 
+ II. Data Classification
+.  A. All institutional data must be assigned one of four cl
+assifications
+ based on compliance, privacy, 
+sensitivity, 
+operational usage, and risk. These classifications take into consideration legal
+, regulatory
+, administrative
+, and 
+contractual 
+requirements
+; intellectual property
+ and 
+ethical considerations
+; strategic
+ or proprietary 
+value
+; and
+/or
+ operational use
+. B. Based on the data classification level, 
+authorization to access institutional data will vary and 
+specific controls for 
+access and 
+protection will be applied
+ in accordance with the Ohio State 
+Information Security Standard
+. Proper 
+clas
+sification is 
+a prerequisite to enable
+ compliance
+ with legal
+ and
+ regulatory 
+requirements
+, and 
+university
+ rule
+s, polic
+ies
+, and
+ standards.
+ The four institutional
+ data classifications are
+, from 
+least
+ to 
+most 
+restrictive:
+ 1. Public
+. Public 
+data 
+is institutional
+ data 
+that 
+is 
+intended for public use
+ and
+ has no access or management 
+restrictions. 
+  2. Internal
+. Internal 
+data is 
+institutional data 
+used to conduct university business and operations. It
+ may only be 
+access
+ed and manage
+d by 
+data 
+user
+s whose role, 
+function
+, or assignment 
+requires it
+. Unless otherwise 
+indicated, i
+nternal is the default level 
+for 
+institutional data.
+ 3. Private
+. Private 
+data is 
+institutional data 
+classified as private due to 
+lega
+l, regulatory, 
+administrative
+, or 
+contractual 
+requirements
+; intellectual property 
+or ethical 
+considerations
+; strategic or proprietary value
+; and/
+or 
+other special governance of 
+such 
+data. 
+Access
+ to and management
+ of private data
+ requires authorization and 
+is only 
+granted 
+to those
+ data 
+users
+ as permitted under 
+applicable 
+law, regulation, contract, rule, policy
+, and/
+or 
+role.
+ 4. Restricted
+. Restricted
+ data
+ is institutional data t
+hat 
+require
+s the highest level of protection due to l
+egal
+, regulatory
+, administrative, 
+contract
+ual
+, rule, or 
+policy
+ requirements
+. Access 
+to 
+and management
+ of restricted 
+data
+ is strictly limited as 
+unauthorized
+ use or disclosure 
+could 
+substantial
+ly or materially
+ impact the 
+university™s mission, operations, reputation
+, finances
+, or 
+result in 
+potential identity theft.
+ C. Institutional
+ data 
+element 
+assignments 
+for
+ the above
+ listed
+ data classifications 
+and their permitted use in 
+core 
+university services
+ and 
+data 
+user activities
+ are 
+specified
+ in the following 
+reference
+ document
+s: 1. Institutional Data Element Classification Assignments
+. Maps 
+institutional 
+data
+ elements
+ to 
+the appropriate 
+data classification levels.
+ 2. Permitted Data Usage By Activity
+. Identifies whi
+ch 
+classifications of institutional data are permitted for 
+specific 
+data 
+user activities.
+ 3. Permitted Data Usage By Service
+. Identifies which 
+classifications of institutional data are permitted for 
+specific
+ core 
+or hosted services.
+ III.
+ Records Management
+.  A. Institutional data may reside in university records, be used to produce university records, or itself
+ constitute 
+university records. 
+ B. University records 
+need to 
+be managed in accordance with 
+approved
+ records retenti
+on and disposition schedule
+s consistent with 
+University Archives
+ records management policies
+ and guidelines
+. Laws of the
+ State of Ohio
+ require that university record
+s not be discarded or destroyed in advance of the authorized disposition date.
+  
+Institutional Data
+  Universi
+ty Policy
+  Applies to:
+ Faculty, staff, students, contractors, volunteers, visitors, sponsored guests of academic and administrative units, and 
+affiliated entities who have access to institutional data
+  The Ohio State University 
+Œ University Policies 
+policies.osu.edu/
+ Page 
+3 of 
+7 IV.
+ Data Destruction
+.  A. To prevent unauthorized disclosure, institutional data must be properly disposed 
+of 
+using destruction methods that 
+meet the legal, regulatory, 
+and/
+or univers
+ity record retention requirements for the data.
+ B. The Ohio State 
+Information Security Standard
+ provides guidance 
+for
+ the secure destruction of institutional data. 
+ V. Public Records
+.  A. University records
+ are
+ general
+ly 
+ﬁpublic recordsﬂ which are 
+available to the public under 
+the State of Ohio™s 
+Public Records Law
+. Some 
+records
+ are
+ protected by federal
+ or state law or 
+are 
+otherwise exempt from disclosure. 
+ B. Release of reco
+rds 
+in response to a
+ public records request must be made i
+n accordance with 
+Ohio State™s 
+Public 
+Records p
+olicy
+. VI.
+ Relinquishing Data
+.  All data users are required to relinquish institutional da
+ta 
+upon
+ terminat
+ion 
+or as required by changes in
+ their
+ role or 
+relationship 
+with
+ the university
+, based on arrangements with senior management, 
+data steward
+ requirements
+, and/o
+r the requirements set forth in 
+the Ohio State 
+Research Data 
+policy
+.   PROCEDURE
+ Issued:
+ 10/18/2007
+ Revised:
+ 08/15/2014
+  I. University community members act in one or more specific roles when 
+creating, 
+collecting, maintaining, 
+transmitting, 
+accessing
+, or using institut
+ional data and must understand and fulfill the responsibiliti
+es associated with their roles
+. Responsibilities for each role are 
+listed 
+in the Responsibilities section
+ of this policy
+.  A. Data 
+steward
+s. Designated university officials 
+authorized to create or o
+riginate particular forms of institutional 
+data
+ and have overall responsibility for managing and maintaining 
+such
+ data.
+  Data stewards 
+also 
+plan for future 
+institutional data 
+needs of the university
+. B. Data 
+manager
+s. Authorized 
+and assigned specific data man
+agement responsibilities
+ by the data steward
+(s)
+ and 
+have operational 
+level responsibility for the management of institutional data in their functional area
+. Data 
+managers
+ oversee
+ the
+ integrity
+ of the
+ data, as well as its accuracy and 
+adherence to
+ applicabl
+e university policies 
+and
+ standards. 
+Data 
+managers
+ manage the access rights to 
+the 
+data they overse
+e and work with 
+data 
+custodians
+ to 
+implement controls
+ in regard to
+ the 
+security and privacy of the data based on its classification.
+ C. Data 
+custodian
+s. Authori
+zed by the 
+data 
+manager or 
+data 
+steward 
+with
+ operational responsibility for the 
+administration of the systems and devices that store, process, transmit
+, or provide access to institutional data. Data 
+custodians 
+implement
+ unit operating procedures
+ and guidel
+ines established by 
+data 
+stewards
+, data
+ managers
+, and 
+university policies and standards based on the data classification.
+ D. Data 
+users
+. Authorized to use institutional data in conduct
+ing 
+university business
+ and operations
+. II. The
+ Institutional Data 
+Classificati
+on Committee (
+IDCC
+) serve
+s as the 
+governance committee
+ for institutional data 
+classification
+.  A. IDCC
+ membership will consist of data stewards or their designees, the 
+chief information security officer 
+or 
+designee,
+ the Wexner Medical Center data security dir
+ector or designee,
+ Executive Committee on Integrated 
+Institutional Business Intelligence and Data Governance 
+designee
+, University Senate 
+designee
+, and other 
+individuals 
+at the 
+IDCC
+™s discretion. 
+ B. The
+ chief information officer 
+or designee
+ will 
+chair 
+and 
+con
+vene the 
+IDCC 
+on an as-needed 
+basis.
+ C. The 
+IDCC™s 
+responsibilities
+ are 
+described 
+in the Responsibilities section
+ of this policy
+. 
+Institutional Data
+  Universi
+ty Policy
+  Applies to:
+ Faculty, staff, students, contractors, volunteers, visitors, sponsored guests of academic and administrative units, and 
+affiliated entities who have access to institutional data
+  The Ohio State University 
+Œ University Policies 
+policies.osu.edu/
+ Page 
+4 of 
+7 III.
+ All data users 
+that
+ access
+ restricted 
+institutional data 
+must 
+complete 
+the 
+Inst
+itu
+tional Data Training
+ course 
+annually
+, at 
+a minimum.
+  A. Additional training may be required for handling institutional data 
+pursuant to legal, 
+regulatory
+, administrative
+, or 
+contractual 
+requirements
+. University community members should c
+onsult 
+their 
+supervis
+or, unit management
+, or 
+data 
+manager 
+regarding 
+additional and ongoing training needs
+. IV.
+ Reporting 
+a suspected
+ loss, unauthorized 
+access
+, or 
+exposure
+ of 
+institutional data
+. A. Any suspected 
+loss, unauthorized 
+access
+, or 
+exposure 
+of institutional data classified 
+as private 
+or restricted 
+must 
+be immediately reported
+. 1. OSU Wexner Medical Center 
+data 
+users should report 
+suspected loss, unauthorized access, or exposures
+ to 
+the 
+OSU Wexner Medical Center IT Help Desk (614
+-293-3861) and Privacy Office (
+issecurity@osumc.edu
+; privacyoffice@osumc.edu
+). 2. All other 
+data 
+users should report 
+suspected loss, unauthorized access, or exposures
+ to 
+the Office of the Chief 
+Information Officer (614
+-688
+-5650, security@osu.edu
+).  Any suspected loss,
+ unauthorized access, or 
+exposure 
+of protected 
+health information must 
+also 
+be reported to
+ the
+ HIPA
+A privacy 
+and IT security 
+officer
+. B. A suspected loss, unauthorized access, or exposure of 
+institutional data classified as internal must
+ be reported
+ promptly
+ to 
+the appropriate 
+unit management, unit human resource office, and/or to the 
+Office of Human 
+Resources
+ for determination of any subsequent action or reporting required.
+ V. Units 
+may 
+implement
+ additional unit operating procedures for institutional data within their areas of operational or 
+administrative control. 
+ A. If addit
+ional unit operating procedures for institutional data conflict with an element of this policy, they must be 
+submitted 
+to and approved 
+by the IDCC
+ prior to implementation
+. Submit such requests by emailing 
+idcc@osu.edu
+. B. Units must document and disseminate additional procedures or guidelines to their data users.
+ VI.
+ Contact your 
+unit™s public records officer or the 
+Office of University Compliance and Integrity
+ for assistance 
+regarding
+ public records requests.
+ For
+ requests from media outlets
+, also contact the 
+Office of University 
+Communications
+. VII.
+ Data c
+lassification additions
+ and 
+modifications
+ must
+ be submitted to 
+and
+ approved by 
+the 
+IDCC
+.  Submit su
+ch 
+requests
+ by emailing 
+idcc@osu.edu
+. VIII.
+ Policy exception
+ and waiver 
+requests 
+must
+ be submitted to 
+and approved by 
+the 
+IDCC
+.  Submit such requests
+ by 
+email
+ing
+ idcc@osu.edu
+. IX.
+ It is the resp
+onsibility o
+f the 
+data 
+user 
+to backup, save, manage
+, and maintain 
+any 
+personal
+ data
+. Ohio State does not 
+assume 
+any 
+liability 
+and will not take
+ responsibility 
+for
+ archiving, maintaining, managing
+, or granting access to 
+any 
+personal
+ data.
+ X. Frequently Asked Questions
+ (FAQs) regarding this policy are provided 
+and should be referenced for
+ additional 
+clarification.
+ XI.
+ Enforcement
+. A. Data u
+sers 
+who violate this policy may be denied access to university computing resources and ma
+y be subject to 
+other penalties and disciplinary action, both within and outside of the university. Violations will be handled 
+through university disciplinary procedures 
+and/or civil/criminal prosecution 
+applicable to the
+ relevant 
+data 
+user
+ under the circu
+mstances
+.  B. The university may temporarily suspend or block access to an account
+ and/or devices
+ prior to the initiation or 
+completion of such disciplinary procedures
+. The university may refer
+ or be required to refer
+ suspected violations 
+of applicable law to
+ appropriate law enforcement agencies.
+ 
+Institutional Data
+  Universi
+ty Policy
+  Applies to:
+ Faculty, staff, students, contractors, volunteers, visitors, sponsored guests of academic and administrative units, and 
+affiliated entities who have access to institutional data
+  The Ohio State University 
+Œ University Policies 
+policies.osu.edu/
+ Page 
+5 of 
+7 Responsibilities
+ Position
+ or Office
+ Responsibilities
+ Institutional Data 
+Classification
+ 
+Committee
+ (IDCC
+) 1. Promote the importance of protecting and securing institutional data as an asset and establish standards
+ and 
+best practices.
+ 2. Classify new or existing data elements in accordance with 
+applicable legal, regulatory, 
+administrative
+, and 
+contractual
+ requirements
+; intellectual property or ethical considerations; strategic or proprietary worth
+ and/or
+ university
+ rules and
+ policies.
+ 3. Document and disseminate 
+committee
+ decisions and other relevant information to data stewards, data 
+managers, data custodians, and data users.
+ 4. Manage 
+institutional
+ data classification conflicts in regard to university 
+rules, 
+policies, standards, an
+d unit 
+operating procedures.
+ 5. Oversee data stewards™ responsibilities identified in this policy.
+ 6. Respond to requests and questions submitted to 
+idcc@osu.edu
+. 7. Consider and decide policy exception
+s and/
+or waiver requests
+ submitted for approval
+. 8. Consider and decide data classification addition or modification requests
+ submitted for approval.
+ Data stewards
+ 1. Understand and comply with university policies and standards for the access, use, disclosure, and protection 
+of instituti
+onal data, including the 
+Ohio State 
+Information Security Standard
+. 2. Complete the
+ Institutional Data Training
+ course if restricted 
+data 
+is accessed.
+ 3. Provide operati
+onal guidance and expertise regarding data access, use, and compliance with 
+university 
+rules, policies, standards and procedures as well as applicable legal, regulatory
+, administrative
+, and 
+contractual requirements
+ relating to data integrity, security, and
+ confidentiality
+. 4. Publish and maintain data access procedures and approval processes for managing 
+institutional
+ data.
+ 5. Facilitate appropriate 
+institutional
+ data access and relinquishment.
+ 6. Oversee data manager responsibilities identified in this policy.
+ 7. Serv
+e or appoint a designee as a member of the IDCC.
+ 8. Provide guidance for labelling electronic and physical media according to data classification as appropriate.
+ 9. Remediate r
+eports of unauthorized data access, misuse, or integrity issues.
+ 10. Report suspected loss
+, unauthorized access, or exposure of 
+institutional data
+. Data manager
+s 1. Understand and comply with university policies and standards for the access, use, disclosure, and protection 
+of institutional data, including the 
+Ohio State 
+Information Security Standard
+. 2. Complete the
+ Institutional Data Training
+ course if 
+restricted 
+data 
+is accessed
+. 3. Implement
+, manage
+, and maintain operating processes, procedures, 
+and guidelines to comply with 
+university 
+rules and 
+policies
+ and applicable
+ legal, regulatory, 
+administrative
+, and contractual
+ requirement
+s relating to data integrity, security, and confidentiality
+. 4. Authorize 
+institutional data 
+access to 
+data users
+ who have
+ a legitimate university purpose for the data and 
+maintain records for 
+data users 
+with access.
+ 5. Document and disseminate administrative and operational procedures 
+to 
+promote
+ consistent
+ and secure 
+storage, processing, and transmission of institutional data
+. 6. Oversee
+ data 
+custodian
+ responsibilities identified in this policy.
+ 7. Document the sourc
+e and provenance
+ of 
+institutional
+ data and how 
+it is stored, processed
+, and transmitted 
+by those systems 
+and 
+data
+ users with
+ access.
+ 8. Oversee
+ that 
+training 
+in 
+institutional
+ data retention, handling, 
+security
+, and 
+destruction
+ is provided to 
+university community members
+ responsible for managing the data.
+ 9. Provide guidance for labelling electronic and physical media according to data classification. 
+ 10. Address r
+eports of unauthori
+zed data access, misuse, or integrity issues. 
+ 11. Report any suspected misuse, or integrity issues to the 
+appropriate 
+data manager or data steward for 
+remediation. 
+ 12. Report suspected loss, unauthorized access, or exposure of 
+institutional data.
+ Data custodian
+s 1. Understand and comply with university policies and 
+standards 
+for the access, use, disclosure
+, and p
+rotection 
+of institutional data, including the Ohio State 
+Information Security Standard
+. 2. Complete the 
+Institutional Data Training
+ course 
+if 
+restricted 
+data is accessed
+. 3. Maintain system and data security 
+controls
+ appropriate to the classification level of the institutional data in 
+their custody.
+ 4. Provision
+, de
+-provisi
+on, and administer 
+data 
+user 
+access
+. 5. Provide for physical data storage, backup and recovery, operation
+, and availability 
+of 
+institutional data.
+ 6. Verify 
+that 
+data users complete 
+the necessary 
+training as specified by the 
+appropriate 
+data manager.
+ 7. Report any 
+suspected 
+data misuse
+ or 
+integrity 
+issues to the 
+appropriate 
+data manager 
+or data 
+steward for 
+
+Institutional Data
+  Universi
+ty Policy
+  Applies to:
+ Faculty, staff, students, contractors, volunteers, visitors, sponsored guests of academic and administrative units, and 
+affiliated entities who have access to institutional data
+  The Ohio State University 
+Œ University Policies 
+policies.osu.edu/
+ Page 
+6 of 
+7 Position
+ or Office
+ Responsibilities
+ remediation.
+ 8. Report suspected loss, unauthorized access, or exposure of 
+institutional data
+. Data 
+user
+s 1. Understand and comply with university policies and 
+standar
+ds for the access, use, disclosure
+, and protection 
+of institutional data
+, including the Ohio State 
+Information Security Standard
+. 2. Complete the 
+Institutional Data T
+raining
+ course 
+if 
+restricted 
+data is accessed
+. 3. Disseminate 
+institutional
+ data to others only when appropriately authorized.
+ 4. Respect the confidentiality and privacy of 
+all institutional 
+data.
+ 5. Report any 
+suspected
+ data
+ misuse, or 
+integrity 
+issues 
+to the 
+appropriate 
+data manager or data steward 
+for 
+remediation.
+ 6. Report suspected loss, unauthorized access, or exposure of 
+institutional data.
+ Office of the Chief 
+Information Officer 
+(OCIO)
+ 1. Investigate suspected
+ loss, unauthorized access
+, or exposure
+ of 
+institutio
+nal data 
+notification
+s.  2. Consult with the Office of Human Resources 
+on any subsequent actions or reporting required.
+ 3. Notify the Office of
+ University 
+Compliance and Integrity of any suspected non
+-medical center breach that 
+may contain protected health infor
+mation within one business day.
+  4. Chair the IDCC.
+ 5. Maintain the 
+idcc@osu.edu
+ email list
+. 6. Provide the 
+Institutional Data Training
+ course
+. OSU Wexner 
+Medical Center 
+Data Securit
+y Team
+ 1. Investigate suspected loss, unauthorized access, or exposure of 
+institutional data 
+notification
+s. 2. Consult with Wexner Medical Center Human Resources regarding any subsequent actions or reporting 
+required.
+ Office of 
+University 
+Compliance and 
+Integri
+ty 1. Provide guidance 
+on public record
+ requests
+. 2. Provide guidance on addressing non
+-compliance
+ with this policy
+. Office of Legal 
+Affairs 
+ Prov
+ide advice and legal oversight regarding
+ applicable 
+laws 
+and regulation
+s protecting institutional data
+.  Office of
+ Human 
+Resources 
+ Consult with
+ units on
+ corrective action
+ and reporting
+.   Resources
+ Data Stewards for Institutional Data
+, go.
+osu.edu/idp
+-stewards
+ FAQ for 
+Institutional Data 
+policy
+, go.osu.edu/idp
+-faq
+ HIPAA 
+Privacy and IT Security Officers, 
+compliance.osu.edu/HIPAAprivacyITsecurity.pdf
+ Institutional Data Elements
+ Classification Assignments
+, go.osu.edu/idp
+-elements
+ Institutional Data Training, 
+go.osu.edu/idp
+-training
+ Information 
+Technology 
+Security 
+policy, 
+ocio.osu.edu/assets/Policies/ITSecurity.pdf
+ Information Security Standard, 
+go.osu.edu/infosec
+-irmp
+ Ohio 
+Public Records Law
+, codes.ohio.gov/orc/149.43
+ Permitted Data Usage by Activity, 
+go.osu.edu/idp
+-activities
+ Permitted Data Usage by Service, 
+go.osu.edu/idp
+-services
+ Public Records 
+policy
+, compliance.osu.edu/PublicRecordsPolicy.pdf
+  Research Data 
+policy, 
+orc.osu.edu/files/2011/01/ResearchDataPolicy.pdf
+ Responsible Use of Uni
+versity Computing and Network Resources
+ policy
+, ocio.osu.edu/policy/policies/responsible
+-use/
+   
+Institutional Data
+  Universi
+ty Policy
+  Applies to:
+ Faculty, staff, students, contractors, volunteers, visitors, sponsored guests of academic and administrative units, and 
+affiliated entities who have access to institutional data
+  The Ohio State University 
+Œ University Policies 
+policies.osu.edu/
+ Page 
+7 of 
+7 Contacts 
+ Subject
+ Office
+ Telephone
+ E-mail/URL
+ Policy 
+questions
+ Office of the Chief Information Officer, 
+IT Risk 
+Management 
+ 614-688-4357 ITPolicy@osu.edu
+ Corrective 
+action
+ Office of 
+Human Resources, Employee and 
+Labor Relations
+ 614-292-2800 ohrc@hr.osu.edu
+  hr.osu.edu/elr
+ Institutional data 
+(administrative 
+only) use questions
+ Office of Academic Affairs, Institutional 
+Research and Planning
+ 614-292-1340 oaa.osu.edu/irp/home.php
+ Legal issues
+ Office of Legal Affairs
+ 614-292-0611 legal.osu.edu
+ Media and other 
+communications 
+issues
+ Office of University Advancement, 
+University 
+Communications
+ Med
+ia Relations
+ 614-292-8285 ucom.osu.edu
+  Public 
+records 
+requests
+ Office of University 
+Compliance
+ and Integrity, 
+Public Records
+ Office 
+ 614-247-5833 PublicRecords@osu.edu
+  compliance.osu.edu/public
+-records
+  Records 
+management
+ University Libraries, 
+University 
+Archives
+ 614-292-3271 library.osu
+.edu/projects
+-initiatives/osu
+-records
+-management
+  Report a suspected 
+data loss,
+ unauthorized 
+access or exposure
+ Office of the Chief Information Officer, 
+Enterprise Security
+ 614-688-5650 security@osu.edu
+   History 
+ Issued
+: 05/02/2007
+  (As Interim)
+ Revised:
+ 10/18/2007
+ Revised:
+ 08/15/2014
+ 

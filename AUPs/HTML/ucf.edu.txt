@@ -1,0 +1,29 @@
+Uses your NID & NID Password for authentication Faculty, Staff, and UCF Students should always connect to UCF_WPA2.
+UCF_Guest Unsecure, wireless connectivity for guests and patrons NOT affiliated with the UCF community.
+No encryption; Do NOT use for web browsing that requires submitting personal information.
+Requires authentication via Acceptable Use Policy page before fully connected.
+Only university guest may connect to UCF_Guest.
+Additional wireless networking support can be found on the UCF IT Knowledge Base.
+Nav tabs Windows macOS iOS(iPhone/iPad) Android Other Tab panes Windows Instructions are for Windows 8, 8.1 and 10 Bring up your list of available wireless networks Select UCF_WPA2 and click the Connect button underneath Enter your NID for the username and NID Password for the password; then click OK Click Connect when the warning displays about Windows can t verify the server s identity You should now be connected to the UCF_WPA2 wireless network!
+If you changed your NID password, be sure to Forget the UCF_WPA2 network and then follow the steps above to re-establish the connection.
+Still having trouble or using Windows 7?
+Stop by the LibTech desk on the main/2nd floor for friendly assistance as Windows and older require a InCommon Certificate and W7 Configuration file to be properly setup.
+macOS Instructions are for macOS 10.7 and higher Click the Wi-Fi icon in the menu bar(near the clock) and select Open Network Preferences Click the Advanced button at the bottom right Scroll through the list of networks looking for any UCF networks Highlight any UCF network found and then click the -(minus) button underneath the list to remove each.
+Then click OK Click the Apply button at the bottom right.
+Click the Turn Wi-Fi Off button wait a moment, and then click the Turn Wi-Fi On button Click the dropdown menu next to Network Name and select UCF_WPA2 Enter your NID for the username and NID Password for the password; Mode should be Automatic.
+Then click
+You should now be connected to the UCF_WPA2 wireless network!
+NOTE: If this is your first time connecting to UCF_WPA2, after step #8 you may get another box asking to install a certificate.
+Click Continue button and then enter your computer s password, followed by clicking OK, to complete the certificate install.
+Still having trouble?
+Stop by the LibTech desk on the 3rd floor for friendly assistance.
+iOS(iPhone / iPad / iPod Touch) Part 1: Removing previous connections to UCF_Guest or UCF_WPA2 Tap Settings app Tap Wi-Fi Tap the blue i to the right of UCF_Guest or UCF_WPA2 if connected to one of them Tap the Forget this Network Tap Forget Part 2: Connecting to UCF_WPA2 Tap UCF_WPA2 Enter your NID for the username and NID Password for the password Tap Accept when prompted with the certificate.
+You should now be connected to the UCF_WPA2 wireless network!
+Still having trouble?
+Stop by the LibTech desk on the 3rd floor for friendly assistance.
+Android Part 1: Removing previous connections to UCF_Guest or UCF_WPA2 Open your Wi-Fi settings panel Long tap/press on UCF_Guest network and select Forget Repeat step on UCF_WPA2 to ensure no previous connection/password is remembered Part 2: Connecting to UCF_WPA2 Tap UCF_WPA2 Select PEAP for the EAP Method Select MSCHAPV2 for the Phase authentication Select Do not validate for the CA certificate Enter your NID for the Identity and NID Password for the password.
+Leave Anonymous Identity blank) Tap Connect You should now be connected to the UCF_WPA2 wireless network!
+Still having trouble?
+Stop by the LibTech desk on the 3rd floor for friendly assistance.
+Other Other operating systems such as Windows 7, Linux and other less common OSes can be a little more difficult to get working with the UCF_WPA2 authentication technology.
+Stop by the LibTech desk on the 3rd floor or by the Student Support Desk at Technology Commons for assistance.

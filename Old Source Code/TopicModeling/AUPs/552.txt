@@ -1,0 +1,22 @@
+   POLICY MANUAL  INFORMATION TECHNOLOGY
+  Number 552 Subject: Wireless Network Deployment & Access Effective Date: February 1, 2008
+  552.1  PURPOSE Wireless network technologies play an increasingly important role at Utah State 
+University. The purpose of this policy is to establish the intent, direction, and expectation with respect to the deployment (including 
+installation, operation, and maintenance) of 
+wireless technology at Utah State University. USU Informa
+tion Technology (IT) is taking on the initiative to provide 100% wireless coverage for the institution. 552.2  POLICY Information Technology shall design, deploy, ma
+nage, and coordinate a secure wireless networking service for the University. This 
+wireless system will allow faculty, staff, 
+students, and sponsored guests at USU ready-access to the internet and USU infrastructure, where authorized, 24 hours a day, 7 days per week, except when system 
+maintenance is required. 
+Wireless access points deployed by others which 
+create radio frequency interference with 
+this wireless service or duplicate existing wi
+reless services will be disconnected from the 
+network to avoid security breaches and other IT operation problems. Separate 
+deployments for research evaluation or traini
+ng needs should be coordinated with IT to avoid interference and duplication. IT shall have the sole charge and responsibility for the Un
+iversity™s wireless networking system including establishing procedures
+ for use at USU and adopting standards consistent with current 
+industry best practices.     
+BACK TO TABLE OF CONTENTS   

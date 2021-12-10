@@ -1,0 +1,32 @@
+The Acceptable Use Policy(AUP) outlines the ethical conduct students are expected to follow when using Central's computing systems.
+CWU reserves the right to change this policy at will and it is the student's responsibility to know and understand the current policy.
+By using Resnet, you agree to the following: You will have anti-virus and anti-malware software on your computer that is kept up to date and is configured to scan weekly.
+If your software is not up to date it may lead to an infection which in turn may result in your network access being disabled.
+You will keep your computer updated for security fixes from the appropriate software update service(Windows Update on windows computers, Software Update on Apple computers).
+If your computer is not up to date it may lead to virus infection which in turn may result in your network access being disabled.
+You will not use ANY peer-to-peer(p2p) or file sharing programs/applications(examples include Limewire, Cabos, Gnutella, eMule, Napster, and WinM on the ResNet network.
+You will not extend the network through the use of routers(wired or wireless), bridges, or other network hardware.
+You are fully responsible for your computer, including it's hardware, software, and any network traffic transmitted by it, regardless if this traffic was authorized by you or not.
+Please contact ResNet if you have questions about whether or not certain software/hardware might conflict with this AUP.
+You will not use applications that consume disproportionate bandwidth, attempt denial-of-service attack(s), probe and/or exploit security holes in other systems, use unauthorized IP addresses, attempt "hacking" or "cracking", or otherwise degrade or restrict network access for others(either on or off campus).
+Your network access will be disabled if CWU receives complaints about or detects inappropriate behavior.
+You may also be subject to computer account suspension, university disciplinary action, and/or legal consequences.
+You may use the Resnet network for personal uses such as: Web browsing, transferring files, playing games, chatting, "internet phone", etc.
+as long as access to these services is done in a legal manner.
+You may set up private servers for personal uses such as: game serving, local file sharing, or other applications as long as these file servers do not violate CWU policies, which includes but are not limited to software and music copyright protection.
+These servers are only to be used by CWU students and may not be made available to non-residents.
+You will not use network connections in CWU housing to provide any service that is visible off campus( e., available on the global Internet).
+This applies to services such as, but not limited to, HTTP(Web), telnet, FTP, IRC, "Napster" type music sharing, game servers, and email.
+You will not impersonate others or attempt to gain access to accounts or computers that you do not have permission to use, or spoof NIC MAC or IP addresses on any computer to gain access to the network.
+You will not run a DHCP(Dynamic Host Configuration Protocol) server that listens on a network interface that is directly connected to ResNet.
+You will not configure your computer to provide Internet or CWU network/ system access to anyone who is not a CWU faculty or staff member or student.
+You will not configure your computer as a gateway into the CWU network(as a dial up server or any other means).
+AUP Violation Penalties Penalties for AUP Violations 1st offense: The user's internet/network access will be disabled for one week.
+For p2p related offenses, network access will be automatically re-enabled at this time.
+For other offenses the student must contact ResNet support.
+nd offense: The user's internet/network access will be disabled for two weeks.
+For p2p related offenses, network access will be automatically re-enabled at this time.
+For other offenses the student must contact ResNet support.
+rd offense: The user's internet/network access will be disabled until the student schedules a judicial review with Student Affairs for potential disciplinary actions.
+If CWU receives notice from the authorized agent of a copyright holder regarding any copyright, trademark, or other intellectual property infringement, it will result in an automatic third offense.)
+ResNet Support Services November 2021 S M T W T F S 2 4 6 8 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 /#wrapper Take the Next Step to Becoming a Wildcat.

@@ -1,0 +1,13 @@
+Worcester Polytechnic Institute | 100 Institute Road, Worcester, MA 01609-2280Office of the First YearUndergraduate Studies100 Institute RoadWorcester, MA 01609-2280Phone: 1-508-831-6462welcome@wp eduNetwork InformationAcceptable Use Policy(AUP) WPI s network is governed by the AUP and all community members including students must abide by
+Watch this videoand view the full policy online.Residential Wired Networking -Available to all students living in on-campus residence halls A Residential Networking(ResNet) connection is included in the residence hall room fee.
+ResNetenables access to the Internet and to most software and printers available in public computer labs. ITS staff members are available during New Student Orientation(NSO) in August to assist with setting up a wired ResNetconnection.
+Wireless Networking -Available to all registered students All buildings on campus are equipped with wireless networking.
+The wireless network supports protocol 802.11ac as well as 802.11n. All laptops and mobile devices* to be used on campus must support WPA2-Enterprise encryption and contain an 802.11ac(or 802.11n minimum) capable wireless card.
+Many wireless appliances(gaming consoles, printers, etc.)
+do not support the WPA2-Enterprise authentication required. Routers and wireless access points, including most wireless printers, are not allowed on the WPI network.
+via a web browser.
+Login with your WPI email address and password to access your WPI e-mail.Virtual Private NetworkThe Virtual Private Network(VPN) provides a secure off-campus connection to WPI digital resources.
+It enables encrypted access to the same resources available on campus, such as network file shares.
+Log into the VPN with your WPI email address and password to install the VPN client.Remote DesktopA Remote Desktop connection to the terminal server provides access to numerous academic software applications.
+Connect using Mac OS Library Online ResourcesThe Gordon Library provides online access to many library databases, electronic journals, and electronic books.
+Loginwith your WPI username and password to peruse library materials from off campus.

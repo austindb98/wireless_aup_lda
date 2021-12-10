@@ -1,0 +1,545 @@
+ Responsible Use Policy
+    CONTACT
+  WILLIAM 
+PERRY
+ CHIEF 
+INFORMATION 
+SECURITY 
+OFFICER
+ THE 
+CALIFORNIA 
+STATE 
+UNIVERSITY
+ OFFICE OF THE 
+CHANCELLOR
+ 401 GOLDEN 
+SHORE LONG BEACH
+, CA 90802-4210 TELEPHONE
+: (562)
+ 951-4638  EMAIL
+: WPERRY
+@CALSTATE
+.EDU
+  
+Responsible Use Policy
+ FINAL
+ Last Revis
+ed: 06/05/13
+ Page
+ ii   Table of Content
+s Page
+ 1.0
+!Scope
+ ............................................................................................................................................................... 3!2.0
+!Policy Management
+ ......................................................................................................................................... 4!3.0
+!Gene
+ral Principles
+ ........................................................................................................................................... 4!4.0
+!User Responsibilities
+ ....................................................................................................................................... 5!4.1
+!Responsible Use of Informaton Assets
+ .................................................................................................. 5!4.2
+!Protection from Data Loss
+ ..................................................................................................................... 6!4.3
+!Prohibition Against Unathorized Browsing and Monitoring
+ .................................................................... 7!4.4
+!Responsibillity of Account Owners
+ ......................................................................................................... 7!4.5
+!Incidental Use
+ ........................................................................................................................................ 8!5.0
+!CSU Responsibilities
+ ....................................................................................................................................... 8!6.0
+!Policy Enforcement
+ .......................................................................................................................................... 9!
+Responsible Use Policy
+ FINAL
+  Last Revised: 06/05/13
+ Page
+ 3 of 
+9 Introduction
+ The California State University (CSU) provides access to information assets for purposes related to its mission 
+and to the responsibilities and necessary activities of its faculty, students and staff.
+ These resources are vital for 
+the 
+fulfillment of the academic, research and business needs of the CSU community.
+ This policy defines user, 
+system administrator and CSU responsibilities with respect to the use of CSU information assets in conjunction 
+with the CSU Information Security Policy
+.  The CSU regards the principle of academic freedom to be a key factor in 
+ensuring
+ the effective application of this 
+policy and related standards.
+ Academic freedom is at the heart of a universityÕs fundamental mission of discovery 
+and advancement of knowl
+edge and its dissemination to students and the public.
+ The CSU is committed to 
+upholding and preserving the principles of academic freedom: the rights of faculty to teach, conduct research or 
+other scholarship, and publish free of external constraints othe
+r than those normally denoted by the scholarly 
+standards of a discipline.
+ This policy is intended to define, promote
+, and encourage responsible use of CSU information assets among 
+members of the 
+CSU
+ community.
+ This policy is not intended to prevent, prohib
+it, or inhibit the sanctioned use of 
+CSU 
+information assets as required to meet the CSUÕs core mission and campus academic and administrative 
+purposes. 
+ The requirements stated within this policy must not be taken to supersede or conflict with applicable l
+aws, 
+regulations, collective bargaining agreements or other CSU and campus
+ policies.
+ 1.0 Scope 1.1
+ It is the collective responsibility of all users to ensure the confidentiality, integrity, and availability of 
+information assets owned, leased, or entrusted to the CSU and to use CSU assets in an effective, efficient, 
+ethical, and legal manner. 
+ The 
+CSU
+ RESPONSIBLE 
+USE POLICY 
+shall apply to the following: 
+ a) All campuses.
+ b) Central and departmentally managed campus information assets.
+ c) All users employed by campuses or any other person with access to campus information assets.
+ d) All categories of information, reg
+ardless of the medium in which the information asset is held or 
+transmitted (e.g. physical or electronic).
+ e) Information technology facilities, applications, hardware systems, and network resources owned or 
+managed by the CSU.
+ 1.2
+ Auxiliaries, external businesse
+s and organizations that use CSU information assets must comply with the 
+CSU
+ RESPONSIBLE 
+USE POLICY
+. 1.3
+ This policy establishes basic responsibilities for all users, the CSU and campuses, and describes 
+expectations for responsible use in the following section
+s: Section 
+3.0 General Principles
+ This section sets forth basic policy principles. Situations or 
+behaviors not specifically mentioned in sections 5.0 
+Ð 7.0 may 
+be addressed through application of these basic principles. 
+ 
+Responsible Use Policy
+ FINAL
+  Last Revised: 06/05/13
+ Page
+ 4 of 
+9 Section 
+4.0 User 
+- Responsibilities
+ This section highlights policy specifics related to access, 
+responsible use, network and information system integrity, 
+trademarks and patents, and incidental use
+. Section 
+5.0 CSU and Campus 
+Responsibilities
+ This section highlights specifi
+c requirements for CSU and 
+campus officials.
+ Section 
+6.0 Policy Enforcement
+ This section describes a process for addressing violations of 
+the 
+CSU
+ RESPONSIBLE 
+USE POLICY
+. 1.4
+ The development of 
+this
+ policy was expedited by reference to policies from:
+ a) CSU 
+campuses:
+ Bakersfield, East Bay, Fresno, Humboldt, Long Beach, Monterey Bay, Northridge, 
+San Diego, San Luis Obispo, San Marcos, and Sacramento 
+ b) Other institutions:
+ Concordia College, Montana State University, University of Albany, University of 
+Michigan, and Virginia Tech
+ 2.0 Policy Management
+ 2.1
+ The 
+CSU
+ RESPONSIBLE 
+USE POLICY
+ shall be updated as necessary to reflect changes in the CSUÕs 
+academic, administrative, or techni
+cal environments, or applicable laws and regulations.
+ The CSU Chief 
+Information Security Officer shall be responsible for overseeing a periodic review of this policy and 
+communicating any changes or additions to appropriate CSU stakeholders.
+ 2.2
+ The policy may
+ be augmented, but neither supplanted nor diminished, by additional policies and standards 
+adopted by each campus. 
+ 2.3
+ Each campus through consultation with campus officials and key stakeholders must develop policies, 
+standards, and implementation procedures 
+referenced in the 
+CSU
+ RESPONSIBLE 
+USE POLICY
+. 3.0 General Principles 
+ 3.1
+ The purpose of these principles is to provide a frame of reference for user responsibilities and to promote 
+the ethical, legal, and secure use of CSU resources for the protection of all memb
+ers of the CSU 
+community. 
+ 3.2
+ Use of CSU information assets shall be consistent with the education, research, and public service mission 
+of the CSU, applicable laws, regulations, and CSU/campus policies.
+ Note: 
+The term Òinformation assetsÓ, 
+along with many ot
+her important terms and concepts, are defined in the 
+CSU ICSUAM Policy Glossary
+: https://csyou.calstate.edu/ICSUAM/Pages/Policy
+-Glossary.aspx
+. 3.3
+ All users (e.g., faculty, staf
+f, stu
+dents, third parties
+) are required to comply with CSU and campus policies 
+and standards related to information security. 
+ 3.4
+ All users (e.g., faculty, staff, s
+tudents, business partners
+) are required to help maintain a safe computing 
+environment by notifying 
+appropriate CSU officials of vulnerabilities, risks, and breaches involving CSU 
+information assets.
+ 3.5
+ It is the policy of the CSU to make information assets and services accessible in order to meet the needs of 
+CSU students, faculty, staff, and the general p
+ublic. Information regarding the 
+Accessible Technology 
+Initiative
+ can be found at: 
+https://csyou.calstate.edu/Projects
+-Initiatives/ATI/Pages/default.aspx
+. 
+Responsible Use Policy
+ FINAL
+  Last Revised: 06/05/13
+ Page
+ 5 of 
+9 3.6
+ All users, inc
+luding those with expanded privileges (e.g., system administrators and service providers), shall 
+respect the privacy of person
+-to-person communications in all forms including telephone, electronic mail and 
+file transfers, graphics, and video.
+ 3.7
+ The CSU respe
+cts freedom of expression in electronic communications on its computing and networking 
+systems. Although this electronic speech has broad protections, all University community members are 
+expected to use the information technology facilities considerately 
+with the understanding that the electronic 
+dissemination of 
+information
+ may be available to a broad and diverse audience including those outside the 
+university.
+ 3.8
+ Other than publicly designated official CSU sites, the CSU does not generally monitor or restri
+ct content 
+residing on CSU systems or transported across its networks; however, the CSU reserves the right to use 
+appropriate means to safeguard its data, preserve network, and information system integrity, and ensure 
+continued delivery of services to user
+s. These activities are not intended to restrict, monitor, or use the 
+content of legitimate academic and organizational communications.
+ 3.9
+ In the normal course of system and information security maintenance, both preventive and troubleshooting, 
+system adminis
+trators and service providers may be required to view files and monitor content on the CSU 
+and campus networks, equipment, or computing resources. These individuals shall maintain the 
+confidentiality and privacy of information unless otherwise required by 
+law or CSU/campus policy.
+ 3.10
+ The
+ CSU recognizes and acknowledges employee incidental use of its computing and network resources 
+within the guidelines defined in the ÒIncidental UseÓ section of this policy, at paragraph 5.5 below.
+ 3.11
+ All investigations of CSU or 
+campus policy violations, non
+-compliance with applicable laws and regulations 
+or contractual agreements will be conducted in accordance with appropriate CSU and campus procedures.
+ 4.0 User Responsibilities
+ This section describes user responsibilities governing
+ access, responsible use, network and information system 
+integrity, and incidental use. These statements are not designed to prevent, prohibit, or inhibit faculty and staff 
+from fulfilling the mission of the CSU. Rather, these statements are designed to su
+pport an environment for 
+teaching and learning by ensuring that CSU resources are used appropriately.
+ 4.1
+ Responsible Use of Informaton Assets 
+ 4.1.1
+ Users are expected to use good judgment and 
+reasonable care in order to protect and preserve 
+the integrity of CSU eq
+uipment, its data and software, and its access.
+  4.1.2
+ Users must not use or access CSU information assets in a manner that: 
+ a. Conflicts with the CSU mission; 
+ b. Violates applicable laws, regulations, contractual agreements, CSU/campus policies or 
+standards; or 
+ c. Causes damage to or impairs CSU information assets or the productivity of CSU users 
+through intentional, negligent or reckless action.
+ 
+Responsible Use Policy
+ FINAL
+  Last Revised: 06/05/13
+ Page
+ 6 of 
+9 4.1.3
+ Users must take reasonable precautions to avoid introducing harmful software, such as viruses, 
+into CSU computing and netwo
+rking systems.
+  4.1.4
+ Unless appropriately authorized, users must not knowingly disable automated update services 
+configured on CSU computers.
+ 4.1.5
+ Users must take reasonable precautions to ensure that their devices (e.g., computers, tablets, 
+smart phones) are secure
+ before connecting to CSU information assets.
+  4.1.6
+ Users must close or secure connections to CSU information assets (e.g. remote desktop, virtual 
+private network connections.) once they have completed CSU
+-related activities or when the 
+asset is left unattended
+. 4.1.7
+ Users must promptly report the loss or theft of any device, which grants physical access to a 
+CSU facility (e.g., keys, access cards or tokens), or electronic access (passwords or other 
+credentials) to CSU resources.
+ 4.1.8
+ Users who publish or maintain informa
+tion on CSU information assets are responsible for 
+ensuring that information they post complies with applicable laws, regulations, and 
+CSU/campus policies concerning copyrighted material and fair use of intellectual property.
+ 4.1.9
+ Software must be used in a way
+ that is consistent with the relevant license agreement.
+ Unauthorized copies of licensed or copyrighted software may not be created or distributed.
+  4.1.10
+ Per Section 8314.5 of the California Government Code, it is unlawful for any state employee, or 
+consultant,
+ to knowingly use a state
+-owned or state
+-leased computer to access, view, 
+download, or otherwise obtain obscene matter.
+ ÒObscene matterÓ as used in this section has 
+the meaning specified in Section 311 of the California Penal Code.
+ ÒState owned or state
+-leased computerÓ means a computer owned or leased by a state agency, as defined by Section 
+11000, including the California State University.
+ This prohibition does not apply to accessing, 
+viewing, downloading, or otherwise obtaining obscene matter for use con
+sistent with legitimate 
+law enforcement purposes, to permit a state agency to conduct an administrative investigation, 
+or for legitimate medical, scientific, or academic purposes.
+  4.1.11
+ A user who has knowledge (or reasonable suspicion) of a violation of this p
+olicy must follow 
+applicable CSU and campus procedures for reporting the violation. A user must not prevent or 
+obstruct another user from reporting a security incident or policy violation.
+ 4.2
+ Protection 
+from Data Loss
+ 4.2.1
+ Individuals who access, transmit, store, 
+or delete Level 1 or Level 2 data as defined in the CSU 
+Data Classification Standard
+1 must use all reasonable efforts to prevent unauthorized access 
+and disclosure of confidential, private, or sensitive information
+.  1 The CSU Data Classification Standard 
+is located at 
+http://www.calstate.edu/icsuam/sections/8000/8065_FINAL_DRAFT_Data_Classification_CW_V4.pdf
+ a. Users must not provide access or transmit Level 1 or Level 2 data to another user without 
+prior approval from the data owner or custodian.
+ b. Users must 
+not access or transmit unencrypted Level 1 data over a public network. 
+ 
+Responsible Use Policy
+ FINAL
+  Last Revised: 06/05/13
+ Page
+ 7 of 
+9 4.3
+ Prohibition Against Unathorized Browsing and 
+Monitoring
+ 4.3.1
+ The CSU supports and protects the concepts of privacy and protects the confidentiality and 
+integrity of personal information mai
+ntained in educational, administrative, or medical records.
+ Information stored in CSU information systems may be subject to privacy laws.
+ 4.3.2
+ Users must not browse, monitor, alter, or access email messages or stored files in another 
+userÕs account unless speci
+fically authorized by the user.
+ However, such activity may be 
+permitted under the following conditions:
+ a) The activity is permitted under CSU or campus policy.
+ b) The activity is defined in the userÕs job description.
+ c) The activity is conducted under the authori
+ty and supervision of an approved CSU official 
+acting within his or her job responsibilities.
+ d) The activity is part of a classroom exercise conducted under the supervision of a faculty 
+member. In this case, the faculty member must ensure the exercise does n
+ot result in a 
+breach of confidentiality, availability, and integrity of CSU information assets. 
+ e) The activity is conducted to comply with an applicable law, regulation, or under the 
+guidance of law enforcement or legal counsel.
+ 4.4
+ Responsibillity of Account 
+Owners
+ 4.4.1
+ The owner or custodian of credentials, such as a username and password, that permit access 
+to a CSU information system or network resource is responsible for all activity initiated by the 
+user and performed under his/her credentials.
+ The user shall 
+assist in the investigation and 
+resolution of a security incident regardless of whether or not the activity occurred without the 
+userÕs knowledge and as a result of circumstances outside his or her control. 
+ 4.4.2
+ Users must take reasonable steps to appropriatel
+y protect their credentials from becoming 
+known by, or used by others. 
+ a. Users who have been authorized to use a password
+-protected account must follow 
+established procedures for setting, maintaining, and changing passwords. Unless specific 
+prior authorizat
+ion has been granted, users are prohibited from:
+ b. Using or attempting to use the account to access, modify, or destroy CSU or non
+-CSU 
+information assets for which a user is not normally authorized. 
+ c. Disclosing passwords to any party or including passwords i
+n documentation.
+ d. Embedding passwords in software code.
+ 
+Responsible Use Policy
+ FINAL
+  Last Revised: 06/05/13
+ Page
+ 8 of 
+9 4.4.3
+ With the exception of publicly accessible CSU information assets, users must not transfer or 
+provide access to CSU information assets to outside individuals or groups without proper 
+authorization.
+  4.4.4
+ Users of CSU information assets must not purposefully misrepresent their identity, either 
+directly or by implication, with the intent of using false identities for inappropriate purposes. 
+ 4.4.5
+ In the few instances where special circumstances or system requirem
+ents mandate that 
+multiple users access the same account, extreme care must be used to protect the security of 
+the account and its access password.
+ Management of this account must conform to written or 
+published CSU procedures designed to mitigate risk ass
+ociated with shared access accounts.
+ 4.5
+ Incidental Use
+ 4.5.1
+ University
+-owned/managed information assets are provided to facilitate a personÕs essential 
+work as an employee, student, or other role within the University.
+ Use of university owned 
+computer systems for 
+University
+-related professional development or academic activities such 
+as research or publication is permitted within the limits of system capacities.
+ 4.5.2
+ Personal use of CSU information assets
+ must be no more than Òde minimi
+sÓ (e.g. must have so 
+little value
+ that accounting for it would be unreasonable or impractical).
+ Individuals may use 
+CSU information assets for occasional incidental and minimal personal use provided such use:
+ a. Does not violate applicable laws.
+ b. Is not in pursuit of the individualÕs private 
+financial gain or advantage
+ c. Does not interfere with the operation or maintenance of University information assets. 
+ d. Does not interfere with the use of University information assets by others.
+ e. Does not interfere with the performance of the assigned duties o
+f a university employee. 
+ f. Does not result in a loss to the University.
+ 5.0 CSU Responsibilities
+ 5.1
+ The CSU has broad responsibilities with respect to protecting its information assets. These include but are 
+not limited to controlling access to information, respon
+ding to and addressing information security incidents, 
+complying with laws and regulations, and ensuring the logical and physical security of the underlying 
+technology used to store and transmit information. CSU policies related to these activities are fou
+nd in the 
+Integrated CSU Administrative Manual and can be accessed at 
+https://csyou.calstate.edu/ICSUAM/Pages/ICSUAM
+-8000.aspx
+. 5.2
+ The CSU retains ownership or stewardship of information
+ assets owned (or managed) by or entrusted to the 
+CSU. The CSU reserves the right to limit access to its information assets and to use appropriate means to 
+safeguard its data, preserve network and information system integrity, and ensure continued delivery
+ of 
+services to users. This can include, but is not limited to: monitoring communications across network 
+services; monitoring actions on information systems; checking information systems attached to the network 
+for security vulnerabilities; disconnecting i
+nformation systems that have become a security hazard; or, 
+restricting data to/from information systems and across network resources. These activities are not intended 
+to restrict, monitor, or utilize the content of legitimate academic and organizational c
+ommunications.
+ 
+Responsible Use Policy
+ FINAL
+  Last Revised: 06/05/13
+ Page
+ 9 of 
+9 6.0 Policy Enforcement
+ 6.1
+ The 
+CSU
+ respects the rights
+ of its employees and studen
+ts.
+ In support of the CSU Information Security 
+policies
+ https://csyou.calstate.edu/ICSUAM/Page
+s/ICSUAM
+-8000.aspx
+ campuses must establish 
+procedures that ensure investigations involving employees and students suspected of violating the CSU 
+Information Security policy are conducted.
+ These procedures must comply with appropriate laws, 
+regulations, col
+lective bargaining agreements, and CSU/campus policies.
+ Additionally, campuses must 
+develop procedures for reporting violations of this policy.
+ 6.2
+ The CSU reserves the right to temporarily or permanently suspend, block, or restrict access to information 
+asset
+s, independent
+ of such procedures, when it reasonably appears necessary to do so in order to protect 
+the confidentiality, integrity, availability, or functionality of CSU resources or to protect the CSU from liability
+. Suspension, block or restriction to i
+nformation assets in such a manner as to substantially affect the ability to 
+complete assigned coursework or job duties shall be considered disciplinary actions subject to 7(c)
+ 6.3
+ Allegations against employees that are sustained may result in disciplinary act
+ion.
+ Such actions must be 
+administered in a manner consistent with the terms of the applicable collective bargaining agreement and 
+the California Education code.
+ Student infractions of CSU Information Security policies must be handled in 
+accordance with th
+e established student conduct process. Auxiliary employees who violate the CSU policies 
+may be subject to appropriate disciplinary actions as defined by their organization's policies.
+ Third party 
+service providers who do not comply with CSU policies may be
+ subject to appropriate actions as defined in 
+contractual agreements and other legal remedies available to the CSU.
+ 6.4
+ The CSU may also refer suspected violations to appro
+priate law enforcement agencies.
+   

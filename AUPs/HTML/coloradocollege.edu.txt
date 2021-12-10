@@ -1,0 +1,83 @@
+CC students, faculty, and staff must respect the rights of others, abide by all college policies and applicable state and federal laws, and assume shared responsibility for safeguarding the college's information technology environment.
+Colorado College's computing resources may not be used for any activity that is illegal, unethical, or contrary to the educational goals of the college.
+Freedom of expression and the existence of an open environment conducive to inquiry and learning will be respected by the college with regard to use of information technology resources, but behavior that constitutes misconduct will not be protected.
+To enable the appropriate educational and administrative use of information technology resources, the college provides a secure network.
+Absent connectivity standards, our campus community is at risk to damages from hardware or software that has not been appropriately configured or maintained.
+These damages could include financial losses, interruption of network services, and the loss of data.
+To minimize exposure to such damages, this policy also defines standards for connecting computers, servers, or other devices to the college s network.
+Responsible office Information Technology Services Responsible party Vice President for Information Technology Services / CTO Last revision October 2018 Approved by The Cabinet Approval date October 2018 Effective date June 2014 Last review October 2018 Additional references Electronic Communications Privacy Act Scope All financial and administrative policies involving community members across campus, volunteers, and the Board of Trustees are within the scope of this policy.
+If there is variance between departmental expectations and the common approach described through college policy, the college will look to the campus community, volunteers and the Board of Trustees to support the spirit and the objectives of college policy.
+Policy Authorities Delegated and Retained/Administrative Responsibility The president of the college delegates administration of the college s Acceptable Use Policy to the chief technology officer/vice president for information technology.
+General Use Common sense and respect for others are excellent guides to what constitutes appropriate behavior in the use of information technology resources.
+Prohibited conduct falls into several areas including but not limited to unauthorized access, copyright violations, acts of destruction, invasion of privacy, and harassment.
+The policies listed below are not exhaustive but should convey a broad sense of what behavior constitutes illegal, unethical, or inappropriate conduct.
+As in other aspects of college life, users are bound by the policies and guidelines published on the Colorado College policies website, in the Colorado College Pathfinder, and in Colorado College Faculty and Staff Handbooks.
+By using CC s information technology resources, students, faculty, staff, and others agree that they are familiar with and will abide by those policies as well as this acceptable use policy and any modifications made thereto in the future.
+Unauthorized Account or System Use Users may not access data or other information technology resources without proper authorization, regardless of whether any damage is done or whether the data or other information technology resource in question is owned by the college.
+Users may not access or use, or attempt to access or use, any network accounts other than their own assigned accounts or any system for which they have not been granted access.
+In other words, users should use only their own files, those that have been designated as public, or those that have been made available to them with the knowledge and consent of the owner.
+The college s Honor Code and its prohibitions against plagiarism and cheating, among other things, applies to student use of any files and information obtained from CC s information technology resources when used in the preparation of academic coursework.
+Passwords should not be revealed to anyone else and should be changed according to published password standards.
+Users may not attempt to determine the password of another person through any means.
+Impersonation of another person by sending forged information(e.g., sending email with an erroneous "sender") is prohibited.
+Misuse of Information Technology Resources Every person is expected to use information technology resources in a responsible manner that does not waste resources(e.g., printed paper, network storage space, processing time).
+The college s policy regarding Misuse of College Resources applies to the use of all CC information technology resources.
+No person may store or use programs on college-owned systems that violate or hamper another person's use of the system.
+Examples of such programs include attempts to obtain another person's password, acquire another person's files, circumvent system security measures, or crash the system.
+Devising and/or intentionally spreading malicious software is expressly forbidden.
+No person may attempt to alter the condition or status of any networking component(such as wireless access points) in any manner to alter software owned by others or to copy software intended only for college use.
+No person should access or attempt to access server rooms or networking electronics closets on campus without explicit authorization.
+Only authorized personnel may attempt to fix hardware problems with college-owned systems, printers, or other devices.
+Such problems should be reported to ITS.
+Only ITS personnel or authorized contractors may install or alter audio-visual and related technology in smart classrooms or event venues around campus.
+All technology equipment checked out from the Library or ITS may be used only for appropriate purposes, and the person checking out that equipment assumes financial liability for it, including any late fees.
+Copyright and License Protections The author of a text or the creator of a graphic, program, or application is protected by copyright law unless they specifically release that work into the public domain.
+In accordance with the college s policies governing the treatment of copyrighted materials, users should always obtain written permission from the original author(s) before copying electronic materials that are not in the public domain.
+No user may copy or attempt to copy any proprietary or licensed software provided by or installed on college-owned resources.
+Copyright laws and license agreements protect much of the software and data that reside on the college s systems.
+Unauthorized duplication of software may subject users and the college to both civil and criminal penalties under the United States Copyright Act.
+Stolen or bootleg copies of software are not allowed on any Colorado College computing systems.
+All software programs must be registered in accordance with their license and use provisions.
+Harassment Information technology resources may not be used to intimidate, threaten, or harass other individuals.
+Colorado College's information technology resources may not be used for any activities that violate the college s Anti-Discrimination Policy, Student Code of Conduct, workplace standards, or state or federal laws.
+Information technology resources may not be intentionally used to view, store, print, or send obscene materials or slanderous, harassing, or threatening messages.
+Confidentiality Colorado College has both an ethical and legal responsibility to protect the confidential information of users.
+Confidential data is defined by local, state, and federal law.
+To promote confidentiality users must not: Perpetrate, cause, or in any way enable security breaches, including but not limited to accessing data of which the user is not an intended recipient or logging into a server or account that the user is not expressly authorized to access; Facilitate use or access by un-authorized users, including sharing their password or other login credentials with anyone, including other users, family members, or friends; Share private, financial, or personally identifiable information( e., SSN, tax information, student IDs, etc., according to state and federal law), even in the case when users are accidentally granted permissions to files or folders they should not access by means not approved for transmission of college information; or Attempt to gain access to files and resources to which they have not been granted permission, whether or not such access is technically possible, including attempting to obtain, obtaining, and/or using another user s password.
+Transmit College data, private, financial, or personally identifiable information( e., SSN, tax information, student IDs, etc., according to state and federal law) via non-College means.
+See the Solutions Center for easy and safe ways to properly send sensitive files/data.
+Privacy and Property The campus network is maintained and provided to assist in the pursuit of the mission of Colorado College and to conduct the College's day-to-day operational activities.
+The network is College property thus all data composed and created by employees and transmitted and/or stored on the network, is and will remain College property, not the private property of any individual.
+Colorado College will make every reasonable effort to respect a user's privacy.
+Users should have no expectation of privacy for communications, documents, or other data transmitted or stored on the organization s resources.
+In addition, in response to a judicial order or any other action required by law or permitted by official Colorado College policy or as otherwise considered reasonably necessary to protect or promote the legitimate interests of the organization, the College reserves the right to access, review, intercept, monitor, and/or disclose all data created, transmitted, accessed, and/or stored on the College s network and/or technology.
+Examples of situations where the exercise of this authority would be warranted include, but are not limited to, the investigation of violations of law or the organization s rules, regulations, or policy, or when access is considered necessary to conduct Colorado College business due to the unexpected absence of an employee or to respond to health or safety emergencies.
+Any personal or college-owned data created, transmitted, accessed, and/or stored on the campus network by users on personally-owned devices is subject to the same policies, procedures, guidelines and constraints as data created, transmitted, accessed, and/or stored through the use of College-owned devices.
+Exceptions to the data ownership clause described includes: student works developed as a part of their academic or co-curricular pursuits; and scholarly work by faculty and staff such as articles, books, music composition, research data, and the like.
+Violation of Privacy Respect the privacy of other users.
+Information, data files, external devices, email, and programs owned by individual people are considered private, whether or not the information is accessible by others.
+Access to private, financial, or personally identifiable information is restricted to authorized users, even in the case when users are accidentally granted permissions to files or folders they should not see.
+Tampering with email, interfering with or intercepting its delivery, and using email for criminal purposes may be felony offenses.
+The Electronic Communications Privacy Act places electronic mail in the same category as messages delivered by the US Postal Service.
+Appropriate Connection Methods Devices may only be connected to the college s network at appropriate connectivity points via authorized methods.
+Users may not make modifications or extensions to the network, such as installing a personal wireless access point that rebroadcasts Colorado College s network.
+Users should consult ITS if they discover a need to modify or extend the network.
+Network Registration Those using the college s network may be required to authenticate when connecting a device.
+ITS maintains a database containing machine identification, network addresses, and ownership information.
+This data is used to contact the registered users of the equipment in the event their devices are compromised.
+Protection of the Network ITS uses multiple methods to protect the college s network.
+These include monitoring for external attacks, scanning the network for anomalies, and proactively blocking harmful traffic.
+There may be times where more extensive procedures are required to address potential security exposures or to contain actual security exposures.
+By connecting to the college s network, users acknowledge that network traffic to and from their devices may be scanned.
+By connecting to the college s network, users acknowledge that if a device exhibits behaviors that ITS believes to be a risk, the device will be removed from the network.
+Suspicious device behaviors include(1) using substantial network resources,(2) sending disruptive network traffic, or(3) exhibiting a pattern associated with scans or attacks.
+Suspension or Revocation of Access Use of CC s information technology resources is a privilege.
+If a person is found to be in violation of these policies, this privilege may be revoked through temporary or permanent denial of access to such resources.
+People suspected of violating these policies may be temporarily denied access to CC s information technology resources during investigation of the alleged abuse.
+Additional Consequences of Misuse Abusers of the college s information technology resources will be subject to existing disciplinary procedures under current college policies in accordance with the abuser s campus status.
+When appropriate or required by law, the college may request or provide assistance to law enforcement agencies to investigate suspected illegal activities.
+Board Approval This policy does not require approval by the college s Board of Trustees.
+Periodic review of policies shall take place in accordance with each policy s individual review frequency.
+Procedures Education Creating awareness of the importance of information technology security is an important component in establishing an environment in which individuals feel responsible and empowered to act in their own and the community s best interests.
+The College will a provide opportunities to learn more about a secure information technology environment.
+Definitions contents of last_mod_login Report an issue - Last updated: 10/19/2021 // end last_mod_login end content contents of footer footer cc seal here 14 East Cache la Poudre St. Colorado Springs, CO, 80903(719) 389-6000 Map & Directions // END.cc-footer-address Students Faculty & Staff Alumni Parents & Families Accessibility Campus Safety Consumer Info Diversity Employment Privacy Policy Title IX // END.cc-footer-links // END.cc-footer-social // END footer // end footer Hostname: cascade01.coloradocollege.edu

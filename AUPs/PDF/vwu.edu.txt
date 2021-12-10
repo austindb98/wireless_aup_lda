@@ -1,0 +1,91 @@
+Virginia Wesleyan College Policies for Network Utilization and based Instruction This purpose of this document is to articulate a variety of policies, procedures, and practices regarding utilization of the VWC network and web-based instruction.
+The administration of the policy will include convening an annual meeting of representatives from a range of campus units(to include but not limited to Computer Services, Instructional Technology, Office ofthe Registrar, Institutional Research, and Academic Affairs).
+The purpose ofthe annual meeting will be to review and, if necessary, to revise, the policy.
+This policy as a whole will be located within the College's Policy Reserve, accessible on the homepage of the Office of Institutional Research and Planning.
+Additionally, certain parts will also be accessible through Computer Services webpages.
+Date: I-VOJe."-t1olt.j(date of most current revision will appear thereafter)
+Section 1: The VWC Network and Password Policy While associated with Virginia Wesleyan College, students, faculty and staff have protected computer accounts that provide access to the VWC Network and the Internet, and they are provided email accounts.
+For access to their academic records and for course registration, students have access to password-protected WebAdvisor accounts.
+In addition to privacy protection for online access to academic records, all education records of students enrolled at Virginia Wesleyan College are maintained in accordance with the provisions of the Family Educational Rights and Privacy Act of 1974 as Amended commonly referred to as FERPA or the Buckley Amendment.)
+Students also have access to Blackboard, the Learning Management System used by the College.
+Library information resources are accessible within the VWC Network.
+Password Policy The security of personal information on the VWC Network is ensured by password protection.
+VWC passwords are account specific, give access to personal information and should be safeguarded.
+For security purposes, the initially assigned passwords must be changed using the VWC Account Management Site.
+Using this site protects accounts and privacy from malicious use.
+The Account Management Site is a self-service page that allows each user to select security questions with answers.
+The Account Management Site allows users to set a new password by answering security questions.
+It synchronizes email account password with network login password.
+Computer Services will never ask for password via email, however the Account Management Site will send out password expiration notices periodically to let users know that passwords need updating.
+28 Characters Minimum Complexity: of the following are required Lowercase Characters Uppercase Characters Numbers(0-9) Special Characters including spaces(' -!
+
+0 Days(after 90 days your password will have to be changed) Password Age Minimum:
+3 Days {Passwords cannot be changed sooner than days since last change} Password History: The last 12 Passwords cannot be used
+Sectie>n 2: Acceptable Use Policy for VWC Computer Systems and Network General Principles: Access to computer systems and networks owned or operated by Virginia Wesleyan College imposes certain responsibilities and obligations by faculty and staff as well as students enrolled in college classes.
+This access is granted subject to College policies, local, state, and federal laws.
+Systems and resources are provided primarily for academic use.
+NetWDrk usage for other activities such as personal communications, gamming or entertainment may be prioritized to ensure we meet our academic goals.
+Acceptable use is always ethical, reflects academic honesty, and shows restraint in the consu mption of shared resources.
+It demonstrates respect for intellectual property, ownership of intellectual property, system security mechanisms, and individuals' rights to privacy and to freedom from intimidation and harassment.
+Violation of this or other policies as outlined in the Student or Faculty/Employee handbooks may result in the loss of network privileges.
+In addition, the obtaining or distributing of material protected under United States or international copyright laws using electronic, paper or other media without the proper permission is illegal and can result in the loss of library, network or other privileges and may also result in criminal prosecution by the responsible authorities.
+Connecting a personal device to the Virginia Wesleyan College network, either by direct Ethernet connection or via our wireless(802.11) network obligates the owner/user to comply with this "Acceptable Use" policy.
+By connecting your device(phone, computer, tablet, smart TV or gamming console) to the VWC network we will be able to monitor the usage and content of messages and web sites visited.
+Although we do not routinely examine the content of this activity we are constantly monitoring the overall usage of the network to improve the services to the community.
+SpeCific investigation of content may be done as directed by law and/or to protect the institution or individuals involved.
+Guidelines: In making acceptable use of resources you must: Protect your username, password and system from unauthorized use.
+You are responsible for all activities by your username or that originate from your system.
+Access only information that is your own, that is publicly available, or to which you have been given authorized access.
+Use only legal versions of copyrighted software in compliance with vendor license requirements.
+Be considerate in your use of shared resources; network bandwidth, public printer' paper, network storage and lab computers.
+Refrain from monopolizing systems, overloading networks with excessive traffiC, degrading services, or wasting computer time, disk space, printer paper, manuals or other resources.
+Contact the Computer Services Help Desk at 455-3111 or helpdesk@vwc.edu PRIOR to connecting anything other than your laptop or desktop computer to the college computer network.
+In making acceptable use of resources you must NOT:
+o Connect any wired or wireless networking devices such as: servers, access points, hubs, routers, switches, etc.
+to the VWC network.
+o Use another person's system, files, or data without permission.
+o Use someone else's name, username or password.
+o Use computer programs to decode passwords or access control/security information.
+o Attempt to circumvent or subvert system or network security measures.
+o Engage in any activity that might be purposefully harmful to systems or to any information stored thereon, such as creating or propagating viruses, disrupting services, damaging files or making unauthorized modifications to College data.
+o Use College systems for commercial or partisan political purposes, such as using electronic mail to circulate advertising for products, services or for political candidates.
+o Make or use illegal copies of copyrighted software, store such copies on College systems, or transmit them over College networks.
+o Use mail or messaging services to harass or intimidate another person, for example, by broadcasting unsolicited messages, by repeatedly sending unwanted mail, or by using someone else's name, email address or username or general "spamming".
+This includes the distribution of offensive language or pictures.
+o Waste computing resources or network resources, for example, by intentionally placing a program in an endless loop, printing excessive amounts of paper, or by sending chain letters or unsolicited mass mailings.
+o Use the College's systems or networks for personal gain; for example, by selling access to your username, to College systems, networks, or by performing work for profit with College resources in a manner not authorized by the College.
+o Use cordless phones or other electronic devices using the 2.4 GHz broadcast band that will interfere with the College's wireless network.
+o Engage in any other activity that does not comply with the spirit of the General Principles presented above.
+Enforcement: The College considers any violation of acceptable use principles or guidelines to be a serious offense and reserves the right to copy and examine any files or information resident on College systems allegedly related to unacceptable use and to protect its network from systems and events that threaten or degrade operations.
+Violators are subject to disciplinary action as prescribed in the College Policies for Student Life, and employee handbooks.
+Offenders also may be prosecuted under laws including(but not limited to) the
+Access to the text of these laws is available through the Hofheimer Library Reference Department.
+Information Disclaimer: Individuals using computer systems owned by Virginia Wesleyan College do so subject to applicable laws and College policies.
+Virginia Wesleyan College disclaims any responsibility and/or warranties for information and materials residing on college systems or available over publicly accessible networks.
+Such materials do not necessarily reflect the attitudes, opinions, or values of Virginia Wesleyan College, its faculty, staff, or students.
+No software is to be loaded onto or run on a College owned computer unless the College has.
+purchased the software.
+These guidelines should not be construed as a limit on any individual's right under the constitutions of the United States or the Commonwealth of Virginia.
+The information in the Acceptable Use Policy is the responsibility of the Computer Services department.
+Questions or complaints about possible violations should be sent to the Chief Technology Officer with as much detail as possible.
+Section 3: Definition of Hybrid and Online Course Virginia Wesleyan College offers a very small number of courses that utilize distance learning.
+The College is committed to only offering those courses that conform as well as traditional classroom courses to established core principles of small classes that engage students in an active learning environment.
+Such courses are categorized as either "hybrid" or "online" courses.
+Hybrid courses are 30% or more instructional seat time online.
+Online courses are 7S% or more instructional seat time online.
+All must be approved as such by the Educational Programs Commission.
+In registration materials, such courses will be identified with the following designations: OL = online, and HY = hybrid.
+Section 4: The Blackboard Platform and Web-based Instruction Blackboard is a Learning Management System that is web-based to allow 24/7 access to course related materials provided by the Instructor.
+An Internet connection is needed to access Blackboard but there is nothing to install or download to operate this software.
+Blackboard works with both Windows and Macintosh computers.
+Students can access Blackboard using most Web browsers, but it performs best with an up-to-date version of Mozilla Firefo
+Every VWC student is initially enrolled in Blackboard.
+For initial access to Blackboard, students use initial network username and password.
+Thereafter, students are advised to change their Blackboard password to ensure security of access.
+Within the framework of regular face-to-face instruction, instructors at VWC utilize Blackboard for many aspects of course delivery: course materials are posted in Bb, tests can be taken through Bb, papers can be submitted and reviewed, discussion boards tracked, etc.
+Some faculty may choose to supplement their courses outside of Blackboard with third-party software, such as textbook-provided supplemental software.
+This software is accessed through the Internet using a username and password provided by the third party.
+Under this arrangement, the course instructor is responsible for consulting with the Director of Instructional Technology to ensure secure and private access to individual student records and grading information.
+Note: the arrangement with each third-party provider is so unique that if issues arise with accessing websites, students should contact the course instructor directly to resolve any access or password issues.)
+When VWC courses are offered as hybrid or online courses(defined above), instructors are likely to utilize Blackboard for course delivery.
+IfVWC instructors utilize a third-party software for hybrid or online courses, they are responsible for consulting with the Director of Instructional Technology to ensure acceptable privacy and security protections.

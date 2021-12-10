@@ -1,0 +1,108 @@
+General Policy Statement This University Mobile Device Acceptable Use Policy applies to use of Syracuse University assigned mobile services, and University owned and/or issued mobile devices.
+These are referred to in this document as in either of two ways.
+Definitions: Mobile device: any electronic device with the ability to transmit or receive data, text, and/or voice, via a University-approved cellular network.
+This includes but is not limited to smartphones, cellular equipped tablets and phablets, laptops, and mi-fi cellular cards.
+Communication device: Includes all mobile(cellular) devices as defined above as well as other communications devices including, but not limited to land line telephones, two- way radios, and beepers.
+
+Policy Assigning a University Issued Mobile Device The IT Director of the College or Division will recommend who qualifies for a University issued cellular device following a University-wide standard scoring rubric.
+Final determination is subject to a Dean or Division Head s review and approval.
+A user who qualifies for a device may not automatically be assigned a device at the discretion of the Dean or Division Head, as individual needs and departmental resources may vary.
+The IT Director, with input from the leadership within the College or Division, will determine device assignments offering users choices where possible.
+Single Mobile Device Assignment Policy With proper authorization, a University employee may be issued one(1) mobile device with enabled cellular service.
+Employees needing to connect multiple devices to either the Internet or a cellular service provider should work with their IT Departments, ITS or Telecommunications as appropriate for alternative solutions and technologies.
+Such technologies may include smart phone tethering or a temporarily assigned Mi-Fi access point.
+Employees who dual report to two or more departments and are assigned a University smart or flip phone shall be issued one(1) cellular device, with costs allocated between the two departments as mutually agreed Records Management of a University-Assigned Mobile or Communication Device All University device service usage detail records produced by assigned mobile devices are property of the University and managed by the University.
+Usage summary reports( e.
+number of minutes or GB of data used) are distributed to supervisors regularly and are periodically reviewed.
+Detailed usage reports are available to any supervisor upon request by contacting Telecommunications.
+If the Employee s college IT Director, Dean or Division Head concurs that an employee need exists, she or he may authorize a University issued communications device to be provided by the IT Director.
+The University understands that some minimal amount of personal use of a University provided land line or cellular phone is inevitable.
+However a University mobile device is intended for business use only.
+Personal Communications Devices and University Business If a user elects to use his or her personal device for University business, he/she may do
+The University does not offer per-call reimbursement or stipend a user for personal monthly cellular service usage.
+The Security Standard must be adhered to by all University-Issued Mobile Devices and their Users at all times.
+University-Issued Services on Personal Communication Devices: Standards If an individual elects to attach a personally owned communications device to a University IT system, such as University operated email systems, he/she is required to adhere to the Mobile Device Security Standard found on ITS website at http://its.syr.edu.
+Mobile Device Upgrade Frequency and Schedule Policy University owned mobile devices may be upgraded two years from original purchase.
+If a business need exists that requires the device to be upgraded sooner than two years, the employee may discuss initially with their IT Director, and then with their Dean, or Division Head.
+If the device is broken or otherwise inoperable and no device that is capable of performing similar University business is available at Excess Property, the Colleges or Division s IT Director may recommend an upgrade.
+A University employee wishing to upgrade their assigned cellular device may not use another employee s cellular device upgrade schedule to upgrade their assigned cellular device.
+Employee-Owned Device Purchase Option According to University Service Plan Procedure, Employees wishing to upgrade their University assigned cellular device sooner than the approved two year time period are free to purchase their IT Director approved device out-of-pocket and attach such device to a University cellular service plan.
+The cellular phone number becomes the property of the University and may be transferred back to the employee upon termination or resignation of the employee-based on recommendations made by Telecommunications and the Home College or Division.
+The employee will retain ownership of their cellular device.
+The University will not be responsible for any maintenance, 3rd party products such as Bluetooth devices or any communications options.
+The employee will be required to adhere to all usage limits and policies outlined in the section labeled Personal Use of University-Provided Communications Devices including reasonable usage and usage reimbursement provisions.
+Switching of a cellular carrier solely to upgrade a device before the two year cycle is not allowed.
+Mobile Device Recycling and Reuse Excess Property will maintain an inventory of all University owned cellular devices available for either repurposing, recycling, or reuse.
+A previously used University owned communications device will be: Available at Excess Property for purchase by a College or Division as a replacement of a stolen, damaged, or lost device or as a newly assigned device.
+Sold to the general public based on its value set by excess property.
+Sold to an external recycling company.
+Revenue from the sale of each device will be transferred back to the College or Division that purchased the device at the time of sale.
+If a new communications device is replacing a pre-existing communications device, the pre- existing communications device must: Be reset to factory defaults and free of all University confidential, sensitive, and all personally identifiable information.
+This should be completed by the user, then verified by the College s or Division s IT Director prior to when the new device is assigned.
+Damaged, Lost or Stolen University Issued or Personally Owned Communications Devices Employees in possession of University issued communications devices are expected to secure the equipment from loss or damage.
+If the cellular device is stolen call the local police department or if on campus, call the Department of Public Safety(315) 443-2224.
+Immediately afterwards, the employee should contact the College s or Division s IT Director, explain the loss, and use outlook web access(OWA, http://exchange.syr.edu) to remotely reset the cell phone to factory defaults(remote wipe the device).
+For assistance they can contact the ITS helpdesk.
+University issued devices that are lost, damaged, or cease to function will be replaced by the College or Division with a device that is capable of performing similar University business as the original device.
+There is no guarantee that such a replacement device will be the same make or model device that was lost or damaged.
+Under circumstances where it is determined that the employee is responsible for damaging or misuse of their issued communications device, disciplinary action may be taken.
+Mobile Devices and Services Billing for mobile devices and services will be coordinated by Telecommunications with the colleges or departments budget manager.
+The use of procurement cards for paying for recurring cellular service fees or purchasing mobile devices is not allowed.
+College or Division currently using any form of payment, including procurement cards, as a method to pay recurring cellular service fees are required to transfer these plans/bills to approved University service plans.
+
+Compliance All University employees issued and accepting University mobile devices and services will be expected to maintain compliance with the University Mobile Device Acceptable Use Policy.
+The IT director will notify the Employee if there appears to be a compliance concern occurring, so the Employee may rectify any inadvertent breaches of policy expeditiously.
+Any apparent criminal compliance concerns will be immediately brought to the attention of the Department of Public Safety and reported to the relevant College or Division s IT Director.
+Mobile Device and Communication Service Records Management and Compliance University assigned Mobile Device and service records are subject to regular internal reviews by the University.
+In addition, external audit requests by public agencies including regulatory and enforcement authorities may occur, and will be fully complied with by the University and its employees in all circumstances.
+If a University assigned device was used for illegal or unethical activities, the University may pursue an investigation and take whatever action is deemed necessary.
+Required Use of Excess Property University-issued mobile devices are University owned property.
+If the device is no longer needed for University business, it is to be returned to the relevant College or Division s IT Director.
+Mobile Devices deemed Excess Property are re-sold through the University s established Excess Property disposal procedures and methods.
+Colleges or Divisions may not sell, trade-in, or give-away new or used University cellular or communication devices.
+Resignation or Termination of Employment Upon resignation or termination of employment, employees are expected to comply within 24 hours with the University s requirement that the University issued mobile device be promptly returned and disconnected from any personal accounts.
+Employees who separate from employment with outstanding equipment debts or incur unauthorized charges will be considered to have left employment on unsatisfactory terms and may be subject to legal action for recovery of the loss.
+Mobile Device Use while Operating a Vehicle In situations where job responsibilities include regular driving and acceptance of business calls, hands-free equipment may be provided to facilitate the provisions of this policy.
+Under no circumstances are employees required to place themselves at risk or break the law to fulfill business needs.
+Employees who are charged with traffic violations resulting from the use of their phone while driving will be responsible for all financial liabilities and associated penalties that result from such actions.
+
+To Whom Does This Policy Apply Faculty, Staff Other Related Policies and Documents Scoring rubric, explanations, samples and tracking worksheet may be found here: Cell Scoring Sheet FAQ When will my position be scored using the cellular measuring rubric?
+Scoring will begin sometime in May and finish by July 1, 2015 with any changes implemented by September 30, 2015.
+Will any money saved by these changes stay in my department?
+The savings from office supplies, paper, printer and copier ordering changes, and any additional savings realized from other Fast Forward Syracuse initiatives, will be used to support the priorities defined in the University s Academic Strategic Plan that is being developed.
+I prefer my current carrier and don t wish to switch to AT&T You may retain your current carrier if you can demonstrate a business requirement to stay on your current carrier.
+Several of my staff use lots of data and talk minutes but several of them use almost none.
+How will that affect my costs?
+All minutes and data will be pooled across the university and managed centrally.
+This provides the most control and the biggest savings.
+All users will pay the same monthly fee.
+How does the new policy affect upgrades to existing equipment?
+Users will be eligible to upgrade their equipment after two years.
+Upgrades will be implemented at the discretion of their Dean, Director or Department head.
+Previously used equipment will be sold or repurposed through excess property I dropped my phone and broke
+Can I have a new one?
+
+A pool of loaner equipment will be held centrally for emergency use until repairs can be completed or you become upgrade eligible.
+Pre-owned phones may also be available for departmental purchase through excess property My position is not eligible to keep a smart phone and I am transferring to a private plan.
+Can I keep the number I ve been assigned and my current equipment?
+Transfer of numbers and equipment will be made on a case by case basis by each department.
+There is nothing in the policy to prevent transferring numbers or used equipment.
+My position is not eligible for a smart phone.
+I would like to get my own phone, stay on the University plan and reimburse my department.
+Under the new policy, plan reimbursements and stipends are no longer allowed.
+If I give up my landline can I have a University smart phone?
+The costs of a landline and a smart phone are not equivalent.
+Retention of a land line might be a factor, but not the sole factor.
+How much does the landline savings amount to per phone?
+Costs start at around $15.00 per phone, per month.
+This does not include long-distance calls, installation costs, voicemail, headset costs etc.
+For cost information on specific numbers please contact Telecommunications.
+Will conference lines be impacted by terminating the landline?
+Locations where conference calls are frequently held should maintain landlines or utilize a VoIP conference calling system.
+For additional information, please contact Telecommunications.
+How many current faculty and staff members could be impacted by this new policy?
+How will it affect new hires after July 1?
+All faculty and staff currently assigned a SU owned cellular phone or embedded cellular device will be evaluated.
+All new hires post July will have their cellular service needs evaluated using the rubric to determine possible cellular device assignments.
+We expect to see a reduction in assigned units of 10% 20%.
+Knowledge crowns those who seek her.

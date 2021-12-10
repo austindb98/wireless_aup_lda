@@ -1,0 +1,37 @@
+Information for Campus Network Use SDSU Computing Network Access SDSU provides wired and wireless network connections to faculty, staff, students, and selected guests.
+SDSU recognizes a policy of acceptable and appropriate use for your SDSU network connection.
+By connecting to or using an SDSU network connection, you agree to abide these policies.
+Furthermore, you agree to accept responsibility for any misuse by other individuals who use your computer or network connection.
+In addition, you must abide by all other campus and California State University policies as well as current state and federal law.
+Network Limitations All residential housing and wireless networks on campus are protected by firewalls to ensure fair use of the network resources and that potential security intrusions from the Internet are limited.
+All network use is logged.
+Residential network and wireless connections provide outbound connections to the Internet and campus.
+Inbound connections from the Internet to your computer are not permitted by the firewall.
+Running servers on your computer accessible from the Internet is not allowed.
+Due to these limitations, some applications may not be available through the firewall or may be administratively blocked.
+User Limitations It is the responsibility of each registered network user to use SDSU computer and network resources appropriately by showing common sense, common courtesy, and a respect for the rights or property and privacy of the university and other users.
+Access is a privilege that can be revoked due to misuse.
+The Digital Millennium Copyright Act(DMCA) The DMCA is a copyright law that was enacted by the United States Congress and signed by the President in 1998.
+This law requires SDSU to promptly block access to the infringing material if the university receives a notification claiming infringement from a copyright holder or the copyright holder's agent.
+Over 99% of DMCA notices received by the university are for illegal music and movie sharing.
+If SDSU receives a DMCA notice claiming infringement of copyright, the offending computer will be blocked from SDSU's networks.
+The SDSU Technology Security Officer may temporarily suspend network privileges of any SDSU user while suspected violations are being investigated or adjudicated.
+User Responsibilities include the following: The university's networks are shared resources.
+Excessive use of network resources, which inhibits or interferes with the use of these networks by others, is not permitted.
+Users may not run any programs that interfere with SDSU computing or network services.
+In particular, SHCP and proxy servers are expressly forbidden.
+Users must follow proper SDSU network registration procedures.
+Users may not use or spoof any network address not specifically assigned to them by the university.
+Any use, receipt, or transfer of software or data must observe copyright laws, license restrictions and university policies.
+SDSU may not be used to provide Internet access to anyone not formally affiliated with the university.
+Connections to your computer from outside the university, either directly or via proxy, are not allowed.
+SDSU may not be used for commercial or profit-making enterprise.
+Use of these resources for commercial gain is in opposition to the non-profit status of the university.
+SDSU services, equipment, wiring or jacks may not be altered nor extended beyond the location of their intended use.
+Users may not use SDSU to attempt to circumvent protection schemes or exercise security loopholes in any computer or network component.
+Viewing, copying, altering, or destroying any file, or connecting to a host on a network without explicit permission of the owner is a violation of this policy.
+Unauthorized network sniffers are forbidden and violate federal wiretap laws.
+Users may not share university system passwords, use another person's account, even with permission, or allow use of an established connection by someone other than the registered user.
+Users may not forge or otherwise misrepresent another's identity through any form of communication.
+University network resources may not be used to defame, harass, intimidate, or threaten any other person(s).
+University harassment policies cover all uses of the SDSU network, including email correspondence and newsgroups.

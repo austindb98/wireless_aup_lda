@@ -1,0 +1,592 @@
+ASU System Policy
+ 
+ 
+ 
+Effective Date: 
+ 
+March 4, 2011
+ 
+ 
+Subject:  Appropriate Use of Information & Technology Resources 
+ 
+ 
+ 
+1.
+ 
+Purpose
+ 
+ 
+ 
+Arkansas State University System (University) invests substantial and sufficient 
+resources to acquire 
+and operate information technology (IT) assets, such as 
+hardware, software, and Internet connections.  The University has a responsibility to 
+manage its resources in the most efficient and effective manner possible and in 
+compliance with all laws, regulati
+ons, and sound business practices, while at the 
+same time protecting and preserving the right to academic freedom.  Effective 
+management of information technology resources will assure students, faculty, and 
+staff adequate access to information and technol
+ogy over the long term.  The 
+following regulations are established to define acceptable uses of 
+information 
+technology 
+resources, and to assure that information technology resources promote 
+the basic functions of the University in teaching, learning, resea
+rch, administration, 
+and public service.  These regulations apply to any entity or individual accessing the 
+Arkansas State University information technology infrastructure and associated 
+resources.
+ 
+ 
+2.
+ 
+Definitions
+ 
+ 
+IT Resources
+.  These are the computers, t
+erminals, 
+kiosks, 
+printers, networks, 
+telecommunications systems, networked peripherals, online and offline storage 
+media and related equipment, software, and data files that are owned, leased, 
+managed, or maintained by Arkansas State University.  For exam
+ple, IT Resources 
+include institutional and departmental information systems, faculty research 
+
+
+ 
+
+ 
+ 
+IT Orga
+nization.  
+The unit on each campus responsible for providing information 
+technology solutions and services.
+ 
+ 
+User
+
+University IT Resource from any location.  For example, Users in
+clude a person who 
+accesses IT Resources within the confines of the University plant or via an 
+electronic network.
+ 
+
+University Community
+
+who is not classified as a member of the faculty (full
+-
+ 
+or
+ 
+part
+-
+time), staff (full
+-
+ 
+or part
+-
+time) or enrolled student.
+ 
+ 
+Systems Authority
+.  Arkansas State University delegates oversight of particular 
+systems to the head of a specific unit of the University or to an individual faculty 
+member, in the case of IT res
+ources purchased with research or other funds for 
+which he or she is personally responsible.
+ 
+ 
+Systems Administrator
+.   A Systems Authority may designate another person as 
+
+Syst
+ems Administrators oversee the day
+-
+to
+-
+day operation of the system and are 
+authorized to determine who is permitted access to particular IT Resources.
+ 
+ 
+Certifying Authority
+.  This is the Systems Administrator or other University 
+authority who certifies the 
+appropriateness of an official University document for 
+electronic publication in the course of University business.
+ 
+ 
+Specific Authorization
+.  This means documented permission provided by the 
+applicable Systems Administrator.
+ 
+ 
+3.
+ 
+Arkansas State University S
+ystem Appropriate Use of Information & 
+Technology Resources Policy 
+ 
+ 
+Information and Technology Resources may be used only for their authorized 
+purposes 
+
+ 
+that is, to support the research, education, administrative, and other 
+functions of Arkansas State Un
+iversity. 
+ 
+ 
+4.
+ 
+Process
+ 
+ 
+Although this policy sets forth the general parameters of appropriate use of IT 
+Resources, faculty, students, and staff should consult their respective handbooks 
+and campus operating procedures for more detailed statements on permit
+ted use 
+and the extent of use that the University considers appropriate in light of their 
+varying roles within the community.  In the event of conflict between other guidelines 
+and the System Appropriate Use of Information & Technology Resources Policy, th
+e 
+Appropriate Use Policy will prevail.
+ 
+ 
+ 
+A.
+ 
+Proper Authorization.  
+ 
+ 
+ 
+Users are entitled to access only those IT Resources that are consistent with 
+their authorization.  Access is limited to members of the University Community, 
+faculty, staff, students, an
+d other specifically authorized individuals.
+ 
+
+ 
+B.
+ 
+Ownership.  
+ 
+ 
+ 
+ 
+All data stored on University IT Resources is owned by the University.  
+Intellectual Property rights will, of course, be recognized as established by policy.
+ 
+ 
+ 
+C.
+ 
+Privacy.  
+ 
+ 
+ 
+Users agree to
+ 
+access only data that they are authorized to use and/or view.  
+Privacy in an electronic environment should never be assumed and cannot be 
+guaranteed.  Because Arkansas State University is a state agency, all electronic 
+communications and documents are pre
+sumed to be subject to the Freedom of 
+Information Act.
+ 
+ 
+ 
+D.
+ 
+ 
+Specific Proscriptions on Use.  
+ 
+ 
+ 
+ 
+The following categories of use are inappropriate and prohibited:
+ 
+ 
+1.
+ 
+Use in violation of law.  Illegal use of IT Resources 
+
+ 
+that is, use in violation 
+of civi
+l or criminal law or regulation at the federal, state, or local levels 
+
+ 
+is 
+prohibited.  Examples of such uses are: promoting a pyramid scheme, 
+accessing or distributing illegal material, copyright infringements, and making 
+terroristic 
+threats.
+ 
+ 
+ 
+With resp
+ect to copyright infringements, Users should be aware that copyright 
+law governs (among other activities) the copying, display, and use of software 
+and other works in digital form (text, sound, images, and other multimedia).  
+The law permits use of copyrig
+hted material without authorization from the 
+copyright holder for some educational purposes (protecting certain classroom 
+
+automatically mean that the use is permitted without autho
+rization.
+ 
+ 
+ 
+2.
+ 
+Use that impedes, interferes with, impairs, or otherwise causes harm to the 
+activities of others.  Users must not deny, attempt to deny, or interfere with 
+
+mailing l
+
+(spreading email or postings widely and without good purpose), or flooding an 
+individual, group, or system with numerous or large email messages.  Other 
+behavior that may cause excessive network
+ 
+traffic or computing load is also 
+prohibited.
+ 
+ 
+3.
+ 
+
+University is a non
+-
+profit, public service organization and, as such, is subject 
+to specific federal, state, and local laws regard
+ing sources of income, political 
+activities, use of property, and similar matters.  As a result, commercial use of 
+IT Resources for non
+-
+University purposes is generally prohibited, except if 
+specifically authorized and permitted under University conflict
+-
+o
+f
+-
+interest, 
+
+outside employment, and other related policies.  Prohibited commercial use 
+does not include communications and exchange of data that furthers the 
+
+of whether it has 
+an incidental financial or other benefit to an external 
+organization.  Commercial advertising is strictly prohibited unless authorized 
+by contract with the commercial vendor.
+ 
+ 
+Utilization of IT Resources in a way that suggests University endorsement of 
+any
+ 
+political candidate or ballot initiative is also prohibited.  Users must refrain 
+from using IT Resources for the purpose of lobbying that connotes University 
+involvement.
+ 
+ 
+4.
+ 
+Harassing or threatening use.   This category includes, for example, repeated 
+un
+welcome contacts with another.
+ 
+ 
+5.
+ 
+Use damaging the integrity of University or other IT Resources.  This 
+category includes, but is not limited to:
+ 
+ 
+a.
+  
+Attempts to defeat system security.  Users must not defeat or attempt to 
+
+ 
+
+ 
+
+guessing or applying the identification or password of another User, or 
+compromising system/data security mechanisms.  (This provision does 
+not prohibit, however, 
+the IT Organization 
+or Systems Administrators from 
+u
+sing security 
+related 
+programs within the scope of their Systems 
+Authority.)
+ 
+ 
+b.  Unauthorized access or use.  The University recognizes the importance of 
+preserving the integrity of data stored by individuals in IT Resources.  
+Users must honor this princi
+ple by neither seeking to obtain unauthorized 
+access to IT Resources, nor permitting or assisting any others doing the 
+same.  For example, a non
+-
+University organization or individual may not 
+use non
+-
+public IT Resources without specific authorization.  Priv
+ately 
+owned computers may be used to provide public information resources, 
+but such computers may not host sites or services for non
+-
+University 
+organizations or individuals across the University network without specific 
+authorization.  Similarly, Users are
+ 
+prohibited from accessing IT 
+Resources that they are not authorized to access.  Furthermore, Users 
+must not make or attempt to make any deliberate, unauthorized changes 
+to data on an IT System.  Users must not intercept or attempt to intercept 
+or access d
+ata communications not intended for that user, for example, by 
+
+tapping phone or network lines.
+ 
+
+c.  Disguised use
+.  
+Users must not conceal their identity when using IT 
+Resources, exce
+pt when the option of anonymous access is explicitly 
+authorized.  Users are also prohibited from masquerading as or 
+impersonating others or otherwise using a false identity.
+ 
+ 
+d.  Distributing computer viruses.  Users must not knowingly distribute or 
+launch
+ 
+computer viruses, worms, or other rogue programs.
+ 
+ 
+e.  Modification or removal of data or equipment.  Without specific 
+authorization, Users may not remove or modify any University
+-
+owned or 
+administered equipment or data from University property or IT Reso
+urces.
+ 
+ 
+f.  Use of unauthorized devices.  Users must not physically or 
+electronically 
+attach any additional device to the IT infrastructure or related resources
+ 
+that impedes, interferes, or otherwise causes harm to the IT infrastructure 
+or related resource
+s
+.
+ 
+ 
+6.
+ 
+Use in violation of external data network policies.  Users must observe all 
+applicable policies of external data networks when using such networks.
+ 
+ 
+E.
+ 
+University Access.  
+ 
+ 
+ 
+In accordance with state and federal law, the University may access all as
+pects of IT 
+Resources, without the consent of the User.  Such access will be made in 
+circumstances including but not limited to the following:
+ 
+ 
+ 
+1.
+ 
+When necessary to identify or diagnose systems or security vulnerabilities and 
+problems, or otherwise preser
+ve the integrity of the IT Resources; or
+ 
+ 
+ 
+2.
+ 
+When authorized by federal, state, or local law or administrative rules; or
+ 
+ 
+3.
+ 
+When there are reasonable grounds to believe that a violation of law or a breach 
+of University policy may have taken place and acc
+ess and inspection or 
+monitoring may produce evidence related to the misconduct; or
+ 
+ 
+ 
+4.
+ 
+When such access to IT Resources is required to carry out essential business 
+functions of the University; or
+ 
+ 
+ 
+5.
+ 
+When required to preserve public health and safety
+ 
+an
+d/or system or data 
+integrity or user privacy
+.
+ 
+ 
+ 
+University access without the consent of the User will occur only with the 
+approval of the appropriate 
+v
+ice 
+c
+hancellor, or their respective delegates, except 
+when an emergency entry is necessary to preserve 
+the integrity of facilities or to 
+preserve public health and safety.  The University, through the Systems 
+Administrators, will log all instances of access without consent.  Systems 
+
+Administrators will also log any emergency entry within their control for 
+s
+ubsequent review by appropriate University authority.  
+ 
+ 
+ 
+In addition to accessing the IT Resources, the University, through the 
+
+whether or not the User is suspected of any violation
+ 
+of this policy, when 
+necessary to preserve the integrity of facilities, user services, or data.  The 
+Systems Administrator will attempt to notify the User of any such action.
+ 
+ 
+ 
+By attaching privately owned personal computers or other 
+devices 
+to the 
+Univer
+
+security purposes of those resources while attached to the network.
+ 
+ 
+ 
+Most System
+s
+ 
+Administrators routinely log user actions in order to facilitate 
+recovery from system malfunctions a
+nd for other management purposes.  All 
+Systems Administrators are required to establish and post procedures 
+concerning logging of User actions including the extent of individually identifiable 
+data collection, data security, and data retention.
+ 
+ 
+ 
+Encrypted
+ 
+files, documents, and messages may be accessed by the University 
+under the above guidelines.
+ 
+ 
+F.
+ 
+Enforcement Procedures 
+ 
+ 
+1.
+ 
+Complaint of Alleged Violations.  An individual who believes that he or she has 
+been harmed by an alleged violation of this 
+p
+olicy
+ 
+may file a complaint in 
+accordance with established University grievance procedures (including, where 
+relevant, those procedures for filing complaints of sexual harassment or of racial 
+or ethnic harassment) for students, faculty, and staff.  The individua
+l is also 
+encouraged to report the alleged violation to the Systems Authority overseeing 
+the facility most directly involved, or to the 
+IT Organization 
+which must 
+investigate the allegation and (if appropriate) refer the matter to University 
+disciplinary a
+nd/or law enforcement authorities.
+ 
+ 
+ 
+2.
+ 
+Reporting Observed Violations.  If an individual has observed or otherwise is 
+aware of a violation of this policy, but has not been harmed by the alleged 
+violation, he or she may report any evidence to the Systems Au
+thority overseeing 
+the facility most directly involved, or to the 
+IT Organization
+, which must 
+investigate the allegation and (if appropriate) refer the matter to University 
+disciplinary and/or law enforcement authorities.
+ 
+ 
+3.
+ 
+Disciplinary Procedures.   All
+eged violations of this policy will be pursued in 
+accordance with the appropriate disciplinary procedures for faculty, staff, and 
+students, as outlined in the applicable Handbook.
+ 
+
+Systems Administrators and the 
+IT Organization 
+may participate in the 
+disci
+plinary proceedings as deemed appropriate by the relevant disciplinary 
+authority.  Moreover, at the direction of the appropriate disciplinary authority, 
+Systems Administrators, and the Information and Technology Services unit are 
+authorized to investigate 
+alleged violations.
+ 
+ 
+4.
+ 
+Legal Liability for Unlawful Use.  In addition to University discipline, Users may 
+be subject to criminal prosecution, civil liability, or both for unlawful use of any IT 
+Resources.
+ 
+ 
+5
+.
+ 
+Appeals.  Users found in violation of this pol
+icy may appeal or request 
+reconsideration of any imposed disciplinary action in accordance with the 
+appeals provisions of the relevant disciplinary procedures.
+ 
+ 
+ 
+(Adopted by the Arkansas State University Board of Trustees on 
+March 4, 2011, 
+Resolution 1
+1
+-
+ 
+0
+3 
+supercedes Arkansas State University
+-
+Jonesboro Appropriate Use of 
+Information and Technology Resources Policy (Appropriate Use Policy) of March 8, 
+2002.)
+ 
+

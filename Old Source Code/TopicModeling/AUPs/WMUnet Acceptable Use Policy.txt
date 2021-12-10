@@ -1,0 +1,74 @@
+Information Technology
+WMUnet Acceptable Use Policy
+PURPOSEThis policy sets forth the regulations for the use of Western Michigan
+University's network, known as WMUnet.
+SCOPE
+This policy applies to everyone using network services of Western Michigan
+University, whether on campus, at regional sites, or remotely through other
+internet service providers.
+POLICY STATEMENTS
+Network services and wiring may not be modified or extended beyond the
+area of their intended use. This applies to all network wiring, hardware,
+and jacks.
+The network may not be used to provide Internet access to anyone outside
+of the University community for any purposes. WMU-specific or
+commercially obtained network resources may not be retransmitted
+outside of the University community.
+The network is a shared resource. Thus, network use or applications which
+inhibit or interfere with the use of the network by others are not permitted.
+(For example, using an IP address not registered to you, or applications
+which use an unusually high portion of the bandwidth for extended periods
+of time, thus inhibiting the use of the network by others, are not
+permitted). Use of the network must comply with all University's policies.
+Forgery or other misrepresentation of one's identity via electronic or any
+other form of communication is a violation. Prosecution under State and
+Federal laws may also apply.O!ice of Information Technology
+Western Michigan University
+Kalamazoo MI 49008-5206 USA
+(269) 387-5430
+Only those with an active Bronco NetID and password may use Western
+Michigan University network services, or those who gain access on campus
+through University-authorized access services such as EduRoam or WMU
+Guest access.You are 
+not allowed to use your connection to:
+Run a business or organization for profit or non-profit purposes.
+Monitor data on the network by means of any monitoring or "sniffing"
+software.Provide a pass-through site to other campus hosts, provide remote login
+(e.g. telnet access) on your computer for others than yourself.
+Set up a router to provide wireless connections.
+Connect hubs, switches, routers or wireless access points on the network.
+Provide information to others on the Network such as newsfeeds,
+Anonymous FTP site, BBS, UUCP site, web hosting, etc.
+Harass, libel, or slander anyone or fraudulent representations.
+Copy or transmit copyrighted material.
+Post or send obscene, pornographic, sexually explicit, or harassing material
+as defined by applicable federal and state law.
+Post or send material that tends to disrupt the educational environment of
+the University, interfere with the rights of others or their ability to use
+University information technology resources or access University
+programs, or violates applicable state or federal law.
+JUSTIFICATION
+The Office of Information Technology at Western Michigan University
+provides wired and wireless connection services in support of the educational
+mission of the University. It is the responsibility of each person utilizing these
+services to use them appropriately and in compliance with all University, City,
+County, State, and Federal laws and regulations.
+ENFORCEMENT
+The Office of Information Technology reserves the right to terminate any
+network connection without notice should it be determined that network
+traffic generated from said connection drastically inhibits or interferes with
+the use of the network by others.
+
+Failure to comply with this policy may result in termination of network
+services and loss of computing resource privileges. In addition, any person
+found to be in violation of this policy will be subject to appropriate
+disciplinary action as defined by current University policy and bargaining
+agreements.
+REFERENCERules for use of computing resources at Western Michigan University
+DOCUMENT ACTION 
+Revised: February, 2017
+Western Michigan University
+Kalamazoo MI 49008-5200 USA
+(269) 387-1000Contact WMU
+© 2018 All rights reserved.
+

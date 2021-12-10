@@ -1,0 +1,132 @@
+Policies of Colorado State University
+University Policy
+Policy Title: Acceptable Use for Computing and Networking
+ResourcesCategory: InformationTechnology
+Owner: Vice President for Information Technology
+Policy ID#: 4-1018-001
+Contact:Academic Computing and Networking Services Web: 
+http://www.acns.colostate.edu
+Phone: 970-491-5133Original Effective Date:
+10/7/2009Last Revision: 5/26/2016
+PURPOSE OF THIS POLICY
+Computing and data systems, equipment and services at Colorado State University are
+valuable and limited resources that serve a large number and variety of Users. Misuse
+of these resources can result in loss of integrity, functionality, speed, bandwidth and
+reliability of the UniversityÕs information systems, as well as violations of other laws
+and policies (such as those concerning conßicts of interest). The purpose of this policyis to establish what constitutes acceptable use of these resources in order to assurethat they are available to everyone as needed for the UniversityÕs business needs.
+APPLICATION OF THIS POLICY
+This policy applies to all students, faculty and staff, afÞliates, and all other persons and
+organizational units having access to use the UniversityÕs technology and information
+systems (hereinafter ÒUsersÓ).DEFINITIONS USED IN THIS POLICY
+"Resources" include, but are not limited to, University technology devices, servers,
+networks, storage devices and systems (including cloud storage), data, applications,
+installed software, and system credentials.POLICY STATEMENT
+All Users have the responsibility to make use of the Resources in an efÞcient, ethical,
+and legal manner. The Resources are meant to be used in a manner consistent with the
+
+instructional, research, and administrative objectives of the University community in
+general and with the purposes for which such Resources were provided. Access to the
+Resources is a privilege and imposes upon Users certain responsibilities andobligations, as further described in this policy.
+POLICY PROVISIONS
+Access to the Resources is granted subject to CSU System and university policies and
+local, state, and federal laws. Acceptable use is always ethical, reßects academic
+honesty, and shows restraint in the consumption of shared Resources. It demonstrates
+respect for intellectual property, protection of sensitive information, ownership of
+data, copyright laws, system security mechanisms, and an individualÕs rights to privacy
+and to freedom from intimidation and harassment. Activities inconsistent with these
+objectives are considered to be inappropriate and may jeopardize continued use of the
+Resources. The University will take action it deems necessary to protect the Resources
+from systems and events that threaten or degrade operations.
+In consideration of being allowed to use the Resources, each User acknowledges and
+agrees to the following statements:a. I will not use the Resources for any illegal activity or for any activity prohibited by
+this policy or the other policies referenced herein.b. I will not use the Resources to infringe upon any copyright or other intellectual
+property rights of another. This pertains to all copyrighted material, including, but
+not limited to, written works, recorded music, photographs, video and software. I
+understand that I may be held personally liable for copyright infringement. (See
+References below for more information on copyright laws and policies).
+c. I understand that I am responsible for my own misuse of the Resources, and misuse
+by others that I knowingly permit or enable (for example, by sharing my password). I
+agree to be responsible for all claims arising from my misuse of the Resources and
+shall indemnify and hold harmless the Board of Governors and the University from
+any costs, expenses or liabilities that might be asserted or imposed upon it or any of
+its ofÞcers, agents or afÞliates as a result of such misuse.d. I will avoid any action that interferes with the efÞcient operation of the Resources
+or impedes the ßow of information necessary for academic or administrative
+operations of the University, and will immediately discontinue such activities once I
+become aware of its effects.
+
+e. I will protect the Resources from unauthorized use and acknowledge that I amresponsible for reasonably securing the Resources that have been assigned to me,
+including implementing such measures as outlined within the UniversityÕs IT
+Security Policy and any related procedures and guidelines, as well as in federal and
+state regulations that may apply (such as FERPA or HIPAA). This also includes
+applying, in a timely manner, operating system and software patches, and
+implementing malware scanning that protects my computing device from
+unauthorized access. (Reference: IT Security Policy).
+f. 
+I will only use the Resources for their intended purposes. I will only accessResources that have been authorized for my use, or which are publically available.
+g. I understand that the University retains all ownership rights to all its collective data.
+I acknowledge that, unless speciÞcally authorized by a University ofÞcial, copying
+University data to a personal device, storage location or any other
+media/network/resource which is beyond the UniversityÕs direct control is
+prohibited.h. I understand that incidental personal use of Resources (such as email, Internetaccess, fax machines, printers, and copiers) is permitted only when it conforms tothis policy. ÒIncidental useÓ is use that is infrequent, does not interfere with the
+normal performance of my duties or the duties of another, and does not unduly
+delay othersÕ use or cause the university to incur costs. Such use is restricted to
+approved Users only and does not include family members or others not afÞliated
+with the University.
+i. Storage of personal email messages, voice messages, Þles and documents on the
+UniversityÕs Resources must be nominal so as not to burden the universityÕs servers
+and other storage devices.
+Examples of Inappropriate Conduct Using University Resources
+Conduct which violates this policy includes, but is not limited to:a. Accessing another person's computer, computer account, Þles, or data without
+permission.b. Giving my username and password to someone else, even temporarily.
+c. Using the campus network to gain unauthorized access to any computer system.
+d. Using any means to decode or otherwise obtain restricted passwords or access
+control information.e. Attempting to circumvent or subvert system or network security measures.
+Examples include creating or running programs that are designed to identify
+
+security loopholes, to decrypt intentionally secured data, or to gain unauthorizedaccess to any system.
+f. 
+Engaging in any activity that might be purposefully harmful to systems or to any
+information stored thereon, such as creating or propagating viruses, disruptingservices, damaging Þles or making unauthorized modiÞcations to university data.
+g. Performing any act, intentionally or otherwise, that will interfere with the normal
+operation of computers, peripherals, or networks.
+h. Making or using illegal copies of copyrighted software, storing such copies on
+university systems, or transmitting them over university networks.
+i. Harassing or intimidating others via email, social media, news groups or Web pages
+or any other of the Resources.
+j. Initiating or propagating electronic chain letters.k. Initiating or facilitating in any way mass unsolicited or unofÞcial electronic mailing
+(e.g., "spamming", "ßooding", or "bombing.").
+l. Forging the identity of a User or Resource in an electronic communication.
+m. Saturating network or a Resource to the exclusion of another's use, for example,
+overloading the network with trafÞc such as emails or legitimate (Þle backup or
+archive) or malicious (denial of service attack) activities.
+n. Using the University's systems or networks for personal gain; for example, by
+selling access to your eID or to university systems or networks, or by performing
+work for proÞt with university resources in a manner not authorized by the
+University.
+o. Engaging in any other activity that does not comply with the general principles
+presented above.
+I acknowledge that the Acceptable Use Policy (AUP) will change from time to time
+depending upon the needs of the University. I understand that I am responsible for
+reviewing the ofÞcial version of the AUP from time to time to be sure I understand
+what is acceptable.COMPLIANCE WITH THIS POLICY
+The University considers violations of acceptable use principles or guidelines to be
+serious offenses. The University will take such action it deems necessary to copy and
+examine any Þles or information resident on university systems allegedly related to
+unacceptable use, and to protect its network from systems and events that threaten or
+degrade operations. Violations may be referred to the appropriate University entity
+for discipline.
+In the case of major infractions, for example those that impair others' ability to use
+networking and computing resources, or whenever necessary to protect Resources,
+the University may immediately restrict systems or network access as it deems
+necessary to mitigate such activities.REFERENCES
+Board of Governors Policy 127, Use of Digital Resources
+CSU Policy on Email, Listservs and Mass Communications
+CSU Policy on Email Communications to Students
+CSU Policy on Intellectual Property--Copyrights and Patents
+APPROVALS
+Version 1.0 approved by ITEC 2001
+Version 1.1 approved by ITEC 10/7/2009
+Version 1.2 approved by ITEC 6/22/2011
+Version 1.3 approved 6/27/2014 by ITEC and Amy Parsons, VPUO
+Version 1.4 approved 5/24/16 by ITEC and Lynn Johnson, VPUO
+

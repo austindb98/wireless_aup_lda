@@ -1,0 +1,56 @@
+Click here to search our knowledge base.
+Bruin OnLine <img style="border:0;width:88px;height:31px" src="http://www.w3.org/Icons/valid-xhtml11" alt="Valid XHTML 1.1!"
+height="31" width="88" /> <img style="border:0;width:88px;height:31px" src="http://jigsaw.w3.org/css-validator/images/vcss" alt="Valid CSS!"
+Unfortunately, the use of computing resources can be used improperly, sometimes quite unintentionally and, in rare instances, deliberately.
+Accordingly, for both your personal benefit and the benefit of others, you must assume responsibility for making the best possible use of your privileges and for not abusing them. Computers and networks can provide access to resources on and off campus, as well as the ability to communicate with other users worldwide.
+Such open access is a privilege, and requires that individuals act responsibly.
+Users must respect the rights of other users, respect the integrity of the systems and related physical resources, and observe all relevant laws, regulations, and contractual obligations. You are responsible for ensuring the integrity of your account.
+IT Services grants permission to members of the UCLA community to use computing resources by issuing individual computing accounts including UCLA Logon IDs.
+As a condition of receiving access to BOL services, you must observe the following guidelines: Use the facility in accordance with established policies and procedures.
+Although UCLA Logon IDs are intended to be used for academic purposes, these accounts may be used for incidental personal use but not as a primary connection to the network/internet for individual or business units. Make economical and wise use of the facility resources that are shared with others, thus enabling access to these resources by the greatest possible number of users.
+Make judicious use of one of the scarcest resources - the dial up modems. You must assume the responsibility for backing up your data and programs.
+Protect important data and programs stored on tape or disk by duplicating them on backup tapes. Misuse of computing, networking, or information resources may result in the loss of computing privileges.
+Additionally, misuse of a computing account will require financial restitution to the University for funds expended and could result in University disciplinary action or civil or criminal action. Users may be held accountable for their conduct under any applicable University or campus policies, procedures, or collective bargaining agreements.
+Any actions which deter other users from doing their work or which would otherwise be deemed malicious by IT Services will result in the loss of access to the system and possible University disciplinary action or civil or criminal action. Both unauthorized use of the computer and use for personal gain constitute theft under California law and will be prosecuted by the University.
+Furthermore, entering the computer facility with the intent, by whatever means, of discovering another's account number for purposes of stealing computer time constitutes burglary under California law and will be prosecuted. In support of the University's mission of teaching, research, and public service, Information Technology Services provides computing, networking, and information resources to UCLA's students, faculty, and staff.
+IT Services provides the UCLA community with access to local, national, and international sources of information in an atmosphere that encourages sharing of information, access to a rich collection of services, and open and free discussion for academic purposes and other University-related uses.
+For both your personal benefit and the benefit of others, you must assume responsibility for making the best possible use of your privileges and for not abusing them.
+All existing laws(federal and state) and University regulations and policies apply, including not only those laws and regulations that are specific to computers and networks, but also those that may apply generally to personal conduct.
+Your Responsibilities Computers and networks can provide access to resources on and off campus, as well as the ability to communicate with other users worldwide.
+Such open access is a privilege, and requires that individuals act responsibly.
+Users must respect the rights of other users, respect the integrity of the systems and related physical resources, and observe all relevant laws, regulations, and contractual obligations.
+You are responsible for ensuring the integrity of your account.
+IT Services grants permission to members of the UCLA community to use computing resources by issuing individual computing accounts including UCLA Logon IDs.
+As a condition of receiving an account, you must observe the following guidelines: Respect the rights of other users, respect the integrity of the systems and related physical resources, and observe all relevant laws, regulations, and contractual obligations.
+Respect others' rights to the privacy of their programs and data.
+Prevent others from learning your password, thus reducing the possibility of illegal use of your account by unauthorized persons.
+Report suspected unauthorized use of facility resources to the BOL User Relations Office(Kerckhoff Hall, Suite 124) or to abuse@ucla.edu.
+Your UCLA Logon may not be used for: unlawful activities; commercial purposes not under the auspices of the University; or personal financial gain(except as permitted under applicable academic policies).
+Consequences of Misuse Misuse of computing, networking, or information resources may result in the loss of computing privileges.
+Additionally, misuse of a computing account will require financial restitution to the University for funds expended and could result in University disciplinary action or civil or criminal action.
+Users may be held accountable for their conduct under any applicable University or campus policies, procedures, or collective bargaining agreements.
+Any actions which deter other users from doing their work or which would otherwise be deemed malicious by the University will result in the loss of access to the system and possible University disciplinary action or civil or criminal action.
+Unauthorized use of computing resources and use for personal gain constitute theft under California law and will be prosecuted by the University.
+Complaints alleging misuse of resources will be directed to those responsible for taking appropriate disciplinary action.
+Definition/Examples of Misuse The following list, while not exhaustive, characterizes unacceptable behavior which may be subject to disciplinary action: Use of any University facilities in a manner that violates copyrights, patent protections, or license agreements.
+Use of any University facilities for personal gain or profit, or for any type of commercial use.
+Attempts to gain unauthorized access to any information facility, whether successful or not.
+This includes running programs that attempt to calculate or guess passwords, or that are designed and crafted to trick other users into disclosing their passwords.
+It also includes electronic eavesdropping on communications facilities.
+Any violation of state law as described in the Penal Code.
+Any action that invades the privacy of individuals or entities that are the creators, authors, users, or subjects of information resources.
+Using electronic mail, talk or other programs as pranks or in a threatening or harassing manner.
+Misrepresenting in any manner, your identity, your account or a computer in an email or other electronic communication.
+Sending chain letters, advertisements, or solicitations of any type.
+Sending mass mailings to individuals who have not expressly agreed to be contacted in this manner.
+Posting on electronic bulletin boards materials that violate existing laws or the University's codes of conduct.
+Knowingly sharing access to BOL services.
+Staying connected via modem for extended periods.
+Multiple simultaneous dial-up sessions using a single UCLA Logon
+Using the campus network to gain unauthorized access to any computer systems.
+Knowingly performing an act which will interfere with the normal operation of computers, terminals, peripherals, or networks.
+Knowingly running or installing on any computer system or network, or giving to another user, a program intended to damage or to place excessive load on a computer system or network.
+This includes but is not limited to programs known as computer viruses, Trojan horses, and worms.
+Attempting to circumvent data protection schemes or uncover security loop holes.
+Attempting to monitor or tamper with another user's electronic communications, or reading, copying, changing, or deleting another user's files or software without the explicit agreement of the owner.
+Activities will not be considered misuse when authorized by appropriate University officials for security or performance testing.

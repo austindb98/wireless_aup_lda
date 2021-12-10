@@ -1,0 +1,1066 @@
+____________________________________________________ 
+ 
+All regulations and procedures are subject to amendment. 
+ 
+Page 
+1
+ 
+of 
+6
+ 
+ 
+ 
+RU
+T
+GER
+S
+ 
+P
+O
+LICY
+ 
+Section: 
+ 
+70.1.2
+ 
+Section Title:
+  
+Information Technology
+ 
+Policies
+ 
+Policy Name: 
+ 
+Information Classification
+ 
+Formerly Book: 
+Former Policy 70.2.2
+ 
+Approval Authority:
+ 
+Senior Vice President for Administration
+ 
+ 
+ 
+Responsible Executive:
+ 
+Vice Presi
+dent for Information Technology and Chief Information Office
+r
+ 
+Responsible Office:
+ 
+ 
+Office of Information Technology (OIT)
+ 
+Originally Issued: 
+ 
+July 1, 2013
+ 
+Revisions: 
+ 
+Originally 
+00
+-
+01
+-
+95
+-
+15:10 
+at UMDNJ
+; 
+10/10/2013 (Updated title)
+, 
+7/3
+/2014 (Significant 
+u
+pd
+ates) 
+ 
+ 
+Errors or changes?
+  
+Contact:
+ 
+ 
+oitpolicy@rutgers.edu
+ 
+ 
+1.
+ 
+Policy Statement
+ 
+This policy outlines the standards for classifying 
+information at 
+Rutgers, The State University of 
+New Jersey
+.
+ 
+ 
+Classification cat
+egories (
+Restricted, Internal and Public
+) are provided and defined 
+in order to ensure protection of University data is consistent with all applicable laws and 
+regulations, particularly with respect to protect
+ed
+ 
+health information.
+ 
+ 
+2.
+ 
+Reason for Policy
+ 
+To 
+ensure that University information is properly identified and classified, and handled according 
+to its value, legal requirements, sensitivity, and criticality to the University.  To ensure that 
+University information receives appropriate and consistent lev
+els of protection to safeguard its 
+c
+onfidentiality, 
+i
+ntegrity, and 
+a
+vailability.
+ 
+ 
+3.
+ 
+Who Should Read 
+This 
+Policy 
+ 
+Parties with major responsibilities include Vice Presidents, Chancellors, Deans, Information 
+Owners (data custodians), Information Managers an
+d Information Users.  This policy applies to all 
+members of the University community including faculty, staff, students, covered entities, 
+contractors, non
+-
+employees, and agents of the University.
+ 
+ 
+4.
+ 
+Related Documents
+ 
+Policies.rutgers.edu: Information Tec
+hnology 
+-
+ 
+Section 70
+ 
+Policies.rutgers.edu: Clinical, Compliance, Ethics & Corporate Integrity 
+-
+ 
+Section 100
+ 
+Policies.rutgers.edu: 
+Payment Card Acceptance Policy, 40.2.15
+ 
+Policies.rutgers.edu: 
+Co
+p
+y
+r
+i
+g
+ht
+ 
+P
+o
+l
+i
+c
+y
+,
+ 
+S
+e
+c
+t
+i
+on
+ 
+5
+0.3.7
+ 
+Policies.rutgers.edu: 
+Iden
+t
+i
+t
+y
+ 
+T
+he
+f
+t
+ 
+Co
+m
+p
+li
+an
+c
+e
+ 
+P
+o
+l
+i
+c
+y
+,
+ 
+S
+e
+c
+t
+i
+o
+n
+ 
+5
+0
+.3.9
+ 
+Policies.rutgers.edu: 
+Records Management, 
+30.4.5
+ 
+Policies.rutgers.edu: 
+Gramm
+-
+Leach
+-
+Bliley Act (GLBA) Information Security Policy, 50.3.11
+ 
+Policies.rutgers.edu: 
+Red Flag Detection and Reporting Policy, 50.3.12
+ 
+OIT Pol
+icies Website: http://oit.rutgers.edu/policies
+ 
+RU
+ 
+S
+e
+c
+u
+r
+e
+ 
+W
+eb
+s
+i
+te:
+ 
+http:
+/
+/
+r
+u
+s
+e
+c
+u
+r
+e.
+r
+ut
+g
+e
+rs
+.edu/
+ 
+Rutgers Minimum Security Standards for Data Protection http://rusecure.rutgers.edu/policies
+ 
+
+____________________________________________________ 
+ 
+All regulations and procedures are subject to amendment. 
+ 
+Page 
+2
+ 
+of 
+6
+ 
+ 
+5.
+ 
+Contacts
+ 
+ 
+Informa
+tion Protection and Security, Office of Information Technology
+ 
+ 
+848
+-
+445
+-
+8011
+ 
+ 
+http://rusecure.rutgers.edu
+ 
+ 
+ 
+6.
+ 
+The Policy
+ 
+ 
+70.1.2
+ 
+INFORMATION CLASSIFICATION
+ 
+ 
+ 
+A.
+ 
+I
+ntroduction
+:
+ 
+ 
+All members of the University community have a responsibility to protect the 
+c
+onfi
+dentiality, 
+i
+ntegrity, and 
+a
+vailability of 
+University 
+information collected, processed, 
+stored, or transmitted irrespective of the
+ 
+location or
+ 
+medium on which the information 
+resides.
+  
+Confidentiality, integrity, and availability are defined as follows:
+ 
+ 
+
+ 
+C
+onfidentiality 
+
+ 
+the expectation that only authorized individuals, processes, and 
+systems will have access to 
+University
+ 
+information.
+ 
+ 
+
+ 
+Integrity 
+
+ 
+the expectation 
+that 
+
+ 
+i
+nformation
+ 
+will be protected from 
+intentional, unauthorized, or accide
+ntal changes
+.
+ 
+ 
+
+ 
+Availability 
+
+ 
+the expectation that information is accessible 
+by 
+the University 
+community
+ 
+when
+ 
+needed.
+ 
+ 
+Information must be classified and handled according to its value, legal requirements, 
+sensitivity, and criticality to the University.  P
+rotection levels must be established and 
+
+access, modification, disclosure, and destruction.  For information governed by law and 
+regulations (such as student records, p
+ersonally identifiable information
+ 
+and 
+protected 
+health information
+), the protection levels must satisfy the 
+respective,
+ 
+data security and 
+data privacy requirements
+ 
+(e.g., FERPA, HIPAA).
+ 
+ 
+B.
+ 
+Requirements:
+ 
+ 
+1.)
+ 
+Vice Presidents
+, Chancellors
+ 
+and Deans must
+:
+ 
+ 
+a.
+ 
+Ensure 
+that each business unit in their respective areas of oversight 
+appropriately identify and classify information generated
+, accessed and 
+stored
+ 
+by the business unit. 
+ 
+ 
+b.
+ 
+Ensure that each member of their business units receives periodic 
+training and awareness a
+bout how to handle 
+Restricted 
+information.
+ 
+ 
+c.
+ 
+Assign business unit managers, senior managers, or designees the role 
+of 
+
+Information 
+Owner
+ 
+
+ 
+for their respective areas. 
+ 
+Ensure that their information owners (data custodians) maintain an 
+inven
+tory of their information assets, including applications.
+ 
+ 
+d.
+ 
+Annually perform a risk assessment of their applications
+ 
+and data.  For 
+areas with specific compliance and regulatory requirements such as 
+HIPAA and GLBA, business units must also report their aggr
+egate 
+inventory of information assets to OIT Information Protection and 
+Security.
+ 
+ 
+e.
+ 
+Ensure through appropriate "due diligence" and contract terms that 
+contracted vendors have an appropriate level of assurance to protect 
+University data.
+ 
+
+____________________________________________________ 
+ 
+All regulations and procedures are subject to amendment. 
+ 
+Page 
+3
+ 
+of 
+6
+ 
+ 
+ 
+2.)
+ 
+Information Owners
+ 
+(data custodians)
+ 
+must:
+ 
+ 
+a.
+ 
+Classify University information under their control as:
+ 
+ 
+
+ 
+Restricted
+ 
+ 
+
+ 
+Internal
+ 
+ 
+
+ 
+Public
+ 
+ 
+Such classifications shall be conducted in accordance with the guidance 
+set forth in the Information Classification Table at the end of this po
+licy.
+ 
+ 
+They should take into consideration the business needs 
+and legal 
+requirements
+ 
+for sharing or restricting information and the impacts 
+associated with those needs
+ 
+and requirements
+.
+ 
+ 
+b.
+ 
+Clearly identify Restricted and Internal Information specially when 
+s
+haring or providing individuals, departments or third parties with access.
+ 
+ 
+c.
+ 
+
+the applications the business unit owns and which contain their 
+information.  For example:
+ 
+i.
+ 
+How a user shoul
+d be authenticated
+.
+ 
+ii.
+ 
+How users will be granted access to the application
+ 
+and/or 
+information
+.
+ 
+iii.
+ 
+Revocation procedures of user access privileges
+.
+ 
+iv.
+ 
+Procedures for approving requests for access and use of the 
+information in its applications
+.
+ 
+v.
+ 
+Record retention and e
+-
+discovery requirements.
+ 
+ 
+d.
+ 
+Provide training and awareness about information handling to users with 
+access to their Restricted Information.
+ 
+ 
+e.
+ 
+Maintain an inventory of their information assets, including all 
+applications that collect, process, store, or transm
+it their information.  
+ 
+ 
+f.
+ 
+Conduct an annual entitlement review of individuals, departments and 
+third parties who have been granted access to Restricted information.
+ 
+ 
+g.
+ 
+At minimum, annually assess and update the Information Classification, 
+based on changing us
+age, sensitivities, law, or other relevant 
+circumstances.
+ 
+ 
+h.
+ 
+Establish
+ 
+procedures for data destruction in accordance with the 
+
+ 
+ 
+See policy 30.4.5 
+Records Management.
+ 
+ 
+i.
+ 
+Annually perform a risk assessment of 
+their applications and information 
+
+University requirements, changes in law and as a result of changing 
+risks.
+ 
+ 
+j.
+ 
+
+Security St
+
+encrypted on mobile devices and when transmitted).
+ 
+ 
+
+____________________________________________________ 
+ 
+All regulations and procedures are subject to amendment. 
+ 
+Page 
+4
+ 
+of 
+6
+ 
+k.
+ 
+Ensure compliance with regulatory requirements such as HIPAA (Health 
+Insurance Portability and Accountability Act), FERPA (Family 
+Educational Rig
+hts and Privacy Act), GLBA (Gramm
+-
+Leach
+-
+Bliley Act), 
+PCI (Payment Card Industry) and other state, federal, and contractual 
+requirements that may apply.  See the Related Documents Section for 
+further information.
+ 
+ 
+3.)
+ 
+Information Users must:
+ 
+ 
+a.
+ 
+Receive approval f
+rom the Information Owner (data custodians) prior to 
+accessing Restricted or Internal information.
+ 
+ 
+b.
+ 
+
+requirements and safeguards.
+ 
+ 
+c.
+ 
+Not re
+-
+disseminate Restricted or Internal information to which t
+hey have 
+been granted access without authorization from the Information Owner 
+(data custodians)
+.
+ 
+ 
+d.
+ 
+Apply the
+ 
+
+
+appropriate based on the data classification.
+ 
+ 
+4.)
+ 
+External 
+Data 
+Handling 
+Security Requireme
+nts
+:
+ 
+ 
+Information entrusted to the University by grant
+-
+providers
+,
+ 
+other universities or 
+other agencies (DoD, NEH, NIH, NSF or similar)
+ 
+must be protected, at minimum, 
+according to contractual obligations, regulatory requirements, and/or University 
+policy, a
+nd relative to the sensitivity of the information.
+ 
+ 
+5.)
+ 
+Internal
+ 
+Data provided to External (third party) Services
+:
+ 
+ 
+a.
+ 
+No Restricted or Internal information may be provided outside of the 
+department or outside of the university until an agreement is put in place.
+ 
+Contracts with third party service providers shall include a "HIPAA 
+Business Associates Agreement" or Purchasing's "Contract Addendum 
+
+ 
+ 
+b.
+ 
+University Restricted and Internal information provided to outside or 
+"cloud" (third 
+party) service providers must be protected by the third party 
+at least at the level that it would be protected by the University and 
+federal regulations. 
+ 
+For PHI data (defined in the appendix), a HIPAA 
+Business Associates Agreement is required.  Informati
+on Protection and 
+Security must review the third party service agreement prior to the 
+contract being signed if the service involves Restricted information.
+ 
+ 
+C
+ 
+Information Security Incident Reporting
+ 
+ 
+Unauthorized 
+use
+,
+ 
+disclosure, loss or theft of 
+Restricte
+d or Internal
+ 
+information must be 
+reported immediately.  The following steps must be taken:
+ 
+ 
+1.)
+ 
+Immediately report 
+the unauthorized disclosure
+, 
+loss, theft, or 
+access 
+to 
+information to Information Protection and Security, OIT and your departmental 
+management
+.
+ 
+ 
+2.)
+ 
+If PHI or there is a likelihood that PHI data is inv
+olved, Call the Rutgers Hotline
+ 
+(1
+-
+800
+-
+215
+-
+9664).
+ 
+3.)
+ 
+Report loss or theft of physical assets to 
+University Police
+.  
+If PHI or there is a 
+likelihood that PHI data is involved, Call the Rutgers Hotline.
+ 
+ 
+ 
+ 
+
+____________________________________________________ 
+ 
+All regulations and procedures are subject to amendment. 
+ 
+Page 
+5
+ 
+of 
+6
+ 
+D.
+ 
+N
+on
+-
+Compliance 
+and 
+Sanctions
+ 
+ 
+Failure to comply with this policy may result in denial or removal of access privileges to 
+
+policies and procedures, civil litigation, and/or c
+ivil or criminal prosecution under 
+applicable state and federal statutes.
+ 
+ 
+E.
+ 
+Appendix
+ 
+Information Classification Table
+ 
+ 
+ 
+ 
+
+_____________________________
+_______________________ 
+ 
+All regulations and procedures are subject to amendment. 
+ 
+Page 
+6
+ 
+of 
+6
+ 
+Appendix
+ 
+ 
+Information Classification Table
+ 
+ 
+Please see Rutgers Minimum Security Standards for Data Pro
+tection which outlines the minimum level of controls 
+necessary for each category.  
+https://rusecure.rutgers.edu/content/minimum
+-
+security
+-
+standards
+-
+data
+-
+protection
+ 
+ 
+Information 
+Classification
+ 
+Description
+ 
+Examples
+ 
+Restricted
+ 
+Restricted Data is the most sens
+itive 
+information and requires the highest 
+level of protection. This information is 
+usually described as 'non
+-
+public 
+personal information' (NPPI) about 
+people or critical business, academic 
+or research operations under the 
+purview of the Information Owner 
+(Data Custodian). Restricted data 
+includes, but is not limited to, data that 
+University is required to protect under 
+regulatory or legal requirements. 
+Unauthorized disclosure or access 
+may 1) subject Rutgers to legal risk, 
+2) adversely affect its reputatio
+n, 3) 
+jeopardize its mission, and 4) present 
+liabilities to individuals (for example, 
+HIPAA penalties).
+ 
+
+ 
+Bank information
+ 
+
+ 
+Login Credentials (username & 
+password)
+ 
+
+ 
+Credit/Debit Card Number
+ 
+
+ 
+
+ 
+
+ 
+Human Resources information if it 
+contains SSN
+s, medical reports, etc.
+ 
+
+ 
+Passport Number
+ 
+
+ 
+Protected Health Care Information (PHI)
+1
+ 
+ 
+
+ 
+Protected Data Related to Research
+2
+ 
+
+ 
+Social Security Number
+ 
+
+ 
+Student Disciplinary, or Judicial Action 
+Information
+ 
+
+ 
+Police Records
+ 
+
+ 
+Student Records (FERPA)
+ 
+ 
+Internal
+ 
+All other n
+on
+-
+public information not 
+included in the Restricted category. 
+ 
+
+ 
+Licensed Software
+ 
+
+ 
+Other University Owned Non
+-
+Public Data
+ 
+
+ 
+University Identification Number or 
+Information Number (employee numbers, 
+student ID numbers, etc.)
+ 
+Public
+ 
+All public information.
+ 
+Gen
+eral access data, such as that on 
+unauthenticated portions of any
+ 
+rutgers.edu
+ 
+site.
+ 
+ 
+ 
+1
+Protected Health Care Information includes, but is not limited, to the following:
+ 
+
+ 
+Protected Health Information (PHI) or Electronic Protected Health Information (EPHI)
+ 
+
+ 
+P
+atient health
+-
+care and human subjects research records
+ 
+
+ 
+Payment transactions related to health services
+ 
+
+ 
+Medical and personal information in research records
+ 
+
+ 
+Quality
+-
+assurance and peer
+-
+review information from patient care units
+ 
+ 
+2
+Protected Data Related to Re
+search
+ 
+
+ 
+University proprietary information, including copyrightable and patentable information
+ 
+
+ 
+Proprietary information belonging to other individuals or entities, such as under a non
+-
+disclosure 
+agreement or contract
+ 
+
+ 
+Library circulation records and any infor
+mation about use of any library information resource in any format
+ 
+ 
+

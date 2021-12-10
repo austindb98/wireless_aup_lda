@@ -1,0 +1,137 @@
+ 3341-6-33 My VPN
+.   Applicability
+  All University units
+  Responsible
+ Unit
+  The 
+Vice President for Finance and 
+Administration
+  Policy
+ Administrator
+  The Office of the Chief Information Officer
+  
+(A)
+ Policy Statement and Purpose
+  In order to maintain the appropriate level of protection for BGSU systems 
+
+and data as well as provide for external access for authorized users, the 
+
+BGSU MyVPN has been implemented by Information Technology 
+
+Services (ITS).  This policy has been created to m
+itigate any threats and 
+vulnerabilities to BGSU™s information technology resources that are 
+
+accessed through the BGSU MyVPN.
+  (B)
+ Policy 
+Definitions
+  Virtual Private Network (VPN) 
+Œ a ﬁtunnelﬂ connection created to allow 
+secure communications over public n
+etworks.
+  
+Information Technology Resources 
+- All aspects associated with 
+management and processing of information.  This includes facilities, 
+
+technologies, and data used for u
+niversity processing, transfer, storage, 
+and communications.  Examples of these resources, include, but are not 
+
+limited to, computers, networking equipment, telecommunications 
+
+equipment, electronic mail, electronic information sources, network 
+
+bandwidth, w
+ireless devices, video communications, IP telephony, 
+university assigned accounts,  voice mail, passwords, access controls, 
+
+storage media, documentation, personal digital assistants.
+ 
+ 
+Public Computers 
+Œ Any computer that is available to the general 
+populat
+ion.  Example of public computers includes, but not limited to, 
+airport kiosks, library computers, internet cafes etc.
+ 
+ 
+3341-6-33  2  (C) Policy
+  (1)
+ Connection to the BGSU MyVPN is considered an extension of the 
+BGSU Network. Thus usage of the BGSU MyVPN
+ and its 
+connected systems must be consistent with all relevant BGSU 
+
+Policies.
+  (2)
+ Only authorized users are permitted to use the BGSU MyVPN.
+  (3)
+ All users must obtain access via the BGSU MyVP
+N Access 
+Request Web Form.
+  (4)
+ The BGSU MyVPN 
+must only be used for offic
+ial u
+niversity 
+business.
+ 
+ (5)
+ Supervisors of MyVPN users must inform ITS whenever a user no 
+
+longer needs access to the BGSU MyVPN so access can be 
+
+deactivated.
+  (6)
+ Users may not access the BGSU MyVPN from public computers.
+  (7)
+ Responsibilities
+  
+(a)
+ User Responsibilities
+  (i)
+ Users must logout when they have completed any 
+
+work through the BGSU MyVPN.
+  (ii)
+ Users must report any known or suspected 
+
+unauthorized usage of their BGSU MyVPN account 
+
+to ITS immediately.
+  (iii)
+ Users are responsible to assure the system they are 
+
+accessing the BG
+SU MyVPN is secure. This 
+includes, but is not limited to, ensuring the system 
+
+is free from all malware (viruses, worms, Trojans, 
+
+spyware, etc.), firewalls enabled, and security 
+
+updates applied.
+  (8) 
+ Enforcement and Sanctions
+  
+3341-6-33  3  Individuals or entities in violation of the BGSU MyVPN Policy 
+will be referred to the appropriate disciplinary authority for review.  
+
+Access privileges may be suspended without prior notice if it is 
+
+determined that a policy violation is causing a current o
+r imminent 
+
+threat to the confidentiality, integrity, or availability of information 
+
+technology resources.
+  (9) 
+ Related Polices 
+  (a) 
+ Information Technology
+  
+Registered Date: March 17, 2015
+ 
+ 

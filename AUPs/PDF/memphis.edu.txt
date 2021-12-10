@@ -1,0 +1,105 @@
+Center for Teaching and Learning(CTL) | Page Table of Contents Connecting on a Mac. Connecting on an iPad or iPhone. Connecting on a PC Windows 7. Connecting on a PC Windows 10. 14 Connecting on an Android or Tablet. 19 Call the ITS Service Desk(901.678.8888) on a 24x7 basis. 22 Email umTech. 22 Important Links. 22
+Center for Teaching and Learning(CTL) | Page Purpose This training material highlights how to access the uofm-secure wireless network.
+Audience This training material is meant for University of Memphis faculty, staff, or students that will be connecting to the on campus uofm-secure wireless network.
+Select uofm-secure from system preferences or wireless network menu.
+From system preferences)(From wireless network menu)
+Center for Teaching and Learning(CTL) | Page
+Sign in with your Username UUID(first part of your email address) and password.
+In this example, Tom Tiger s username is used.
+Note: This is NOT the administrative password for your computer.
+Your Username will be the first part of your UofM email address and your Password will be the same as the log in for myMemphis.
+
+Click Continue to authenticate to network uofm-secure.
+Note: You may be asked to store the credentials for uofm-secure in your keychain.
+Center for Teaching and Learning(CTL) | Page
+Next, you will be prompted a message: You are making changes to your Certificate Trust Settings.
+Type your Username and administrative Password(for your computer) to allow this.
+
+Once you have entered your credentials, a window should pop up in your default browser asking you to sign in with your(A) Network Username(uuid) and Password.
+Your Network Username(uuid) will be the first part of your UofM email address, and your password is the same as the log in for UofM email and myMemphis.
+In this example, Tom Tiger s username is used(ttiger@memphis.edu).
+Note: This is not the administrative password for your computer.
+If this does not automatically pop up, launch your browser(e.g.
+B) Check the box marked I accept the Acceptable Use Policy.
+Center for Teaching and Learning(CTL) | Page
+Next, click Download Now to download and install the policy key.
+
+Click I m Done Installing when the installation has finished.
+Center for Teaching and Learning(CTL) | Page Connecting on an iPad or iPhone
+Go to your system Settings.
+
+Select Wi-Fi, then choose uofm-secure from the list of network choices.
+Center for Teaching and Learning(CTL) | Page
+Enter your Username(UofM uuid) and Password.
+Your Username(uuid) will be the first part of your UofM email address, and your Password is the same as the log in for UofM email and myMemphis.
+In this example, Tom Tiger s username is used(ttiger@memphis.edu).
+Note: This is NOT the administrative password for your mobile device.
+
+A window will pop up asking you to trust the certificate, click Accept.
+From the start menu,(A) select the windows icon then(B) select the Control Panel.
+
+Select Network and Sharing Center from the list of choices.
+Center for Teaching and Learning(CTL) 10 | Page
+From Network and Sharing Center, select Connect to a network.
+
+From available wireless connections, choose uofm-secure.
+Center for Teaching and Learning(CTL) 11 | Page
+Click Connect and check the Connect Automatically bo
+
+You will be prompted to(A) enter your UUID(first part of your email address) and password.
+In this example, Tom Tiger s username is used(ttiger@memphis.edu).
+Note: This is NOT the administrative password for your computer.
+Your Username will be the first part of your UofM email address and your Password will be the same as the log in for UofM Mail and myMemphis.
+Next, you will receive a Windows Security Alert The connection attempt could not be completed.
+Center for Teaching and Learning(CTL) 12 | Page
+Once you have entered your credentials, a window should pop up in your default browser asking you to sign in with your(A) Network Username(uuid) and Password.
+Your Network Username(uuid) will be the first part of your UofM email address and your password is the same as the log in for UofM email and myMemphis.
+In this example, Tom Tiger s username is used(ttiger@memphis.edu).
+Note: This is NOT the administrative password for your computer.
+If this does not automatically pop up, launch your browser(e.g.
+B) Check the box marked I accept the Acceptable Use Policy.
+
+Next, click Download Now to download and install the policy key.
+Center for Teaching and Learning(CTL) 13 | Page
+Click I m Done Installing when the installation has finished.
+Center for Teaching and Learning(CTL) 14 | Page Connecting on a PC Windows 10
+From the start menu,(A) select the Windows icon then(B) select Settings.
+
+Center for Teaching and Learning(CTL) 15 | Page
+Choose uofm-secure from the choice of wireless networks.
+
+Center for Teaching and Learning(CTL) 16 | Page
+You will be prompted to(A) enter your username(first part of your email address) and password.
+In this example, Tom Tiger s username is used(ttiger@memphis.edu).
+Note: This is NOT the administrative password for your computer.
+Your Username will be the first part of your UofM email address and your Password will be the same as the log in for myMemphis.
+Next, you will receive a Windows Security Alert Continue connecting?
+Center for Teaching and Learning(CTL) 17 | Page
+Once you have entered your credentials, a window should pop up in your default browser asking you to sign in with your(A) Network Username(uuid) and Password.
+Your Network Username(uuid) will be the first part of your UofM email address and your password is the same as the log in for UofM email and myMemphis.
+In this example, Tom Tiger s username is used(ttiger@memphis.edu).
+Note: This is NOT the administrative password for your computer.
+If this does not automatically pop up launch your browser(e.g.
+B) Check the box marked I accept the Acceptable Use Policy.
+
+Next, click Download Now to download and install the policy key.
+Center for Teaching and Learning(CTL) 18 | Page
+Click I m Done Installing when the installation has finished.
+Center for Teaching and Learning(CTL) 19 | Page Connecting on an Android or Tablet
+Go to your device Settings.
+
+Make sure that your Wi-Fi has been activated for the device.
+Center for Teaching and Learning(CTL) 20 | Page
+Select uofm-secure from the wireless networks.
+Center for Teaching and Learning(CTL) 21 | Page
+A) Enter your UUID(first part of your email address) and password.
+In this example, Tom Tiger s username is used(ttiger@memphis.edu).
+Note: This is NOT the administrative password for your computer.
+Your password will be the first part of your UofM email address and the log in for myMemphis.
+Note: If your tablet does not connect to internet you will need to install Safe Connect.
+See the instructions for installation on a
+Center for Teaching and Learning(CTL) 22 | Page Locating Help Resources Upon completing the training covered in this course, faculty, staff, and students are able to receive additional training help and resources.
+o Here is a link to our service desk ticketing system o After logging in, choose the link Request Help or Services.
+Call the ITS Service Desk(901.678.8888) on a 24x7 basis(Excluding Some Holidays) Call the Service Desk for immediate assistance with login problems or issues with using the Service Desk Request Form.
+Email umTech Email at umtech@memphis.edu(Using this email will automatically generate a help desk ticket).
+Please keep your Service Desk ticket number for faster assistance.

@@ -1,0 +1,486 @@
+  3341-6-7 BGSU
+ Information Technology
+.   Applicability
+  All University units
+  Responsible
+ Unit
+  The 
+Vice President for Finance and 
+Administration
+  Policy
+ Administrator
+  The Office of 
+the Chief Information Officer
+  
+(A)
+ Policy Statement and Purpose
+  
+Bowling Green State University provides information technology 
+
+resources to support the academic, administrative, educational, research 
+
+and service missions of its appropriately affiliated 
+members within the 
+
+margins of institutional priorities and financial capabilities. 
+ The 
+
+information techno
+logy resources provide for the u
+niversity, a conduit for 
+
+free and open forum for the expr
+ession of ideas mindful of the u
+niversity 
+core values. 
+ In or
+der to protect the confidentiality, integrity, and 
+availability of information technology resources for intended purposes, the 
+
+following policy has been developed. 
+   (B)
+ Policy
+ Scope
+  The scope of this policy is to encompass all information t
+echnology 
+devices owned by the u
+niversity, any device
+ obtaining connectivity to the 
+university
+ network, and all u
+niversity relevant data on these devices.
+  
+(C)
+ Policy 
+  
+(1)
+ All usage of information technology resources is to be consistent 
+
+with all other relevant policies at
+ BGSU.
+  (2)
+ Users must be aware of and comply with all Federal, State, local, 
+
+and other applicable laws, contracts, regulations and licenses.
+  (a)
+ US Code
+  
+3341-6-7  2  (b)
+ Ohio Revised Code
+  (c)
+ Digital Millennium Copyright Act (DMCA)
+  (d)
+ Electronic Communications Privacy Act (ECPA)
+  (e)
+ Computer Fraud and Abuse Act (CFAA)
+  (f) Family Educational Rights and Privacy Act (FERPA)
+  (g)
+ Health Insurance Portability and Accountability Act 
+(HIPAA)
+  (h)
+ Gramm
+-Leach
+-Bliley Act (GLBA)
+  (i)
+ House Bill 104
+  (3)
+ Use of information technology to access resources other than
+ those 
+supporting the academic, administrative, educational, research and 
+
+service missions of the University or for more than limited social 
+
+purposes is prohibited.
+ 
+ 
+(a)
+ Information technology is provided to access resources 
+
+supporting the academic, 
+administrative, education, 
+
+resear
+ch and service missions of the u
+niversity.  Use of the 
+provided information technology res
+ources is to be mindful 
+of the u
+niversity core values.  Use of information 
+
+technology for experimental use or limited social purposes
+ is permitted, as long as it does not violate other policies or 
+
+interfere with operations of 
+the u
+niversity.
+  (b)
+ The legitimate use of information technology resources 
+
+does not extend to whatever is technically possible.  
+
+Although some limitations are built i
+nto computer 
+
+operating system and networks, those limitations are not 
+
+the sole restrictions on what is permissible.  Users must 
+
+abide by all applicable restrictions, whether or not they are 
+
+built into the operating system or network and whether or 
+
+not they
+ can be circumvented by technical means.
+  
+3341-6-7  3   (c)
+ Network applications and protocols that are not essential to 
+carrying out the mission of the university or to conduct 
+university business are neither specifically permitted nor 
+
+specifically prohibited.  Should suc
+h a subsidiary 
+application or protocol become
+ a risk to the security of the 
+university's information technology infrastructure, its use 
+
+will be restricted or blocked as deemed appropriate or 
+
+necessary, without prior notice.
+ 
+ (4)
+ All users must only access or a
+ttempt to access information 
+technology resources that they are authorized to use and then only 
+
+in a manner and to the extent authorized.
+  (a)
+ Ability to access information technology resources does 
+
+not, by itself, imply authorization to do so.  Prior to 
+
+accessing a resource, users are responsible for ascertaining 
+
+and properly obtaining necessary authorization.  Accounts, 
+
+passwords, and other aut
+hentication mechanisms, may not, 
+under any circumstances, be shared with, or used by, 
+
+persons other than those to whom 
+they have been assigned 
+
+by the u
+niversity.
+  A violation of this policy may result in disciplinary action, 
+
+up to and including termination
+ of employment.
+  (5)
+ Attempting to circumvent information technology security systems 
+
+is prohibited.
+  (a)
+ BGSU employs various technologies and procedures in the 
+
+interest of protecting the confidentiality, availability, and 
+
+integrity of information technology.  Some examples of 
+
+these technologies and procedures, include, but are not 
+
+limited to, physical method
+s, firewalls, anti
+-virus software, 
+encryption, and passwords.  Circumvention or attempted 
+
+circumvention of a security 
+system creates a threat to the 
+
+university and is not permitted.
+  A violation of this policy may result in disciplinary action, 
+
+up to and i
+ncluding termination of employment.
+  
+3341-6-7  4  (6)
+ Disruption of 
+university authorized activities is prohibited.
+  (a)
+ All members of the BGSU community share the 
+information technology resources provided by BGSU.  
+
+Those causing disruption to the use of information 
+
+technolog
+y resources for other community members will be 
+in violation of this policy.  Some examples include, but are 
+
+not limited to, configuration of devices that disrupt network 
+
+services, launching denial of service attacks, and disturbing 
+
+public access resources
+.  (7)
+ Use of information technology to conduct reconnaissance, 
+
+vulnerability assessments, or similar activity by unauthorized 
+
+personnel is prohibited
+.  (a)
+ In an effort to protect the confidentiality, availability, and 
+
+integrity of information technology resource
+s, BGSU 
+officials will investigate any discovered unauthorized 
+
+network reconnaissance, vulnerability scanning, or service 
+
+enumerations.  While it is recognized that there are some 
+
+valid purposes for this activity, BGSU officials are unable 
+
+to determine int
+ent and must react in a manner that will 
+
+best protect information technology resources by assuming 
+
+that the source of scans are malicious.  Additionally, many 
+
+vulnerability scanning tools utilize techniques that may be 
+
+disruptive if not properly used.  Ple
+ase contact the ITS 
+Information Security Office for authorization to conduct 
+
+vulnerability or service assessments using BGSU 
+
+information technology resources.
+  (8)
+ Users are required to protect the confidentiality, integrity, and 
+
+availability of information te
+chnology.
+  (a)
+ This responsibility includes practicing safe computing at all 
+
+times when deploying or using BGSU information 
+
+technology resources.  Users are to care for the integrity of 
+
+technology based information sources they are authorized 
+
+to access and to 
+ensure that information is shared only with 
+
+other appropriately authorized users.
+  
+3341-6-7  5  (9)
+ Anonymous use, impersonation, or use of pseudonyms on an 
+information technology resource to escape accountability is 
+
+prohibited.
+  (a)
+ Examples of this include, but are not limit
+ed to, forging 
+
+email or using any Internet s
+ervice not affiliated with the 
+university that can prevent accountability for its usage.
+  
+(10)
+ The use of any unlicensed spectrum space is prohibited on any 
+
+BGSU
+-owned or BGSU
+-occupied property, unless it is part of the 
+wireless services being deployed by the 
+university.
+  (a)
+ Information Technology Services (ITS) has implemented 
+
+wireless Local Area Netw
+ork (LAN) services on the BGSU 
+main campus and the Firelands campus.  While this service 
+
+allows mobility and easier access to the BGSU network, it 
+
+means that the air space on campus now serves as a 
+
+medium for network connectivity.  The use of open air 
+
+spac
+e poses a number of potentially difficult situations for 
+
+both users and network administrators.  Users that may 
+
+need to make use of wireless equipment for special 
+
+purposes such as research or other unique applications must 
+
+contact the Technology Support Ce
+nter within ITS to 
+coordinate this use of wireless air space.
+  (11)
+ Responsibilities
+  
+(a)
+ University Responsibilities
+  
+(i)
+ Provide and coordinate information technology 
+
+resources to allow completion of duties as assigned 
+
+in support of the academic, administrative, 
+
+educational, research, and service missions, within 
+
+the margins of institutional priorities and financial 
+
+capabilities
+.  (ii)
+ Communicate, review, update, and enforce policies 
+
+to protect information technology resources
+.  (iii)
+ Take reasonable measures to mitigate se
+curity 
+
+threats
+. 
+3341-6-7  6   (b)
+ User Responsibilities
+  (i)
+ Read, agree to, and abide by all u
+niversity policies 
+and policy updates
+.  (ii)
+ Practice safe computing when using information 
+
+technology resources
+.  (iii)
+ Notify u
+niversity officials upon discovery that an 
+assigned information 
+technology resource has been 
+
+accessed, attempted to be accessed, or is vulnerable 
+
+to access by unauthorized users
+.  (iv)
+ Users are responsible for activity resulting from 
+
+their assigned information technology resources
+.  (12)
+ Security and Privacy Statement 
+  BGSU 
+respects the privacy of all info
+rmation technology users.  
+The u
+niversity does not routinely monitor the content of material 
+but does reserve the right to access and review all aspects of its 
+
+information technology infrastructure to investigate performance
+ or system problems, search for harmful programs, or upon 
+
+reasonable cause, to determine if a user is violating a policy, State 
+
+or Federal law.  BGSU monitors, keeps, and audits detailed records 
+
+of information technology usage; traces may be recorded routi
+nely 
+for trouble shooting, performance monitoring, security purposes, 
+
+auditing, recovery from system failure, etc.; or in response to a 
+
+comp
+laint, in order to protect the u
+niversity's and others' 
+equipment, software, and data from unauthorized use or tampe
+ring.  
+Extraordinary record keeping, traces and special techniques may 
+
+be used in response to technical problems or complaints, or for 
+
+violation of law, policy or regula
+tions, but only on approval by 
+university administrators specifically authorized to giv
+e such 
+approval.  In addition to the privacy of individuals being respected 
+
+under normal circumstances, the privacy of those involved in a 
+
+compl
+aint will be respected and the u
+niversity will limit special 
+record keeping in order doing so, where feasible.  
+Information will 
+be released in accordance with law.  Users 
+should be aware that 
+
+while the u
+niversity implements various security controls to protect 
+
+3341-6-7  7  information technology resources, protection of data from 
+unauthorized individuals cannot be guaranteed.
+  (13)
+ Enforcement and Sanctions 
+ 
+ 
+Individuals or entities in violation of the BGSU Information 
+
+Technology Policy will be referred to the appropriate disciplinary 
+
+authority for review.  Access privileges may be suspended without 
+
+prior notice if it is determined t
+hat a policy violation is causing a 
+
+current or imminent threat to the confidentiality, integrity, or 
+
+availability of information technology resources.  
+  
+A violation of this policy may result in disciplinary action, up to 
+
+and including termination of emplo
+yment.
+  (14)
+ Implementation of Policy 
+  This policy replaces the Information Technology Services Network 
+
+and Computer Policies and the Acceptable Use Policy for 
+
+Information Technologies and is authorized by the Office of the 
+
+Chief Information Officer (CIO) and 
+has been approved by the 
+
+appropriate university committee(s).
+ This policy may be 
+supplemented with additional published guidelines by campus 
+
+units that are authorized to operate/control their own information 
+
+technology resources provided such guidelines ar
+e consistent with 
+and supplemental to this policy and do not alter its intent.
+  
+(15)
+ Related Policies 
+ 
+ 
+(a)
+ Codes of Student Conduct, BGSU Copyright Policy, 
+
+Administrative Staff Handbook, Classified Staff Handbook, 
+
+Intermittent Classified Staff, Retirees Handbook, 
+Academic 
+Charter
+  
+Registered Date: March 17, 2015
+ 
+Amended Date
+s: March 31, 2016
+, December
+ 22, 2017 

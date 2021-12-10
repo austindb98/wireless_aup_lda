@@ -1,0 +1,228 @@
+Guide Updates 3.Getting Started 4.Available SSID s 5.Unsecured Connectivity 5.Methodist University 5.MU_Guest 5.MU_Devices 5.Secured Connectivity 6.MU 6.MU_Net 6.MU_Onboard 6.MU_Events 6.Guest Connections 7.(MU_Guest) 7.Onboarding Devices 9.(MU_Onboard -> MU) 9.Internal Devices 35.(MU_Net) 35.Manage / Add additional Devices 37.(MU_Devices) 37.Additional Assistance 41.Locating the MAC address 41.Forget connected wireless network 41.Troubleshooting 43.Requesting IT support assistance 45.!2
+Guide Updates Added troubleshooting for Windows 10 devices using random MAC addresses Additional step need to complete onboarding of Apple computers Added MU_Events SSID Software bug found with Android onboarding.
+Work around implemented.
+3
+Getting Started First, read through the SSID(service set identifier) section in order to identify which of the available wireless networks you should connect
+Then proceed to the step-by-step instructions for connecting your device to the appropriate Methodist University wireless network.
+4
+Available SSID s SSID means Service Set Identifier, which is a 32-character sequence that uniquely identifies a wireless LAN(WLAN).
+In other words, the SSID is the name of the wireless network that is advertised from the wireless access point, which is, in turn, available to be connected to from a wireless device.
+Read the following SSID options carefully in order to understand which one is applicable to your needs as either a faculty, staff, or student MU network user along with the requirements of the device that you are wanting to connect to the MU network.
+Please note that this SSID option will no longer be available after the middle of December 2018.
+Therefore, faculty, staff, and students should begin using one of the other connectivity options listed below in order to prevent a disruption in wireless connectivity.
+MU_Guest The MU_Guest SSID provides unsecured and unauthenticated wireless access for guests who are visitors to the Methodist University campus.
+This network provides access to Internet resources only, and it has bandwidth speed restrictions.
+MU_Devices The MU_Devices SSID provides unsecured and unauthenticated wireless access for devices that are unable to perform the on boarding process.
+This option pertains only to the video gaming consoles and televisions in the student dormitories.
+5
+Secured Connectivity MU The MU SSID provides secure and authenticated wireless access for Bring Your Own Devices or BYOD. This network is to be used by all faculty, staff, and students who wish to connect their personal devices to the MU wireless network.
+Devices connecting to this SSID will need to go through the onboarding process in order to connect.
+Follow the onboarding devices section instructions to connect your device.
+Devices such as Chromebooks, gaming consoles, TV s and other devices that can not be onboard will need to follow the Manage / Add additional Devices section of the guide.
+MU_Net The MU_Net SSID provides secure and authenticated wireless access for MU owned wireless PC computers.
+In order for Mac computers, TV s, and other MU owned devices to connect, it will require the assistance of the IT department.
+Refer to Requesting IT support assistance at the end of this document.
+MU_Onboard The MU_Onboard SSID provides a temporary wireless connection to perform the onboarding process for devices.
+MU_Events The MU_Events SSID provides secure wireless access for those attending various campus events.
+This SSID is configured with a pre-shard key and is configured upon request.
+6
+Guest Connections(MU_Guest) Android & iOS 1.Connect to the MU_Guest SSID.
+Android iOS
+
+Open a web browser, if not automatically redirected to the Guest Portal page, then connect to http://www.methodist.edu to be redirected to the portal.
+
+Upon being redirected to the Methodist University website, you will be connected to the MU_Guest network.
+8
+Onboarding Devices(MU_Onboard -> MU) iOS Note: If connected to a Methodist University SSID, then disconnect and forget the connection(refer to the bottom of p. 39-40) before continuing.
+
+Connect to the MU_Onboard SSID
+Open Safari and open the following URL: www.methodist.edu
+Enter your username and password.
+exclude the @methodist.edu) !9
+
+Enter a unique Device Name to identify and manage this device later; then click Continue. !10
+
+If you are presented with This website is trying to open Settings to show you a configuration profile.
+Do you want to allow this? Click Allow.
+Click Install to install the temporary certificate, then enter your passcode if you have device locking enabled.
+11
+
+Click Install to install the MU wireless certificate.
+You will be prompted with another install button, click Install again.
+
+Enter your MU password and press Next. !12
+
+Click Done once the install process finishes.
+
+Disconnect from MU_Onboard and forget the network(refer to the bottom of p. 41/42).
+The device will automatically connect to the MU SSID.
+13
+Android There is currently a software bug with the software that is causing Android devices to fail when trying to download the profile.
+We are working on resolving this issue.
+In the mean time we recommend using the Manager / Add additional Devices section on page
+DO NOT USE - until bug is fixed
+Connect to the MU_Onboard SSID
+Open Chrome and open the following URL: www.methodist.edu if not automatically redirected to the Onboarding/Portal web page.
+
+Enter your username and password.
+exclude the @methodist.edu) then click Sign On !14
+
+Enter a unique Device Name to identify and manage this device later then click Continue. !15
+
+On the Complete action using screen, tap Play Store, then click Just once. !16
+
+If already authenticated to the Google Play Store, then proceed to step #10.
+If not, then you will be prompted to connect with either a new or existing Google account.
+Choose the option that is applicable to you.
+
+Authenticate to the Google Play store using your Google username and password.
+
+
+Click Accept for permissions.
+18
+
+
+Download profile - click Proceed
+Enter the Network Password associated with your MU account and click OK. !20
+
+
+Check the Wi-Fi connection to verify that your now connected to MU SSID.
+
+You are now connected to the secure MU SSID.
+21
+PC
+Click the wireless icon on the task bar(#1), then click(#2) MU_Onboard to connect to the on boarding network.
+22
+
+After connecting to the network, a web browser will open to the Onboarding Portal web page.
+Enter your username and password.
+exclude the @methodist.edu) then click Sign On. !23
+
+Enter a unique Device Name to identify and manage this device later, then click Continue. !24
+
+
+25
+
+Enter the password to your MU account, then click Ok. !26
+
+Click Yes to accept the root certificate.
+
+Wait while the configuration is being applied to your computer.
+27
+
+Be sure to forget the MU_Onboard SSID as you do not want your device to re-connect to this network.
+
+Check the Wi-Fi connection to verify that you are now connected to MU SSID.
+
+You are now connected to the secure MU SSID.
+28
+MacBook Note: If connected to a Methodist University SSID, then disconnect and forget the connection(refer to the bottom of p. 41/42) before continuing.
+Click the wireless icon on the task bar(#1), then click(#2) MU_Onboard to connect to the onboarding network.
+
+Open Safari and open the following URL: www.methodist.edu.
+
+Enter your username and password.
+exclude the @methodist.edu)
+
+Enter a unique Device Name to identify and manage this device later, then click Continue. !30
+
+
+Click Download on the dock, click SPW.tar to uncompress the file, then click cisco_network_setup_assistant.dmg to mount the file.
+
+Copy the application to the Desktop then click Cisco Network Setup Assistant. !31
+
+
+Click Continue to install the certificate.
+
+Authenticate using your local MacBook account.
+
+
+Open System Preferences then click on Network. !33
+
+Check the Wi-Fi connection to verify the Network Name shows MU, then click Connect. Some devices have been failing to connect, if this happens then disconnect and forget the MU network.
+Then reconnect to
+
+You are now connected to the secure MU SSID.
+34
+Click the wireless icon on the task bar.
+
+Click the MU_Net SSID then click Connect. !35
+
+The MU_Net SSID will now connected.
+36
+Manage / Add additional Devices(MU_Devices) While the majority of devices connecting to the MU SSID can be onboard, we understand that certain devices are not capable of performing the onboarding process.
+These devices are typically things like gaming consoles, televisions, Chromebooks, and other devices outside of the standard computer or mobile device.
+These devices can still be connected to the Methodist Wireless network, but the following process must be completed instead of the onboarding process.
+This process is not to be used for MU owned devices, but for BYOD devices only.
+The MyDevices Portal allows a user to add up to five devices to his/her account by using the devices media access control address(MAC address).
+The MAC address is a unique identifier assigned to network interfaces for communication on a network segment.
+Refer to the Additional Assistance section(Page 41/42) for more information on locating the MAC address of a device.
+37
+
+Access the MyDevices Portal at the following URL: https://mydevices.methodist.edu.
+
+Enter your Methodist University username and password, then click Sign On.
+On the Post Access screen, click Continue. !38
+
+The Manage Devices screen allows one to view, delete, and add devices.
+To add a device click the Add button.
+
+Enter the device name, device ID, and optional description, then click Submit. Device name:
+A unique name to allow easy identification of the device Device ID: The device s MAC address in the following format:
+22:22:22:22 Description: Optional but recommended to assist with device identification.
+39
+
+As Gaming consoles do not support enterprise security protocols, these devices will need to connect to MU_Devices SSID, which is unsecure.
+
+If the device request a username and password then enter your Methodist account information.
+If prompted for certificate information then proceed to Troubleshooting on page
+This additional configuration is required on Chromebooks.)
+40
+On the Home screen, tap the Menu key and go to settings.
+
+Scroll down and tap About Tablet then tap Status. iOS
+On the Home screen, tap the Settings app.
+
+Scroll down and tap General then tap About. PC
+Click the Start menu.
+
+Type ncpa.cpl into the search box and press enter.
+
+Right-click your Wi-Fi adapter and select Status.
+Click Details and the Physical Address is your MAC address.
+MacOS
+On the dock click System Preferences.
+Click on Network then select Wi-F
+Other Devices Reference the device documentation for assistance with locating the MAC address.
+Forget connected wireless network Android
+On the Home screen, tap the Menu key and go to settings.
+
+Click Wi-Fi under connections.
+
+Click the connected Wi-Fi network.
+
+41
+iOS
+On the Home screen, tap the Settings app.
+
+Click on the connected SSID, then click Forget This Network. PC
+Click the wireless icon on the task bar.
+
+Click on the connected SSID.
+MacOS
+On the dock click System Preferences.
+Click Wi-Fi then click Advanced.
+Click the network and then click the minus button.
+Other Devices Reference the device documentation for assistance with forgetting the wireless network connection.
+42
+Troubleshooting Problem: Blank page when being redirected to the onboarding portal page.
+Solution: This is caused by having static DNS servers con gured on the device.
+Once the static addresses are removed the page will be displayed normally.
+Refer to your devices documentation for removing the DNS servers.
+Problem: Prompted for certi cate information after registering the device.
+Solution: Con gure the certi cate information to match the image below.
+Use your Methodist University account information in the Identity and Password elds.
+43
+Problem: Windows 10 - Device using random MAC address / unable to onboard Solution: Disable use random hardware addresses
+Click the start menu button, then click settings(this is a gear icon) 2.Click Network & Internet 3.Click Wi-Fi 4.Change Use random hardware addresses to Off !44
+Requesting IT support assistance If you require additional assistance or you have questions about connecting your devices to the MU network, please be sure to have the following information available: Mac Address Type of Device SSID that you are trying to connect to The step and page number that you are having an issue with Write down or take a screenshot of any error messages Students: call x7300 Faculty/Staff: submit a support request !45

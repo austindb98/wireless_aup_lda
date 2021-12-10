@@ -1,0 +1,212 @@
+ UNIVERSITY OF MIA
+MI POLICY AND PROCEDURE MANUAL
+ TITLE:
+ Acceptable Use of Info Tech Resources 
+by Students
+ REFERENCE:   
+Revised
+ CATEGORY: 
+ Information Technology
+ PAGE:                
+1  SUPERSEDES: 
+A060
+ APPROVER: 
+     
+David Ertel
+                            
+Interim 
+Senior
+ Vice President
+                            
+Business and Finance
+  VERSION:        
+1 EFFECTIVE:   
+  March 1, 2017
+      I. PURPOSE: 
+ The University of Miami™s information technology resources have been assembled to facilitate 
+the pursuit of excellence in the University™s missions of teaching, research, and service. These 
+pursuits are founded upon the basic principles of academ
+ic freedom and freedom of expression 
+which transcend the means of communication used to convey these messages. The proliferation 
+of technology continually provides new and different means of communicating the results of 
+these endeavors, which must be adequ
+ately managed and protected while recognizing these 
+very important principles. The opportunity to use computing systems and software, as well as 
+internal and external data networks, is important to all members of the University community. To 
+preserve that 
+opportunity for the full community, each individual student must comply with 
+institutional and external standards for acceptable use of these shared resources. Although 
+
+modest personal use of University
+-supplied technology resources may improve the skills 
+of 
+individual users and otherwise contribute indirectly to the University™s mission, these resources 
+should be used primarily for University
+-related educational and administrative purposes. By 
+using University information technology facilities and resource
+s, users agree to abide by all 
+
+related University policies and procedures, as well as applicable federal, state, and local law. 
+Violations may result in University disciplinary action or referral to appropriate external 
+authorities.
+ II.
+ SCOPE:
+ [Intentionally O
+mitted]
+ III.
+ POLICY:
+  The University of Miami maintains a computing system for the academic and administrative use 
+
+of faculty, staff, and students. The University strives to provide a robust, resilient, and reliable 
+information technology infrastructure to enab
+le excellence in scholarship and education through 
+the effective and innovative use of computers and information technology. The University of 
+Miami computing systems and network are resources provided for all members of the University 
+community. Because c
+omputing and network resources are shared, individuals should use the 
+systems responsibly in pursuit of academic and administrative functions, and in doing so, are 
+not to infringe on the rights, integrity, or privacy of others or their data. In using the c
+omputing 
+systems and network, individuals and groups must abide by standards of lawful and ethical 
+
+behavior.
+ 
+ Acceptable Use of Info Tech Resources by Students
+ Policy
+ 2  IV.
+ DEFINITIONS:
+ N/A
+ V. PROCEDURE:
+ A. Use of the University of Miami™s computing systems and network is a privilege that carries 
+numerous obligations. By u
+sing the University of Miami™s computing systems and network, 
+you (the ﬁUser(s)ﬂ) agree to abide by the following User Obligations:
+  Responsible and Lawful Conduct. By using the University of Miami™s computing systems 
+
+and network, Users agree that informati
+on posted on or distributed through the systems 
+or network contains no obscene material; no advertising material or promotional material 
+promoting products or services, except as may be permitted pursuant to University World 
+Wide Web Policies 
+- A047; no ma
+terial which constitutes libel, slander or invasion of 
+privacy or publicity rights; no violation of copyrights or trademarks; no incitement to riot 
+or violence; and no violation of federal, state or local law. This paragraph is not intended 
+to limit academ
+ic freedom.
+  Respect for the University of Miami™s Computing Systems and Network administration. 
+Users should use the systems and network in a way that promotes the University of 
+Miami™s academic mission. Accordingly, when it is necessary to perform systems
+ administration, or, in order to protect the University of Miami™s legal interests, network 
+
+administrators may access all files and data on the University Computing Systems and 
+Network. In addition, the University may monitor and/or review any user ID, use
+r activity, 
+files, and data on the University systems and network, ﬁfreezeﬂ or remove access to any 
+files or data which the University reasonably believes violates User Obligations in 
+accordance with applicable University policies.  
+  Responsible Use of Com
+puting and Networking. Users may not obstruct any others™ 
+work by using unnecessarily large amounts of system resources (such as disk space, 
+output devices, CPU time, and network bandwidth) or deliberately causing any machine 
+to crash or shut down. Given t
+he finite capacity of available systems, Users must be 
+responsible in their use of resources so as not to interfere unreasonably with the activity 
+of other users.
+  Responsible Use of Accounts. Users may not give away or share any userid and 
+
+password, for an
+y reason, or under any circumstances. Users may not use someone 
+else™s account, either with or without permission. Individual accounts cannot be 
+transferred to or used by another individual. Users also agree that attempts to gain 
+access to any account not 
+belonging to them or to a system on which they are not an 
+authorized user will be treated as a violation of University policy, and their computing 
+privileges may be revoked.
+  Responsible Use of Bandwidth. The University of Miami is committed to providing 
+adequate network capacity for the academic and administrative computing needs of the 
+University community. As desktop computers and servers have become a part of 
+everyday life on campus, the volume of information transmitted through the University 
+network ha
+s grown significantly. The growth in network use has increased the need for 
+responsible use of the network resources, as excessive network traffic can interfere with 
+the academic and administrative functions of the University. Members of the University 
+com
+munity must employ good judgment in the use of the network. If the network is 
+hindered by servers or computers using excessive bandwidth, those machines will be 
+
+disconnected.
+  Respect for Copyright. Distribution of material copyrighted by another violates f
+ederal 
+law unless the distribution is with permission or license, or constitutes fair use of the 
+
+ Acceptable Use of Info Tech Resources by Students
+ Policy
+ 3 copyrighted material. In accordance with the Digital Millennium Copyright Act, the 
+University, once notified of alleged copyright violations, will disconnect f
+rom the network 
+the server or computer of the individual(s) involved. The individual who is distributing the 
+
+copyrighted materials is responsible for any copyright infringement.
+  Respect for System Security. It is the responsibility of every User to protect
+ the integrity 
+and security of the data in personal accounts. Each User must accept responsibility for 
+all matters pertaining to the proper use of personal accounts; this includes choosing safe 
+passwords and ensuring that file protections are set correctly
+.  Respect for the Ownership of Proprietary Software. Users must not make or use 
+unauthorized copies of proprietary software, even when that software is not physically 
+protected against copying.
+  Users are given access to the University of Miami™s computing 
+systems and network 
+because they are tools to help them meet their academic goals. This access, however, is 
+a privilege, not a right. Preventing others from fulfilling their academic or business
+-related 
+goals by using the system irresponsibly is not permit
+ted.
+ B. Examples of usage that could result in disciplinary action include, but are not limited to:
+  Using computing or network resources for the purpose of harassing another individual or 
+
+group
+  Using computing or network resources for a commercial purpose
+  Sen
+ding electronic chain mail or mass unsolicited mail
+  Maintaining a server that contains files for which you do not have proper permission to 
+
+store or redistribute
+  Altering e
+-mail or Usenet headers to hide the identity of the sender/poster or to attribute 
+the e-mail or posting to someone other than the sender/poster
+  Using talk, write or IRC (inter
+-relay chat) resources in an abusive or frivolous manner
+  Accessing or transmitting obscene material in violation of federal, state or local law. 
+  Posting inappropria
+te material to Usenet or a Web site
+  Using large amounts of disk space to store files not related to your academic pursuits
+  Excessive use of programs for non academic purposes in a manner that taxes the 
+system™s resources.
+  Attempting to gain access to any c
+omputing, network, academic or business resources 
+which you are not authorized to use, including those of third parties. 
+  Using server resources to engage in activities in violation of federal, state or local law or 
+
+other University policies.
+ The Universit
+y of Miami will hold responsible the owner of any account through which security 
+violations or irresponsible use occurs or individuals who inappropriately obtain and/or make 
+
+use
+ of another User™s account or password. The University of Miami also reserves t
+he right to 
+withhold computing privileges from those who do not abide by the letter or intent of this policy 
+
+document. Violations of this policy by the students referenced below shall be referred to the 
+following offices for appropriate disciplinary action
+: Undergraduate:
+ Dean of Students
+ Graduate:
+ Dean of the Graduate School
+ Law:
+ Dean of Students
+ Medical:
+ Dean of Student Affairs
+ 

@@ -1,0 +1,219 @@
+UC Santa Barbara         Home:  Administrative Services/Information Systems and Computing        
+
+          
+
+Interim Electronic Communications Implementing Guidelines 5612 
+Supercedes Electronic Mail Implementing Guidelines Issued July 1, 1998 
+Interim guidelines effective December 28, 2000 
+ 
+Pages 6  Interim Electronic Communications Implementing Guidelines 5612  
+Background  Effective November 17, 2000 the University of California adopted the University Electronic 
+Communications Policy.  The new policy superseded the 1998 University Electronic Mail Policy 
+and Business and Finance Bulletin IS-6, Campus Communications Guidelines. 
+ The University Office of the President has asked UC campuses to use their Electronic 
+Mail Implementing Guidelines as interim Electronic Communications Implementing 
+Guidelines.  Therefore, effective December 28, 2000 the principles and processes 
+contained in these Guidelines shall be applied to electronic communications.  If you have 
+
+any questions about applying the Guidelines to electronic communications please 
+
+contact Policy Coordinator Meta Clow at <Meta.Clow@vcadmin.ucsb.edu>. 
+ The Policy and Implementing Guidelines were carefully written to assure the principles of 
+academic freedom, freedom of speech, and privacy of information are upheld.  Their intent is to 
+engender an environment which encourages the use of electronic communications and other 
+resources which may be critical to the pursuit of teaching, research, public service, learning, 
+and delivery of services.  At the same time, the Policy and Guidelines recognize that the 
+University is also charged with protecting its members and meeting legal and fiduciary 
+obligations.   
+ Scope  The Policy and Guidelines apply to: 
+ All electronic communications resources owned or managed by the University; All electronic communications resources provided by the University through contracts and 
+other agreements with the University; All users and uses of University electronic communications resources; and All University electronic communication records in the possession of University employees or of other users of electronic communications resources provided by the University.  The Guidelines  The Interim Implementing Guidelines (1) emphasize that the University respects the privacy of electronic communications users; and (2) outline a process which (a) assures that the least 
+perusal of contents, and the least action necessary is taken to resolve issues involving 
+monitoring, inspection, and disclosure of electronic communications, and (b) assures that the 
+individual is promptly notified of any action being taken and of the procedures for recourse.  The 
+proposed Guidelines are sensitive to and respond to concerns raised about the Policy. 
+ 
+The Policy is restated in some of the sections within the Guidelines.  The intention is to aid 
+supervisors and general users by providing them, in brief terms, with the general principle 
+represented in the Policy.    1 of 6
+ Table of Contents  Section Page
+  I. References 2 
+
+II. Allowable Use 2 
+
+III. Access 3 
+
+IV. Notification 3 
+
+V. Directory Information 3 
+
+VI. End of Affiliation 4 
+
+VII. Service Restrictions 4 
+
+VIII. Inspection, Monitoring, or Disclosure 4 
+ 
+ I. References  UC Electronic Communications Policy, issued November 17, 2000, located at: 
+http://www.ucop.edu/ucophome/policies/ec/ 
+ II. Allowable Use 
+ A. To Support the University Mission 
+Electronic communications services are provided to University of California, Santa Barbara employees and its agents for the purpose of teaching, research, 
+and conducting university business.  In general, electronic communications 
+should be used with the same discretion as all other university resources, 
+carefully assuring that its use is to benefit the University and is not for personal 
+benefit or gain.  Electronic communications traveling to or from a university 
+employee or agent, or through campus networks, is to be for lawful purposes 
+only and consistent with other university policies.  B. Incidental Personal Use 
+University communications services may be used for incidental personal use consistent with the provisions of the Electronic Communications Policy under, 
+"Allowable Use."  Incidental use is limited to electronic communications sent on 
+behalf of an individual; systematically
+ sending electronic communications on behalf of an organization outside the University (not-for-profit or for-profit) would 
+transgress UC policy.  As an example, Sally may send a short electronic note 
+inviting Julia to a fund-raiser at the Santa Barbara Natural History Museum.  She 
+is not to use University electronic communications services to send a number of 
+people a note promoting the event on behalf of the Santa Barbara Natural History 
+Museum, nor is she to use her electronic address as a r.s.v.p. or point of contact 
+for the event (or for other activities not affiliated with the University).  C.  Concerns About Use 
+Every electronic communications user (for definition, see Electronic Communications Policy, Appendix A) is responsible for reading and abiding by 
+the Electronic Communications Policy and the Interim Implementing Guidelines.  
+Each supervisor is charged with resolving concerns about electronic 
+communications use/misuse within his/her jurisdiction.  For students, concerns 
+may be registered with the supervisor of the unit through which email services 
+are provided.  As appropriate, the supervisor may redirect unresolved concerns 
+to the next higher authority within his/her organization, consistent with 
+procedures for handling other complaints or grievances.   
+ 2 of 6
+Policy or Guideline clarification may be obtained from the Campus Policy Coordinator, Office of the Vice Chancellor, Administrative Services, currently 
+Meta.Clow@vcadmin.ucsb.edu.  III.  Access  
+ Access to University electronic communications services may be provided to faculty and staff by the department with whom they are affiliated through a mail service provider.  Students may be provided access to electronic communications by their departments, 
+college, library, residence, or directly by a campus electronic communications services provider (Microcomputer Laboratory, and/or Information Systems and Computing).  IV. Notification 
+ A. Faculty and Staff 
+If the responsible department administrator decides to provide new faculty and staff with access to electronic communications services, she/he is to assure that 
+the new faculty/staff is provided with a copy of The University Electronic 
+communications Policy and Implementing Guidelines, or the web address for the 
+Policy and Guidelines with sufficient instruction to access them on-line. 
+ 
+Department administrators, or their designees, are to inform all of their faculty 
+and staff that using electronic communications services implies that the user (a) 
+has read and understood the Policy and Guidelines, and (b) acknowledges that 
+usage which does not comply with the policy or guidelines may result in 
+sanctions as defined within the policy.  Management and Administrative Officers 
+may wish to include this policy requirement in their department’s new employee 
+orientation packets/check off procedures and annotate the date when the new 
+employee has been notified.  Department administrators or their designees are to 
+inform their faculty and staff of the department’s electronic communications 
+service provider’s mail/files back-up practices.  Electronic communications 
+service providers are to describe their back-up practices to the departments they 
+serve.  B. Students Students are to receive from the unit or electronic communications service provider with whom they contract, at the time they sign their service contract, (1) 
+a copy of the Policy and Guidelines, or (2) the web address and instruction for 
+accessing the Policy and Guidelines on-line.  The mail services provider shall 
+add language to the service contract which states:  "Use of electronic 
+communications services implies acknowledgment that you will use the services 
+consistent with the University Electronic communications Policy and Campus 
+Implementing Guidelines, and that usage which does not comply with the policy 
+or guidelines may result in sanctions as defined within the policy."  Also, the mail 
+services provider is to send a note to all existing student clients which states:  
+"Continued use of electronic communications services implies acknowledgment 
+that you will use the services consistent with the University Electronic 
+communications Policy and Campus Implementing Guidelines, and that usage 
+which does not comply with the policy or guidelines may result in sanctions as 
+defined within the policy."  Students shall also be informed of their mail provider’s 
+mail/files back-up practices when they sign their contracts for services.  V. Directory Information 
+ A. Faculty and Staff 
+Faculty and staff electronic communications addresses may be published in the campus directory.  The campus directory is intended for university business 3 of 6
+purposes.  However, addresses may become known from electronic contexts viewed outside of the University if messages containing addresses are posted to 
+public news groups, listservers, web pages, etc.  B. Students Student electronic communications addresses may be published unless the student requests that his/her address be withheld.  Campus electronic 
+communications providers to students may provide an alternate (electronic 
+pseudonym) address.  However, providers shall caution students that their 
+addresses still may become known from electronic contexts viewed outside of 
+the University if the students' messages that contain their addresses are posted 
+to public news groups, listservers, web pages, etc. 
+ VI.  End of Affiliation 
+ As with other university resources such as telephones and mail, when a faculty, student, 
+or staff member leaves the department or University, the department (or for students, the 
+mail services provider) may stop providing electronic communications services to the 
+individual.  The department may choose, where available, to provide electronic 
+forwarding/redirecting of mail to another address.  If the department continues to provide 
+access to university electronic communications services, use must conform to the 
+University Electronic communications Policy and Campus Guidelines.  VII. Service Restrictions 
+ A. Electronic communications service providers are responsible for protecting and 
+maintaining the integrity of the email system.  The Email Service Manager, the 
+person who has administrative responsibility for an electronic communications 
+system, is charged with taking the necessary actions, including restricting or 
+refusing email services, to prevent, to the extent possible, disruption of email 
+services and damage to users of email.   B. Email services also may be suspended or restricted by the email user’s 
+Department Head, Dean, or Vice Chancellor under the conditions described in 
+Section V.C. of the Email Policy.    C. Consistent with law and other University policies, the affected email user shall be 
+notified of the reason for the restriction and the scope and length of the 
+restriction by the authority who suspended or restricted service, at the earliest 
+possible opportunity.  If services are restricted, they may be restored as soon as 
+the reason for the restriction has been remedied.  The user is to be notified when 
+service is restored.  D. Appeals to the decision to suspend or restrict electronic communications services 
+without the user's consent shall be treated consistent with campus processes for 
+complaints and grievances.  VIII. Inspection, Monitoring, or Disclosure 
+ A. General The University does not routinely inspect, monitor, or disclose the contents of electronic communications without the email holder's consent.  However, subject 
+to the Electronic communications Policy definitions and the requirements for 
+authorization and notification, the University may inspect, monitor, or disclose 
+electronic communications without the consent of the email holder when:  l. required by and consistent with law, or 
+4 of 6
+ 2. there is substantiated reason (as defined in the UC Electronic 
+communications Policy, Appendix A, Definitions) to believe that 
+violations of law or of University policies listed in UC Electronic 
+communications Policy Appendix C have taken place, or   
+3. there are compelling circumstances as defined in UC Electronic 
+communications Policy Appendix A, or  4. under time-dependent, critical operational circumstances as defined 
+in UC Electronic communications Policy Appendix A, Definitions.  Under all circumstances, the least intrusive action necessary is to be taken to 
+address the concern.  Consistent with law and other University policies, the 
+approving authority is to notify the affected individual(s) of what has been done 
+and the reason(s) for it at the earliest possible opportunity.  Each Office of the Vice Chancellor with the authority to approve non-consensual 
+access for conditions 1-4 will keep records of their respective approvals of 
+authorized or emergency non-consensual access.  UC Policy requires the 
+campus to publish, where consistent with law, an annual report summarizing 
+instances of authorized or emergency non-consensual access.  Appeals to the decision to inspect, monitor, or disclose electronic 
+communications without the holder's consent shall be treated consistent with 
+campus processes for complaints and grievances.  B. Faculty 
+The inspection, monitoring, or disclosure of a faculty members’ email records without their permission for conditions 1-4 must be approved by the Executive 
+Vice Chancellor in advance and in writing.  The Executive Vice Chancellor will 
+seek University Counsel's advice prior to approving the written request.  The 
+Executive Vice Chancellor will seek, in writing and in advance, the advice of the 
+Academic Senate.  The Academic Senate may choose to refer the request to a 
+special standing committee of the Academic Senate.  The standing committee 
+may consist of representatives from the Committee on Academic Freedom, the 
+Committee on Faculty Welfare, and the Committee on Privilege and Tenure.  The 
+Chair of the Academic Senate may chair the standing committee.  The committee 
+will consider recommendations from, as appropriate, the Vice Chancellor for 
+Administrative Services and the Chief of Police.  Advice from the Academic 
+Senate or its subcommittee is to be given to the Executive Vice Chancellor in 
+writing in a timely manner, not to exceed four weeks.  There may be occasions when the committee can not be assembled, and 
+permitting an individual continued access to electronic communications services 
+is life threatening, risks grave harm to an individual(s), or risks severe damage to 
+critical university data bases/operating systems.  In instances as defined in the 
+UC Electronic communications Policy, Appendix A, Definitions, the least intrusive 
+action necessary may be taken without authorization to address the concern 
+immediately.  Appropriate authorization must then be sought without delay 
+following the procedures for faculty described above.  C. Staff Requests to inspect, monitor, or disclose email records held by staff members, agents of the University, or unaffiliated users (with access by approved contract) 
+without the email holder’s consent for conditions 1-4, must be reviewed and 
+approved by the Vice Chancellor for Administrative Services in advance and in 5 of 6
+writing.  The Vice Chancellor for Administrative Services will seek University Counsel's advice prior to approving the written request. The Vice Chancellor for 
+Administrative Services, as appropriate, will seek the recommendation of the 
+Director of Human Resources and the Chief of Police. 
+ 
+There may be occasions when permitting an individual continued access to 
+electronic communications services is life threatening, risks grave harm to an individual(s), or risks severe damage to critical university data bases/operating 
+systems.  In instances as defined in the UC Electronic communications Policy, 
+Appendix A, Definitions, the least intrusive action necessary may be taken 
+without authorization to address the concern immediately.  Appropriate 
+authorization must then be sought without delay following the procedures for staff 
+described above.  D. Students Requests to inspect, monitor, or disclose email records without the consent of the student email holder for conditions 1-4 must be reviewed and approved by the 
+Vice Chancellor for Student Affairs in advance and in writing.  The Vice 
+Chancellor for Student Affairs will seek University Counsel's advice prior to 
+approving the written request.  The Vice Chancellor for Student Affairs will seek, 
+as appropriate, the recommendation of the Dean of Students and the Chief of 
+Police. 
+ 
+There may be occasions when permitting an individual continued access to 
+electronic communications services is life threatening, risks grave harm to an individual(s), or risks severe damage to critical university data bases/operating systems.  In instances as defined in the UC Electronic communications Policy, 
+Appendix A, Definitions, the least intrusive action necessary may be taken 
+without authorization to address the concern immediately.  Appropriate 
+authorization must then be sought without delay following the procedures for 
+students described above. 6 of 6

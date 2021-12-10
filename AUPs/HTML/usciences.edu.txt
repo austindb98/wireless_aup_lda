@@ -1,0 +1,65 @@
+Acceptable Use of Technology Policy | University of the Sciences | Philadelphia, PA googleoff: all Our website uses cookies to ensure you get the best browsing experience possible.
+View our privacy policy Got it!
+Individuals covered by the policy include, but are not limited to, University faculty and visiting faculty, staff, students, alumni, guests or agents of the administration, external individuals and organizations accessing network services via the University s computing facilities.
+Technology resources include, but are not limited to, all university owned, licensed or managed hardware and software, and use of the university network via a physical or wireless connection, regardless of the ownership of the computer or device connected to the network.
+These policies apply to technology administered in individual departments, the resources administered by central administrative departments(such as Technology Services and University Libraries), personally owned computers and devices connected by wire or wireless to the campus network, and to off-campus computers that connect remotely to the University's network services.
+Policy Statement ACCEPTABLE USE You may use only the computers, computer accounts, and computer files for which you have authorization.
+You may not use another individual's account, or attempt to capture or guess other users' passwords.
+You are individually responsible for appropriate use of all resources assigned to you, including the computer, the network address or port, software and hardware.
+Therefore, you are accountable to the University for all use of such resources.
+As an authorized University user of resources, you may not enable unauthorized users to access the network by using a University computer or a personal computer that is connected to the University network.
+The university is bound by its contractual and license agreements respecting certain third party resources; you are expected to comply with all such agreements when using such resources.
+You should make a reasonable effort to protect your passwords and to secure resources against unauthorized use or access.
+You must configure hardware and software in a way that reasonably prevents unauthorized users from accessing the University s network and technology resources.
+You must not attempt to access restricted portions of the network, an operating system, security software or other administrative applications without appropriate authorization by the system owner or administrator.
+You must comply with the policies and guidelines for any specific set of resources to which you have beengranted access.
+When other policies are more restrictive than this policy, the more restrictive policy takes precedence.
+You must not use University computing and/or network resources in conjunction with the execution ofprograms, software, processes, or automated transaction-based commands that are intended to disrupt(or that could reasonably be expected to disrupt) other computer or network users, or damage or degrade performance, software or hardware components of a system.
+On the University network and/or computing systems, do not use tools that are normally used to assess security or to attack computer systems or networks(e.g., password 'crackers,' vulnerability scanners, network sniffers, etc.)
+unless you have been specifically authorized to do so by Technology Services.
+You must not use the University s technology resources for commercial or for personal financial, political or other gain or any other activity that might endanger the university s tax-exempt status.
+FAIR SHARE OF RESOURCES Technology Services, and other University departments which operate and maintain computers, network systems and servers, expect to maintain an acceptable level of performance and must assure that frivolous, excessive, or inappropriate use of the resources by one person or a few people does not degrade performance for others.
+The campus network, computer clusters, mail servers and other central technology resources are shared widely and are limited, requiring that resources be utilized with consideration for others who also use them.
+Therefore, the use of any automated processes to gain technical advantage over others in the University community is explicitly forbidden.
+The University may choose to set limits on an individual's unauthorized high use of a resource through quotas, time limits, and other mechanisms to ensure that these resources can be used by anyone who needs them.
+COMPLYING WITH FEDERAL, STATE, AND LOCAL LAWS The University works closely with a wide variety of personal and financial data concerning, but not limited to, its students, staff, faculty, alumni, donors, and patients, as well as the University itself.
+Only University members with authorization may access, communicate or use confidential information.
+As a member of the University community, you are expected to: Abide by all federal, state, and local laws.
+Respect the University s obligation of confidentiality as well as your own.
+COPYRIGHT AND FAIR USE Some University guidelines related to use of technologies derive from upholding local ordinances and state and federal law.
+These include, but are not limited to, laws regarding license and copyright, and the protection of intellectual property.
+As a user of the University s technology resources you must: Abide by all applicable copyright laws and licenses.
+The University has entered into legal agreements or contracts for many of our software and network resources which require each individual using them to comply with those agreements.
+Observe the copyright law as it applies to music, videos, games, images, texts and other media in both personal use and in production of electronic information.
+The ease with which electronic materials can be copied, modified and sent over the Internet makes electronic materials extremely vulnerable to unauthorized access, invasion of privacy and copyright infringement.
+Do not use, copy, or distribute copyrighted works(including but not limited to Web page graphics, sound files, film clips, trademarks, software and logos) unless you have a legal right to use, copy, distribute, or otherwise exploit the copyrighted work.
+Doing so may provide the basis for disciplinary action, civil litigation and criminal prosecution.
+Reason for Policy The mission of the University of the Sciences(herein referred to as the University) is to educate its students to become leaders in the sciences, the health professions, and emerging related disciplines.
+In keeping with this mission, the University is committed to ensuring access to technology resources are available to all faculty, staff, and students.
+The technology resources at the University support the educational, instructional, research, and administrative activities of the University and the use of these resources is a privilege that is extended to members of the University community.
+As a user of these services and facilities, you have access to valuable University resources, to sensitive data, and to internal and external networks.
+Consequently, it is important for you to behave in a responsible, ethical, and legal manner.
+This document establishes specific requirements for the use of all computing and network resources at the University.
+Procedures It is your responsibility to report any and all violations of this policy to the Information Security Officer at abuse @ usciences.edu.
+Falsely reporting or accusing another of behavior that violates this policy is strictly prohibited.
+Help Desk 7575 Forms none Related Information none Privacy, Rights and Responsibilities PRIVACY All users of the university's network and technology resources are expected to respect the privacy and personal rights of others.
+Be professional and respectful when using computing systems to communicate with others; the use of technology resources to libel, slander, or harass any other person is not allowed and could lead to university discipline as well as legal action by those who are the recipient of these actions.
+The University implements various measures to ensure the security and privacy of data on its network.
+However, all users of the University s technology resources should be aware there is no guarantee of privacy.
+While the University does not generally monitor or limit content of information transmitted on the campus network, it reserves the right to access and review such information under certain conditions.
+These include, but are not limited to: investigating performance deviations and system problems(with reasonable cause), determining if an individual is in violation of University policies, or, as may be necessary, to ensure that the University is not subject to claims of institutional misconduct.
+Access to files on University owned equipment or information will only be approved by specific personnel when there is a valid reason to access those files.
+Authority to access user files can only come from the Chief Information Officer in conjunction with the Division Vice President.
+External law enforcement agencies and Public Safety may request access to files through valid subpoenas and other legally binding requests.
+Information obtained in this manner can be admissible in legal proceedings or in a University hearing.
+YOUR RIGHTS AND RESPONSIBILITIES As a member of the University community, the university provides you with the use of scholarly and/or work- related tools, including access to the Library, to certain computer systems, servers, software and databases, to the campus telephone and voicemail systems, and to the Internet.
+You have a reasonable expectation of unobstructed use of these tools, of certain degrees of privacy(which may vary depending on whether you are a University employee or a student), and of protection from abuse and intrusion by others sharing these resources.
+You can expect your right to access information and to express your opinion to be protected as it is for paper and other forms of non-electronic communication.
+In turn, you are responsible for knowing the regulations and policies of the University that apply to appropriate use of the University's technologies and resources.
+You are responsible for exercising good judgment in the use of the University's technological and information resources.
+Just because you may have the ability to access technology resources that do not belong to you, does not give you the right to do
+As a result, you are also responsible for notifying IT of any changes in access that you are aware of due to a change in position or duties.
+As a representative of the University community, you are expected to respect the University's good name in your electronic dealings with those outside the University.
+USER COMPLIANCE When you use University technology services, and accept any University issued computing accounts, you agree to comply with this and all other computing related policies.
+You have the responsibility to keep up-to-date on changes in the computing environment, as published, using University electronic and print publication mechanisms, and to adapt to those changes as necessary.
+Reporting Violations Suspected violations of this policy may result in temporary loss of access to University technology resources.

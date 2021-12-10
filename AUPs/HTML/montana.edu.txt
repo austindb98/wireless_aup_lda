@@ -1,0 +1,54 @@
+It is the responsibility of each student and/or family to use these services appropriately and in compliance with all university, city, county, state, and federal laws and regulations.
+MSU Residential Network reserves the right to restrict access and enforce the terms of this agreement.
+Residential Network wired Internet services are for the use of MSU residents only.
+The registered user is responsible for any and all activity occurring on the wired connection registered to them.
+Falsifying registration information will result in the temporary or permanent loss of services, with a possible referral to the Office of Student Affairs for disciplinary action.
+Residential Network Wireless is available only in the Residence Halls and Family & Graduate Housing(excluding the Westside Houses), and has both secured and open/guest access.
+An MSU NetID is required for access to MSU-Secure.
+Residential Network MSU-Guest is an open, unsecured network available to the general public.
+The use of any type of wireless equipment including but not limited to wireless switches, wireless routers, and wireless hubs in the Residence Halls or Family & Graduate Housing is prohibited.
+The use of a wired hub or router in the Residence Halls or Family & Graduate Housing is also prohibited.
+Permission to use a wired switch must be approved prior to its use and will be evaluated on a case-by-case basis by the Residential Network administration.
+Users are prohibited from using a switch or other device to provide a Residential Network connection to any other person.
+The Residential Network is a shared resource.
+Users will refrain from abuse and excessive bandwidth usage as deemed by Residential Network administrative staff and may be asked to cease any activity causing problems on the network.
+The Residential Network administration reserves the right to immediately suspend service to any device temporarily if they are found to contain viruses or malware in order to protect the network.
+It is the responsibility of the user to make sure that their device has current virus and malware protection software installed and operational.
+The user's Residential Network connection will be restored when it has been determined the user s device is free of viruses and is running current virus protection software.
+Users shall abide by all applicable copyright laws and licenses.
+The Residential Network may only be used for legal purposes and to access only those systems, software, and data the user is authorized to use.
+Sharing access to copyrighted software or other copyrighted materials is prohibited unless specifically authorized by the copyright holder.
+Please see MSU s "Copyright Infringement Disclosure" on the MSU Student Success website and Enterprise Alleged Copyright Infringement Response Policy at http://www.montana.edu/policy/enterprise_it/copyright_infringement.html for more information about the consequences of copyright infringement at MSU.
+Service may be suspended immediately for any user found to be in violation.
+Commercial or for-profit use of any MSU network is prohibited.
+Any user who attempts to circumvent/defeat any mechanism put in place to manage the network will be subject to immediate termination of service and possible disciplinary action.
+Residential Network services and wiring may not be modified or extended by users for any purpose.
+This applies to all network wiring, hardware, data jacks, and wireless access points.
+Costs to repair physical damage to the Residential Network hardware in the room or apartment(including wiring, data jack, conduit or box, and wireless access points) will be assessed to the resident.
+The hosting of network services from the user s devices is prohibited.
+Use of Residential Network implies the user s consent for Residential Network administration or its agents to monitor activities, traffic, and data via the user s data connection for the purpose of determining compliance with this Acceptable Use Policy.
+It is up to the user to make their computer and data safe from other users on the network; the user will not hold MSU liable for malicious acts by other network users.
+Any unauthorized attempt to access another computer or device is prohibited.
+Any reports received by the Residential Network administration of unauthorized attempts to access other connected devices will result in the immediate disconnection of the suspected network connection until the matter has been resolved.
+If users have a reason to believe another user or group of users is interfering with their access to the network, they may report the problem to the Residential Network office for investigation and, if necessary, corrective action.
+Residential Network Service Desk phone: 406-994-1929; email: resnet@montana.edu).
+Residential Network reserves the right to disconnect any computer or device sending disruptive signals to the network, whether because of a defective cable or any other hardware/software problem.
+It will be the user s responsibility to correct any such problem before the computer will be reconnected to the network.
+Residential Network reserves the right to disconnect any/all network-connected devices temporarily for the purpose of network maintenance, or to enforce the Acceptable Use Policy.
+AUP Enforcement Consequences for AUP violations will be handled on a case-by-case basis and may result in immediate to permanent suspension of Residential Network service.
+Minor infractions of this policy are generally resolved informally by Residential Network administration.
+This may be done through phone, email, or in-person discussion and education.
+Residential Network also offers a service desk to assist students who live on campus with their computers or devices.
+Repeated infractions or misconduct that is more serious will result in the temporary or permanent loss of Residential Network access privileges, or the modification of those privileges.
+In addition, offenders may be referred to their sponsoring advisor, department, or other appropriate University office for further action.
+If the user is a student, the matter may be referred to the Office of Student Affairs for disciplinary action.
+Residential Network may require that the user bring their computer or device to our service desk in order to verify compliance with this Acceptable Use Policy before service is restored.
+Any action that violates local, state, or federal laws may result in the immediate loss of Residential Network access privileges and will be referred to the appropriate University offices and/or law enforcement authorities.
+Validation error: Please correct the errors below.
+denotes required fields.
+Help, reCAPTCHA not working correctly in your Internet Explorer and how to fix it?
+What is this Captcha?
+This CAPTCHA is a free service to protect our MSU websites from spam and abuse.
+Click Submit to finish your request.
+Thank you for contacting ResNet.
+Someone will be with you soon.

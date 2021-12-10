@@ -1,0 +1,32 @@
+Visit
+Passwords belonging to specific Simon's Rock LDAP Usernames should be kept private; use of a Simon's Rock LDAP account by someone other than the designated owner of the account is prohibited and may result in the revocation of the offending user's account and consequent network privileges(see Section 3).
+As long as they are being used actively, alumni user accounts remain accessible for a minimum of one year after leaving Simon's Rock and will remain accessible until deemed inactive.
+User accounts for retired faculty and staff will be maintained until death.
+Other former faculty and staff user accounts are typically removed, although exceptions may be granted.
+Both e-mail notification and the ability to petition for continued user account support will precede the termination of any user account.
+Impersonation of another user(by spoofing their network account in any way) is not permitted.
+Section 2: Public Computers and Printers It is prohibited to alter the configuration of public computers made accessible to the College's community without the permission of Information Technology Services(ITS); this includes the adding or removing of software or hardware.
+Any printing to College-owned printers should be done with care and in moderation.
+Use of the public printers for excessive copying is prohibited; dedicated photocopy machines are supplied for this purpose.
+Section 3: General Network Use Users of the Simon's Rock campus network are required to adhere to local, state, and federal laws in addition to the regulations mentioned in this document.
+Users of the network maintain sole responsibility for the legality of their actions through use of the network and other related services including but not limited to: Internet access File storage Public file hosting Prohibited actions taken by a user through access of the network or other publicly available technology at Simon's Rock may result in termination of such access to any or all of the provided services to the user, in addition incurring other disciplinary action.
+Any action related to the network or other publicly available technology that violates local, state, or federal law; including gross copyright violations and illegal or otherwise unauthorized access of any computer system may be reported to the relevant law enforcement authorities.
+Section 4: User/Personal Machine and Hardware Any user must verify that their machine is free from viruses, malevolent programs and other intrusive software.
+In addition, all official software updates must be completed prior to connecting to the network.
+If the machine runs any version of the Windows operating system it is mandatory that current antivirus and antispyware programs, with the latest definitions, are installed on that machine(these programs are provided free-of-charge by ITS).
+Finally, the user is responsible for keeping their machine up-to-date by downloading operating system patches and new definition files for antivirus/antispyware software promptly after they are made available for every applicable program and operating system installed on the machine.
+Registration of a computer to a user account that is not used primarily by the corresponding user is prohibited.
+The registered user for a given MAC address is the sole person responsible for actions taken on his or her computer and will be held accountable for any prohibited actions taken using that computer as well as any harm to the Simon's Rock network caused by the registered and associated hardware.
+Any use of an IP address on the Simon's Rock network not assigned by the College's Dynamic Host Configuration Protocol(DHCP) servers is prohibited without permission from ITS.
+Services that may not be run by users include but are not limited to IEEE 802.11 Wireless Access Points(WAPs) Unisolated DHCP servers Unisolated Domain Name Servers(DNS) Unisolated Windows Internet Naming Services(WINS) ITS reserves the right to deny users of its network the ability to provide the services mentioned above and potentially any others not mentioned in this document.
+Section 5: Bandwidth Use It is prohibited for any technology user, as a sum of their network interface devices, to abuse or monopolize the network.
+If a user is found to be abusing their network privileges, whether inadvertently or otherwise, they will be disconnected from the network(see Section 3).
+Users are responsible for ensuring that their computer and associated application programs do not impose excessive traffic demands on the network, particularly when transferring data to and from sites on the Internet.
+All students share a finite amount of bandwidth to the Internet, and consequently there may be times when network access will feel slower due to high usage during peak times(typically early evenings and weekends).
+The College maintains traffic shaping hardware in place to, as much as possible, minimize this problem.
+However, the College cannot guarantee a certain quality of service.
+Students are encouraged to practice being good "network citizens" in order so that all network users can benefit from the College's connection to the Internet.
+Section 6: Network Traffic Monitoring ITS reserves the right to monitor network traffic to and from College-maintained server systems and also to track and log activity between the campus network and any off-campus network.
+Individuals who violate the aims of this policy will be subject to disciplinary action or to referral to law enforcement authorities.
+Information Technology Services personnel are authorized to monitor suspected violations and to examine data stored on any College-maintained storage medium by individuals suspected of violating this policy.
+4 Alford Road, Great Barrington, MA 01230 info@simons-rock.edu Phone: 413-644-4400 Fa 413-528-7365 Copyright 2021 Bard College at Simon's Rock Accredited by the Middle States Commission on Higher Education jQuery(necessary for Bootstrap's JavaScript plugins) Include all compiled plugins(below), or include individual files as needed

@@ -1,0 +1,134 @@
+Administrative Policies and Procedures Manual - Policy 2520:
+Computer Security Controls and Access to Sensitive and Protected
+InformationDate Originally Issued: 11-01-1991Revised: 07-01-2001, 07-01-2011Authorized by Regents' Policy 3.1 "Responsibilities of the President"
+Process Owner:  Chief Information O
+!cer1. GeneralThe University provides computing services to the University community in accordance with 
+UAP 2500 ("Acceptable ComputerUse") which applies to all users of University computing systems.  This policy describes additional requirements and
+responsibilities applicable to faculty, sta
+", students, vendors and volunteers who are in IT-related positions or are in positions
+that have access to sensitive and protected information.  Due to the di
+"ering regulatory constraints imposed upon the UNM
+Health Sciences Center (HSC) and UNM Health System relative to privacy and security of health information both in the clinical
+and research areas, the UNM HSC and UNM Health System are excluded from application of this Policy and shall be covered
+by as restrictive or more restrictive 
+IT: Administrative Policies
+  adopted by the UNM HSC and UNM Health System; provided
+that the provisions of 
+Section 4.  herein relating to remote access to the Enterprise Resource Planning (ERP) suite of tools shall
+apply to the UNM HSC and UNM Health System and HSC IT will promptly report any security violations to the University IT
+Security O!ce at security@unm.edu .Management of University computing services must ensure the rights and responsibilities provided for in Policy 2500 while
+also ensuring system and data availability, reliability, and integrity. Therefore, all departments operating University owned
+computers, including those operated by faculty, sta
+", and students, must develop departmental security practices whichcomply with the security practices listed herein.  In addition, departments must have environment-speciÞc management
+practices for business functions such as maintenance, change control procedures capacity planning, software licensing and
+copyright protection, training, documentation, power, and records management for computing systems under their control.
+This may be done by hiring a qualiÞed employee, sharing resources with other departments, or contracting with
+UNM Information Technologies (IT).  IT is available to assist and advise departments in planning how they can carry out
+compliance with this and other computer technology-related policies. Departments must document and periodically review
+established practices.Department heads or designees are responsible for computer security awareness and for ensuring reasonable protection of all
+departmental computing systems within their purview against breaches of security, through methods such as virus protection,
+Þrewalls, encryption, patch management, change control, and password usage. Department heads or designees should ensure
+users of their systems have the necessary training for appropriate use of the system. A portion of available resources is listed
+at IT: Training & Learning Resources
+ .  Prior to gaining access to UNM computers, all users must sign a Computer Use AccessAgreement
+ which is available on the IT Website.  
+2.  Access to Departmental Systems
+Access to departmental computing systems must be authorized by the department head or designee. Access to Universitycomputing systems containing or transmitting sensitive and protected information must be authorized by the department head
+and approved by the University designated data custodian.  To ensure conÞdentiality, special attention should be taken when
+authorizing system access to vendors and/or contractors, including those repairing and/or maintaining computers and
+computing devices. When possible, it is advisable to have vendors and/or contractors sign a conÞdentiality agreement.
+Computer access control also includes physical security to UNM equipment and information, such as: locks on
+doors/windows for equipment and storage, locking paper Þles, and paper shredders. The department head or designee
+ensures proper management of computer accounts and user identiÞcation by:
+handling system user authentication securely (e.g. passwords, PIN numbers, access codes);
+terminating an account in a timely manner when an individual's a!liation with the University is terminated or completed;providing guidelines for computer account locking, unlocking and appeal (e.g. IT's procedures are at 
+IT: Account Locking
+and Unlocking Policy ); andfollowing established policies and procedures and legal due process when violations are detected or suspected.
+3. Network AccessIT provides guidelines, standards, and minimum requirements for attaching and detaching to UNM network resources and for
+accessing University computing systems remotely at 
+http://it.unm.edu/network/index.html .4. Access to Computer Systems Containing Sensitive and Protected
+InformationAn individual who requires access to sensitive and protected information  (i.e. ERP suite of tools, PowerPark, etc.) must
+comply with UAP 2000 ("Responsibility and Accountability for University Information and TransactionsÓ)
+ and must beauthorized by the data custodian responsible for the speciÞc application. All contractors and vendors who have access to
+sensitive or protected information are required to sign conÞdentiality agreements prior to gaining such access.  The data
+custodian is an individual o!cially appointed to authorize access to the system and ensure application-speciÞc
+security. Authorization will only be granted to those individuals with a demonstrated need to use such information and/or
+electronic processes and who has taken the required training applicable to the system being requested.  The data custodian
+will advise the individual on the system speciÞc process used to authorize and gain access to the requested system.  The data
+custodian or designee must review and approve each request for access to a speciÞc system, ensure that all required training
+has been taken prior to granting access, and authorizes access based on the userÕs business need and role in accordance with
+application-speciÞc access procedures.  Contact IT for list of Data custodians.
+4.1. Remote AccessFor the purposes of this Policy, Òremote accessÓ is deÞned as any means by which any faculty, sta
+", student employee,consultant, vendor or a!liate connects to the UNM Network using a non-UNM network device or service to access sensitive orprotected information.  This provision applies regardless of the type of device being used or if the device is University owned
+or personally owned. IT, department heads, designees and users share the responsibility for ensuring appropriate security
+mechanisms are in place to preserve the integrity of the network, to preserve the data transmitted over that network, and to
+maintain the level of conÞdentiality of the data at all times.  Because of the increased level of risk inherent with remote access,
+strong security measures are required.  When a user accesses sensitive or protected information remotely, identiÞcation and
+authentication of the user shall be performed in such a manner as to not disclose the password or other authentication
+information that could be intercepted and used by a third party. 
+4.1.1. Approval for Remote Access
+
+Users will be allowed to access to sensitive or protected information from a remote location only upon approval by the data
+custodian.  Once approved, the user is responsible for ensuring adequate security measures are in place at the remote location
+for secure transmission of agency data and protection of University computing resources. Computing devices used for remote
+access must conform to minimum security controls listed in Section 6 of 
+Rules of Use: Campus Data Communication Network.  IT can assist the user in identifying the appropriate protection mechanisms necessary to protect against theft of University
+resources, unauthorized disclosure of information, and unauthorized access the University network.  The user is responsible for
+ensuring devices used for remote access are protected by a Þrewall and virus scans, and contain all up-to-date security
+patches. UNM recommends that users leave data on UNM servers as much as possible and not copy sensitive data, as described
+in Section 4.1.2.  herein, onto any mobile computing device.  Storage of sensitive data and protected information on a non
+UNM computer is prohibited unless a formal written exemption is granted by the data custodian. When stored remotely on a
+UNM computing device the data must be encrypted.    4.1.2.  Sensitive DataUsers should be especially careful with the following types of data:
+conÞdential Þnancial informationaccount names and passwords
+social security and/or credit card numbers
+personal contact names and phone numbersdecryption keys or pass-phrases5. System Protection
+Department heads are responsible for protecting the systems under their control from system intrusion, compromise, or data
+loss.5.1. Virus Protection
+Virus detection and elimination software is essential to protect University data and systems. Department heads, or designees
+are responsible for maintaining the latest version of an antiviral software and current updates on their computers. Systems
+must have active virus protection turned on with each system scanned regularly. Assistance with virus protection and software
+are available from IT at 
+IT: Virus Protection
+ .5.2. Privacy and ConÞdentialityDepartment heads, or designees must take appropriate measures to ensure privacy and conÞdentiality of system data in
+accordance with applicable laws and policies such as:
+UAP 2030 ("Social Security NumbersÓ)UAP 2040 ("Identify Theft Protection ProgramÓ)
+UAP 2550 ("Information SecurityÓ)UNM Student Records Policy
+Family Educational Rights and Privacy Act of 1974Department of Health and Human Services (Health Information Privacy)
+New Mexico Inspection of Public Records Act
+5.3. System IntegrityDepartment heads, or designees may monitor and investigate systems or jobs under their control for appropriate use of
+resources, to protect or improve system performance, or in compliance with audit or legal requests. Jobs, procedures, and/or
+functions may be restricted or limited to ensure system integrity. Departments must maintain current versions of system
+software and security patches, especially when there are known security issues.
+5.4. Data Loss Protection
+For all computing systems that store or process sensitive or protected information department heads or designees are
+responsible for developing, maintaining and executing backup, o
+"-site storage and disaster recovery procedures for
+computerized University information.  5.5. Records Management
+Department heads, or designees are responsible for computerized data retention and backup procedures that comply with
+University Records Management requirements for classiÞcation and retention of University information.
+6. Security Violation Handling
+Department heads, or designees should detect and correct any non-compliance with this and other University computer
+policies. In addition to following any College or department-mandated security incident reporting process, any and all
+employees, faculty, or sta
+" who reasonably believe:
+there has been a breach to any University computer application or system,
+there has been a breach to UNMÕs computer security controls (i.e. a computer has been hacked or somehow has been
+compromised by an unauthorized person), or
+there has been a violation of this Policy
+are required to report the incident, within twenty-four (24) hours of becoming aware of the violation or breach, to the UNM
+Chief Information O!cer (CIO) or the UNM IT Security O!ce.  If the CIO or the UNM IT Security O!ce receives a security
+incident report that involves healthcare-related entity or may involve protected health information, they must notify the UNM
+Privacy O!ce and the HSC IT Security O!ce as soon as reasonably possible.
+All investigations should follow proper investigative procedures to ensure conÞdentiality and due process. Any employee who
+detects or suspects non-compliance should report such conduct to the department head. Misconduct should be reported in
+accordance with  
+UAP 2200 ("Whistleblower Protection and Reporting Suspected Misconduct and Retaliation").
+7. User Responsibility and AccountabilityUsers are responsible for proper use and protection of University information and are prohibited from sharing information with
+unauthorized individuals. The web-based information systems allow an authorized user the ability to complete transactionsdirectly on-line and forward the forms to the appropriate administrators for approval. By completing a form on-line, the user
+accepts responsibility to follow all applicable policies and procedures.
+8. SanctionsEmployees who do not demonstrate due care in the administration of their duties as required by this Policy may be subject to
+sanctions, including withdrawal of privilege to enter information directly into the system; and/or disciplinary action, up to and
+including, discharge.
+
+© The University of New Mexico, Albuquerque, NM 87131, (505) 277-0111 
+New Mexico's Flagship University

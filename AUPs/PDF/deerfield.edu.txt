@@ -1,0 +1,55 @@
+Deerfield Academy revised August 2019 Information Technology Services Technology Acceptable Use Policy Page of TECHNOLOGY ACCEPTABLE USE POLICY PURPOSE This policy outlines the acceptable use of computing and information technology resources at Deerfield Academy including, but not limited to, computer equipment, software, storage media, networks, email, and the Internet.
+These rules are in place to protect the employee/student and Deerfield Academy.
+The technology resources at Deerfield Academy are provided to support the educational and administrative activities of the school and should be used for those purposes.
+Access to these resources is a privilege, not a right, and must be treated with the highest standard of ethics.
+SCOPE This policy applies to all users of Deerfield Academy computing resources, and to all software and equipment that is owned or leased by Deerfield Academy.
+It also applies to all personally-owned equipment that is capable of connecting or information systems.
+AUTHORIZED USE An authorized user is any person who has been granted authority by Deerfield Academy to access its computing, network and telephone systems, and whose usage complies with this Policy.
+Unauthorized use is strictly prohibited.
+owned or personally-owned equipmenwith respect to any such equipment, as well as with respect to any information or communication stored or transmitted over such equipment.
+
+Students are given email and network accounts, and Internet access.
+Employees may be provided with email and network accounts, voice mail accounts, and/or Internet access; depending on the requirements of their job.
+
+When a user ceases being a member of the Academy or transitions to a new position and/or responsibilities, use of technology resources for which they are not authorized shall also cease or be altered.
+performance or with.
+Except as authorized by the CFO, use of the Deerfield Academy technology resources or data for personal business, political campaigning, or a commercial purpose is prohibited.
+No user may act in ways that are unethical or that invade the privacy of others.
+All users must recognize and not violate the intellectual property rights of others.
+
+All users information security policies and guidelines, including, but not limited to this policy, as well as federal, state and, as applicable, international laws and regulations.
+Technology Acceptable Use Policy Page of D. All users must refrain from activities that waste Academy technology resources or prevent others from using them.
+expressed permission.
+Tampering with or degrading the performance of an Academy computer system, telephone system, or network; or to deprive authorized users of access or use of such resources are prohibited.
+Users are responsible for the content and impact of their email messages.
+Prohibited activities include, but are not limited to creating or propagating viruses, sending sending messages that contain inappropriate content, and activities related to billable services.
+Users may not send broadcast email or broadcast voice mail without prior permission from Information Technology Services or Communications.
+To protect personal safety and privacy, users of the Internet and Social Media applications should not post or share another personal information without their expressed consent.
+Altering electronic communications to hide your identity or impersonate another person without approval is considered forgery and is prohibited.
+Users will abide by all laws governing intellectual property use.
+Students and employees are prohibited from using Academy networks or equipment for the viewing, acquisition, storage, or transmission of any digital content that they do not have a legal right to use, including but not limited to copying and sharing images, music, and videos.
+Users must be aware that some material on the Internet is copyrighted and subject to copyright law.
+
+No software may be installed, copied, or used on Academy equipment except as permitted by law.
+All software license provisions must be strictly adhered
+Administrative users are prohibited from installing non-Academy-provided software on school-owned systems without permission from Information Technology Services.
+Computer accounts, passwords, security codes, and other types of authorization are assigned to individual users sharing authorization data is strictly prohibited.
+
+Removing or relocating Academy-owned technology resources requires prior authorization from Information Technology Services.
+Users may not attempt to circumvent the security provisions of any system on the Academy network.
+Users are required to have updated virus protection software on their computers when connecting to the Deerfield Academy network.
+Users should exercise caution when opening email attachments or other Internet files that may contain malicious software received from unknown sources.
+Any computer found to be infected with viruses or malware will have access to network services revoked until all viruses/malware have been removed and updated antivirus software has been installed.
+Student use of personally-owned wireless printers, modems, wireless access points, hubs, switches, routers and other network devices is prohibited.
+Faculty members may install personally-owned wireless access points or other network devices in their residences only with prior permission from Information Technology Services.
+Ad-hoc wireless networks are not allowed on campus as they have a negative impact on DA network performance.
+Students may not use personal wireless devices for video streaming and gaming secure wireless network(GreenDoor).
+They are permitted on DA-Wireless.
+Student use of wired Ethernet ports is prohibited in all dorms.
+Technology Acceptable Use Policy Page of H. Deerfield Academy employees and students should recognize that there is no expectation or guarantee of privacy on the or networks, or on personally-owned other information created or maintained on the systems are private, confidential, or secure.
+The Academy reserves the right to access, view, or monitor any information or communication stored on, or transmitted over the network, and it may be required by law to allow third parties to do
+Electronic data may become evidence in legal proceedings.
+Messages or data may also be inadvertently viewed as a result of routine systems maintenance and support.
+Any monitoring of an individuals account or data, except as required by law or in situations perceived as emergency, must be authorized in advance by the Director of Information Technology or the Director of ENFORCEMENT/SANCTIONS Users in violation of this policy are subject to a full range of sanctions including, but not limited to, the loss of computer, telephone, or network access privileges, disciplinary action, and dismissal/termination from the Academy.
+Some violations may constitute criminal offenses as defined by local, state, and federal laws and Deerfield Academy may initiate or assist in the prosecution of any such violations to the full extent of the law.
+All members of the community are expected to assist in the enforcement of this policy and users are required to report any violations to the Director of Information Technology Services.

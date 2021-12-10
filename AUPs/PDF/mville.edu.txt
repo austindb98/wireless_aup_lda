@@ -1,0 +1,83 @@
+This policy refers to all Manhattanville College Information R equipment installed on Manhattanville College property or otherwise furnished by Manhattanville College, whether individually controlled or shared, stand-alone or networked, and whether owned, leased, operated, or controlled by Manhattanville College, including networking devices, personal digital assistants, wireless devices, personal computers, work stations, mainframes, minicomputers and any associated peripherals and software regardless of whether used for administrative, research, teaching or other purposes.
+No one, other than authorized personnel for authorized purposes, shall attempt to modify or remove Manhattanville College information resources or any other equipment, software or peripherals that are owned by others without proper authorization from Manhattanville College or the owner.
+This policy also applies to technology equipment brought to campus by faculty, staff and students for the purpose of accessing Manhattanville College technology resources, networks and services.
+Legal Compliance All and other applicable laws and regulations(such as FERPA, HIPPA and other relevant regulations); all related Manhattanville College rules and policies, including, but not limited to those which apply to personal conduct and those specific to computers and networks; and all applicable contracts and licenses.
+Users are responsible for ascertaining, understanding and complying with the laws, regulations, rules, policies, contracts and licenses applicable to their particular uses.
+Authorized Uses All users of resources that they are authorized to use and use them only in the manner and to the extent authorized.
+Ability to access computing resources does not, by itself, imply authorization to do
+Users and/or their supervisors are responsible for ascertaining what authorizations are necessary and for obtaining them before proceeding.
+Accounts and passwords may not, under any circumstances, be shared with, or used by, persons other than those to whom they have been assigned by Manhattanville College.
+Attempts to circumvent these mechanisms in order to gain Initiated Date: 4/3/13 Version Number:
+Office of Information Technology Version 1.2 Page Acceptable Technology Use policy and may violate applicable law.
+All users must use systems and resources in ways that do not interfere with or disrupt the normal operation of these systems, nor interfere with the access and use of these systems and resources by others allowed to do
+Harassment
+No user may, under any circumstances, systems or networks to libel, slander, or harass any other person.
+
+Capacity Used a. capacity of those resources and limit use so as not to consume an unreasonable amount of those resources or to unreasonably interfere with the activity of other users.
+There is no set bandwidth, disk space, CPU time, or other limit applicable to all users of those resources to limit or refrain from specific uses in accordance with this principle.
+
+Users must be good stewards of the computing and network resources offered by Manhattanville College.
+Users rely on shared computing and networks simultaneously and, therefore, each user must consider the needs of other users when using these resources.
+Examples of poor stewardship of information resources include, but are not limited to: excessive personal use in a lab or classroom facility; excessive personal use at staff and faculty workstations; continuous running of background programs and reception of large files or running intensive multi-media network applications(digital radio or other media) during high-use times.
+Manhattanville College technology equipment is intended for the overall support of the academic mission of the institution.
+Computers, disk drives and other devices are not to be used for the personal storage and maintenance of personal files such as pictures, music, videos or similar personal documents.
+Manhattanville College network bandwidth/capacity, storage facilities and backup capacity are not limitless resources.
+Therefore, the discovery of unauthorized files on Manhattanville College equipment may result their immediate removal.
+Manhattanville College assumes no liability for any personal digital content on Manhattanville College resources.
+Manhattanville College email, web sites and systems such as Colleague and Blackboard are strictly intended for the overall support of the academic mission of the institution.
+Personal use is prohibited and it should be noted that ALL digital content of Manhattanville College systems is discoverable in court and subject to federal and state laws.
+All documents, data reports and records are the property of Manhattanville College and removal, unauthorized copies or destruction of such is not permitted.
+It is the policy of Manhattanville College to promptly process and investigate notices of alleged copyright infringement, and take appropriate actions under the Digital Millennium Copyright Act, Title 17, United States Code, Section 512
+The DMCA requires that all notices of alleged copyright infringement must be in writing.
+Before the complainant alleges an infringement, s/he should consult copyright materials to confirm that the use is, in fact, infringing.
+The United States Copyright Office provides basic information, online at http://www.copyright.gov/, which can assist one in determining whether an exception or defense, such as fair use, may apply to the use of your copyrighted work.
+Notice, Takedown, and Put Back Procedure Manhattanville College expects all users of its system to comply with applicable copyright laws.
+However, if Manhattanville College is notified of a claimed copyright infringement, or otherwise becomes aware of facts and circumstances from which infringement is apparent, it will respond appropriately, which may include removing or disabling access to the material that is claimed to be infringing.
+Manhattanville College will follow the procedures outlined in the Digital Millennium Copyright Act with regard to appropriate notifications of the user and the complaining party, alleged infringing material.
+Refer to the United States Copyright Office for the provisions of the DMCA at http://www.loc.gov/copyright/legislation/dmca.pdf d. Copyright protection is broader than many people imagine: It covers any original work of authorship that is fixed in a tangible medium of expression.
+A work is protected from the moment it is created and does not have to contain a copyright notice to be protected.
+This broad protection means that just about any work you come acrosssoftware, books, music, film, video, articles, cartoons, pictures, emailexceptions allow limited copying or distribution of protected works, but the exceptions are narrower than many people believe.
+The use of peer-to-peer software programs to make and share copies of copyrighted music and movies without permission of the copyright owner would virtually never qualify for an exception.
+Repeat Infringers where it has been clearly established that a Manhattanville College user is a repeat offender, Manhattanville College may terminate that D. Personal Gain or Benefit
+All users shall refrain from using Manhattanville College information systems resources for personal commercial purposes or for personal financial or other gain without proper authorization.
+All users shall refrain from seeking personal benefit or permit others to benefit personally from any confidential information that has come to them by virtue of their work assignments.
+Personal use of Manhattanville College computing resources for other purposes is permitted when it does not consume a significant amount of those resources, does not interfere with the and is otherwise in compliance with this policy.
+Further limits may be imposed upon personal use in accordance with normal supervisory procedures.
+Questions regarding copying and/or use should be referred to the Chief Information Officer(CIO).
+Privacy Information Systems shall respect the privacy of other users and their accounts, regardless of whether those accounts are securely protected.
+Ability to aware that their uses of the Manhattanville College computing resources are not completely require the backup and caching of data and communications, the logging of activity, the monitoring of general usage patterns, and other such activities that are necessary for the rendition of service.
+Manhattanville College may also specifically monitor the activity and accounts of individual users of Manhattanville College computing resources, including individual login sessions and communications, without notice, when(a) the user has voluntarily made them accessible to the public,(b) it reasonably appears necessary to do so to protect the integrity, security, or functionality of Manhattanville College from liability;(c) there is reason to believe that the user has violated, or is violating, this policy or any Manhattanville College policy;(d) an account appears to be engaged in unusual or unusually excessive activity, as indicated by the monitoring of general activity and usage patterns; or(e) it is otherwise required or permitted by law or for any other legally permitted reasons associated with the evaluation, testing, repair or general operation of the Manhattanville College information resources Manhattanville College, in its discretion, may disclose the results of any such general or individual monitoring, including the contents and records of individual communications, to appropriate Manhattanville College personnel or law enforcement agencies and may use those results in appropriate Manhattanville College disciplinary proceedings.
+Communications made by means of Manhattanville College computing resources are also generally subject to public records statues to the same extent as they would be if made on paper.
+Authorized system Administrators will report suspected unlawful or improper activities to the proper authorities.
+Security Manhattanville College employs various measures to protect the security of its computing practices by establishing appropriate access restrictions for their accounts and guarding their passwords.
+Unauthorized software downloads, peer-to-peer file transfers and similar activities ll the IT Help Desk before attempting any download from the internet.
+Office of Information Technology Version 1.2 Page Additional User-Specific Provisions Website Reproduction, all users who have their own authorized and approved websites housed on Manhattanville College web material available over the internet must comply with all applicable copyright laws.
+In addition, all Manhattanville College information that a school, department or employee desires to post on their websites should only be posted with appropriate permission and authority.
+All web content is subject to Manhattanville College standards for style, format and publishing approval.
+
+Third-Party Connections to the Manhattanville College Network(vendors, contractors, consultants and external entities) In addition to fully complying with this de all third-party connection users are subject to the following additional provisions:
+The security of Manhattanville College systems, the confidentiality and privacy of Manhattanville College students, employees and record must be protected.
+
+All information resources and equipment must be periodically inspected by a Manhattanville College IT staff.
+The inspection is intended to verify that the appropriate level of security is in place and to verify the existence of proper communication equipment, technical settings, hardware compatibility and anti-virus protection.
+Any equipment deemed insufficient or risky to the Manhattanville College network may be denied access until deemed acceptable.
+Any external equipment and network devices not made available for inspection may be disconnected from the Manhattanville College network until proper inspection is completed.
+Any equipment or network device suspected of endangering network health, performance or security is subject to immediate disconnection.
+
+Any intrusive audits or tests which may impair the connectivity, functionality and health of the Manhattanville College network must be scheduled and approved by the CIO in advance of any such audit or impairment.
+
+Generally, no direct connection to the Manhattanville College network from non-centrally-contracted third parties providing computing or network support is allowed.
+However, if any such connection is authorized, Manhattanville College cannot enable the outside agency to compete with any services already provided by agencies with exclusive agreements to provide such
+Instead, the connection must be limited solely to improving a service provided to Manhattanville College.
+
+Agencies granted special connections must comply with Manhattanville termination of connectivity.
+
+Any Manhattanville College staff requiring a connection to outside agencies must provide a written request to the CIO and shall explain the nature of the desired connection to outside agencies and the benefits expected there from.
+Enforcement Information Technology Resources who are found to have violated any of these policies will be subject to disciplinary action including(but not limited to) warnings, probation, suspension, discharge, dismissal, and/or legal action.
+All users are expected to cooperate with system administrators in any investigation of system abuse when asked to do
+Users are encouraged to report suspected abuse, especially any damage to or problems with their files.
+Failure to cooperate may be grounds for cancellation of access privileges, or other disciplinary actions.
+Manhattanville College employees should be aware that e-mail on their Manhattanville College account and files on Manhattanville College computers are discoverable in a court of law.
+Further, Manhattanville College reserves the right to access employee e-mails and files on Manhattanville College computers when needed for work-related purposes.
+Manhattanville College may temporarily suspend or block access to an account prior to the initiation or completion of such procedures, when it reasonably appears necessary to do so in order to protect the integrity, security, or functionality of Manhattanville College computing resources or to protect Manhattanville College from liability.
+Manhattanville College may also refer suspected violations of applicable law to appropriate law enforcement agencies.

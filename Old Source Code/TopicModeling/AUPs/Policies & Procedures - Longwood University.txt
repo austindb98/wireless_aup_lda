@@ -1,0 +1,76 @@
+Acceptable Use of Information Technology Resources and Systems 
+6104
+ I. PURPOSE
+The purpose of this policy is to establish parameters for the use of Longwood information technology (IT) resources and systems.
+II. DEFINITIONIT Resources and Systems
+: IT resources and systems include all computers, workstations, peripherals, networks, communications
+devices, switches, software programs and systems, as well as all related devices, hardware and software owned by Longwood
+University, covered under contract by the Commonwealth of Virginia or that are the responsibility of Longwood University through
+agreements with Longwood departments or employees.
+III. POLICY
+This policy covers all activities involving these IT resources and systems and applies to all individuals using these IT resources and
+systems. This policy does not cover activities solely involving personal property, but does cover activities which involve the use of
+personal property connected to or communicating with Longwood University IT resources and systems.
+A. Intent
+ of IT Resources and Systems
+: IT resources and systems are provided at Longwood and shall be used solely to support
+the mission of the University and its related academic, administrative and service activities. Activities involving Longwood's IT
+resources and systems must be in accord with the Longwood University 
+Honor Code
+(http://www.longwood.edu/studentconduct/honor-code/)
+, the Student Handbook, the Faculty Policies and Procedures Manual
+and the Administrative Policies and Procedures Manual
+ (http://www.longwood.edu/policies/index.html)
+, as well as, relevant
+local, state, federal and international laws and regulations.
+B. Privileged Systems
+: Use of Longwood IT resources and systems is a privilege granted to individuals by the University and is
+restricted to the specific authorities granted. Access to the use of discrete IT resources and systems shall be explicitly granted
+by the owner of the IT resource or system or his or her designee.
+C. Acceptable Use
+: For use to be acceptable, it must demonstrate respect for:
+1. The intent of the individual authorities granted the user;
+2. The usage privileges of other authorized users;
+3. The rights of others to privacy;
+4. Intellectual property rights (e.g., as reflected in licenses and copyrights);
+5. Ownership, confidentiality, integrity and availability of systems and data;
+6. System mechanisms designed to limit, monitor and/or record use or access (Longwood University IT resources and
+systems activity are routinely monitored and recorded by technical support staff.);
+7. 
+Current network topology and configuration; and
+8. Individuals' rights to be free of intimidation, harassment and unwarranted annoyance.
+D. 
+Responsibility to Investigate Possible Misuse
+:1. The University reserves the right to monitor, access and disclose all data created, sent, received, processed or stored
+on any University IT resource or system with or without cause.
+2. When there is reasonable suspicion of misuse the University has the responsibility to investigate. Such investigations
+will only be undertaken by the CIO or his or her designee with the permission of the President or his or her designee.
+3. The CIO or his or her designee has the right to temporarily suspend or modify access privileges.
+E. Internal Audit Reviews
+: In the course of its work, Internal Audit has full and complete direct access to all University books and
+records (manual and electronic) relevant to the subject of review. All documents and information given to Internal Audit
+during their work will be handled in the same prudent manner that the University expects of the employees normally
+accountable for them.
+IV.  ENFORCEMENT
+The University regards any violation of this policy as a serious offense. Violators of this policy are subject to appropriate
+disciplinary action such as prescribed in the Longwood University 
+Honor Code
+ (http://www.longwood.edu/studentconduct/honor-
+code/)
+, the Student Handbook, the Faculty Policies and Procedures Manual and the 
+Administrative Policies and Procedures Manual
+Policies & Procedures
+
+(http://www.longwood.edu/policies/index.html)
+, in addition to possible cancellation of IT resources and systems access privileges.
+Users of IT systems and resources at Longwood are subject to all applicable local, state and federal statutes. This policy does not
+preclude prosecution of criminal and civil cases under relevant local, state, federal and international laws and regulations.
+Revised and approved by the Board of Visitors, September 7, 2002.
+Revised and approved by the Board of Visitors, September 10, 2005.
+Revised and approved by the Board of Visitors, September 14, 2006.
+Revised and approved by the Board of Visitors, September 12, 2008.
+ Visit
+INFORMATION TECHNOLOGY SERVICES
+on www.longwood.edu
+(http://www.longwood.edu/technology/ )
+

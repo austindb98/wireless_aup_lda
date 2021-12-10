@@ -1,0 +1,48 @@
+The wireless network connects to Towson University s wired network and to the Internet.
+The wireless network is a supplementary adjunct to the wired network.
+Whenever possible a wall port connection to the network should be used.
+Acceptable uses of the wireless network at Towson University are subject to compliance with the following: All use of the wireless access points, wireless devices and adapters must comply with applicable laws, regulations, and university policies including FCC regulations and Towson University Guidelines for Responsible Computing. No user is authorized to attempt to utilize a wireless enabled device as an intermediary to providing other users access to Towson University s network.
+Please refer to the policy on, Management of Wireless Networks and Access Points for more information.
+Colleges and administrative units may implement additional operating policies to regulate use of wireless devices within the physical areas of their offices and classrooms.
+Such policies should be made available on the department web site, must refer to this policy, and must be consistent with this policy.
+Use of the wireless network is limited to portable devices.
+Stationary devices(e.g., PC towers and printers) must be connected to the network via wall port access.
+Wireless devices listed on the Towson Unplugged site( Recommended Hardware) are supported by OTS.
+Users of these devices can request assistance in connecting to the Towson University network via OTS support services, training and documentation.
+Reason for Policy: This policy is intended to assist in regulating use of the wireless network and associated radio frequencies.
+The benefits include prevention of security breaches by use of unapproved hardware, avoiding monetary losses due to investigation of radio interference, and legal actions against the university due to allowing unauthorized access to the Towson University secured network and the information contained within.
+Definitions: Access point is a small radio transmitter physically connected to a wired data network, which broadcasts signals for a wireless network.
+OTS maintains more than 400 access points for its wireless network.
+Occupied space is a place on campus where the density and frequency of people occupying the space warrants use of the wireless network.
+Low occupation areas are determined by infrequent occupation or lack of programmatic occupation of a large space.
+These spaces include the 12-acre wooded tract known as the Glen and some areas of the Towson University parking lots.
+Residence halls are also not included in the wireless coverage.
+Residence facilities obtain their Internet connectivity through vendors who are contracted to provide connectivity in those areas.
+Office of Technology Services(OTS) provides technology support for the campus community and manages the university s wired and wireless networks; server hardware and software; information security services; data, telephone and video communication systems; and PeopleSoft and other related information systems.
+Supplementary network is a network to be used when the primary(wired) network is not available.
+The supplementary network offers flexibility but does not achieve the high level of network speed or contiguous connection available in the primary wired network.
+University guest is any person who is on Towson University s property but is not an employee of the university or student registered in a Towson University credit bearing course.
+Wireless data network is a computer network that uses radio waves instead of wires to communicate between devices.
+Wireless network device is a device built with the ability to access wireless networks.
+b/g is a designation that indicates capacity of a wireless devices or adapter to pass information.
+b is an earlier lower speed format of card that continues to be supported.
+g is the most recent format of card.
+Cards capable of the 802.11g wireless network connection will load information(e.g., web pages, downloads, streaming media) faster than cards only capable of the 802.11b standard.
+Towson University s network is capable of addressing both 802.11b and 802.11g devices.
+Procedures: Requesting additional supported hardware and devices A list of supported wireless capable technology can be found on the TU Unplugged site( Recommended Hardware).
+OTS provides a form on the TU Unplugged site for users who would like to submit other wireless devices for consideration.
+OTS will review the request and upon approval develop documentation and train support staff on the newly approved wireless device.
+Requesting additional wireless network access points If a division, college, department or operating unit requires an additional access points within their physical or administrative area of responsibility, the department administration must contact OTS via the request form located on the Forms page of the OTS web site.
+OTS will review the request and upon approval, install the access point.
+Please see the related policy, Management of the Wireless Network and Access Points for more information.
+Reporting use of radio spectrum University academic and administrative units are responsible and accountable for reporting to OTS their use of non-network devices using the unlicensed bands within the 2.4 GHz radio spectrum in their physical or administrative area of responsibility.
+Examples of these devices include 2.4 GHz cordless phones, certain scientific measurement equipment and some models of handheld two-way radios.
+All devices that utilize the 2.4GHz spectrum range must be evaluated by OTS.
+OTS will work with the department responsible for the competing equipment to negotiate an arrangement that will allow both device types to operate properly.
+A form for reporting devices using the 2.4 GHz range is available on the OTS web site in the forms area.
+Enforcement Failure to comply with the preceding policy may result in immediate deactivation of the user s account or denying network access to the user s device.
+Disciplinary action may also be taken, including but not limited to termination of employment and/or expulsion.
+In the case of a perceived emergency Towson University may take immediate steps to protect University resources from harmful, destructive, or illegal network traffic.
+Steps to protect the Towson University s network and resources include but are not limited use of network user tracking and device blocking technology.
+Negotiating an exception to this policy Exceptions to this policy must be negotiated with the OTS Information Security Officer who will confirm the final decision in writing.
+To request a PDF of the original, signed version of this policy, email the Office of the General Counsel, generalcounsel@towson.edu.

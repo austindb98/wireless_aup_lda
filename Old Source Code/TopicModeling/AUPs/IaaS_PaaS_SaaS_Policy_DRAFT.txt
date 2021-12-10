@@ -1,0 +1,337 @@
+ IaaS, PaaS, SaaS Policy
+ v1.
+4 Page 
+1 of 
+4      Background
+  Infrastructure as a 
+Service,
+ Platform as a Service 
+and Software as a Service 
+offer
+ a number o
+f advantages including low cost
+, high performance
+, and quick deliver
+y of 
+services. However, 
+security controls
+ are required
+ to protect university 
+information 
+technology
+ resources
+.   
+Infrastructure as a 
+Service (I
+aaS)
+ refers to
+ solutions that provide services such as 
+storage, virtual server hosting, networking
+, or other infrastructure components via 
+the 
+internet.
+ IaaS offers 
+many 
+advantages, 
+including
+ scalability
+ based on resource
+ demand
+s.  
+Platform as a S
+ervice
+ (PaaS)
+ allows customers to develop, run
+, and manage 
+applica
+tions without 
+building and 
+maintaining 
+infrastructure.
+ PaaS provides 
+methods
+ to intera
+ct with services like databases
+ and file storage, withou
+t having to deal with 
+low
+ level requirements.
+  
+Software as a Service 
+(SaaS)
+ is a software licensing and delivery model in which 
+software is licensed to
+ or on behalf of
+ the university and is hosted by the vendor, 
+typically the university accesses the application via a web browse
+r.  Policy
+  This policy addresses the use of IaaS, PaaS
+, and SaaS for university enterprise 
+purposes where the service essentially becomes an extension of the university 
+network. 
+  
+Faculty, Staff
+, and Affiliates are not 
+permitted
+ to 
+enter into IaaS or PaaS service 
+       Policy
+ Title:
+ Policy
+ Number:
+ Infrastructure
+, Pla
+tform
+ and 
+Software
+ as a Service
+  9.1.
+5             Category:
+    Information Technology
+ Effective Date:
+  Draft as of 0
+5/25
+/201
+7   Policy Owner:
+    VP & CIO, U
+C Information
+     Technologies
+ Policy applicable for:
+ Prior Effective Date:
+ N/A
+   Responsible Office(s):
+ Faculty
+, Staff
+, Affiliates
+   IT@UC Office of 
+   Information Security
+   
+ IaaS, PaaS, SaaS Policy
+ v1.
+4 Page 
+2 of 
+4    contracts 
+for the storage, m
+anipulation
+, or exchange of 
+university
+ data
+. University 
+departments who need IaaS or PaaS services must use the IaaS and PaaS vendors 
+that have b
+een vetted and contracted by IT@UC
+.  
+Purchases of
+ SaaS services 
+require a 
+Security Review
+ prior to implementation. Failure 
+to adequately 
+plan for the security review will
+ result in delay o
+r termination of the 
+project.
+  
+Use of IaaS, P
+aaS and SaaS
+ for
+ the
+ purpose of 
+teaching and 
+instruction is
+ permitted
+. The academic use
+ must not use 
+Export Controlled,
+ Restricted
+, or Controlled
+ data,
+ as 
+classified by the 
+Data Governance & Classification Policy
+.  
+The following safeguards
+ are required
+:  The use of IaaS
+, PaaS
+, and SaaS
+ services
+ must comply with 
+the u
+niver
+sity™s 
+existing 
+computing p
+olicies
+. These policies include but are not limited to:
+  Data Governance & Clas
+sification Policy
+  Acceptable Use of University Information Technology Resources Policy
+ Other information Technology Policies
+  The use of IaaS
+, PaaS
+, and SaaS
+ services
+ must comply with all laws and 
+regulations governing the 
+variety of data types used by the university.
+  Export Control
+led
+ dat
+a may not be stored in
+ Cloud
+ based file 
+storage
+ unless
+ specifically 
+approved
+ by the 
+Export Controls Office
+.  Personal cloud service
+ accounts may not be used for the storag
+e, manipulation
+, or exchange of u
+niver
+sity
+-related communications or 
+university
+-owned data.
+  Data
+ stored in the cloud and d
+ata in transit to and from the cloud
+, must be 
+encrypted.
+  Privileged access 
+users accessing
+ the management console or other privileged 
+access accounts in the cloud
+, must use multi
+-factor authentication.
+  
+Vendor
+s for IaaS or PaaS
+ services 
+are vetted and contracted on an enterpri
+se 
+contract for the university. T
+he vendor 
+must accept the terms as stated in the 
+Data 
+Security Rider
+. The terms of use for 
+SaaS vendors 
+must be closely scrutinized to 
+ensure adequate 
+protection of the 
+confidentiality
+, integrity
+, and availability
+ of 
+university data
+.  IaaS,
+ PaaS
+, and SaaS
+ services must not be engaged without developing an exit 
+strategy for disengaging from the vendor or service
+, and integrating the service into 
+business continuity and disaster recovery plans. The university must determine how 
+data would be recovered from the vendor and/or transferred to a different vendor. 
+
+The university must also work with the vendor to establis
+h procedures on data 
+sanitization from the vendor™s services.
+ Each college or department must follow an 
+appropriate records retention schedule that dictates when different types of 
+
+ IaaS, PaaS, SaaS Policy
+ v1.
+4 Page 
+3 of 
+4    information may be discarded or destroyed as defined by 
+General Records Retention 
+Schedule
+.  Contact Information
+  IT@UC
+ Office of Information Security
+ 513-558-ISEC (4732)
+ infosec@uc.edu
+  Related Links
+  Acceptable Use of University Information Technology Resources Policy
+ Data Governance & Classification Policy
+ Data Security Rider
+ Purchasing Policy
+ Security Review
+  Appendix
+  
+IaaS PaaS and SaaS 
+Definitions
+  Revision 
+History
+  Draft: 
+04/24
+/2017
+  
+  
+ IaaS, PaaS, SaaS Policy
+ v1.
+4 Page 
+4 of 
+4    IaaS PaaS and SaaS Definitions 
+Œ Appendix A
+  Infrastructure as a Service (IaaS), Platform as a Service (PaaS) and Software as 
+a Service (SaaS) 
+all aim to shift the local hosting and management of IT 
+Services 
+
+from on
+-site to the cloud. The combination of these services is known as the Cloud 
+Services Stack, and each service fulfills its own role in replacing an on
+-site solution 
+with a cloud based o
+ne.
+  
+Infrastructure as a Service (IaaS)
+ refers to the fundamental building blocks of 
+Cloud Services. IaaS offers an alternative to locally owned and hosted servers, and 
+
+users of an IaaS service can build a ﬁvirtual datacenterﬂ that has access to many of 
+
+the same resources as a traditional datac
+enter without the large upfront investment 
+and space constraints. IaaS is the ﬁlowest levelﬂ of the Cloud Services stack, and acts 
+as the ﬁfoundationﬂ for all the other segments of cloud services. Examples of IaaS 
+would include Amazon Web Services (AWS), M
+icrosoft Azure, and Google Cloud 
+Platform (GCP).
+  Platform as a S
+ervice (PaaS)
+ is one level above IaaS in the Cloud Services stack. A 
+PaaS solution would provide the environment for which the service or program will 
+run, such as the operating system and al
+l necessary software. PaaS is built on top of 
+virtualization technology, which enables efficient hosting and on
+-demand scaling. 
+IaaS is strictly concerned with hardware and storage devices and PaaS consists of 
+virtual machines that are already loaded with 
+all necessary operating systems and 
+supporting software. Some examples of PaaS include Cloud Foundry, Google App 
+Engine, and Microsoft Azure.
+  Software as a Service (SaaS)
+ is the highest level of the Cloud Services stack and 
+includes pre
+-packaged software 
+that the University licenses directly from a vendor. 
+Typically
+, the university accesses the application via a web browser.
+ SaaS is the 
+highest level of the Cloud Services stack, and moves the task of managing and 
+deploying software to a third
+-party service
+. Examples of SaaS include Salesforce, 
+Google Docs, and cloud storage portals like Box or Dropbox. Using SaaS means the 
+customer is not responsible for hosting, updating, or troubleshooting the software, 
+
+as it is supplied, ready
+-for
+-use, by the vendor. 
+   

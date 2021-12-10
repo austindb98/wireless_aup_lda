@@ -1,0 +1,126 @@
+Custom Search
+Policy Code: 
+1391Approval Authority: 
+Chancellor
+Policy Type: 
+University Policy
+Policy Owner: 
+Academic Affairs
+Responsible Office: 
+Information Technology Services - 828.251.6404
+Administration
+Computing & 
+Network Usage - Faculty, Staff, Contract, Non-agency Personnel,
+Volunteers, Vendors and Guests (https://administration.unca.edu/print/134)
+I. PurposeThis policy states the obligations and rules that faculty, staff, contract, non-agency personnel, volunteers, vendors, or guests must follow as
+a condition of their being granted access to computing, Email, and networks at The University of North Carolina Asheville.
+II. ScopeThis policy applies to all University faculty and staff, and to contract, non-agency personnel, volunteers, vendors, or guests. Faculty and
+staff will complete the 
+Computing and Network Use Agreement
+(http://administration.unca.edu/sites/default/files/Policy_Section/Computing_and_Network_Use_Agreement.pdf)
+ at the time of
+employment. University employees who do not currently have a signed copy of the agreement in their University personnel file will be
+asked to complete the form in order to retain access to University computers, networks, and systems. Contract, non-agency personnel,
+volunteers, vendors, or guests whose work benefits the University and requires access to University computing, networks, or systems will
+be required to sign the 
+Computing and Network Use Agreement for Non-agency Personnel
+(http://administration.unca.edu/sites/default/files/Policy_Section/Computing_and_Network_Use_Agreement_Contract_Non_Agency_Person
+nel_Volunteers.pdf)
+ during the process of applying for access to University computing, networks, or system. This will then be maintained by
+ITS in paper format until suitable digital storage is developed.
+III. PolicyA. INTRODUCTION
+The University of North Carolina AshevilleÕs (hereinafter "University") computing and telecommunications networks, computing equipment
+and computing resources are owned by the University and are provided to support the academic and administrative functions of the
+University. The use of this equipment and technologies is governed by federal and state law, and University policies and procedures.
+Additional rules and regulations may be adopted by various divisions and departments to meet specific administrative or academic needs.
+Any adopted requirements must be in compliance with applicable federal and state laws, and this policy.
+B. REGULATORY LIMITATIONS
+1. The University may monitor the use of computing equipment and its networks and systems for the following purposes:
+a. To ensure the security and operating performance of its systems and networks.
+b. To enforce University policies.
+2. The University reserves the right to limit or deny access when federal or state laws or University policies are violated or where
+University contractual obligations or University operations may be impeded.
+Revision History
+
+3. Employees, contract, non-agency personnel, volunteers, vendors, or guests have no expectation of privacy in the material sent or
+received over the University computing systems or networks. While general content review will not be undertaken, monitoring of this
+material may occur.
+4. All material prepared and utilized for work purposes and posted to or sent over University computing and other telecommunicating
+equipment, systems or networks must be accurate and must correctly identify the creator and receiver of such.
+5. User names and passwords enabling access to University computers, ITS networks, and ITS systems are for the exclusive use of the
+authorized employee, contract, non-agency personnel, volunteer, vendors, or guest. Passwords may NOT be shared.
+C. PERMISSIBLE USE
+Employees, contract, non-agency personnel, volunteers, vendors, or guests granted access to University computing technologies are
+expected to follow this policy and any related University rules, regulations and procedures in the use of computing equipment, systems and
+networks.
+1. The use is lawful under federal or state law including those on copyright and trademark.
+2. The use is not prohibited by Board of Governors, University or institutional policies.
+3. The use does not overload the University computing equipment or systems, or otherwise harm or negatively impact the system's
+performance.
+4. The use does not result in commercial gain or private profit (other than allowable under University intellectual property policies)
+except that this prohibition shall not apply to the UNCA Forum.
+5. The use does not state or imply University sponsorship or endorsement.
+6. The use does not involve unauthorized passwords or identifying data that attempts to circumvent system security or in any way
+attempts to gain unauthorized access.
+IV. VIOLATION OF POLICY
+1. Any violation of this policy is "misconduct" under EHRA policies (faculty and EHRA non-faculty) and "unacceptable personal conduct"
+under SHRA policies.
+a. Sanctions for violation of this policy may include one or more of the following: a revocation of access privileges; a written
+warning or written reprimand; demotion; suspension without pay; dismissal; or prosecution for criminal violations.
+b. Any violation of this policy by a contract, non-agency personnel, volunteers, vendors, or guests will result in considering the
+following steps:
+i. Removal of permissions to access University computing and networking resources;
+ii. Eliminating the UniversityÕs relationship with the contract, non-agency personnel, volunteer, vendor, or guest;
+iii. Criminal proceedings.
+V. APPLICATION OF PUBLIC RECORDS LAW
+All information created or received for work purposes and contained in University computing equipment files, servers or electronic mail
+(email) depositories are public records and are available to the public unless an exception to the Public Records Law applies. This
+information may be purged or destroyed only in accordance with the University records retention schedule and State Division of Archives
+regulations.
+VI. Contract, Non-Agency Personnel, Volunteer, Vendor, and Guest AccountsUNC Asheville department heads may request computer and network accounts for contract, non-agency personnel, volunteers, vendors, or
+guests.
+Accounts will typically be limited to employees of the University. On occasion, however, an account may be granted to a
+
+Associated Forms: 
+Computing and Network Use Agreement
+ (http://administration.unca.edu/sites/default/files/Policy_Section/Computing_and_Network_Use_Agreement.pdf)
+Computing and Network Use Agreement for Non-agency Personnel
+(http://administration.unca.edu/sites/default/files/Policy_Section/Computing_and_Network_Use_Agreement_Contract_Non_Agency_Personnel_Volunteers.pdf)
+contractor, non-agency personnel, volunteer, vendor, or guest supporting a University unit, provided the supervising Department
+Head receives Vice Chancellor approval.
+Limited, fixed-term authorization for access by contract, non-agency personnel, volunteers, vendors, or guests requires:
+! A written request from the director or manager of the unit;
+! Such authorization will typically be limited to a maximum of 6 months;
+! Signed acceptance by a unit employee or the director/manager accepting responsibility for the actions of the contract, non-agency
+personnel, volunteers, vendors, or guests;
+! Approval by the appropriate Vice Chancellor;
+! The contract, non-agency personnel, volunteers, vendors, or guestÕs acceptance of University policies and procedures related to
+accessing University computers, networks, and data evinced by the volunteerÕs completion of 
+Computing and Network Use Agreement
+for Non-agency Personnel
+(http://administration.unca.edu/sites/default/files/Policy_Section/Computing_and_Network_Use_Agreement_Contract_Non_Agency_Per
+sonnel_Volunteers.pdf)
+ (forwarded to an Information Technology Security Officer upon completion).
+It is the responsibility of the department head to notify ITS when the account should be deactivated if this occurs before the expiration
+date.
+VII. DEFINITIONS
+Information Technology Security Officer is a person or persons designated by the UNC Asheville CIO who can verify that accounts are set
+up in accordance with the data manager's directives.
+HELPFUL LINKS
+Strategic Plan
+Facts & Figures
+University Advancement
+Finance
+Athletics
+Human Resources
+LATEST NEWSOLLIÕs Reuter Center Singers Celebrate 20th Anniversary (Again!) with Nov. 18 Concert at Biltmore United Methodist Church
+LEARN MORE
+CONNECT    Chancellor's Office, CPO 1400
+One University Heights
+Asheville, NC 28804
+
+Office: 828.251.6500
+Fax:  828.251.6495
+Email: 
+chanoffice@unca.edu
+

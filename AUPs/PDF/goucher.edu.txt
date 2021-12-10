@@ -1,0 +1,84 @@
+GENERAL STATEMENT Goucher College honors and recognizes each person's freedom of expression and action.
+With this freedom come responsibilities, including consideration of others, academic integrity, and a commitment to the value of truth.
+Respect for intellectual labor and creativity is vital in an academic environment.
+At Goucher, we respect the right to privacy, the right of attribution and acknowledgement; the rights of copyright holders and the doctrine of fair use; and the right of an author to determine the form, manner, and terms of publication and distribution of works in all media, including electronic media.
+Since electronic information is so accessible and so easily reproduced, respect for personal expression is especially important in computer and electronic environments.
+Violation of authorial integrity, including plagiarism, invasion of privacy, unauthorized access to computing resources or electronic information, and violations of copyright law and trade secrets, are serious matters and may be grounds for appropriate sanctions.
+Consequences for violating this policy may include civil or criminal liability under federal and state laws, as well as the entire range of Goucher administrative sanctions detailed under "Penalties," below.
+Goucher College acquires, develops, and maintains computers, computer and telecommunications systems, networks, and other information technology resources, including, but not limited to, computers, printers, modems, email, fax transmissions, video, multi-media, classroom technologies, telephony and administrative systems.
+These resources are intended for direct and indirect support of the college's instruction, research, and service missions; of the college's administrative functions; and of student and campus life activities.
+Access to these resources, whether from on-campus or from a remote location, is a privilege and is subject to the requirements of applicable laws and policies and the highest standards of ethical behavior.
+Particular uses of any of these resources are not made legitimate simply because those uses may be technologically possible.
+Users must abide by all applicable restrictions imposed by this policy and by law, whether or not those restrictions are built into the systems and whether or not they can be circumvented by technical means.
+In addition, student users must abide by the provisions of Goucher's Student Judicial Code.
+APPLICABILITYThis policy applies to all users of Goucher College information technology resources, including faculty, staff, students, computing services personnel, guests, and other users authorized by the college.
+Personal equipment physically connected to the college network is also subject to this policy.
+SECURITY Goucher College employs various measures to protect the security of its computing resources and of its user accounts.
+Users should be aware, however, that the college cannot guarantee such security.
+Users should therefore engage in safe computing practices by establishing appropriate access restrictions for their accounts, safeguarding their passwords, not storing sensitive college data on college or home computers, backing up files, and promptly reporting any misuse or violations of this policy.
+May 6, 2005 1
+GOUCHER COLLEGE COMPUTER USE POLICY GUIDELINES FOR ACCEPTABLE USE OF COMPUTING RESOURCES D. PRIVACYUsers should also be aware that their uses of college computing and technology resources are not private.
+The normal operation and maintenance of these resources require the backup of data and communication records, the logging of activity, the monitoring of general usage patterns, and other activities necessary for the provision of service.
+The system administrator and his or her designees have access to all data and information(e.g., e-mail messages, files, etc.)
+of any user.
+Although Goucher does not permit the casual inspection of files, the college reserves the right to monitor and to disclose the contents of e-mail messages and other files under appropriate circumstances.
+INDIVIDUAL RESPONSIBILITIESEach user of Goucher College computer and information technology resources is expected to accept and comply with the following responsibilities:
+Use only those resources which s/he is authorized to use.
+Ability to access computing resources does not, in itself, imply authorization to do
+Accounts and passwords may not be shared with, or used by, persons other than those to whom they have been assigned by the college.
+Unauthorized access to another user's account or providing your username and password to another person may be grounds for appropriate sanctions.
+
+Use computer and information technology resources only for their intended purpose.
+Goucher's computing and information technology resources, facilities, and services are to be used for purposes congruent with the college's educational mission.
+They may not be used for commercial, or political activities, charitable solicitations, and other such uses, unless expressly authorized by the chief technology officer.
+
+Respect the rights and privacy of others.
+Ability to gain access to another person's account does not imply authorization to do
+Interference with the ability of other users to make appropriate use of the resources is prohibited.
+The systems and services may not be used to harass, discriminate against, defame, or invade the privacy of others.
+
+Protect the integrity and security of the computer and information technology resources.
+Acts which are intended to damage computing resources, to deny service to other users, or to compromise the integrity of the security systems of the resources are prohibited.
+
+Protect the integrity and security of sensitive and confidential data Student or employee sensitive data should not be stored on campus or home computers for security purposes.
+Sensitive data includes, but is not limited to, Social Security Numbers, birth dates, credit card numbers, and student information protected by the Family Educational Rights and Privacy Act(FERPA).
+May 6, 2005 2
+Respect the finite capacity of college computing and network resources Users are expected to respect the finite capacity of college computing and network resources and to limit use to a reasonable amount as determined by the Office of Information Technology.
+If an individual's use is interfering unreasonably with the activity of others, the college may require that person to limit or refrain from specific uses.
+
+Abide by copyright laws and policies.
+Users must abide by all applicable laws and college policies(e.g., Copyright, Intellectual Property) to protect the copyrights and intellectual property rights of others.
+Copyrighted works may include texts, cartoons, articles, photographs, songs, software, graphics, and other materials.
+Users should be aware that many materials available through the Web are protected by copyright.
+It is the responsibility of the user to assume that materials found on the Web are copyrighted unless the materials contain an express disclaimer to the contrary.
+Users must obtain permission of the creator or publisher to copy or use software or other copyrighted materials written or created by others, and must abide by contracts and agreements controlling installation and use of such software and other materials.
+
+Use the Goucher name and marks only as authorized.
+Users should avoid creating the impression that they are speaking for the college unless authorized to do
+The use of the college's name, seal, and various trademarks and service marks is protected by a policy administered by the vice president for communications and vice president for finance.
+
+Observe restrictions on the use of pictures and video Users may not display audio, video, or other multimedia images or recordings of people on a Web page or on other computing resources without the permission of the persons involved.
+An individual's right to privacy includes the right to restrict the use of his or her image.
+Further, the image may be protected by copyright.
+
+Use Computing Resources in a Lawful and Ethical Manner Users of Goucher's computing systems must use the system in an ethical and legal manner and in accordance with Goucher's policies and procedures.
+Usage of the system to harass, defame, or invade the privacy of others, or to send or receive obscene materials, is not allowed and may result in disciplinary action under Goucher procedures or prosecution under various federal or state statutes.
+
+Use of Unlicensed Radio Frequency Bandwidths on the Goucher Campus Goucher College will continue to evaluate and implement wireless technology to enhance teaching, learning, and campus life.
+However, the college reserves the right to restrict the use of wireless devices in college-owned buildings and all outdoor spaces on the campus for security purposes or if devices are interfering with campus technologies.
+If you are considering utilizing wireless technology and have questions concerning its use, please contact the Information Technology Help Desk.
+May 6, 2005 3
+Administration of the Computer Use Policy The Office of Information Technology is charged with communicating this policy to the Goucher user community.
+Requests for interpretation of the policy as applied to particular situations may be directed to the chief technology officer.
+
+World Wide Web Content Review The Office of Communications has responsibility for ensuring that all official Goucher material on the Web meets campus standards for design and content.
+The office assists departments developing Web materials and reviews Web information on a regular basis.
+Any materials intended for posting on the front page of the College's Website must be approved by the office in advance.
+The office aims to ensure accuracy and consistency of information and does not operate as a censor.
+
+Fundraising and Advertising College fundraising, advertising, and marketing may be conducted using Goucher computing and telecommunications resources or facilities only under the supervision and consent of officially recognized campus departments or organizations charged with such activities.
+Examples include, but are not limited to, the offices of Admissions, Communications, Development and Alumnae/i Affairs, Student Activities, and Graduate and Professional Studies.
+PENALTIES Violations of this policy may be grounds for appropriate sanctions to be determined by the appropriate administrator.
+Sanctions may include, but are not limited to, a formal reprimand, loss of user privileges, termination of employment, or, in the case of a student, probation, suspension, or expulsion from the college.
+Cases against students may be handled in accordance with procedures outlined in the Student Judicial Code.
+May 6, 2005 4

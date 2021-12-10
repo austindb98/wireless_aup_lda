@@ -1,0 +1,93 @@
+02 Responsible Office: Information Technology Effective Date: 5/1/19 Revised: 6/11/20 Policy Statement The purpose of this policy is to establish acceptable uses of computer equipment at St. John s University(St. John s).
+Wrongful use exposes St. John s to risks including virus attacks, compromise of network systems and services, and legal issues.
+Scope and Applicability This policy applies to the University Community.
+Adherence to this policy helps safeguard the confidentiality, integrity, and availability of St. John s information assets, and protects the interest of St. John s, its customers, personnel, and business partners.
+Policy Computing Resources are available for use only by St. John s faculty, administrators, staff, student workers, students, alumni, interns, and other authorized users and intended to advance the education, research, administration, and St. John s mission.
+Accordingly, St. John s encourages and promotes the use of these resources by the University Community, within institutional priorities and financial capabilities.
+Access to and use of these resources and services are privileges and are used in compliance with all applicable laws and regulations and with the highest standards of ethical behavior.
+Inappropriate use exposes St. John s to risks including virus attacks, compromise of network systems and services, legal issues, and reputation damage.
+Below, St. John s sets forth terms and conditions for the use of Computing Resources.
+Listings of specific acceptable and unacceptable uses are illustrative examples and are not meant to be exhaustive.
+John s is the sole and conclusive authority on questions relating to acceptable uses of its resources.
+If a question about use arises, the use should be considered "prohibited" until the IT Department directs otherwise.
+Acceptable Use St. John s proprietary information stored on electronic and computing devices, whether owned or leased by St. John s, the employee or a third party, remains the sole property of St. John
+Proprietary information is protected through legal or technical means in accordance with all Information Security Policies, Standards & Procedures.
+Theft, loss, or unauthorized disclosure of St. John s proprietary information are promptly reported to the Office of Public Safety.
+John s proprietary information is only shared or used to the extent it is authorized and necessary to fulfill an employee s assigned job duties.
+Employees are expected to exercise good judgment and ensure reasonableness when using St. John s computing resources for personal uses.
+Individual units are responsible for creating guidelines concerning personal use of Internet/Intranet systems.
+In the absence of such guidelines, employees are guided by departmental policies on personal use, and if there is any uncertainty, employees should consult their supervisor or manager.
+Employees must protect any classified materials being sent, received, stored, or processed according to the level of classification assigned to it, including both electronic and paper copies.
+Employees must properly label classified materials in accordance with published guidelines so that they remain appropriately protected.
+Employees must not transmit unprotected Personal Account Numbers(PANs) through a messaging platform such as emails, instant messengers, or chat, etc.
+Employees must enter the correct recipient email address(es) so that classified information is not compromised.
+Employees must not record credit/debit card Sensitive Authentication Data(Full Track Data magnetic strip on the back of the card or the chip on the front of the card, CAV2/CVC2/CVV2/CID and PIN/PIN BLOCK) anywhere at any time.
+Security and Proprietary Information All mobile and computing devices that connect to the internal network are compliant with the Mobile Computing Standard.
+System-level and user level passwords are compliant with the Password Standards as defined by the IT Department.
+Providing access to another individual, either deliberately or through failure to secure its access, is prohibited.
+Administrative computing devices are secured with a password-protected screensaver with the automatic activation feature set to 15 minutes or less.
+Faculty and podium computing devices are secured with the automatic activation features set to 60 minutes or less.
+You must lock the screen or log off when the device is unattended.
+Use of St. John s computing and communications systems may be monitored and/or recorded for lawful purposes.
+Employees must be responsible for the protection of their provided user credentials.
+Employees must be aware of the cardholder data security policy and procedure with a formal security awareness program implemented.
+Employees are required to acknowledge, at least annually, that they have read and understood the Information Security policy.
+Unacceptable Use The following activities are considered Improper Usage and are strictly prohibited, with no exceptions: Using St. John s-issued communication and computing resources for non- St. John s approved business/non-business purposes.
+Tampering with the anti-virus software installed on St. John s owned or provided devices or networks or failing to use updated anti-virus software when accessing St. John s network.
+Circumventing or attempting to circumvent software or hardware security systems.
+Altering system software or hardware configurations or disrupting or interfering with the delivery or administration of computer resources.
+Allowing another person to use their user ID/token and password on any St. John s IT system.
+Leaving their user accounts logged in at an unattended and unlocked computer.
+Using another person s user ID and password to access St. John s IT systems.
+Leaving passwords unprotected(for example, writing it down).
+Performing any unauthorized changes to St. John s IT systems or information.
+Attempting to access data that the user is not authorized to use or access.
+Exceeding the limits of their authorization or specific business need to interrogate the system or data.
+Connecting any non-St. John s authorized device to St. John s network or IT systems.
+Storing St. John s data on any non-authorized St. John s equipment.
+Giving or transferring St. John s data or software to any person or organization outside St. John s without St. John s authority.
+Inappropriate Access of User Information Attempting to access or accessing St. John s or another user's account, private files, or email without the owner's permission.
+Attempting to access or accessing systems outside of St. John s without the authorization of that system s owner.
+Using computing resources, including electronic mail, to send nuisance messages such as chain letters, junk mail and profane, obscene, threatening, libelous or harassing messages.
+Misrepresenting one's identity in electronic communication.
+Using computing resources to engage in conduct which intentionally interferes with others' use of shared computing resources.
+This includes consuming gratuitously large amounts of system resources(e.g., Internet bandwidth, disk space, CPU time) and exceeding time limits where they have been established in St. John s facilities such as computer labs and libraries.
+Using computing and/or electronic mail resources for commercial or personal profit-making purposes or for solicitation or for activities that violate local, state, or federal law.
+Intercepting or monitoring, or attempting to intercept or monitor, network communications or other communications not intended for that user's access without prior authorization.
+Displaying, posting, printing, or sending material that is contrary to St. John s mission or values.
+Allowing or assisting unauthorized users to gain access to computing resources.
+Installing software(including games) on St. John s-provided computing equipment without obtaining authorization in advance.
+John s reserves the right to remove software that violates this policy without advance notice to the user.
+Infringing upon the intellectual property rights of others in computer programs or electronic information, including plagiarism and unauthorized use or reproduction in violation of patents, trademarks and copyrights and/or software and other licensing agreements.
+Failing to comply with all applicable laws concerning the transmission, receipt or monitoring of wireless and wired communications.
+Copyright Infringement The use of Computing Resources in violation of international and federal copyright laws is strictly prohibited.
+These federal laws provide to the author of an original work, whether that work is a video, a sound recording, software, or printed material, the exclusive rights to reproduce, adapt, publish, perform, and display that work.
+Anyone other than the copyright holder is required to obtain the express permission of the copyright holder to use the work for any of these purposes.
+John s prohibits the use of its computing resources for Internet downloading and sharing of copyrighted music and video in violation of copyright laws.
+In addition to violating St. John s policy and the law, file-sharing programs(such as uTorrent, Transmission, and Vuze) that permit these activities also may impair St. John s broadband system because their use causes a strain on St. John s broadband capabilities and other network resources.
+A copyrighted movie, television show or sound recording without permission of the copyright holder is a violation of St. John s policy.
+John s has, and will continue to create, technologies to identify and disable access to file-sharing websites that facilitate the violation of applicable law and St. John s policy.
+In the event that one desires to legally download any file that may strain St. John s broadband capabilities, the IT Department must be contacted to arrange for a time and place to do
+Fair Use of Copyrighted Material Creation of internet content and other materials for educational, research and administrative purposes are in full compliance with current copyright laws.
+Internet / Intranet Content and Publishing Consistent with the purposes for which St. John s Computing Resources are intended, web content may be created and posted only in support of the instructional, research, and administrative objectives of St. John
+Web content supporting unapproved commercial or business activities is prohibited.
+John s reserve the right to restrict web content or remove any part of such content for violation of these or any St. John s policies, including for causing excessive traffic to St. John s web servers.
+Indemnification Each user is responsible for his or her own activities in using St. John s computing resource and indemnifies and holds St. John s harmless from any liability to the user or any third party arising out of the use of the computing resources by the user, or any loss of information existing or stored on St. John s computing equipment or resources, including all files and electronic mail.
+Intellectual Property Ownership Rights Ownership of intellectual property produced through significant use of St. John s computing equipment, networks, and information resources resides with St. John s University.
+If St. John s has an Ownership Interest in the Invention, an Inventor must assign all rights, titles and interests to/in the Invention to St. John s University, irrespective of obligations to third parties, and assist St. John s in all phases of the filing application process.
+Definitions The following are definitions relevant to the policy: Policy:
+A broad statement of principles that presents management s position for each defined control area.
+Policies are mandatory and interpreted and supported by standards, guidelines, and procedures.
+Policies are intended to be long-term and guide the development of rules to address specific situations.
+Standard: An enterprise-wide, mandatory directive that specifies a particular course of action.
+Standards support the Information Security Policy and outline a minimum baseline for policy compliance.
+Computing Resources: All St. John s information processing resources including all St. John s owned, licensed, or managed computing services, hardware, software, and use of St. John s network via physical or wireless connection regardless of the ownership of the computer or device connected to the network.
+University Community: Includes faculty, administrators, staff, student workers, graduate/technical assistants, alumni, interns, guests or agents of the administration, external individuals and organizations accessing St. John s network services, and other authorized users.
+Compliance St. John s reserves the right to audit networks and systems on a periodic basis to ensure compliance with this policy.
+Instances of non-compliance must be presented to, reviewed, and approved by the CIO, the Director of Information Security, or the equivalent officer(s).
+All breaches of information security, actual or suspected, must be reported to, and investigated by the CIO and the Director of Information Security.
+Those who violate security policies, standards, or security procedures are subject to disciplinary action up to and including loss of computer access and appropriate disciplinary actions as determined by St. John
+All rights reserved.
+John s University admits students of any race, color, national and ethnic origin to all the rights, privileges, programs, and activities generally accorded or made available to students at the University.
+It does not discriminate on the basis of race, color, national and ethnic origin in administration of its educational policies, admissions policies, scholarship and loan programs, and athletic and other school-administered programs.
+click to scroll back to the top of the page Original text Contribute a better translation

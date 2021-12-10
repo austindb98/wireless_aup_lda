@@ -1,0 +1,68 @@
+Information Technology
+WMU Telephone Instrument
+Relocation Requirements
+PURPOSE AND SCOPE
+These requirements involve the relocation* of University-installed Voice over
+IP telephone instruments.
+University-supplied telephone instruments and network ports are provided
+by the Office of Information Technology for University business
+communications and to serve the resident students on campus. In addition,
+they are an integral component of the campus emergency response system by
+providing 9-1-1 direct dial to the WMU Public Safety dispatch center.
+WMU Public Safety is provided with the installation locations of each
+telephone instrument, whether a traditional PBX telephone or a VoIP
+instrument. While it is technically possible to relocate* a VoIP telephone from
+one active jack to another, doing so will result in Public Safety having
+erroneous location data for the telephone, with the possible consequence of
+not being able to locate a caller in the case of an emergency.
+REQUIREMENTS
+WMU telephone users are not permitted to move a VoIP telephone
+instrument from the jack where it was originally installed without first
+contacting the OIT telecommunications office. If it is determined that a spare,
+active, compatible network jack is available and can be identified, OIT can
+arrange for a customer-initiated move without charge. If relocation* requires
+a customer visit by a technician, prevailing service rates will be charged.
+If telephone users do not know if the telephone is a VoIP phone, they need to
+contact OIT 
+before 
+relocating a phone.
+JUSTIFICATION
+O!ice of Information Technology
+Western Michigan University
+Kalamazoo MI 49008-5206 USA
+(269) 387-5430
+It is essential that WMU Public Safety be able to locate any 9-1-1 caller
+quickly and accurately. WMU does not currently possess the technology to
+either prevent or track the unauthorized relocation* of VoIP telephones,
+except through periodic audits, or reports by WMU Public Safety.
+If a telephone instrument is relocated* without updating its location in the
+telecommunications management system, WMU Public Safety will be unable
+to locate that caller in case of an emergency.
+ENFORCEMENT
+Any person found to be in violation of this policy will be subject to
+appropriate consequences, including but not limited to disciplinary action as
+described by current University requirements and/or applicable collective
+bargaining agreement.
+If a customer telephone is discovered to have been relocated* without the
+knowledge and consent of OIT telecommunication, OIT will not be
+responsible for, nor will OIT cover, any costs associated with the
+unauthorized relocation*, including applicable service charges. An individual
+who relocates* a VoIP telephone without the knowledge and consent of OIT
+telecommunications may be personally liable for any claims arising out of the
+unauthorized relocation*.
+*Relocate -- For the purpose of this document relocation/relocate/relocated
+refers to the movement of a VoIP instrument from one network port/data
+jack to another network port/data jack.
+DOCUMENT ACTION
+Draft: November 3, 2015
+Presented to Faculty Senate AITC: December 8, 2015
+Reviewed by Legal Council: January 19, 2016
+Reviewed by WMU Public Safety: January 20, 2016
+Reviewed by Information Technology Executive Advisory Board: January 25,
+2016Reviewed by Provost's Council: March 1, 2016
+Western Michigan University
+Kalamazoo MI 49008-5200 USA
+(269) 387-1000Contact WMU
+
+© 2018 All rights reserved.
+

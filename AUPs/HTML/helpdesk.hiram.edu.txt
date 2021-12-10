@@ -1,0 +1,62 @@
+Introduction The Hiram Campus Network is provided as a service to students, faculty, staff, and other members of the Hiram community.
+Maintained by Hiram College Computer Center, the Network supports the instruction and strategic plan of the College.
+This document outlines the policy of acceptable use of Hiram Campus Network resources, the effective protection of individual users, equitable access, and proper management of those resources.
+
+Individual Responsibilities Hiram College strives to provide fair and distributed access to computing and network facilities for the entire community of users.
+It is the intent of Hiram College to make information on the Internet available to the College community.
+Members are responsible for selecting, viewing, and utilizing resources.
+To foster trust and intellectual freedom, it is necessary to practice courtesy, common sense, and restraint in the use of shared resources.
+Improper use of Hiram facilities may prevent others from gaining fair access to those facilities.
+Furthermore, users must keep in mind that networks or systems outside of Hiram College(including those in other countries) may have their own distinctive policies and procedures.
+Users are advised to learn and abide by the policies and procedures of these external networks.
+Insofar as a secure and reliable computer system is necessary to the academic mission of the College, all members of the College community should contribute to the security of the system by conscientiously protecting their access privileges.
+For example, users need to select a secure password andshould change their passwords every 90 days.
+Users should never share their username and password with anybody nor should they ever use another person s login credentials.
+Likewise, the computer system administrators will act promptly when evidence of serious compromises to the security of the system is detected.
+The Hiram College computing network must work within finite limitations of bandwidth and disk space.
+Users are reminded that online file storage exists on a space shared by other members of the community, and users are responsible for maintenance of their files.
+Therefore users are encouraged to keep only pertinent materials in their network file share accounts.
+The user should: Conserve disk space: delete unneeded files as soon as possible.
+Be aware that email cannot be guaranteed to be perfectly private: others may intentionally or unintentionally forward or print your message, making it publicly available.
+Like electronic mail the maintenance of a user s own storage area is the user s responsibility.
+The user should: conserve server disk space; not maintain anything that the user considers to be private in the network storage area.
+Files in network storage may be accessible by persons with system privileges.)
+
+Conduct All users of the Hiram College Network must comply with all state and federals laws.
+Activities that violate the Acceptable Use Policy include, but are not limited to, those in the following list: Using a computer account that does not rightfully belong to you.
+Violating copyright laws and their fair use provisions through inappropriate reproduction, distribution, or peer-to-peer file sharing of copyrighted files(including movies, music, computer software, text, and images).
+Using the Campus Information Technology(IT) infrastructure to gain unauthorized access to other computer systems.
+Unauthorized connecting of equipment to the campus network(this includes personal hubs /switches/routers and wireless routers in rooms).
+Attempting to break into the system by circumventing data protection schemes or uncovering security loopholes.
+This includes the wrongful use of programs that are designed to identify security loopholes and/or decrypt intentionally secure data.
+Knowingly or negligently performing an act that will interfere with the normal operation of computers, terminals, peripherals, or networks.
+Attempting to damage or to place excessive load on a computer system or network by using programs, such as(but not limited to) computer viruses, Trojan Horses, and worms.
+Deliberately wasting or overloading computing or printing resources, or deliberately using excessive bandwidth on the network.
+Violating terms of software licensing agreements.
+Using College resources for non-academic commercial activity such as creating products or services for sale, without express College approval.
+Using electronic mail or other Information Technology resources to abuse, harass, or intimidate members of the College community on any basis including race, ethnic origin, creed, gender or sexual orientation.
+Users are reminded that sexually suggestive materials displayed inappropriately in public places, the classroom, or the workplace may constitute sexual harassment.
+Propagating mass mailings with the intent of flooding( spamming or bombing) the accounts of others.
+Forging the identity of a user or machine in an electronic communication.
+Transmitting or reproducing materials that are slanderous or defamatory, or that otherwise violate existing laws or College regulations.
+Attempting to wrongfully monitor or tamper with another user s use of the College s Information Technology infrastructure(such as reading, copying, changing, or deleting another user s files or software) without the knowledge and agreement of the owner.
+Use of the College s network to download or store inappropriate materials(example: pornographic or illegally obtained copyright materials)
+Authorization Personal use of Hiram College computing resources by staff employees during working hours is an issue that will be determined by the employee s supervisor.
+Use of College computing and network facilities for non-academic commercial monetary gain requires the approval of the College and may require a written contract that gives full details of any financial obligation and/or charge for use, if any.
+Connecting network devices, such as network hubs to the campus system will require authorization from the Director of Computing Services or his/her designee.
+Setting up a domain on a computer located on the Hiram College network will require authorization from the Director of Computing Services or his/her designee.
+
+Enforcement of Policies Failure to comply with any of the above policies may result in termination of network privileges, College disciplinary action, and/or criminal prosecution.
+It is understood that users may unwittingly create problems for others by, for example, employing programs that monopolize the network bandwidth.
+In such cases the Director of Computing Services(or his/her designate) will contact the user and explain why and how the user needs to modify his or her electronic behavior.
+A policy clarification letter may be written.
+In cases of repeated problematic behavior, the Director of Computing Services may recommend to the appropriate Dean or supervisor that a formal warning be placed in the user s College record.
+Access to computing resources may be suspended temporarily at any time by the Director of Computing Services(or his/her designate) if there is clear evidence to suggest that the resource(s) are being used in a manner that violates the Acceptable Use Policy.
+In such a case, the owner of the account will be sent notification of this action.
+Upon suspension, a user can appeal the issue with the Director of Computing Services(or his/her designate) in order to reestablish an account.
+The Director of Computing Services(or his/her designate) may also choose to refer the case for disciplinary action in accordance with established procedures.
+For students, it is as described in the Hiram College Student Handbook.
+Criminal and Civil Liability: Persons who are found to partake/promote these infringements may be held liable for any damage fees, attorney fees, and criminal penalties that may apply.
+Depending on the number and value of infringed and/or exchanged material, penalties can vary.
+Some offenses range from one to three year s prison sentence and substantial fines.
+For more information about criminal penalties, you can visit the United States Copyright Office here.

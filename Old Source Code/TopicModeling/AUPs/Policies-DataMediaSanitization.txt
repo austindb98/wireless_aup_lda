@@ -1,0 +1,73 @@
+
+DATA 
+SANITIZATION 
+POLICY 
+ PAGE 
+2 of 
+2    2 POLICY
+ Electronic media 
+must be sanitized before being repurposed
+. Data on d
+evic
+es that are no longer 
+operational must be 
+sanitized 
+before 
+the devices are discarded
+. Sanitization and disposal must be 
+done using 
+procedures
+ established by the Office of Information Technology
+.  Refer to the Office of Information Technology™s Policies and
+ Procedures web page 
+at 
+http://oit.unlv.edu/about
+-oit/policies
+ for sanit
+ization and disposal procedures.
+ RELATED 
+DOCUMENTS
+ Guidelines for Media Sanitization Recommendations of the National Institute of
+ Standards and 
+Technology, NIST Special Publication 800
+-88 - http://csrc.nist.gov/publications/nistpubs/800
+-88/NISTSP800
+-88_with
+-errata.pdf
+  
+Telecommunications C
+ell Phone Disposal Policy 
+- http://telecom.unlv.edu/cell_disposal
+  
+Nevada System of Higher Education Handbook, Rev. 257, Title 4, Chapter 1, 
+Computing 
+
+Resources Policy:  
+Section 22, 7a 
+- http://system.nevada.edu/tasks/sites/Nshe/assets/File/BoardOfRegents/Handbook/T4
+-CH01 
+- General Policy Statements.pd
+f CONTACTS
+ Refer to the Office of Information Technology™s Policies and Procedures web page 
+
+at 
+http://oit.unlv.edu/about
+-oit/policies
+ for a list of individuals who can answer questions about 
+the policy
+.  DEFINITIONS
+ Devices 
+- Equipment
+ such as 
+drives, CD/DVDs, flash drives, tapes, memory cards, tablets, 
+mobile devices, cell phones, printers, copiers, etc.
+  Electronic Media
+ - Physical 
+devices 
+that store electronic data
+.   Sanitize 
+- A process to remove information from media 
+or destroy the media 
+such that data 
+recovery is not possible.
+   

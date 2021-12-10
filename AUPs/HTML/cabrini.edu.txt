@@ -1,0 +1,83 @@
+endif] [if IE 9]> <!
+This includes, but not limited to, the uploading or creation of computer viruses and inflicting damage or sabotage on the system.
+Reading/listening to or attempting to read/listen to another user s electronic messages without authorization.
+Degrading system performance.
+Unauthorized or inappropriate use of an account or electronic file or data.
+Threat, harassment(including, but not limited to, sexual harassment), or libel toward any student, employee or guest.
+Sending sexually oriented email messages or sending or receiving sexually oriented images or file transfers other than those with legitimate academic purpose.
+Using Cabrini s electronic systems to conduct any activity not related to the University s operation, including, but not limited to, advertising, soliciting, political lobbying, personal, other business, games, shareware, personal email messages and screen savers.
+Involvement in violation of, or conviction for violation of, federal, state or local statutes or regulations regarding computers, electronic communications, interstate commerce and/or security regulations.
+This includes, but is not limited to, material protected by copyright, trade secret, obscenity and related laws.
+Guidelines for Electronic Communications Access Users are expected to abide by the generally accepted rules of system and voice mail etiquette.
+These include, but are not limited to, the following: Do not expect electronic communications to be private.
+System maintenance may result in staff access to communications and even deleted information may be accessible.
+Electronic communications are subject to access by subpoena or other lawful order.
+The University may access communications for legitimate business purposes.
+Do not use electronic systems to transmit confidential messages.
+For security and safety reasons, be careful in revealing personal information over the electronic systems concerning any individual, including yourself.
+Send personal information such as social security number over an electronic system only when you are reasonably confident that the system is secure.
+Do not use the system in such a way that would disrupt the use of the system by other users.
+Users are required to observe posted time limits for the use of public access computers, where applicable.
+Users must check electronic and voice mail daily and keep stored messages within reasonable limits.
+Keep messages short and to the point.
+Cabrini University reserves the right to delete messages held on the system in order to maintain system speed and functionality.
+Do not install new communications software(non-instructional) without prior written consent of your supervisor and the department of Information Technology & Resources.
+Cabrini policy is to abide by all laws concerning the use of copyrighted and patented material.
+This protected property shall be used with authorization only.
+When used in an authorized context, appropriate attribution must be given.
+The rules of academic honesty apply to information obtained on the internet.
+Aside from sanctions by the University as described below, you could be subject to civil damages and criminal penalties, including fines and prison terms for violating copyright and latent laws.
+Failure to log out appropriately may result in unauthorized use of a user s account.
+Users are expected to make every effort to protect against unauthorized or inappropriate use of the accounts which have been assigned to them.
+Users must not share their logins with other users.
+This includes managers who may not share their logins or passwords with student workers.
+Users must not display their login and passwords in accessible spaces.
+The owner of the account is responsible for every action taken by that account.
+When not officially representing Cabrini University, if the message could be perceived as University business or opinion, do not use Cabrini s system.
+The URL of Cabrini University implies representation regardless of disclaimers to the contrary.
+Do not forward personal messages to discussion groups without the original author s permission.
+Clearly identify quoted portions when quoting from a previous message.
+Users must retain such permission and make available for inspection upon demand.
+Disclaimer Every effort has been made to provide accurate information.
+However, errors can occur.
+Cabrini University is not responsible for any errors or omissions in information contained in the electronic systems and is not liable in whole or in part for damages resulting from any user(s) viewer(s) use of, or reliance upon, this material.
+Cabrini University assumes no liability for damages that may result from loss of data resulting from delays, non-deliveries, mis-deliveries, service interruptions or technical difficulties.
+Systems Problems Any problems with the University s email communications systems and/or any user policy violations, including unauthorized or improper use, must be brought to the attention of the Information Technology & Resources Help Desk at 610.902.8366 or itrhelp@cabrin edu.
+Any implications of harassment must be brought to the attention of the Director of Human Resources at 610.902.8206.
+Electronic Utilization Cabrini has limited computing and electronic communications resources, including limited storage capacity.
+Users are reminded to respect these limited resources and to routinely delete or purge unnecessary data.
+Cabrini reserves the right to delete messages held on the system in order to maintain system speed and functionality.
+Sanctions Violations of this policy may result in the cancellation of the user s account and electronic communications privileges and other disciplinary action up to and including termination of employment(as explained in the Employee Handbook) or expulsion.
+Policy Modifications Policies regarding Cabrini s computing and network resources may be revised as needed in the future.
+As Cabrini is a changing environment, and since computer technologies and network access may be subject to change at any time, the University must reserve the right to update or revise this Acceptable Use Policy or implement additional policies in the future.
+The Human Resources Office will inform users of policy changes, however the user shares the responsibility of staying informed about Cabrini policies regarding the use of computer and network resources and complying with all applicable policies.
+Communications Systems User Policy The Cabrini University department of Information Technology & Resources is pleased to offer its users access to a variety of electronic communications systems.
+Our goal in providing this access to University users is to promote excellence in higher education by facilitating resource sharing, innovation, and communication in support of Cabrini s mission and values.
+University users are defined as students, faculty, staff and authorized guests.
+Electronic communications systems managed by ITR include email, computer systems, and internet access.
+The email and computer systems are the property of Cabrini and subject to acceptable use compliance.
+The operation of these systems relies upon the proper conduct of Cabrini users, who must adhere to acceptable-use guidelines.
+The use of Cabrini electronic communications systems is a privilege, not a right.
+Cabrini reserves the right to deny or cancel communications systems at any time.
+All users are expected to use these systems in an appropriate and ethical manner.
+Appropriate use includes use for official instructional, educational, professionally-related business and research purposes consistent with Cabrini s mission and values.
+These policies and guidelines outline the responsibilities inherent in authorized access, requiring efficient, ethical and legal utilization of system resources.
+Wireless Although the FCC doesn t regulate the radio frequencies that the wireless network uses, Cabrini does.
+Only by controlling this portion of the radio spectrum can we guarantee a good level of network service and data security.
+This page provides information on Cabrini's 2.4 GHz radio spectrum policy.
+To ensure a properly working and universally accessible wireless network, Cabrini generally prohibits the use of equipment that interferes with the wireless network.
+This means that you may not operate wireless routers, access points or other similar equipment in, on or near Cabrini-owned buildings.
+This includes classrooms, laboratories, private offices, and residence halls.
+Any network port or device exhibiting behavior from one of these devices will be disabled.
+In addition, if a device is found to be causing interference within our network in any way, the network port it is connected to will remain disabled for a period of two weeks for the first offense.
+If the wireless device is found to have been reconnected, the network jack will be disabled for the remainder of the semester.
+Other equipment that operates in the 2.4 GHz radio spectrum including some cordless phones may also cause problems with the wireless network.
+Any device causing such interference will have to be turned off.
+Cabrini assumes no responsibility to compensate you for any direct or incidental costs related to requiring that the use of the interfering equipment be terminated on University owned or managed property.
+Requesting Exceptions to this Policy Specific temporary exceptions to this policy may be granted by the Office of Information Technology & Resources(ITR) to address needs in areas that are not adaquately served by the University-provided wireless network or for other reasons deemed appropriate by ITR.
+Requests for temporary exceptions to the 2.4 GHz Airspace Policy must be addressed in writing(email is acceptable) to itrhelp@cabrin edu and must explain which kind of equipment would be operated, the location where it would be operated, the reason for its use, and the time period for which the exception is requested.
+Requests will be considered, but there is no guarantee of approval.
+All decisions about airspace policy exceptions are made by the Office of Information Technology & Resources Networking/Systems group.
+020 ROADMAP: Vision.
+Discover Cabrini University's strategic plan for diversification, sustainable growth, and expanded outreach.
+Explore the Roadmap Cabrini Logo Cabrini University 610 King of Prussia Road Radnor, PA 19087 United States 610.902.8100 Apply Request Info About Giving Cabrini University is a Catholic, liberal-arts university dedicated to academic excellence, leadership development, and a commitment to social justice.

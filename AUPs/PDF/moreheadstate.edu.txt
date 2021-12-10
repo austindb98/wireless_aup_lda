@@ -1,0 +1,39 @@
+Continuation pages Network Reliability and Interference In a wireless environment, network reliability is a function both of the level of user congestion(traffic loads) and service availability(interference and coverage).
+In an effort to provide an acceptable level of reliability, this policy establishes a method for resolving conflicts that may arise from the use of the wireless spectrum.
+Wireless networking technology uses unlicensed frequency bands to create small local area network cells.
+Since unrelated devices such as cordless telephones, wireless audio speakers, and even microwave ovens may also use these same frequency bands, the potential for disruption of service exists when multiple devices are placed in close proximity to one another.
+While OIT does not actively monitor use of the frequency spectrum for potential interfering devices, it responds to reports of specific devices that are suspected of causing interference and disruption of the campus network.
+Where interference between the campus network and other devices cannot be resolved, OIT reserves the right to restrict the use of all wireless devices in University-owned buildings and all outdoor spaces.
+Interference or disruption of other authorized communications that result from the intentional or incidental misuse or misapplication of wireless network radio frequency spectrum is prohibited.
+In the event that a wireless device interferes with other equipment, OIT will work with the affected departments to resolve the interference.
+The Office of Information Technology is responsible for: Creating, maintaining and updating wireless plans, wireless policy and wireless security standards Maintaining a registration of all wireless access points on campus Resolving wireless communication interference problems Managing and deploying wireless communications systems Approving wireless communication hardware, software and installation services used by University schools/departments Informing wireless users of security and privacy policies and procedures related to the use of wireless communications in common areas Providing assistance to the campus community for the development, management and deployment of wireless networks Monitoring performance and security of all wireless networks and maintaining network statistics as required for preventing unauthorized access to the campus network
+Monitoring the development of wireless network technologies, evaluating wireless network technology enhancements and, as appropriate, incorporating new wireless network technologies within the University network infrastructure The campus community, including Colleges, divisions and/or departments are responsible for: Adhering to Wireless Network Policy Informing wireless users of security and privacy policies and procedures related to the use of wireless communications Security Awareness: Instructional materials will be made available to all wireless users via the University web site.
+The instructional material will include, but not be limited to the following topics: Authentication for wireless network access and protection of passwords Authorized use of wireless network technology Wireless interference issues Procedures for reporting wireless network service problems Procedures for responding to a suspected privacy or security violation Procedures for revoking user accounts due to termination of an affiliation with the University Monitoring and Reporting: The use of wireless network technology is to be monitored by the OIT on a regular basis for security and performance.
+Any unusual wireless network event that may reflect unauthorized use of wireless network services should be immediately reported through the OIT for review and, if appropriate, investigation.
+Such reportable events include the discovery of unauthorized Wireless Access Points on any MSU properties.
+POLICY Responsibility for Wireless Access Points: Campus responsibility for electronic communication resources reside with the Office of Information Technology, who must approve all installations of wireless access points used on all campus sites.
+Wireless services are subject to the same rules and policies that govern other electronic communications services at the University.
+Abuse or interference with other activities is a violation of acceptable use.
+Interference or disruption of other authorized communications or unauthorized interception of other traffic is a violation of policy.
+Radio communication, due to its dependence on a scarce and shared resource, is subject to additional rules concerning interference and shared use.
+
+Wireless access points must meet all applicable rules of regulatory agencies, such as, the Federal Communications Commission and Public Utilities Commission.
+
+Wireless access points must be installed so as to minimize interference with other RF activities particularly as described below.
+Only hardware and software approved by the Office of Information Technology or designee shall be used for wireless access points.
+Security: General access to the network infrastructure, including wireless infrastructure, is limited to individuals authorized to use campus and Internet resources.
+Physical security of wireless access points is maintained to protect the access point from theft or access to the data port.
+Access points shall enforce user authentication at the access point before granting access to secured campus or Internet services.
+Wireless network interfaces shall support authentication to access the secured campus wireless network.
+Network Reliability and Interference In a wireless environment, network reliability is a function both of the level of user congestion(traffic loads) and service availability(interference and coverage).
+In an effort to provide an acceptable level of reliability, this policy establishes a method for resolving conflicts that may arise from the use of the wireless spectrum.
+Wireless networking technology uses unlicensed frequency bands to create small local area network cells.
+Since unrelated devices such as cordless telephones, wireless audio speakers, and even microwave ovens may also use these same frequency bands, the potential for disruption of service exists when multiple devices are placed in close proximity to one another.
+While OIT does not actively monitor use of the frequency spectrum for potential interfering devices, it responds to reports of specific devices that are suspected of causing interference and disruption of the campus network.
+Where interference between the campus network and other devices cannot be resolved, OIT reserves the right to restrict the use of all wireless devices in University-owned buildings and all outdoor spaces.
+Interference or disruption of other authorized communications that result from the intentional or incidental misuse or misapplication of wireless network radio frequency spectrum is prohibited.
+In the event that a wireless device interferes with other equipment, the OIT or designee shall resolve the interference as determined by use priority.
+If other equipment interferes with a wireless device, the OIT or designee shall resolve the interference as determined by use priority.
+The order of priority for resolving unregulated frequency spectrum use conflicts shall be according to the following priority list: instruction, administration, research, and public access.
+Any unapproved or rogue access points found connected to the network will be disabled.
+New plans for buildings and gathering areas must consider the need for and use of wireless networking.

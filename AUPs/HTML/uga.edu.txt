@@ -1,0 +1,20 @@
+What constitutes acceptable use of the wireless network?
+Where is the wireless network available?
+How do I configure my wireless card to use the wireless network?
+How do I access the wireless network once my wireless card had been configured properly?
+How do I print to law library printers from my laptop?
+What is a wireless network?
+A wireless network allows those without access to wired network ports access to online resources such as the Internet as well as the campus network.
+It does so using the 802.11b or 802.11g wireless network standard which allows communication between a device such as a laptop or smartphone and a wireless access point connected to the campus network.
+What constitutes acceptable use of the wireless network?
+See the UGA Policies on Use of Computers on the University Network at https://infosec.uga.edu/policies/aup.php.
+Although you may be on your laptop you are still using the University network.
+This means that you are bound by the acceptable use guidelines mentioned in the above link.
+Where is the wireless network available?
+Wireless access is available through the Law School's classrooms, common areas, and surrounding grounds.
+How do I configure my wireless card to use the wireless network?
+Most wireless cards will automatically detect the "PAWS Secure" wireless network.
+If your card must be set manually you should set your SSID to "PAWS Secure".
+If you are having trouble accessing the network, you can call or visit our help desk in the Law Library Annex(706-542-0895) or contact the UGA help desk directly(706-542-3106) How do I print to law library printers from my laptop?
+Wireless printing is available for both PCs, Macs, and wireless devices through our print kiosk located in the copy room behind the reference desk.
+For more information see the EITS print kiosk support page.

@@ -1,0 +1,91 @@
+<64=7//2,.7/26/795*;276;.,167470?6.;>793*,,.::,75842*6,.8742,?9.:876:2+4.*-5262:;9*;79)9.:876:2+4.7//2,.!:")792026*44?2Q:<.-)*8897=*4:)=2,.897=7:;/7926/795*;276;.,167470?7//2,.7/;1.=2,.897=7:;/7926/795*;276;.,167470? !#"$'%&'*8897=.-+?)#&@ (@@@$'#@$+&'"0/3/12(/0!.(/0-%2+/.#'&*./,/)4 %2' %2'9.=2:276-*;.)! :;*;.5.6;7/8<987:.;HEOSPONQENFRHIQONKICVIQRN)W,PEAREAQECSPEMERUNPJEMTIPNMLEMRFNP<64= QCNLOSREPAMDMERUNPJPEQNSPCEQBVEQRABKIQHIMGDIFFEPEMRKETEKQNFMERUNPJACCEQQRNLEERRHEMEEDQNF<64=QRAFFAMDQRSDEMRQAQUEKKAQRHEGEMEPAKOSBKIC$W.MQSPE<64=IQIMCNLOKIAMCEUIRHRHE6ETADA:VQRELNF1IGHEP.DSCARINM!6:1."GSIDEKIMEQAMDMERUNPJQECSPIRVBEQROPACRICEQ$.6;2;2.:*//.,;.-+?;12:8742,?.MRIRIEQAFFECREDBVRHIQONKICVIMCKSDE<64=QRSDEMRQAMDELOKNVEEQAMDAMVNMEUHNACCEQQEQRHE<64=MERUNPJ$
+NETWORK 
+ACCESS 
+COMPLIANCE POLICY
+ PAGE 
+2 of 
+3    2 WHO SHOULD 
+READ 
+THIS 
+POLICY
+ UNLV students and employees
+ and anyone who accesses the UNLV 
+network should read this 
+policy.
+  POLICY
+ The UNLV network is divided into publicly accessible and non
+-publicly accessible a
+reas. 
+Systems 
+may 
+be placed on the UNLV network 
+only 
+in consultation with 
+and with the approval of 
+the Office of Information Technology (OIT). Systems in the non
+-publicly accessible areas of the 
+net
+work can
+ be accessed 
+only 
+through methods approved by OIT.
+   Refer to the Office of Information Technology™s Policies and Procedures web page 
+
+at 
+http://oit.unlv.edu/about
+-oit/policies
+ for additional i
+nformation 
+and contact information for 
+questions about the 
+policy.
+  RELATED 
+DOCUMENTS
+ Nevada System of Higher Education Procedures and Guidelines Manual, Chapter 14: Data and 
+
+Information Security, Sections 2.1 and 3.3
+  http://system.nevada.edu/tasks/sites/Nshe/assets/File/BoardOfRegents/Procedures/P&
+GM%20CH14%20
+-%20DATA%20AND%20INFORMATION%20SECURITY.pdf
+  Guidelines on Firewalls and Firewall Policy
+ http://csrc.nist.gov/publications/nistpubs/800
+-41-Rev1/sp800
+-41-rev1.pdf
+  Guides to Enterprise Telework and Remote Access Security
+ http://csrc.nist.gov/publications/nistpubs/800
+-46-rev1/sp800
+-46r1.pdf
+  CONTACTS
+ Refer to the Office of Information Technology™s Policies and Procedures web page 
+
+at 
+http://oit.unlv.edu/about
+-oit/policies
+ for a list of individuals who can answer questions about 
+the policy.
+  DEFINITIONS
+ These definitions apply to these terms as they are used in this policy.
+  
+Network 
+Œ An underlying infrastructure of cabling, equipment, and management software that 
+
+electronically transmits and directs the flow of information among devices.
+  
+NETWORK 
+ACCESS 
+COMPLIANCE POLICY
+ PAGE 
+3 of 
+3    3 Non
+-publicly accessible 
+- Campus network resources available to 
+only 
+those
+ who have been 
+authorized to have access.
+  Publicly accessible
+ - Campus network resources available to the general public.
+  Systems
+ - Devices and applica
+tions accessed via the network.
+  

@@ -1,0 +1,96 @@
+These resources are provided with a primary purpose of supporting the education, instruction, research, and administration activities of the University.
+Users of these resources may have access to valuable resources and sensitive information.
+Therefore, it is imperative that Users act in a responsible, ethical, and legal manner.
+Scope This policy applies to and governs: All individuals and devices using, or attempting to use, University IT Resources or University Information, regardless of their affiliation with the University and whether on campus or connecting from a remote location.
+Resources including, but not limited to, all computers, systems, software, network and internet connections, databases, and computer facilities owned, leased, managed, or maintained on behalf of the University.
+All University Information including files, documents, data, images, software, logos and other marks, and any other University-owned or managed electronic materials and content.
+Personal devices, when used to interact with or connect to or through University resources.
+Policy The IT Resources in use at Drake University are designed to support the University s mission and operations, and the use of these resources is a privilege extended to faculty, staff, students, guests, vendors, and other members of the University community.
+Users are expected to demonstrate sound judgment and professionalism when using or interacting with University IT Resources and to recognize and act in accordance with the understanding that University IT Resources are provided in order to support Drake s mission and conduct its business.
+Users are also expected to treat the protection and confidentiality of University information and data as essential responsibilities when using University IT Resources.
+Users of these resources may have access to, and interact with, extensive services and sensitive information.
+This information, including email messages, electronic communications, and electronic files and documents, which are created, accessed, transmitted, or stored using University IT Resources are considered to be University Information, and are subject to review by authorized University representatives, disclosure to law enforcement or other third parties through subpoena or other proceedings.
+Information stored on or transmitted through University IT Resources may be preserved for an extended period, including after a User s affiliation with the University ends.
+The University has the legal right to log, access, and review all information stored on, or transmitted through IT Resources.
+While the University employs measures to protect IT Resources, Users should be aware that the University cannot guarantee absolute security.
+Users must take steps to safeguard accounts and information in accordance with University policy and best practices.
+The University may suspend, disable, or terminate access privileges for any User or device found or suspected to be violating this or other University policies, threatening or harassing others, threatening or harming IT resources or University information, degrading performance of IT resources, or violating contractual obligations or applicable law.
+All Users of University IT Resources must abide by the following responsibilities.
+Maintain the security and privacy of the account(s) assigned by the University.
+Users must not share passwords or authentication credentials with others.
+These credentials are assigned to individuals and the responsibility for actions performed is exclusively the User
+Only use the University s name as authorized.
+The exchange of ideas is encouraged, however Users shall take appropriate steps to avoid possible inference that communication of a message via the University email system or other electronic communication implies official University endorsement or authorization.
+Refrain from excessive personal use.
+Personal use may be excessive if it affects productivity, overburdens a system or network, subjects the University to increased operating costs, or is otherwise detrimental to the University.
+University Resources may not be used by employees for personal commercial gain under any circumstances unless approved in advance by a member of the University President s Council or formal designee, or the Dean of a university school or college.
+Respect the rights of others by not interfering with others authorized and appropriate use of IT Resources.
+This includes unauthorized access of another User s or the University s information, impersonation of others, threatening or harassing others, and/or conducting attacks against systems and networks.
+Appropriately secure all systems and devices used to fulfill job responsibilities and/or transmit or store University information, including personal devices.
+Users have sole responsibility for securing any personal device(s) used in this capacity.
+Access information only as authorized.
+Where access has been given to Confidential or Restricted information, Users must limit use to that which is needed to perform job duties.
+Secondary use of University information may be restricted by federal or state law, or industry regulations, including the Health Insurance Portability and Accountability Act(HIPAA), the Family Educational Rights and Privacy Act(FERPA), the Gramm-Leach Bliley Act(GLBA) and the Payment Card Industry Data Security Standard(PCI-DSS).
+Respect and adhere to all laws and regulations, including those governing software and copyright.
+Users are responsible for recognizing and honoring the intellectual property rights of others, and must not install, copy or use software except as permitted by the software owner and the University.
+Users must not use images or other digital works except as permitted by the copyright owner.
+The following activities are provided as examples of prohibited behavior as outlined by this policy.
+Examples are illustrative and do not represent an exhaustive list of scenarios governed by this policy.
+Circumventing or harming, whether through hardware or software, any security or access control measure on any computer or network system.
+Examining, collecting, or modifying any information from a computer, network, or system, or breaking the confidentiality, integrity, or availability of such information or systems for which the User is not authorized.
+Transmitting or storing University information classified as Confidential(see Information & Technology policy Information Security) using an unapproved cloud service.
+Activities violating the law and/or University policy, including harassment, discrimination, fraud, viewing or distributing certain types of pornography, and copyright infringement.
+Threatening, harassing, intimidating or otherwise engaging in interpersonal behavior and communication that is unprofessional or violates other university policy or law.
+Failing to follow procedures or take reasonable precautions to appropriately protect and prevent unauthorized access to university information and data.
+Connecting network devices to the University network without authorization from Information Technology Services, including network monitoring/analysis tools, routers, switches, wireless access points, or other devices that grant special access to one or more devices.
+By using or attempting to use University information technology resources, Users agree to abide by this policy and all related University policies and procedures, as well as applicable local, state, and federal laws.
+Enforcement Violations of this policy can range in seriousness from accidental to illegal.
+Where acceptable use comes into question, the University reserves the right to determine what is appropriate and acceptable and what is not.
+The University may also take action unilaterally and without consultation.
+When requested, Users must cease any activity deemed in violation of this policy.
+Failure to comply may result in revocation of User account credentials or other action, up to and including dismissal from employment or the university, depending on the nature and severity of the offense.
+Some violations may also be subject to civil or criminal action.
+Definitions User An individual who connects, accesses, logs into, or traverses a University system or network; or attempts to connect, access, log into, or traverse a University system or network.
+Therefore, a User includes faculty, staff, students, visitors, vendors, and other authorized and unauthorized entities.
+Information Technology(IT) Resources Facilities, technologies, and information resources used for University information processing, transfer, storage, and communications.
+This includes computer labs, classroom technologies, computing and electronic communications devices and services, email, networks, mobile devices, voicemail, fax transmissions, video, multimedia, and instructional materials.
+This also includes services that are University-owned, leased, operated or provided by the University or otherwise connected to University resources, such as cloud and Software-as-a-Service(SaaS), or any other connected/hosted services provided.
+University information Information created, accessed, transmitted, or stored in the course of conducting University business and academic activities.
+This includes information produced by the extended University community when executing work on behalf of the University, including course information, student work, grades, academic outcomes, research, and information about University strategy, operations, and intellectual property.
+University information does not include, for the purposes of this policy, information that a member of the University community owns or has rights to, or information housed in the public domain.
+Cloud Service A product offered by a third-party company consisting of on-demand, shared internet-based platforms, infrastructure, applications, or storage services.
+Third-party cloud services are not approved IT resources by default.
+The University may enter into contract with a third party offering a cloud service, at that point the Cloud Service would be considered an approved IT resource.
+Excessive Personal Use University IT Resources may be used for personal purposes, but should not be associated with political activity, result in the disclosure of Confidential information, impact productivity, or promote illegal or unethical behavior.
+Remember that University IT Resources are not private and may be subject to subpoena and their use disclosed by court order.
+Unauthorized Network Devices Devices or tools that subvert or bypass the security of the University network, or cause interference with normal network and security operations.
+Examples include a router or access point, which may allow unauthorized devices to connect to the University network and interfere with existing wireless infrastructure.
+Appropriately-secured Personal Devices Computers and mobile devices with security equivalent to the sensitivity of University information stored on them.
+For mobile devices on which Confidential information may be accessed or stored, this includes device encryption, a PIN or password, deleting information when no longer needed, and limiting features which allow insecure connections.
+All rights reserved.
+Close Button Logo Tag Close Button We Value Your Privacy When you visit our website, we store cookies on your browser to collect information.
+The information collected might relate to you, your preferences or your device, and is mostly used to make the site work as you expect it to and to provide a more personalized web experience.
+However, you can choose not to allow certain types of cookies, which may impact your experience of the site and the services we are able to offer.
+Click on the different category headings to find out more and change our default settings according to your preference.
+You cannot opt-out of our First Party Strictly Necessary Cookies as they are deployed in order to ensure the proper functioning of our website(such as prompting the cookie banner and remembering your settings, to log into your account, to redirect you when you log out, etc.).
+Privacy Policy Allow Managing Your Cookies Accordion header Strictly Necessary Cookies Required accordion detail These cookies are necessary for the website to function and cannot be switched off in our systems.
+They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms.
+You can set your browser to block or alert you about these cookies, but some parts of the site will not then work.
+These cookies do not store any personally identifiable information.
+Details Accordion header Sale of Personal Data Sale of Personal Data accordion detail Under the California Consumer Privacy Act, you have the right to opt-out of the sale of your personal information to third parties.
+These cookies collect information for analytics and to personalize your experience with targeted ads.
+You may exercise your right to opt out of the sale of personal information by using this toggle switch.
+If you opt out we will not be able to offer you personalised ads and will not hand over your personal information to any third parties.
+Additionally, you may contact our legal department for further clarification about your rights as a California consumer by using this Exercise My Rights link.
+If you have enabled privacy controls on your browser(such as a plugin), we have to take that as a valid request to opt-out.
+Therefore we would not be able to track your activity through the web.
+This may affect our ability to personalize ads according to your preferences.
+Performance Cookies Switch Label label These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site.
+They help us to know which pages are the most and least popular and see how visitors move around the site.
+All information these cookies collect is aggregated and therefore anonymous.
+If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+Targeting Cookies Switch Label label These cookies may be set through our site by our advertising partners.
+They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites.
+They do not store directly personal information, but are based on uniquely identifying your browser and internet device.
+If you do not allow these cookies, you will experience less targeted advertising.
+By clicking "Accept," you agree to the storing of cookies on your device to enhance site navigation, analyze site usage and assist in our marketing efforts.

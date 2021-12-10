@@ -1,0 +1,116 @@
+
+TECHNICAL 
+SYSTEM 
+ADMINISTRATION 
+POLICY    
+                    
+                    
+                    
+                    
+                    
+     
+PAGE 
+2 of 
+2     POLICY
+ Every system must have a 
+designated 
+system owner 
+who is a full
+-time UNLV employee and is 
+accountable
+ for the system
+. The 
+system 
+owner
+ must ensure that the security and access 
+requirements a
+ssociated with the data
+ on the system are 
+in compliance with federal, state, and 
+NSHE statutes, regulations and/or policies
+ established by these groups
+.   Technical administrator
+s must know
+ who the 
+system 
+owner is and must ensure that the security 
+and access requirements associated with the data
+ and/or applications
+ on the system are met.
+  System
+s must meet 
+security 
+standards set by the
+ Office 
+of Information Technology
+ (OIT)
+.  
+Systems will be
+ audited periodically
+ by OIT to ensure compliance with federal, state and NSHE 
+statutes, regulations and/or policies
+.  
+Refer to 
+OIT™s
+ Policies and Procedures web page at 
+http://oit.unlv.edu/about
+-oit/policies
+ for 
+additional information and exceptions.  
+  RELATED 
+DOCUMENTS
+ Acceptable Use of Computing and Information Technology Resources Policy
+ http://www.unlv.edu/sites/default/files/24/Provost
+-AcceptableUse
+-1-31-14.pdf
+  CONTACTS
+ Refer to 
+OIT
+™s Policies and Procedures web page
+ at 
+http://oit.unlv.edu/about
+-oit/policies
+ for a list 
+of individuals who can answer questions about
+ the policy.
+  DEFINITIONS
+ System
+ - Related hardware components, software programs, or both that store, process or 
+transmit data. Syst
+ems include but are not limited to network devices, appliances, physical and 
+
+virtual environments, desktop devices being used as servers, and applications. Systems hosted by 
+
+third party vendors are subject to this definition.
+  System Owner
+ - A full
+-time 
+UNLV employee
+ who is responsible for the system, 
+knows the 
+function(s) of the system
+, authorizes access
+, knows who the data owners are, 
+and 
+understands 
+what data the system stores, processes, or t
+ransmits.
+  Technical Administrator
+s - Individual
+s who 
+manage
+ the system as the system owner or on 
+behalf of the system o
+wner. 
+Technical Administrators have
+ administrative privileges (e.g., adds 
+users, updates operating systems, defines roles, configures the application) and may be 
+
+responsible for system, applicatio
+n, or user security. Technical Administrators may also be 
+
+known as Application Administrators, System Administrators, Network Administrators, 
+
+Database Administrators, 
+etc.
+ 

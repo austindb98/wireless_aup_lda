@@ -1,0 +1,70 @@
+Network Security Policy 2019 Network Security Policy Information Technology Purpose This policy is intended to protect the integrity of the campus network, to mitigate the risks and losses associated with security threats to computing resources, and to ensure secure and reliable network access and performance for the University community.
+This policy is necessary to provide a reliable campus network to conduct the University's business and prevent unauthorized access to institutional, research, or personal data.
+In addition, the University has a legal responsibility to secure its computers and networks from misuse.
+Scope This policy applies to all Stetson University faculty, staff, students, vendors/contractors, guest account holders, and any other agents who may connect to Stetson University network computing resources.
+This policy also applies to all devices which are used by those individuals for network access, whether personally-owned, university-issued or otherwise obtained; and software, whether installed on Stetson devices or personally-owned devices, connected to our network; and software used to store or process Stetson University data(whether it is connected or not connected to the Stetson University network).
+These devices include but are not limited to workstations, laptops, tablets, smartphones, servers, consoles, controllers, and any other computing device which is capable of communicating networks.
+Stetson University Information Technology(SUIT) and approved administrators(Marketing and Communications) are solely responsible for managing any and all Internet domain names related to the University(e.g., stetson.edu).
+Individuals, academic colleges/departments or administrative departments may not create nor support additional Internet domains without prior approval from SUIT and approved administrators.
+
+To ensure the stability of network communications, SUIT will solely provision and manage both the public and private IP address spaces in use by the University.
+
+SUIT may delegate administrative responsibilities to individuals for certain network ranges, but retains the right of ownership for those networks.
+
+Stetson University faculty, staff, or students may not connect, nor contract with an outside vendor to connect, any device or system to the University's networks without the prior review and approval of SUIT.
+Colleges or departments that wish to provide Internet or other network access to individuals or networks not directly affiliated with the University must obtain prior approval from SUIT.
+In order to maintain reliable network connectivity, no other department may deploy wireless routers, switches, bridges, and/or DHCP(Dynamic Host Configuration Protocol) services on campus without prior review and approval of SUIT.
+
+Users are permitted to attach devices to the network provided that they: are for use with normal University business or student operations do not interfere with other devices on the network are in compliance with all other Stetson policies.
+
+Unauthorized access to University networking equipment(firewalls, routers, switches, etc.)
+is prohibited.
+This includes port scanning or connection attempts using applications such as SSH/SNMP, or otherwise attempting to interact with University network equipment.
+
+Unauthorized access to University equipment/cabling rooms is prohibited.
+
+Wireless 3.1.
+SUIT is solely responsible for managing the unlicensed radio frequencies(wireless networking) on campus, which includes the 2.4 GHz and GHz spectrum and may include future wireless spectrum standards, as defined by the IEEE, such as 60GHz.
+
+SUIT is responsible for maintaining a secure network and will deploy appropriate security procedures to support wireless networking on campus.
+
+The University will maintain a campus wireless network based only on IEEE 802.11 standards.
+SUIT will collaborate with academic departments where devices used for specific educational or research applications may require specific support or solutions.
+
+Unauthorized devices operating in the 2.4 GHz and GHz spectrums are prohibited due to interference in the operation of the Stetson University wireless network.
+Examples of this include but are not limited to: Wireless printers Mifi devices or wifi hotspots Wireless routers
+The University's external Internet firewall default practice is to deny all external Internet traffic to the University's network unless explicitly permitted.
+To facilitate this, academic colleges/departments and other administrative departments must register systems with SUIT which require access from the Internet.
+Users that would like to request access through the University firewall must open a help desk ticket.
+
+Access and service restrictions may be enforced by device, IP address, port number, or application behavior.
+
+SUIT reserves the right to decrypt SSL traffic which transits the University network.
+
+SUIT may investigate any unauthorized access of computer networks, systems, or devices.
+SUIT will work with academic or administrative departments and law enforcement when appropriate.
+All devices connecting to the network must have adequate security installed/maintained and must be configured and maintained in such a manner as to prohibit unauthorized access or misuse.
+
+If a security issue is observed, it is the responsibility of all Stetson University users to report the problem to the appropriate supervisor or SUIT for investigation.
+
+SUIT reserves the right to quarantine or disconnect any system or device from the University network at any time that is impacting regular network activity.
+
+Network usage judged appropriate by the University is permitted.
+Some activities deemed inappropriate include, but are not limited to: Attaching unauthorized network devices, including but not limited to wireless routers, gateways DHCP or DNS servers; or a computer set up to act like such a device.
+Engaging in network packet sniffing or snooping.
+Setting up a system to appear like another authorized system on the network(trojan).
+
+SUIT may investigate any software which is written by staff, faculty, or students that is non-commercial or not generally accepted mainstream commercial, and it is installed on university.
+If it does not have adequate security mechanisms, controls, and support, SUIT reserves the right to prohibit the software or system from being connected to the Stetson University network, installed on Stetson University computers, or used to store or process Stetson University data.
+Enforcement Any device found to violate this policy, or found to be causing problems that may impair or disable the network or systems connected to it, is subject to immediate disconnection from the University's network.
+SUIT may subsequently require specific security improvements where potential security problems are identified before the device may be reconnected.
+Attempting to circumvent security or administrative access controls for information resources is a violation of this policy.
+Assisting someone else or requesting someone else to circumvent security or administrative access controls is a violation of this policy.
+The University reserves the right to test and monitor security, and to copy or examine files and information resident on University systems related to any alleged security incident or policy violation.
+Monitoring and Auditing SUIT will maintain and monitor traffic logs for all network devices and systems for security auditing purposes.
+SUIT reserves the right to monitor, access, retrieve, read, and/or disclose data communications when there is reasonable cause to suspect a University policy violation, criminal activity, monitoring required by law enforcement, or with appropriate management request.
+Reasonable cause may be provided by
+Network Security Policy 2019 the complaint of a policy violation or crime or as incidentally noticed while carrying out the normal duties of SUIT staff.
+SUIT may perform penetration testing of any University-owned devices or systems on its networks in order to determine the risks associated with protecting University information assets.
+SUIT may further perform non-intrusive security audits of any system or device attached to the University's networks in order to determine what risks that system may pose to overall information security.
+Questions If you have questions or concerns regarding this policy or other Information Technology Security Policies, please contact the Office of Information Technology via phone: 386-822-7045 or email: support@stetson.edu.

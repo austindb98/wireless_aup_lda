@@ -1,0 +1,57 @@
+The intent of these guidelines is to provide access to campus computing resources that is consistent with the generally accepted principles of ethics that govern the University's academic community.
+Bryant University seeks to provide access to staff, faculty, and students within institutional priorities and financial capabilities.
+Access to University-owned computer facilities, equipment, hardware, software, printing facilities and services, is a privilege, not a right.
+This privilege is extended to all faculty, staff, and students.
+The University expects all members of the community to use computing, data, and information technology resources in a responsible manner, respecting the rights and privacy of others, the integrity of facilities and controls, state and federal laws, and University policies, guidelines and standards.
+Scope These guidelines apply to all users of the University s computing, data, and information technology resources.
+This includes faculty, staff, students, guests, external organizations and individuals accessing network services, such as the Internet, via University resources.
+Guidelines and Recommendations User Compliance When you use University computing services and accept any University issued computing accounts, you agree to comply with this and all other computing related policies, guidelines and standards.
+You have the responsibility to keep up-to-date on changes in the computing environment, as published, using University electronic and print publication mechanisms.
+Occasional limited personal use of University facilities, computers, and equipment, including email and Internet access, is permitted only if use is brief, use occurs infrequently, use does not interfere with the performance of employees' official duties, and use does not compromise the security or integrity of University assets.
+Waiver Users recognize that systems and networks are imperfect and waive any responsibility for lost work or time that may arise from their use.
+Information Services staff cannot compensate users for degradation or loss of personal data, software, or hardware as a result of their use of University-owned systems or networks, or as a result of assistance they may seek from Information Services staff.
+University-owned electronic devices are intended for business use.
+Information Services is not responsible for the backup, transfer, migration or recovery of personal data(pictures, images, videos, sound files, etc.)
+stored on University-owned electronic devices.
+Adherence with Federal, State, and Local Laws As a member of the Bryant University community, you are expected to uphold local ordinances and state and federal law.
+Some Bryant guidelines related to use of technologies derive from that concern, including laws regarding license and copyright, and the protection of intellectual property.
+As a user of Bryant's computing and network resources you must: Abide by all federal, state, and local laws.
+Abide by all applicable copyright laws and licenses.
+Bryant University has entered into legal agreements or contracts for many of our software and network resources which require each individual using them to comply with those agreements.
+Observe the copyright law as it applies to music, videos, games, images, texts and other media in both personal use and in production of electronic information.
+The ease with which electronic materials can be copied, modified and sent over the Internet makes electronic materials extremely vulnerable to unauthorized access, invasion of privacy and copyright infringement.
+Do not use, copy, or distribute copyrighted works(including but not limited to Web page graphics, sound files, film clips, trademarks, software and logos) unless you have a legal right to use, copy, distribute, or otherwise exploit the copyrighted work.
+Doing so may provide the basis for disciplinary action, civil litigation and criminal prosecution.
+Authorized Software The purpose of this control is to provide measures that will mitigate information security risks associated with authorized software.
+Authorized software is any software that is acceptable for use on Bryant University information technology resources.
+All software installed or used on university-owned information technology resources must be appropriately licensed and approved in advance of its use.
+Prior to purchase, lease, development, or use of university software, users must contact the TSC Helpdesk to begin the approval process.
+The Helpdesk will assist organizations with shepherding the request through the required reviews/approvals process.
+Other Inappropriate Activities Use Bryant's computing facilities and services for those activities that are consistent with the educational, administrative and public service mission of the University.
+Other prohibited activities include: Activities that would jeopardize the University's tax-exempt status.
+Use of Bryant's computing services and facilities for political purposes.
+Use of Bryant's computing services and facilities for personal economic gain.
+Privacy and Personal Rights All users of the university's network and computing resources are expected to respect the privacy and personal rights of others.
+Be professional and respectful when using computing systems to communicate with others; the use of computing resources to libel, slander, or harass any other person is not allowed and could lead to university discipline as well as legal action by those who are the recipient of these actions.
+While the University does not generally monitor or limit content of information transmitted across or stored on University resources, it reserves the right to access and review such information under certain conditions.
+These include but are not limited to: investigating performance deviations and system problems(with reasonable cause), determining if an individual is in violation of guidelines, or, as may be necessary, to ensure that Bryant is not subject to claims of institutional misconduct.
+Access to files on University-owned equipment or information will only be approved by specific University personnel when there is a valid reason to access those files.
+Network The University provides wired and wireless access for students, faculty, staff and guests.
+Wireless access is available for mobile computing devices such as laptops, smart phones and PDAs.
+Prior registration and end-point security validation through the University's Network Access Control unit is necessary in order to access Bryant s network.
+Network Operations owns and is responsible for the university network(wired and wireless) and telecommunications infrastructure and shall manage developments and enhancements to this infrastructure.
+Network Operations shall maintain the network address and name space for the university and provide a central service for allocation of these resources.
+All hardware and software configured to extend or re-transmit the University network and telecommunications infrastructure, including all wireless technologies, must be approved by Network Operations prior to acquisition and deployment.
+All systems, devices, and software capable of extending this infrastructure must adhere to configuration standards developed and maintained by Network Operations.
+In order to prevent problems caused by radio interference, to ensure the integrity of University resources, and to ensure the widest availability of reliable wireless networking services, the University shall remain the sole owner of all unlicensed spectrums of radio frequencies available for use on campus or any related properties.
+Network Operations will provide support for infrastructure mode installations only.
+Ad hoc wireless mode will not be supported.
+The University does not support the use of personal wireless printers on the campus network.
+Wireless printers do not support the end-point security validation method used by the campus network.
+In addition, wireless printers use significant bandwidth and pose security risks that could potentially degrade the experience for the entire wireless community.
+Fair Share of Resources Information Services operates and maintains computers, network systems and servers, and is expected to maintain an acceptable level of performance and must assure that frivolous, excessive, or inappropriate use of the resources by one person or a few people does not degrade performance for others.
+The campus network and centralized computing resources are shared widely and are limited, requiring that resources be utilized with consideration for others who also use them.
+The University may choose to set limits on an individual's use of a resource through quotas, time limits, and other mechanisms to ensure that these resources can be used by anyone who needs them.
+Enforcement The University considers any violation of acceptable use principles and/or guidelines to be a serious offense and reserves the right to copy and examine any files or information resident on University systems allegedly related to unacceptable use and to protect its network from systems and events that threaten or degrade operations.
+Failure to comply with the above guidelines, or the unauthorized or illegitimate use of Bryant University's computing or network facilities or resources, may subject the violator to disciplinary or legal action by the University.
+Exceptions Any exceptions to directives outlined within this document are to be reviewed and approved by the Information Security Program Committee as needed.

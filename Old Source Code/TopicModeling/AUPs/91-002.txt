@@ -1,0 +1,67 @@
+91.002:  Computer Services Forms
+Status:
+Approved on October 28, 2002
+Signatures and dates 
+on archival copy
+Effective:
+September 1, 2002
+ Initiated by:
+David Fritchley
+Director of Computer Services
+ Reviewed by:Nancy Prichard Crist, Chair
+Policy and Procedure Review Committee
+ Endorsed by:
+Douglas Mann
+Associate Provost for Information Technology
+ Approved by:
+Stephen Kopp
+Provost
+ Purpose
+This policy is intended to ensure reliable functioning of hardware and software, and to ensure timely
+provision of data entry, test scoring, label printing, and other services.
+A.Policy
+All forms which are used as input to, or output from, the Computer Services computers must be
+reviewed and approved by the Computer Services Production Control Manager before ordering from
+B.
+ReviewersProposed revisions of this policy should be reviewed by:
+1. Policy and Procedure Review Committee
+2. Vice President for Administration
+Forms
+There are no forms that are specific to this policy.
+suppliers. This policy applies to both new form orders and to reorders even though there may be no
+changes in format.
+Review by Computer Services is necessary in order that programming requirements and operating
+requirements of the high speed printer are considered; i.e., weight of paper stock, type of perforations,
+method of attaching multiple part forms (crimp, glue, etc.), type and size of carbon, standard sizes of
+paper stock, conformity of layout with programs, vendor reliability for special forms, etc.
+Procedures
+Using departments should determine the type of form required, purpose of form, data needed,
+approximate size, number of copies required, and prepare a draft copy of the form layout. (The
+Production Control Manager may offer assistance in the development if desired.) A meeting should be
+arranged with the Production Control Manager for review.
+The Production Control Manager will review the forms specifications with systems, programming, and
+operations areas and resolve any potential problems or discrepancies. The Production Control Manager
+will prepare a final copy of the form layout and list the ordering specifications.
+A purchase requisition should be processed by the ordering department with five (5) copies of the final
+form layout and specifications attached. Three months lead time in ordering is necessary to allow for
+bidding and proofs.
+Printer's proofs should be reviewed by the Production Control Manager and the ordering department
+before giving final approval to the printer.
+When forms are delivered, the Production Control Manager will arrange for test runs on the computer
+and will review the tests with the ordering department.
+The Production Control Manager will maintain a history file of forms and a record of all problems with
+each form and with each supplier.
+The Computer Services Production Control Manager office is located in the Computer Services Center
+and may be contacted by calling Computer Services' Frontline (597-8000) and asking for the Production
+Control Manager.
+C.
+Administrative Policy Manual
+ Andrea Swart revised this page 
+(https://www.ohio.edu/policy/91-002.html)
+ on September 12, 2017.
+policy@ohio.edu
+Ohio University   |   Athens, OH 45701   |   740.593.1000
+Copyright © 2017 
+Ohio University
+.   All rights reserved.
+

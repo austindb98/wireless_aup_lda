@@ -1,0 +1,530 @@
+Tennessee Technological University
+ 
+Policy No. 801 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Effective Date:  
+ 
+July 1, 2017
+ 
+ 
+ 
+
+
+
+ 
+
+1
+ 
+ 
+Policy No.:  
+801
+ 
+Policy Name:  
+I
+nformation Technology Acceptable Use Policy
+ 
+Policy Subject:  
+Appropriate use of IT resources
+ 
+ 
+ 
+I.
+ 
+Purpose
+ 
+ 
+This polic
+y 
+provides guidance on the use of Tennessee Tech information technology facilities 
+and resources. 
+ 
+ 
+II.
+ 
+Review
+ 
+ 
+This policy will be
+ 
+reviewed every 
+2 years
+ 
+or whenever circumstances require review, 
+whichever is earlier, by the Chief Information Officer
+,
+ 
+with recommendations for revision 
+presented to the Information Technology Committee
+ 
+and the University Assembly
+.
+ 
+ 
+III.
+ 
+Scope
+ 
+ 
+This policy 
+shall apply to all persons and organizations using the information technology 
+facilities and resources owned, leased
+, 
+or administered by Tennessee Tech including all 
+persons employed (either as full
+-
+time, part
+-
+time
+,
+ 
+or temporary employees or as independent 
+contractors) by Tennessee Tech
+,
+ 
+to all students enrolled at the University
+,
+ 
+alumni
+, retirees and 
+guests 
+. 
+ 
+ 
+This policy applies regardless of whether a person is accessing Tennessee Tech IT resources 
+on an institut
+ion
+-
+i
+ssued or personal device.
+ 
+ 
+IV.
+ 
+Policy
+ 
+ 
+A.
+ 
+Tennessee Tech hereby adopts State of Tennessee Acceptable Use Policy 
+Network Access Rights and Obligations as may
+ 
+be amended from time to time 
+and unless otherwise indicated.
+ 
+ 
+B.
+ 
+Each department will ensure that person
+nel within the department understand 
+and comply with this policy and associated procedures, protect the 
+confidentiality of sensitive or personal data, and comply with applicable 
+information security policies and procedures. The 
+my
+Tech he
+lpdesk 
+serves as 
+th
+e first point of contact for Tennessee Tech personnel seeking problem 
+resolution, information, and other assistance regarding information resources.
+ 
+ 
+The 
+my
+Tech h
+elpdesk can be reached at ext. 3975 
+ 
+ 
+C.
+ 
+Persons accessing or using Tennessee Tech IT resources d
+o not have a right to 
+privacy in such usage. Also
+,
+ 
+as a public institution, Tennessee Tech is subject 
+to the Tennessee Public Records Act and may be obligated to provide 
+electronic records pursuant to that law. Accordingly
+,
+ 
+users should not consider 
+
+2
+ 
+ 
+
+computing resources. 
+ 
+ 
+D.
+ 
+Users should only use those computing and IT resources for which they have 
+authorization.
+ 
+ 
+E.
+ 
+Users should protect the access and inte
+grity of computing resources.
+ 
+ 
+F.
+ 
+Users should use computing and IT resources only
+ 
+for Tennessee Tech related 
+purposes. Recreational use should not impact Tennessee Tech operations or 
+violate any local,
+ 
+Federal, or state laws. 
+Examples of prohibited usages 
+include
+,
+ 
+but are not limited to: 
+ 
+ 
+ 
+ 
+1.
+ 
+Misusing Internet Relay Chat (IRC) software to allow users to hide their 
+identity or to interfere with other systems or users;
+ 
+ 
+2.
+ 
+
+ 
+ 
+ 
+3.
+ 
+Intercepting or monitoring any network comm
+unications not intended for 
+the user;
+ 
+ 
+4.
+ 
+Attempting to circumvent security mechanisms;
+ 
+ 
+5.
+ 
+Attempting to introduce any unauthorized software or technologies (e.g., 
+unapproved third party software, malicious software) into the Tennessee 
+Tech processing environme
+nt;
+ 
+ 
+6.
+ 
+Using privileged access for other than official duties;
+ 
+ 
+7.
+ 
+Using former privileges after graduation, transfer, or termination, except as 
+stipulated by Tennessee Tech;
+ 
+ 
+8.
+ 
+Tapping a phone line or run
+ning
+ 
+a network sniffer or vulnerability scanner 
+without au
+thorization. Use of 
+a 
+network sniffer or vulnerability scanner by 
+faculty
+,
+ 
+or by students u
+nder the supervision of faculty
+ 
+for educational 
+purposes
+,
+ 
+constitutes authorization;
+ 
+ 
+9.
+ 
+Using or disclosing information about students or employees in violation of 
+Ten
+nessee Tech policies and applicable laws (e.g., FERPA, PII, HIPAA);
+ 
+ 
+Departments and individuals may not configure Tennessee Tech computing 
+systems to provide information retrieval services including
+,
+ 
+but not limited to
+,
+ 
+web servers, file servers, FTP serv
+ers to the public at large; and
+ 
+
+3
+ 
+ 
+ 
+10.
+ 
+Using any IT resource in such a manner as to violate Tennessee Tech policy 
+or state or federal law including
+,
+ 
+but not limited to
+,
+ 
+prohibitions on 
+harassment, stalking, etc.
+ 
+ 
+G.
+ 
+Users should abide by applicable laws and 
+Tennessee Tech policies and 
+respect the copyrights and intellectual property rights of others, including the 
+legal use of copyrighted software. Examples of violations include
+,
+ 
+but are not 
+limited to:
+ 
+ 
+ 
+1.
+ 
+Distributing copyrighted materials without expr
+ess permission of the 
+copyright 
+holder;
+ 
+ 
+H.
+ 
+Users are responsible for the security and integrity of Tennessee Tech 
+information stored on their assigned University systems. Users must control 
+physical access to the machine, make regular backups, and use availa
+ble virus 
+
+the appropriate levels of antivirus, spyware, operating system, and other 
+security measures before allowing access to Tennessee Tech network 
+computing resources; and
+ 
+ 
+I.
+ 
+A u
+ser shall not use Tennessee Tech information technology resources for any 
+private or personal for
+-
+profit activity. Except for those not
+-
+for
+-
+profit business 
+
+which are directly re
+lated to an organization which is affiliated with 
+Tennessee Tech, a user shall not use Tennessee Tech information technology 
+resources for any not
+-
+for
+-
+profit business activities, unless authorized by the 
+President or appropriate designee.
+ 
+ 
+J.
+ 
+Tennessee Tech A
+ccess and Control
+ 
+ 
+Authorized IT administrators or their designee may access any Tennessee Tech 
+maintained system or data when required for maintenance, health, safety, 
+continuity of operations
+,
+ 
+or investigative purposes.
+ 
+ 
+1.
+ 
+Tennessee Tech may control access
+ 
+to its information technology resources 
+including
+,
+ 
+but not limited to
+,
+ 
+data and the devices on which it is stored and 
+transmitted.
+ 
+ 
+2.
+ 
+System administrators and providers have the responsibility of ensuring the 
+confidentiality, integrity, and availability of
+ 
+IT resources. The persons in 
+these positions are granted significant trust to use their privileges 
+appropriately, and these privileges must be used only for assigned job 
+responsibilities. Individual privileges and rights of privacy are to be 
+preserved to 
+the greatest extent possible, unless a violation of policy or 
+
+4
+ 
+ 
+compromise of security occurs.
+ 
+ 
+Tennessee Tech may routinely monitor and log usage data, such as network 
+session connection times and end
+-
+points, CPU and disk utilization, security 
+audit trails,
+ 
+and network loading. 
+Data
+ 
+may be reviewed for evidence of 
+violation of law or policy and other purposes
+ 
+K.
+ 
+Communications Related to IT Resources
+ 
+ 
+1.
+ 
+Investigative Contact
+ 
+ 
+a.
+ 
+Any member of the Tennessee Tech community contacted by a 
+representative from an externa
+
+office, U.S. Attorney, Homeland Security, FBI, TBI, etc.) conducting 
+an investigation for an alleged violation involving Tennessee Tech 
+computing and networking resources must immediately contact 
+University Counsel and t
+he Chief Information Security Officer and 
+refer the requesting agency to the Office of University Counsel or 
+CISO office.
+ 
+ 
+2.
+ 
+Responding to Security and Abuse Incidents
+ 
+ 
+a.
+ 
+All users and units have the responsibility to report any unauthorized 
+access attempts or
+ 
+other improper usage of Tennessee Tech computers, 
+networks, or other informational processing equipment. If users 
+observe or receive information regarding a security or abuse problem 
+with any Tennessee Tech information resource, including violations of 
+th
+is policy, they should immediately contact the 
+my
+Tech h
+elpdesk
+ 
+(
+x3975
+) with a description of the issue.  ITS personnel will inform the 
+Information Security Office
+,
+ 
+which will determine the appropriate 
+incident response.
+ 
+ 
+L.
+ 
+Sanctions
+ 
+ 
+Persons in violation of 
+this policy are subject to a range of sanctions including the 
+loss of computer network access privileges, disciplinary action
+ 
+(
+up to and 
+including dismissal or termination from Tennessee Tech
+)
+ 
+and legal action. Some 
+violations may constitute criminal offenses, as outlined in local, state, and federal 
+laws. Tennessee Tech will report such violations to the appropriate authorities. 
+Appeals should be directed through the existing procedures establ
+ished for 
+employees or students.
+ 
+ 
+V.
+ 
+Interpretation
+ 
+The Chief Information Officer or his/her designee has the final authority to 
+interpret the terms of this policy
+ 
+ 
+
+5
+ 
+ 
+VI.
+ 
+Citation of Authority for Policy
+ 
+ 
+T.C.A. § 49
+-
+8
+-
+203(a)(1)(E); 
+State of Tennessee Acceptable Us
+e Policy Network 
+Access Rights and Obligations 
+ 
+ 
+ 
+Approved by:
+ 
+ 
+Information Technology Committee:  
+February 16
+, 2017 
+ 
+ 
+University Assembly
+:  April 19, 
+2017
+ 
+

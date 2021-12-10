@@ -1,0 +1,120 @@
+
+Purpose and Scope The information systems of Northeastern University are intended for the use of authorized members of the community in the conduct of their academic and administrative work.
+information systems consist of all networking, computing and telecommunications wiring, equipment, networks, security devices, passwords, servers, computer systems, computers, computer laboratory equipment, workstations, Internet connection(s), cable television plant, university-owned mobile communications devices and all other intermediary equipment, services and facilities.
+These assets are the property of the university.
+This Policy describes the terms and conditions of use for Northeastern information systems.
+This policy applies to any and all users of these resources both authorized and unauthorized.
+
+Definitions Personally Identifiable Information(P: Certain data defined in applicable laws of a state or country which can, separately or in combination, identify an individual.
+also can be defined by university policy.
+Personal Data: Any information that can be used to directly or indirectly identify a person.
+Policy on Appropriate Use of Computer and Network Resources Page August 2, 2018 Sensitive Personal Data: Special categories of Personal Data including racial and ethnic origin, religion, sexual orientation, etc.
+that is subject to more stringent protection under some laws and regulations.
+Health Insurance Portability and Accountability Act(HIPAA): Federal law protecting and defining the appropriate use of PHI and medical records.
+For purposes of this Policy, includes the HITECH Act amendments to HIPAA.
+Virtual Private Network(VPN): Technology used for secure communication from a remote location to a network resource.
+A method of confirming a user's claimed identity by utilizing a combination of two or more pieces of evidence, usually something they know(e.g.
+a pin or password) in combination with something they have(e.g.
+a fingerprint or smartphone app).
+RESNet: The residential student network of Northeastern University.
+
+Policy User Rights and Responsibilities Sections GENERAL Part Assent to Terms of the Appropriate Use Policy By accessing and/or using university information systems, and/or by a usage agreement during sign-on to any university system, registration onto ResNet or any other equipment registration procedure, users assent to the Terms and Conditions of this Appropriate Use Policy.
+Part Access To and Use of Systems/Normal Duration of Service Access to and use of Northeastern information systems are privileges granted by the university to faculty, staff, students and authorized third parties.
+Additional electronic experiences as may be offered to parents and extended populations are included under the provisions of this paragraph.
+Access for up to one(1) academic or calendar year for others, including "sponsored" individuals whose relationship with
+Policy on Appropriate Use of Computer and Network Resources Page August 2, 2018 Northeastern is a result of a university-recognized affiliation or relationship must be approved by the authorizing unit.
+The sponsoring department, lab or business office is solely responsible for transactions conducted using the credentials assigned to individuals whom they sponsor.
+The sponsoring department, lab or business office shall terminate the sponsored account(s) when an individual they have sponsored leaves their supervision, is no longer qualified by role/responsibility or no longer has a legitimate need to access Northeastern systems and data.
+The university retains sole discretion over the extent to which access privileges are granted, extended and/or revoked.
+Part Use of Computer Accounts and Facilities Members of the Northeastern community may use only the computer accounts and facilities authorized by the university for their use.
+Use of another person's account, identity, security devices/tokens, or presentment of false or misleading information or credentials, or unauthorized use of information systems/services is prohibited.
+Part Users Responsible for Actions Conducted Under their User ID(s) Users are responsible for all use of information systems conducted under their user ID(s), and are expected to take all precautions including password security and file protection measures to prevent use of their accounts and files by unauthorized persons/entities.
+Sharing of passwords or other access tokens with others is prohibited.
+Part Duties When Speaking in Electronic Communications Speakers are expected to make clear when they are not representing the university in their electronic communications.
+Part Posting of Personal Information/Web Pages/Other Electronic Writings Users are responsible for the timeliness, accuracy and content/consequences of their personal information, web pages and other electronic writings.
+Personal information
+Policy on Appropriate Use of Computer and Network Resources Page August 2, 2018 of members of the Northeastern community, including but not limited to students, faculty and staff, may not be posted or maintained on public networks or sites, unless the user fully complies with applicable laws, regulations, and university policies governing handling of personal information.
+Part Use of University-Recognized Messaging Systems Electronic messages pertaining to the official business of the university, including all academic and administrative matters shall be sent from university-owned or university-recognized messaging systems.
+For example, inquiries about students must be sent from an account associated with a university-recognized e-mail system.
+Replies from faculty or staff must be sent using the same university-recognized accounts.
+If unrecognized third-party messaging systems are used to originate a message, and/or if a party forwards messages from a university-owned or university-recognized system to a third-party unrecognized system, the individuals using these systems shall be solely responsible for all consequences arising from such use.
+Part Use of University Systems to Host Non-University Activities Use of university information systems for hosting non-university activities must have the explicit written authorization of the Office of the Provost or its designee.
+Part Commercial Use University information systems may not be used for commercial purposes except only as permitted with the explicit prior written approval of the Offices of the Provost and General Counsel.
+Part 10 Offering, Providing, Lending or Renting Access to University Systems Users may not offer, provide, lend, rent or sell access to university information systems or networks.
+Users may not provide access to individuals outside the university community.
+Expansion or redistribution of Northeastern's cable television services is not permitted.
+Expansion of centrally-managed administrative network segments and connection of personal, private or departmental switches,
+Policy on Appropriate Use of Computer and Network Resources Page August 2, 2018 routers, wireless access points or DHCP-serving devices is prohibited, except as may be agreed to in writing between the device owner and the university's Office of Information Security.
+Connection of personal or privately-owned routers and/or wireless access points to the ResNet wired networks is prohibited.
+Northeastern reserves the right to reconfigure or disable the network port(s) of any user whose activity interferes with NUNet, ResNet, NUwave or any other university-provided system or service, for example, to address a misconfigured device or a computer infected with virus/malware.
+For security reasons, dial-up modems shall not be used on computers while they are connected to the university network.
+The VPN(Virtual Private Network) shall instead be used.
+Boston: http://www.level3.com/en/security-law-enforcement-and-acceptable-use-policy/acceptable-use-policy/ http://www.cogentco.com/en/acceptable-use-policy https://www.xfinity.com/corporate/customers/policies/highspeedinternetaup Charlotte: http://www.level3.com/en/security-law-enforcement-and-acceptable-use-policy/acceptable-use-policy/ https://business.spectrum.com/newterms Seattle: http://www.level3.com/en/security-law-enforcement-and-acceptable-use-policy/acceptable-use-policy/ https://www.xfinity.com/corporate/customers/policies/highspeedinternetaup
+Policy on Appropriate Use of Computer and Network Resources Page August 2, 2018 San Jose: http://www.level3.com/en/security-law-enforcement-and-acceptable-use-policy/acceptable-use-policy/ https://www.xfinity.com/corporate/customers/policies/highspeedinternetaup Toronto: https://www.beanfield.com/aup http://www.rogers.com/cms/pdf/en/Unified_AUP_Eng.pdf Part 12 Use of Remote Resources Users may not connect to remote resources such as printer, file systems, or any other remote resource, regardless of location on or off the Northeastern network, unless the administrator of the remote resource has first granted permission to do
+Faculty and staff must use the Virtual Private Network(VPN) for remote access to the university's electronic resources.
+The university reserves and intends to exercise its right to determine: who may use the VPN, from what locations the VPN may be accessed, what services and experiences are offered through the VPN, the extent of individual access rights when using the VPN, to limit or block connections not originating from the VPN, and to assess and approve other secure connection methods.
+Exceptions to this policy provision may be made for vendors and affiliates who maintain private connections to the university network.
+All users establishing a connection to the university network through the VPN are required to use multi-factor authentication(MFA).
+Users connecting to the network through VPN or by any other means are responsible to ensure antivirus software is
+Policy on Appropriate Use of Computer and Network Resources Page August 2, 2018 present on their computer, and that its protection signatures are up to date.
+For more information on use of the VPN, MFA, or antivirus software, please refer to the Information Services website.
+Part 13 Irresponsible/Wasteful Use Users may not use information systems irresponsibly, wastefully, or in a manner that adversely affects the work or equipment of others at Northeastern or on the Internet.
+Part 14 Specific Prohibitions on Use of Information Systems In addition to all of the requirements of this Policy, it is specifically prohibited to use Northeastern University information systems to: Harass, threaten, defame, slander or intimidate any individual or group; Generate and/or spread intolerant or hateful material, which in the sole judgment of the university is directed against any individual or group, based on race, color, religious creed, genetic information, sex, gender identity, sexual orientation, age, national origin, ancestry, marital status, veteran or disability status; Transmit or make accessible material, which in the sole judgment of the university is offensive, violent, pornographic, annoying or harassing, including use of Northeastern information systems to access and/or distribute obscene or sexually explicit material unrelated to university sanctioned work or bona fide scholarship; Generate unsolicited electronic mail such as chain messages, unsolicited job applications, commercial announcements, or other communications inconsistent with or in violation of university policy; Generate falsely -identified messages or content, including use of forged content of any description; Transmit or make accessible password information; Attempt to access and/or access information systems and/or resources for which authority has not been explicitly granted by the system owner(s); Capture, decipher or record user IDs, passwords, or keystrokes; Manipulate or tamper with uniform resource locators(URLs);
+Policy on Appropriate Use of Computer and Network Resources Page August 2, 2018 Intercept electronic communications of any kind; Probe by any means the security mechanisms of any resource on the Northeastern network, or on any other network through a connection to the Northeastern network; Disclose or publish by any means the means to defeat or disable the security mechanisms of any component of a Northeastern University Information System or network; Alter, degrade, damage or destroy data without authorization; Knowingly transmit computer viruses or malicious/destructive code of any description; Conduct illegal, deceptive or fraudulent activity; Obtain, use or retransmit copyrighted information without permission of the copyright holder; Place bets, wagers or operate games of chance; Use university resources for financial gain.
+This includes, but is not limited, to bitcoin mining; or Tax, overload, impede, interfere with, damage or degrade the normal functionality, performance or integrity of any device, service or function of Northeastern information systems, content, components, or the resources of any other electronic system, network, service or property of another party, corporation, institution or organization.
+The above enumeration is not all-inclusive.
+If there is a question as to whether a specific use is appropriate or acceptable under this policy, users are responsible for obtaining clarification from the Office of Information Security and the university's sole determination shall prevail.
+UNIVERSITY RIGHTS AND RESPONSIBILITIES SECTIONS Part 15 General Rights of the University To protect Northeastern information systems against unauthorized or improper use, and to protect authorized users from the effects of unauthorized or improper usage, the university has the right with or without notice, to monitor, record, limit or restrict
+Policy on Appropriate Use of Computer and Network Resources Page August 2, 2018 any user account, access and/or usage of account.
+The university may also monitor, record, inspect, copy, remove or otherwise alter any data, file, or system resources in its sole discretion.
+The university further has the right to periodically inspect systems and take any other actions necessary to protect its information systems.
+The university also has access rights to all files and electronic mail on its information systems.
+Anyone using these systems expressly consents to such oversight.
+Part 16 Right to Seize/Inspect University-Owned Computing Devices The university reserves the right at any time, with or without prior notice or permission from the user or users of a computer or other university-owned computing device, to seize such device and/or copy or have copied, any and all information from the data storage mechanisms of such device as may be required in the sole discretion of the university in connection with investigations of possible wrongdoing or legal action.
+In addition to the foregoing, privately owned devices connected to the university network are also subject to inspection by authorized university personnel.
+Part 17 Right to Block Content The university reserves the right to reject from the network or block electronic communications and content deemed not to be in compliance with this or other policies governing use of university information systems.
+Part 18 Right to Disclosure Information The university may disclose information, including pursuant to an internal or external investigation of alleged misconduct or wrongdoing, and may provide information to third parties, including law enforcement.
+By accessing Northeastern information systems, users give Northeastern permission to conduct each of the operations described above.
+Policy on Appropriate Use of Computer and Network Resources Page 10 August 2, 2018 The university reserves the right to use, and intends to use manual and/or automated means to assess materials submitted as academic work for indications of plagiarism or other form(s) of academic dishonesty.
+Part 20 Actions to be Taken When a Policy Violation is Identified When a potential violation is identified, the appropriate system manager or unit head, the Office of Information Security, and any other university employees or agents as are deemed appropriate, are authorized to investigate and initiate action in accordance with university policy.
+Repeated violations may result in suspension or termination of service(s).
+In addition, the university may require restitution for any use of information systems that violates this policy.
+The university may also provide evidence of possible illegal or criminal activity to law enforcement authorities.
+Part 21 Consequences of Policy Violation Any unauthorized, inappropriate, illegal or illegitimate use of the university's information systems, or failure to comply with this policy shall constitute a violation of university policy and will subject the violator to disciplinary action by the university up to and including separation of employment or relationship, and may result in legal action.
+Part 22 Termination of Access to University Systems and Services Notwithstanding any other provision of this policy, authorization to access the information systems and resources of Northeastern University ends at the termination of employment, end of a recognized role or relationship, or loss of sponsorship.
+Policy on Appropriate Use of Computer and Network Resources Page 11 August 2, 2018 Right of University to Monitor Content University information systems and the messages, e-mail, files, attachments, graphics, official university social media accounts and Internet traffic generated through or within these systems are the property of the university.
+They are not the private property of any university employee, faculty, staff, contractor, student or any other person.
+No user of university systems should have an expectation of privacy in their electronic communications.
+All electronic communications, files and content presented to and/or passed on the Northeastern network, including those to, from or through Internet connection(s), may be monitored, examined, saved, read, transcribed, stored or re-transmitted by an authorized employee or agent of the university, in its sole discretion, with or without prior notice to the user.
+The university reserves and intends to exercise the right to do
+Electronic communications and content may also be examined by automated means.
+Part 24 Confidentiality of Content The confidentiality of any content shall not be assumed.
+Even when a message or material is deleted, it may still be possible to retrieve and read the message or material.
+Further, use of passwords for security does not guarantee confidentiality.
+Messages read in HTML may identify the reader to the sender.
+Aside from the right of the university to retrieve and read any electronic communications or content, such messages or materials must be treated as confidential by other students or employees and accessed only by the intended recipient.
+Without prior authorization, no person is permitted to retrieve or read electronic mail messages not sent to them.
+Part 25 Responsibility to Maintain Confidentiality Notwithstanding the university's right to audit or monitor its information systems, all users are required to observe the confidentiality and privacy of others' information accessed through Northeastern information systems and records of every description, including information pertaining to university programs, students, faculty, staff and affiliates.
+Without proper authorization, users are not permitted to retrieve or read content not intentionally addressed to them.
+With proper authorization, the contents of electronic mail or Internet messages or materials may be accessed, monitored, read or disclosed to others within the university or otherwise.
+Policy on Appropriate Use of Computer and Network Resources Page 12 August 2, 2018 Part 26 Electronic Privacy Rights The electronic privacy rights of others shall be respected at all times.
+Use of audio, video, cell phone, or related technologies, for the purpose of capturing images and/or recording speech in locations or circumstances where a reasonable expectation of privacy exists is prohibited without the consent of the subject(s) depicted and/or recorded.
+This provision shall not apply to lawful surveillance conducted by law enforcement agencies.
+The university reserves the right to impose additional restrictions on use of electronic recording devices, in its sole discretion.
+Questions about the applicability of this provision to a particular situation shall be referred to the Office of General Counsel or the Chief Information Security Officer.
+Part 27 Handling of Sensitive Information Disposal of Data and Storage Media Printed materials, computer equipment and storage media containing sensitive and/or protected information shall be handled in accordance with current university guidance on disposition of electronic records and information and hazardous materials regulations.
+Additional information on these topics is available from the Information Services website(https://www.northeastern.edu/secureNU, and https://www.northeastern.edu/ehs/) Part 28 No Guarantee of Protection Against Unauthorized Access Prohibition on Accessing/Moving Data Belonging to Another Accountholder While the university attempts to protect electronic communication and files from unauthorized access, this cannot be guaranteed.
+Users may not access, copy or move files including, but not limited to programs, data and electronic mail belonging to another account, without appropriate authorization.
+Files may not be moved to other computer sites without permission from the accountholder whose account under which the files reside.
+Policy on Appropriate Use of Computer and Network Resources Page 13 August 2, 2018 Concerning Use, Dissemination and Disclosures of Information The university strives to maintain the security and privacy of electronic communications.
+Use of Northeastern University information systems or resources, dissemination, and disclosures of information, must comply with the provisions of applicable local, state and federal laws, regulation and university policy.
+A list of many of the relevant laws, regulations and policies can be found here.
+For additional guidance, please contact the Office of the General Counsel and/or the Office of Information Security.
+Part 30 Lawful Use Northeastern information systems may be used for lawful purposes only.
+It is prohibited to use Northeastern information systems for unlawful purposes, including, but not limited to the installation of fraudulently or illegally obtained or harmful software, illegal dissemination of licensed software, sharing of content where the disseminator does not hold lawful intellectual property rights, propagating chain messages, pyramid or other unlawful or deceptive schemes, or any purpose contrary to local, state, federal law or university policy.
+Part 31 Compliance with Copyright Law Use of university information systems must comply with provisions of copyright law and fair use.
+Copyright law limits the rights of a user to decrypt, copy, edit, transmit or retransmit another's intellectual property, including written materials, images, sounds, music, and performances, even in an educational context, without permission, except where such use is in compliance with Fair Use or TEACH Act provisions.
+Part 32 Compliance with Export Control Regulations Exports of computing equipment and information technologies from the university, including hand-carrying, must be in compliance with US Export Control Regulations.
+Additional Information NOTICE OF RIGHT TO CHANGE APPROPRIATE USE POLICY The University reserves the right to change this policy or any portion of the policy, at any time, with or without prior notice.
+Changes to this policy are effective upon posting at http://www.northeastern.edu/policies/.
+Contact Information ois@northeastern.edu www.northeastern.edu/SecureNU

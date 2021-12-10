@@ -1,0 +1,978 @@
+HSC
+EP O
+P 56.
+01
+ 
+Page 
+1
+ 
+of 5
+ 
+February 22, 2017
+ 
+Rev. 
+May 2, 2019
+ 
+TEXAS TECH UNIVERSITY HEALTH SCIENCES CENTER EL PASO
+ 
+ 
+Operating Policy and Procedure
+ 
+ 
+ 
+ 
+HSCEP OP: 
+ 
+56.01,
+ 
+Acceptable
+ 
+Use of Information Technology Resources 
+ 
+ 
+PURPOSE: 
+ 
+The purpose of this 
+Texas Tech University Health Siecnces Center El Paso (TTUHSC El 
+Paso) 
+Operating Policy and Procedure 
+(HSCEP OP) 
+is to provide policy requirements for 
+the use of Information Technology (IT) resources and associated data within 
+TTUHSC El 
+Paso
+. This policy outlines general compliance instructions
+ 
+and responsibilities for the use 
+of information technology resources. Detailed policy information
+ 
+and a comprehensive set 
+of IT policies
+ 
+is located at
+ 
+the IT homepage under the policies link
+, which is adopted by 
+reference in this 
+HSCEP OP
+.
+ 
+ 
+This policy governs the use of 
+IT
+ 
+resources by students, faculty, staff and authorized 
+users within TTUHSC El Paso. 
+ 
+ 
+REVIEW: 
+ 
+This 
+HSCEP OP
+ 
+will be reviewed in February of each odd
+-
+numbered year (ONY) by the 
+c
+hief 
+i
+nformation 
+o
+fficer (CIO). 
+ 
+ 
+POLICY/PROCEDURE:
+ 
+ 
+I.
+ 
+General
+ 
+ 
+A.
+ 
+Information Resources (
+IR
+)
+ 
+procured with 
+TTUHSC El Paso
+ 
+funds 
+are owned by the 
+State of Texas and administered by the IT 
+Department
+. 
+TTUHSC El Paso
+ 
+IR are provided 
+for the express purpose of conducting the business of 
+TTUHSC El Paso
+. However, 
+incidental use of IR is permitted for official duties as permitted by this 
+policy.
+ 
+ 
+B.
+ 
+Users of state property and those working on behalf of the institution have no expectation 
+of privacy regarding information created, sent, received, or stored on institution
+-
+owned 
+computers, servers, or other information resources owned by, or hel
+d on behalf of 
+TTUHSC El Paso.
+ 
+ 
+ 
+C.
+ 
+Users
+ 
+have no expectation of privacy for institutional data residing on personally owned 
+devices, regardless of why the data was placed on the personal device.
+ 
+TTUHSC 
+El 
+Paso 
+may monitor its IR without notice.
+ 
+ 
+D.
+ 
+TTUHSC El Pa
+so
+ 
+has the right to disclose the contents of electronic files when required 
+by legal purposes; audit purposes; or legitimate federal, state, local, or institutional 
+purposes.
+ 
+ 
+E.
+ 
+Users are responsible for managing their use of IR and are accountable for their
+ 
+actions 
+relating to IT security policies and procedures and are required to comply with 
+institutional IR use and security policies at all times.
+ 
+ 
+ 
+F.
+ 
+TTUHSC El Paso
+ 
+may temporarily or permanently revoke access, privileges, and/or use 
+of IR at any time for ab
+usive conduct or policy violations.
+ 
+ 
+ 
+G.
+ 
+Use of 
+IR
+ 
+to deprive access to individuals otherwise entitled to access 
+institutional 
+i
+nformation, to interfere with the fair use of IR by others, to circumvent 
+institutional 
+computer security measures; or, in any way that is contrary to the 
+TTUHSC El Paso
+
+mission(s) or applicable law is prohibited.
+ 
+
+HSC
+EP O
+P 56.
+01
+ 
+Page 
+2
+ 
+of 5
+ 
+February 22, 2017
+ 
+Rev. 
+May 2, 2019
+ 
+ 
+H.
+ 
+Incidental use must not interfere with the normal performance of an employee's job 
+duties.
+ 
+ 
+I.
+ 
+Use of 
+TTUHSC El Paso
+ 
+IR 
+to intentionally access, create, store, or transmit sexually 
+explicit materials is prohibited unless such use is required as part of the 
+u
+
+duties and is approved in writing by the 
+p
+resident
+ 
+or a specific designee. V
+iewing, access 
+to, storage or transmission of sexually explicit materials as 
+i
+ncidental 
+u
+se is prohibited.
+ 
+ 
+ 
+J.
+ 
+All messages published as representative of TTUHSC El Paso must be approved by 
+TTUHSC El Paso prior to public communication.
+ 
+ 
+K.
+ 
+Users 
+are required 
+to 
+report misuse of 
+IR
+ 
+or violations of this policy to 
+the 
+TTUHSC El 
+Paso
+ 
+i
+nformation 
+s
+ecurity
+ 
+o
+fficer
+ 
+(ISO)
+.
+ 
+ 
+ 
+L.
+ 
+All products
+ 
+and information
+ 
+created on Institutional property belong to the 
+i
+nstitution.
+ 
+These products shall be 
+
+ 
+the 
+Board of 
+Regents Rules and Regulations, Chapter 10
+-
+Intellectual Property Rights.
+ 
+ 
+II.
+ 
+Privileged Users
+ 
+ 
+A.
+ 
+All
+ 
+personnel with elevated privileges 
+pose a higher risk to the institution than a standard 
+user.
+ 
+A
+s such, 
+privileged users
+ 
+have 
+greater 
+responsibilities to ensure the secure 
+operation of any TTUHSC El Paso system
+, and are held to a higher standard in regards 
+to disciplinary action.
+ 
+ 
+III.
+ 
+Confidentiality and Security of Data
+ 
+ 
+A.
+ 
+Users may use only the IR to which they have been given authorized access and only for 
+the capacity to conduct official business for which the user is employed. 
+ 
+ 
+B.
+ 
+Users must not attempt to access any data or programs for which they do not have 
+authorizatio
+n or explicit consent to access.
+ 
+Access only information that is your own, that 
+is publicly available, or to which you have been given authorized access.
+ 
+ 
+C.
+ 
+Users must not disclose or share confidential information, except as required by law, 
+authorized by o
+fficial duties, and with formal agreements that ensure third parties will 
+adequately protect it.
+ 
+ 
+D.
+ 
+Whenever feasible, 
+u
+sers shall store 
+c
+onfidential 
+i
+nformation or other information 
+essential to the mission of 
+TTUHSC El Paso
+ 
+on a centrally managed server, rather than a 
+local hard drive or portable device. 
+ 
+ 
+E.
+ 
+Users should not store confidential data on mobile devices without proper authorization
+;
+ 
+however, 
+i
+n cases when a user must create or store 
+c
+onfidential or essential info
+rmation 
+on a portable device such as a laptop computer, tablet computer, or, smart phone, the 
+user must ensure the data is encrypted in accordance with applicable information security 
+data handling 
+requirements.
+ 
+The same security requirements apply to stor
+age on local 
+hard drives as well.
+ 
+ 
+F.
+ 
+Users must not transport, transfer, email, remotely access, or download 
+non
+-
+public 
+information, unless such action is explicitly permitted by the manager or owner of such 
+information.
+ 
+ 
+G.
+ 
+Users are responsible for understanding 
+TTUHSC El Paso
+ 
+data handling requirements, 
+and ensuring their data handling and usage is in compliance at all times. 
+ 
+
+HSC
+EP O
+P 56.
+01
+ 
+Page 
+3
+ 
+of 5
+ 
+February 22, 2017
+ 
+Rev. 
+May 2, 2019
+ 
+ 
+H.
+ 
+Email sent to and received from 
+i
+nstitutionally provided email accounts is automatically 
+encrypt
+ed
+ 
+in transit
+. The 
+IT 
+Department
+ 
+will provide tools and processes for 
+u
+sers to send 
+encrypted data over unsecured networks to and from other locations.
+ 
+ 
+ 
+I.
+ 
+Users must not Intentionally acquire, use, reproduce, transmit, or distribute 
+any controlled 
+information including computer software and data that includes information subject to the 
+Privacy Act, copyrighted, trademarked or material with other intellectual property rights 
+(beyond fair use), proprietary data, or export controlled sof
+tware or data.
+ 
+ 
+J.
+ 
+Any computers 
+on the TTUHSC El Paso network 
+using unapproved peer
+-
+to
+-
+peer 
+applications
+
+mission and vision,
+ 
+are subject to removal 
+from the network until the application is 
+removed or disabled.
+ 
+ 
+ 
+K.
+ 
+Students, faculty, and staff must 
+not 
+use the guest wireless if they use their personally 
+owned computers to connect to the 
+TTUHSC El Paso
+ 
+network. Non
+-
+TTUHSC El Paso
+ 
+devices that connect to 
+the 
+TTUHSC El Paso
+ 
+guest 
+network may be disconnected 
+without notice by the ISO. 
+ 
+ 
+L.
+ 
+All remote access to networks owned or managed by TTUHSC El Paso must be 
+accomplished using a remote access method approved by
+ 
+IT Security 
+and comply with 
+IT 
+Security
+ 
+policie
+s.
+ 
+ 
+M.
+ 
+All computers connecting to a 
+TTUHSC El Paso
+ 
+network remotely, must run security 
+software 
+approved 
+by the Information Security Officer to properly secure 
+Institutional 
+Resources.
+ 
+ 
+ 
+N.
+ 
+Users who store institutional Data using commercial cloud services must use only those 
+services provided or sanctioned by 
+TTUHSC El Paso
+, rather than personally obtained 
+cloud services.
+ 
+ 
+ 
+O.
+ 
+A user must not download, install, modify software or run security p
+rograms or utilities 
+that reveal or exploit weaknesses in the security of a system unless the individual user 
+has explicit written consent from the institution's ISO. 
+ 
+ 
+P.
+ 
+Users must not use security programs or utilities except 
+those
+ 
+programs 
+that 
+are requir
+ed 
+to perform their official duties on behalf of institution
+,
+ 
+or those that information security 
+requires to be installed in order to access the 
+TTUHSC El Paso
+ 
+network and IR.
+ 
+ 
+Q.
+ 
+Devices 
+lacking
+ 
+required security software or otherwise pos
+ing
+ 
+a threat to 
+IR
+ 
+and 
+the 
+institution, may be immediately disconnected 
+from the
+ 
+network without notice.
+ 
+ 
+ 
+R.
+ 
+Intentionally running a program that attempts to violate the operational integrity of the 
+TTUHSC El Paso
+ 
+network or intentionally circumvent or disrupt information security in 
+any way
+ 
+is prohibited
+.
+ 
+ 
+IV.
+ 
+Email
+ 
+ 
+A.
+ 
+Use of organization
+-
+provided IT resources for 
+personal 
+commercial purposes, in support 
+
+-
+
+employment or business activity is 
+prohibited.
+ 
+ 
+B.
+ 
+Emails sent or received in the course of conducting 
+i
+nstitutional business are subject to 
+state records retention and security requirements.
+ 
+ 
+
+HSC
+EP O
+P 56.
+01
+ 
+Page 
+4
+ 
+of 5
+ 
+February 22, 2017
+ 
+Rev. 
+May 2, 2019
+ 
+C.
+ 
+Users are to use institutional provided email accounts, rather than personal email 
+accounts, for conducting 
+official
+ 
+business.
+ 
+ 
+D.
+ 
+The following email activities are prohibited when using an 
+i
+nstitutional provided email 
+account:
+ 
+ 
+1.
+ 
+Sending an email under anoth
+
+ 
+ 
+2.
+ 
+Accessing the content of another 
+u
+ser's email account except: 1) as part of an 
+authorized investigation; 2) as part of an approved
+ 
+monitoring process; or 3) for 
+other
+ 
+purposes specifically associated with the 
+u
+
+TTUHSC El Paso
+.
+ 
+ 
+3.
+ 
+Sending or forwarding any email that is unauthorized mass mailing or suspected 
+by the user to contain computer viruses.
+ 
+ 
+4.
+ 
+Forwarding 
+your 
+TTUHSC El Paso
+ 
+email to 
+your
+ 
+personal email account
+, or 
+creating r
+ules to automatically forward emails to a personal account or cloud 
+storage.
+ 
+ 
+5.
+ 
+Copying institutional emails to a personal device.
+ 
+ 
+E.
+ 
+Any 
+i
+ncidental 
+u
+se prohibited by this policy.
+ 
+ 
+V.
+ 
+Incidental Use of Information Resources
+ 
+ 
+A.
+ 
+Incidental 
+u
+se of 
+IR
+ 
+
+in direct or indirect costs to 
+TTUHSC El Paso
+, expose the institution to unnecessary risks, 
+or violate applicable laws or other 
+Institutional
+ 
+policy.
+ 
+ 
+B.
+ 
+Users must understand
+ 
+that they have no expectation of privacy in any personal 
+information stored
+ 
+or created
+ 
+on 
+an 
+IR
+.
+ 
+ 
+C.
+ 
+
+members or other acquaintances regardless of physical
+ 
+location. Employees and 
+students must not allow family members or other non
+-
+employees to access 
+TTUHSC El 
+Paso
+ 
+IR
+.
+ 
+ 
+D.
+ 
+Incidental 
+u
+
+-
+employment, 
+outside fundraising, endorsing 
+any product or service, for partisan political purpose, 
+lobbying, or campaigning is prohibited.
+ 
+ 
+E.
+ 
+Using institutional IR to store personal email messages, voice messages, files, and 
+documents 
+may result in removal
+ 
+without notice or consent.
+ 
+ 
+F.
+ 
+All messages, files, and documents
+
+ 
+including personal messages, files, and 
+documents
+
+ 
+located on institutional IR are owned by the institution and may be subject 
+to open records requests and may be accessed in accordance with this policy.
+ 
+ 
+G.
+ 
+Files not relat
+ed to System business may not be stored on network file servers.
+ 
+ 
+VI.
+ 
+Portable and Remote Computing
+ 
+ 
+A.
+ 
+All electronic devices including personal computers, smart phones or other devices used 
+to access, create or store 
+IR
+ 
+must be password protected in accordance with 
+i
+nformation 
+s
+ecurity requirements.
+ 
+
+HSC
+EP O
+P 56.
+01
+ 
+Page 
+5
+ 
+of 5
+ 
+February 22, 2017
+ 
+Rev. 
+May 2, 2019
+ 
+ 
+B.
+ 
+Data created or stored on 
+u
+
+in data bases that are not part of
+ 
+TTUHSC El Paso
+
+IR 
+are 
+subject to Public Information 
+Requests, subpoenas, court orders, litigation holds, discovery requests and other 
+requirements applicable to institutional information resources.
+ 
+ 
+C.
+ 
+Institution
+-
+owned mobile computing devices must be encrypted.
+ 
+ 
+D.
+ 
+Any personally o
+wned computing devices on which 
+non
+-
+public 
+institutional data is stored 
+or created must be encrypted.
+ 
+ 
+E.
+ 
+Institutional data created and/or stored on personal computers, other devices and/or non
+-
+institutional
+ 
+data bases should be transferred to institution
+-
+ow
+ned 
+IR
+ 
+as soon as feasible.
+ 
+ 
+ 
+F.
+ 
+Unattended portable computers, smart phones and other computing devices must be 
+physically secured.
+ 
+M
+ethods to secure institutional resources include but are not limited 
+to: 
+ 
+ 
+1.
+ 
+L
+ogging off or locking 
+systems when leaving them unattended,
+ 
+ 
+2.
+ 
+Securing sensitive information (on paper and in electronic formats) when left 
+unattended, and 
+ 
+ 
+3.
+ 
+Keeping sensitive information out of sight when visitors are present.
+ 
+ 
+VII.
+ 
+Authentication Management
+ 
+ 
+A.
+ 
+Passwords, including 
+digital certificate passwords, Personal Identification Numbers (PIN), 
+Digital Certificates, Security Tokens (i.e. Smartcard), or similar information or devices 
+used for identification and authorization purposes shall be maintained securely and shall 
+not
+ 
+be
+ 
+shared or disclosed to anyone.
+ 
+All authentication mechanisms must be approved 
+by TTUHSC
+ 
+El Paso
+ 
+IT Security.
+ 
+ 
+B.
+ 
+Each User is responsible for all activities conducted 
+with 
+
+authentication 
+credentials
+. 
+ 
+ 
+VIII.
+ 
+Disciplinary Repercussions
+/Sanctions
+ 
+ 
+A.
+ 
+Misuse of 
+TTUHSC El Paso
+ 
+IR is a violation of the policies contained herein and will 
+result in disciplinary action in accordance with 
+HSCEP OP's 
+70.31
+ 
+and
+ 
+77.05
+ 
+as well as 
+the Student Affairs Handbook.
+ 
+Users of 
+IR
+ 
+are also subject to 
+5
+6.50 
+IT Sanctions policy
+ 
+(SN),
+ 
+for failure to adhere to IT Security policies and procedures.
+ 
+ 
+ 
+All other IT Policies can be found at 
+https://elpaso.ttuhsc.edu/it/policies/
+ 
+ 
+

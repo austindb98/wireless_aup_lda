@@ -1,0 +1,131 @@
+Each person may use only those computing and information technology resources for which he or she has authorization.
+See examples Examples of violations include, but are not limited to: asking another person for individual account passwords or attempting to obtain such passwords by any means using resources without authorization sharing university accounts with other persons without authorization accessing files, databases, data or processes without authorization using former system and access privileges without authorization after association with the university has ended.
+accordion-panel end.accordion
+Computing and information technology resources must be used in a manner that respects the privacy and rights of others.
+See examples Examples of violations include, but are not limited to: accessing, attempting to access, or copying someone else s electronic mail, data, programs, or other files without authorization divulging sensitive, personal information without a valid business or academic reason developing or using programs that may cause problems or disrupt services for other users misrepresenting another user s identity in any electronic communication(e.g., forging an e-mail address) using electronic resources for deceiving, harassing or stalking other individuals sending threats, hoax messages, chain letters, or phishing intercepting, monitoring, or retrieving any network communication without authorization.
+accordion-panel end.accordion
+The access to and integrity of computing and information technology resources must be protected.
+See examples Examples of violations include, but are not limited to: sharing passwords purposefully propagating computer malware such as computer viruses, worms or Trojan Horses, except under secure conditions for research or teaching purposes preventing others from accessing an authorized service degrading or attempting to degrade performance or deny service corrupting information altering or destroying information without authorization making university systems and resources available to those not affiliated with the university installing hacking or vulnerability tools in university systems without authorization circumventing or attempting to circumvent security mechanisms without authorization.
+accordion-panel end.accordion
+Applicable laws and university policies must be followed.
+See examples Examples of violations include, but are not limited to: uploading, downloading, distributing or possessing material deemed illegal under US and state laws, such as child pornography or classified information using university computing or network resources for advertising, partisan political activities or commercial purposes(see the exception for UNLV Student elections, which are governed by CSUN policy in Section 1.
+Partisan Political Activity and the definition of political activity from the NAC 284.770, both referenced in the Related Documents section) making unauthorized copies of licensed software downloading, using or distributing illegally obtained media(e.g., software, music, movies) using the campus network, whether on a UNLV-issued computer or not accessing, storing or transmitting sensitive, personal information without a valid business or academic reason, or outside the parameters of limited personal use transmitting sensitive, personal information without using appropriate security protocols(NRS 603A).
+accordion-panel end.accordion
+Limited personal or non-university use of UNLV computing and information technology resources is allowable only if ALL of the following conditions are met: the use does not interfere with an employee s duties the cost and value related to use is nominal the use does not create the appearance of impropriety or UNLV endorsement the use is otherwise consistent with this policy.
+Policy Context UNLV s computing and information technology resources are dedicated to the support of the university s mission and its core themes to promote student learning and success, advance and support research scholarship, and creative activity, and foster inclusion and community engagement.
+While advancing the mission and core themes, UNLV respects, upholds, and endeavors to safeguard the principles of academic freedom, freedom of expression, and freedom of inquiry.
+UNLV s commitment to the principles of academic freedom and freedom of expression includes electronic information.
+The use of computing and information technology resources in a manner consistent with the mission and ideals of the university and with the Nevada System of Higher Education(NSHE) Computing Resources Policy requires adherence to legal statutes, approved policies, and responsible behavior, including: using only assigned account(s) or account information respecting the privacy and rights of other computer users protecting the integrity of the physical environments in which information technology equipment resides complying with all pertinent software license and contractual agreements, and obeying all UNLV and NSHE regulations, state and federal laws.
+UNLV seeks to create an atmosphere of privacy with respect to information and UNLV information technology resources.
+UNLV acknowledges its responsibilities to respect and advance free academic inquiry, free expression, reasonable expectations of privacy, due process, equal protection of the law, and legitimate claims of ownership of intellectual property.
+Such responsibilities are balanced with the acknowledgement that users should be aware that they should have no expectation of privacy in connection with the use of UNLV resources beyond the explicit provisions of university policy and applicable federal and state law(e.g., NRS Chapter 239, Public Records).
+UNLV is a public institution, and because the university must be able to respond to lawful requests and ensure the integrity and continuity of its operations, use of the university's information resources cannot be completely private.
+Information on university computers and equipment may be subject to legal discovery and disclosed: In response to lawfully executed court ordered warrants or subpoenas As a result of the Nevada Public Records Act( e.
+public records request) In response to federal Freedom of Information Act requests In litigation involving the university and/or university employees In criminal investigations or investigations of student or employee misconduct In university investigations in accordance with NSHE or university policy.
+When warranted, university staff are asked to assist in investigations and discovery and have direct responsibility for investigating and responding to some alleged offenses and incidents involving computing resources.
+accordion-panel end.accordion end.col end.row end.container Statement of Purpose The purpose of this policy is to: end.col Ensure that use of computing and information technology resources is consistent with the principles and values of the university including academic freedom, privacy, and security.
+Ensure that computing and information technology resources are used for the intended purposes and meet compliance requirements.
+Ensure the confidentiality, integrity, availability, reliability, and proper performance of computing and information technology resources.
+col end.row end.container Entities Affected by Policy end.col Entities affected by this policy include UNLV students and employees and anyone who accesses UNLV computing and/or information technology resources.
+col end.row end.container Who Should Read This Policy end.col UNLV students and employees and anyone who accesses UNLV computing and information technology resources should read this policy.
+col end.row end.container Exceptions end.col To request an exception, please complete the IT Policy Exception Form.
+Exception requests will be processed within 10 business days of receipt of the request.
+If an exception is created, the exception will be audited on an annual basis.
+The owner of the system or a listed designee must respond to the annual audit and verify that the exception is still required.
+Changes to the exception may only be requested by the system owner or a documented designee appointed by the owner.
+col end.row end.container Frequently Asked Questions Is it okay to keep my password on a sticky note and keep it near my computer as long as I do not share the note with anyone else?
+If your password is in clear sight or can be readily found by someone else, you are in violation of the clause in the Acceptable Use of Computing and Information Technology Resources Policy that says Each person may use only those computing and information technology resources for which he or she has authorization and the statement The access to and integrity of computing and information technology resources must be protected. Even if it not your intention to share the password, leaving the password where it can be seen by an another person is providing unauthorized access to a computing resource.
+accordion-panel Should I provide my username and password if asked to do so by someone from OIT?
+
+OIT staff will never ask for your password.
+It is a violation of university policy for an OIT staff member to ask you to disclose your password.
+If logging in under your username and password is required to make a change or troubleshoot a problem an OIT staff member will avert their eyes as you log in then assist you.
+Impersonating an IT staff person is a common ploy used by identity thieves to gain access to password-protected information.
+If an OIT staff member or someone claiming to work for OIT asks for your password, please decline to provide the information and call the IT Help Desk at ext.
+0777 or email ithelp@unl edu to report the incident.
+accordion-panel What happens if I violate the policy?
+The normal processes: For students - It is a violation of the UNLV Student Conduct Code to engage in actions that are contrary to university policy.
+Violations of provisions in the Acceptable Use Policy would be considered a Student Conduct Code violation and would be handled in accordance with the procedures outlined in the Student Conduct Code and overseen by the Office of Student Conduct.
+More details about those procedures are available at: http://studentconduct.unl edu/students/ For academic and administrative faculty - It is a violation of the Standards of Conduct contained in Title 2, Chapter 6, Section 2.2 of the Nevada System of Higher Education(NSHE) Code to engage in actions that are contrary to university policy.
+Violations of provisions in the Acceptable Use Policy would be considered a violation of the Standards of Conduct and would be handled in accordance with the procedures outlined in Chapter of the NSHE Code and overseen by the Office of General Counsel.
+More details about those procedures are available at: https://www.unl edu/sites/default/files/24/HR-PDF- Chapter6Title2NSHECode.pdf For classified staff - It is a violation of the Prohibitions contained in the UNLV/ NSHE Prohibitions and Penalties:
+A Guide for Classified Staff document to engage in actions that are contrary to university policy.
+Violations of provisions in the Acceptable Use Policy would be considered prohibited activity and would be handled in accordance with procedures outlined in the Prohibitions and Penalties document and overseen the Office of Human Resources.
+More details about those procedures are available at: http://www.unl edu/hr/policies/disciplinary-action end.accordion-panel What if I deleted or corrupted information by mistake(unintentionally) In the event that information was deleted by mistake every effort should be made to retrieve the deleted information from available backup systems.
+In the event that information contained on a university system assigned to you was found to be corrupt an effort would be made to determine how the corruption occurred.
+If you were directly responsible for the corruption, you would be in violation of the policy.
+If the corruption was the result of malicious activity by someone not authorized to access the system(e.g., malware, computer virus), the system will be cleaned and protections put in place to prevent further incidents.
+If information that should not be deleted continues to be deleted or files continue to be corrupted, you will be provided instructions on how to prevent future occurrences.
+If the issues continue, your supervisor will be notified and asked to assist with prevention efforts.
+accordion-panel Can I allow someone who isn't a student at UNLV to use my ACE account to access a computer lab?
+
+You are not permitted to share either your UNLV identification card to assist another individual in gaining physical access the computer lab nor your ACE account login information to gain access to lab resources.
+UNLV computer labs are solely intended to support the academic computer needs of UNLV students.
+Use of UNLV computer labs is restricted to UNLV students with a valid UNLV identification card and ACE accounts are only to be used by the person to whom they are issued.
+Each student signing up for an ACE account accepted a formal agreement stating that they will not share their account with anyone else.
+accordion-panel My wife is not a student.
+Can I share my password with her so that she can look for a job while I'm in class?
+
+Only you are authorized to use your account with UNLV computing resources.
+Additionally, sharing your login information violates the university s Password Policy, which states that passwords must not be shared.
+https://oit.unl edu/about-oit/policies/password-policy end.accordion-panel In my networking class, we've been talking a lot about WireShark.
+Can I use it to "snoop" data on the school network?
+
+The use of network packet analyzers to intercept, monitor or retrieve any university network communications without authorization is not permitted.
+Policy Sec 2.g) end.accordion-panel Can I copy any of the applications on Macs so I can use them on my MacBook from home?
+
+Software should not be copied or transferred from a university computer.
+Please check the OIT Website for the list of free and discounted software and for instructions on how to obtain them.
+Policy Sec 4.c) end.accordion-panel Isn't it my own personal right if I choose to share and/or participate in music and movie sharing from on-campus, since I pay a fee to use the network resources.
+By using a resource, you are accepting the terms and conditions of using that resource, including any applicable policies.
+This instance not only potentially violates the Acceptable Use Policy, but it also the university Digital Media and Copyright Compliance Policy and federal law.
+Students, employees or other network users are responsible for knowing their legal rights for sharing files, including music, videos, pictures, books, etc., as both potential creators and/or distributors of such works.
+accordion-panel Why can't I give out my password to my coworkers because OIT is coming to work on my computer and I won't be in when they are here?
+Sharing passwords is a violation of the policy.
+Via the OIT Service Account and Active Directory installed on many computers, OIT technicians are able to work on a computer in the user s absence.
+If the user has disabled those accounts or the computer does not have the accounts, the user must be present for the computer to be repaired.
+Once the user is available and is able to log into the machine, OIT technicians will be able to work on the computer.
+accordion-panel I have a laptop with everyone's personally identifiable data on it that I use to work from home.
+Can I still have that data on my laptop?
+Sensitive, personal information(e.g., education, financial transactions, medical history, information that can be used to distinguish or trace the individual s identity) should be stored on and accessed only from a secure server.
+When not on campus, users should use the Virtual Private Network(VPN) to log into the server: https://oit.unl edu/vpn end.accordion-panel A classmate has access to an application and I don't.
+Who do I contact to gain access to the application in question?
+If the resource is specific to a class the best person to ask first is the instructor for the class.
+If they are unable to assist you, contact the IT Help Desk and submit a help request.
+The IT Help Desk will assign a specialist to your case and that individual will work with you directly to figure out what needs to be done to complete your request.
+accordion-panel If I use Rebelmail, which is a Google resource, are my emails subject to inspection by UNLV technology staff?
+First, UNLV staff will not inspect your email without a written request and authorization from the University President, the vice president or cabinet-level official(e.g., Athletic Director) in your reporting structure, the Director of Human Resources, General Counsel, or, in the case of students, the Director of the Office of Student Conduct.
+Authorization may be based on a criminal subpoena, civil litigation discovery, allegation of professional misconduct, or even a Freedom of Information Act request.
+It is important to understand that you have no reasonable expectation of privacy with respect to your University email.
+In the UNLV mail(unl edu) domain, UNLV will subscribe to Google Vault in order to support the above requests.
+Google Vault will store all incoming and outgoing mail even if immediately deleted and will provide a search engine to facilitate the discovery of relevant messages.
+Google Vault will not be purchased for Rebelmail.
+While the current contents of your Rebelmail account can be accessed by the University under the conditions listed above, accessing mail that has been deleted will require that Google honor a subpoena.
+accordion-panel I sometimes download copies of Freeware and Shareware.
+Is this allowed, as I have not really been authorized by anyone?
+As long you comply with OIT's Software Licensing Policy and abide by the software manufacturer's End User License Agreement(EULA), you are allowed to install freeware and/or shareware licensed software on UNLV owned computers.
+accordion-panel Can I store my work files in Google Drive or other Google Apps?
+As a customer of Google s Apps for Education, UNLV has entered into agreements with Google regarding the way they protect our data.
+These agreements ensure compliance with federal regulations such as FERPA and HIPAA when the data is used in conjunction with what Google defines as the core apps.
+Users should be aware that although they may have access to other Google services outside these core apps(e.g.
+these non-core apps are not approved for the storage or transmission of data protected by state or federal regulations.
+Also, federal Export Control Act prohibits the storage of some kinds of information, including some research findings, outside the borders of the United States.
+Google cannot guarantee where any file will be stored.
+Therefore, this type of data should not be stored in any Google App.
+accordion-panel Can I put my work files in other cloud storage providers, such as Dropbox, Box, or any of the other ones?
+A number of federal statutes govern the transmission and storage of data, including HIPAA, for healthcare data, FERPA for academic records, and the GLB act for financial data associated with student loans.
+Unless your department/unit has entered into a formal agreement covering protected data with any of these cloud storage providers, there is no guarantee that they will treat compliance protected data in a way that satisfies state or federal regulations.
+In addition, the federal Export Control Act prohibits the storage of some kinds of information, including some research findings, outside the borders of the United States.
+The majority of these services will not guarantee where any file will be stored.
+Data protected by any of the above legislation should not be stored in cloud services such as Dropbo
+OIT will work with you to provide file storage solutions that meet compliance requirements.
+If you have a need for this type of storage contact the IT Help Desk.
+accordion-panel I m one of the people responsible for maintaining a server/application/database.
+As a part of maintaining that service, there are administrative accounts/passwords that need to be shared within my group or among different groups/departments.
+Am I in violation of this policy?
+Administrative type accounts(these may be called Administrator, root, sys, etc.)
+that are used to maintain a service may be shared between the people who are responsible for maintaining that service.
+These types of accounts should ONLY be used to maintain the service as required and never when an individual account(privileged or non-privileged) can be used instead.
+OIT recommends using an enterprise password vault to share these types of accounts and provides this service for groups who need to share administrative accounts.
+This service allows system owners to audit who has viewed the passwords and control who has access to them.
+Accounts and passwords should not be shared through email or instant messaging apps.

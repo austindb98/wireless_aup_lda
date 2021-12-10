@@ -1,0 +1,441 @@
+ 
+ 
+NUMBER
+:   
+ 
+IT 1.00
+ 
+ 
+SECTION:  
+ 
+Information Technology    
+ 
+ 
+SUBJECT:  
+ 
+Information Technology Procurement              
+ 
+ 
+DATE:     
+ 
+February 1, 1995
+ 
+ 
+REVIS
+ED
+:  
+ 
+April 19, 2016
+ 
+                  
+ 
+Policy for:  
+ 
+All Campuses
+ 
+Procedure for:    
+ 
+All Campuses
+ 
+Authorized by:  
+ 
+Vice President for Information Technology and Chief Information Officer
+ 
+Issued by:      
+ 
+Office of Information Technology
+ 
+_______________________________________________________
+__________
+_________
+ 
+ 
+Background:
+ 
+This 
+Information Technology (IT) 
+policy is designed to support the 
+Academic, Research and 
+Administrative 
+mission
+s
+ 
+of the University of South Carolina.  The 
+IT procurement 
+policy 
+framework for 
+acquisition and IT 
+deployment at USC includes
+ 
+broad consideration in providing 
+maximum flexibility 
+in IT utilization 
+while yielding to the following 
+overarching business and 
+efficiency
+ 
+principles:
+ 
+1.
+ 
+Seek first to provide m
+aximum value to the 
+USC 
+campus
+ 
+system, then c
+ampus, 
+then 
+c
+ollege, then 
+departmental organizations and individuals.
+ 
+2.
+ 
+Adhere to established 
+Information Technology
+ 
+standards established by the Office 
+for Information Technology
+.
+ 
+ 
+3.
+ 
+Utilize existing University 
+Inf
+ormation Technology 
+resources, asse
+ts and services 
+before non university 
+services are considered.
+ 
+4.
+ 
+Protect
+ 
+against 
+un
+-
+authorized 
+un
+-
+funded mandates.
+ 
+5.
+ 
+Where there are conflicting pr
+iorities, 
+provide 
+a means for
+ 
+resolution
+.
+ 
+ 
+I.
+ 
+Policy
+ 
+ 
+Information 
+Technology
+ 
+Procurement:
+ 
+ 
+All Uni
+versity Information Technology p
+rocurements require approval by 
+authorized personnel 
+establishe
+d by the Office for Information 
+Technology.  
+The Office of Information Technology 
+will provide 
+the Purchasing department a lis
+t of authorized personnel and will up
+date this list as 
+needed, or 
+annually during the annual budget 
+process
+.
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+II.
+ 
+Procedure
+ 
+ 
+A.
+ 
+Purchase Requests
+ 
+
+ 
+Information Technology 
+Approval Process
+ 
+ 
+1. 
+ 
+To expedite approvals of 
+Information Technology 
+purchasing 
+requests, 
+seek 
+assistance
+ 
+from qualified 
+IT 
+perso
+nne
+l to assist in preparing Purchase Requisitions 
+for
+ 
+expenditures on information tec
+hnology
+.
+ 
+  
+ 
+2.   
+ 
+Purchase Requisitions 
+will follow the
+ 
+normal authorizing 
+procedures
+ 
+from the 
+department head 
+submitted
+ 
+to
+ 
+the 
+Purchasing
+ 
+department where a Purchasing 
+agent will facilitate the IT approval process.
+ 
+            
+ 
+3.  
+ 
+Purchasing will work with the authorized IT approval personnel to either review 
+and approve 
+IT purchasing requests 
+or 
+to 
+defer  IT 
+purchasing requests
+ 
+with 
+identified g
+uiding 
+p
+rinciple 
+conflicts
+.  
+All approved IT purchasing request will be 
+processed in accordance with State and USC Purchasing guidelines. 
+All deferred 
+IT purchasing requests will be returned to originating departments 
+w
+ith 
+explanation
+ 
+of 
+identified
+ 
+issues 
+needing
+ 
+further clarific
+ation
+.
+ 
+            
+ 
+B
+.
+ 
+Requirements for 
+the 
+USC IT 
+Approval:
+ 
+ 
+ 
+1.
+ 
+Compliance with
+ 
+policy guiding principles
+,
+ 
+or
+ 
+ 
+2.
+ 
+Documented waiver 
+explanation 
+for unique req
+uirements
+ 
+(only necessary with 
+established conflicts with guiding principles)
+ 
+and written approval from authorized 
+IT approving personnel.
+ 
+ 
+C. 
+ 
+Exemptions
+ 
+ 
+1.
+ 
+Any process or IT procurement waivers for exemption
+ 
+from the approval process 
+must be issued in writing 
+to Purchasing 
+from the authorized IT approver and on 
+file with the Purchasing department.  
+These waivers 
+will be time limited and 
+must 
+be renewed in writing.
+ 
+ 
+2.
+ 
+All waivers expire annually at the end of each established budget year.
+ 
+ 
+3.
+ 
+IT for independent
+ 
+Research, Grants, or Law Enforcement systems that do not 
+interface or require data from sources defined in the Data Access policy or 
+interfacing with any other University IT enterprise or Administrative system
+ 
+may 
+request in writing exemption from this po
+licy through authorized IT personnel.
+ 
+ 
+D. 
+ 
+Definitions
+ 
+ 
+1.
+ 
+Information Technology at USC includes the following:
+ 
+ 
+
+ 
+ 
+ 
+Any technology hardware, software or service that helps to produce, manipulate, 
+store, communicate, and/or disseminate information 
+electronically.  Examples 
+include but not limited to:
+ 
+ 
+o
+ 
+Any telecommunications
+ 
+(wired or wireless)
+ 
+o
+ 
+Any 
+electronic 
+networking
+ 
+o
+ 
+Any photography
+ 
+o
+ 
+Any video
+ 
+o
+ 
+Any Internet based products and services
+ 
+o
+ 
+Programming, database products and services
+ 
+o
+ 
+Graphic Arts 
+
+ 
+limited to Information Technology support
+ 
+o
+ 
+Classroom Instruction
+al
+ 
+Technology
+ 
+ 
+2.
+ 
+Any 
+implementation or support s
+ervices related to the above.
+ 
+ 
+ 
+I
+I
+I.   
+ 
+Related Policies
+ 
+ 
+See also:
+ 
+ 
+University Policy 
+BUSF 5.00 Property Accountability
+ 
+University Policy 
+BUSF 
+7.00 Purchasing
+ 
+ 
+ 
+I
+V
+.
+ 
+Reason for Revision
+ 
+ 
+Policy
+ 
+reviewed in March 2016,. No substantive revisions required. 
+.
+ 
+

@@ -1,0 +1,134 @@
+ POLICY MANUAL
+ GENERAL
+  Number 
+557 Subject: In
+stitutional Email Service
+ Date of Origin: 
+September 24, 2008
+ Date of Revision(s): July 31, 2013, August 10, 2016
+ 
+Effective Date
+: August 10, 2016
+   1. Purpose
+  The intentions of this policy are:
+  1.1. to collect all 
+official and business communications of the university in one 
+
+email system of record (using @usu.edu addresses) for security, auditability, 
+
+records management, document preservation, archiving and destruction, and 
+
+other purposes as appropriate; and
+  
+1.2. to 
+restore to the University at the termination of employment, control of the 
+
+@usu.edu email addresses and @usu.edu email accounts that had previously 
+
+been assigned to employees. This provision only applies to email accounts with 
+
+addresses ending with @usu.ed
+u and applies to all employees and affiliates 
+
+other than formally approved faculty emeriti (as defined by USU Policy 401.6)
+.  
+2. Policy
+  2.1. One enterprise email system (@usu.edu), managed by the Office of Information 
+
+Technology (OIT), will be used for all instit
+utional email business. All 
+institutional email communications must be sent to or from @usu.edu 
+
+addresses.
+   
+2.2. Messages that constitute a record of the official business of the institution must 
+be preserved on the enterprise email system with the same care a
+nd for the same 
+
+duration, in compliance with regulations and policies that apply to similar hard 
+
+copy communications.
+  
+2.3. Email messages must not contain private sensitive information 
+(i.e. 
+Social 
+
+Security Numbers or academic
+, employment or medical records)
+ see Information Security Policy #558
+. An acceptable alternative is to direct the 
+
+authorized recipient to a secure source for that private information. Other 
+confidential information must be encrypted 
+in transit and in storage as a 
+
+precaution against exposure.
+  
+2.4. An @usu.edu email address will be provided to all employees during their term 
+
+of employment to be used in support of their job function.
+ Additional use of the 
+
+email service for personal purposes,
+ consistent with the
+ Appropriate Use Policy 
+#550, is permitted during the term of employment.
+  
+2.5. At the conclusion of a term of employment, the employee's @usu.edu email 
+
+address and email storage may b
+e made accessible to departmental personnel for 
+business continuity purposes, upon request to Human 
+Resources (HR).
+   
+2.6. The @usu.edu email address, previously assigned to the employee, will be 
+retained by the university and deleted or reassi
+gned at USU's 
+sole 
+discretion.
+ Business related information contained in the email storage will be 
+retained or deleted at USU's sole discretion.
+ Personal messages will be subject 
+to deletion after providing the employee 
+up to 
+a 90 calendar day interval to 
+
+retr
+ieve or de
+lete that information
+.  
+2.7. Enterprise email accounts (@usu.edu) may be provided to personnel who have a 
+
+no-pay position.
+  
+2.8. Formally approved faculty emeriti 
+as defined by USU Policy 401.6 will retain 
+
+use of their @usu.edu e
+-mail address and service
+.  
+2.9. Full 
+service aggiemail.usu.edu email accounts (provided by Google) are 
+
+available for the personal use of anyone with a USU A
+-Number, including 
+students, alumni, employees, former employees, retirees, and 
+
+emeriti.
+  Remember that aggiemail accounts should not be 
+used for university 
+business by current employees because those accounts do not meet the 
+
+University's needs for security, auditability, records management, document 
+
+preservation, archiving and destruction of business data.
+  2.10. OIT 
+and HR
+ are responsible to
+ develop 
+and maintain 
+procedures consistent with 
+this policy and with currently deployed email functionality to meet the 
+
+communication needs of the institution.
+ 

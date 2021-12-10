@@ -1,0 +1,60 @@
+While such access, used appropriately, legitimately advances the academic mission of the University, there is also the possibility for its misuse.
+This policy is intended to provide guidelines for the use of network resources that both reflect the Mission Statement of the University, and protect community members and others from harm.
+Scope of Policy While this policy deals specifically with issues involving the use of University computing resources and networks, it does not stand alone.
+All users of University resources are expected to abide by the rules and regulations of the applicable University handbooks, and the laws of the state of Pennsylvania and of the United States of America.
+We remind users that laws that apply in the physical world, such as those dealing with harassment, discrimination, copyright infringement, or obscene materials, are just as valid on campus networks and the Internet.
+This Policy on Computing and Network Ethics applies to all users of Eastern University s computing and data/phone network facilities.
+By using these systems, the user agrees to comply with and be subject to this Policy.
+Users accessing Eastern University computing and data/phone network facilities are responsible for maintaining a current understanding of the terms of this policy, which the University reserves the right to change without prior notice.
+This policy also covers all devices connected to campus systems, whether owned by the University or private individuals.
+Statement of Purpose The computing facilities and data/phone networks at Eastern University(including the University's Internet connection) are provided for University-related use by Eastern students, faculty, administration and staff in support of the educational programs, research and administration of the University.
+As a Christian university, Eastern expects its users to exercise responsible and ethical behavior when using the University's computing and data/phone network facilities.
+General Guidelines All use of University computing facilities and data/phone networks must be in keeping with the mission of the University.
+Use of University computing facilities and data/phone networks is limited to authorized users.
+University computing facilities and data/phone networks may not be used for any illegal purpose.
+Users are responsible for all actions performed from their network, Internet and e-mail accounts, as well as from personally owned computers connected to University data/phone networks.
+The privacy and rights of others must be respected.
+The ability of legitimate users to utilize the computing facilities and data/phone networks of the University in an efficient and secure manner must be respected.
+Intellectual property rights, particularly those involving copyrighted material, must be respected.
+The University reserves the right to take any and all actions necessary to protect the integrity and security of University computing facilities and data/phone networks, including those necessary for law enforcement or other purposes.
+The use of the University's computing facilities and data/phone networks is a privilege that may be revoked at any time.
+Disciplinary action in accordance with the Eastern University Handbooks and/or legal action will be taken when warranted.
+These general guidelines are designed to be easily remembered rules of the road.
+This policy also includes, as an appendix, specific amplifications of each guideline, which all users are responsible for understanding.
+Questions about this policy, or suspected violation of this policy should be directed to Academic Computing at(610)341-1721.
+This appendix is designed to aid in the understanding of each of the general guidelines by providing specific examples of appropriate and/or inappropriate use.
+Examples of inappropriate conduct should not be construed as the only ones covered by the Policy on Computing and Network Ethics, but instead are designed to provide a framework for its interpretation.
+All users are expected to follow these guidelines in spirit, as well as in letter.
+All use of University computing facilities and data/phone networks must be in keeping with the academic mission of the University.
+The following are prohibited: The use of University computing facilities or data/phone networks for private financial gain, without University approval.
+The sending of unsolicited bulk e-mail(spam) unrelated to the mission of the University.
+The sending of email messages with fraudulent address information or having misrepresentation in content in an attempt to harmfully deceive others.
+Accessing or downloading of obscene/pornographic images or text or other materials using University facilities or storage of such materials on University owned systems, or on systems connected to the University data/phone network.
+Eastern University is linked to off-campus computing resources via the Internet, through a connection provided by Yipes Enterprise Services, Inc. All use of the external network connection must meet their Acceptable Use Policies, in addition to all provisions of this document.
+Use of University computing facilities and data/phone networks is limited to authorized users.
+All access to University owned computing facilities and data/phone networks must be approved by Eastern University.
+No unauthorized access to University computing and data/phone networks is permitted.
+Unauthorized use of another user's account as well as the providing of false or misleading information for the purpose of obtaining access to computing or network facilities is a violation of this policy.
+Attempting to access restricted portions of University systems and/or networks or the unauthorized possession of tools for such a purpose is a violation of this policy.
+University computing facilities and data/phone networks may not be used for any illegal purpose.
+The following are examples of violations of this policy: The placing of unlawful information on University systems.
+The sending or storage of abusive, obscene, harassing or fraudulent public or private email messages and/or materials.
+Users are responsible for all actions performed from their network, Internet and e-mail accounts, as well as from personally owned computers connected to University data/phone networks.
+To protect their accounts users should not give out their passwords to others and should logout of the network when finished with the facilities.
+The privacy and rights of others must be respected.
+The following are examples of violations of this policy: Monitoring(or attempting to monitor) another user's data communications.
+Obtaining(or attempting to obtain) another user's password.
+Reading, copying, changing, or deleting(or attempting to read, copy, change or delete) another user's files or software without the prior permission of the owner.
+Accessing(or attempting to access) computer systems through the University network, including those external to the University, without authorization of the owner of that system.
+This includes port scanning, system exploits, or other techniques designed to gain unauthorized access to a system.
+The University reserves the right to take any and all actions necessary to protect the integrity and security of University computing facilities and data/phone networks, including those necessary for law enforcement or other purposes.
+The University specifically reserves the right to immediately disconnect any computer disrupting the University s data/phone network, or is being used for any activity in violation of this policy.
+The University has the right to monitor and log network traffic and email communications, and take appropriate action based on information obtained in this manner.
+The University has the right to examine any files stored on or transmitted using University owned machines.
+University search and seizure policies and processes apply to residence hall rooms, as outlined in the student handbook.
+The University has the right to remove any file stored on University owned machines.
+The University disclaims responsibility for loss of data or interference with files resulting from its efforts to maintain the security and privacy of the University's computing and data/phone network facilities.
+The use of the University's computing facilities and data/phone networks is a privilege that may be revoked at any time.
+Disciplinary action in accordance with the Eastern University Handbooks and/or legal action will be taken when warranted.
+The University reserves the right to suspend, without notice, the network access privileges of any user who is believed to be in violation of this policy, pending investigation and review.
+Questions about this policy or suspected violations of this policy may be reported to Academic Computing at(610) 341 1721.

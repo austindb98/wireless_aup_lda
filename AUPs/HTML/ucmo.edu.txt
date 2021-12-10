@@ -1,0 +1,125 @@
+These rules are in place to protect the University of Central Missouri, as well as all staff, students, and visitors, from risks due to inappropriate use of University information systems and technology resources.
+Scope The scope of this policy includes all University information systems and technology resources managed by the University, including third party systems used to store, process, or transmit University data.
+It also applies to all employees(faculty, staff, student employees), students, and other individuals(affiliates, vendors, guests, etc.)
+provided with credentials to utilize the University s information system and technology resources whether accessing University information systems remotely or from on campus.
+Definitions Access Ability to make use of any information system(IS) resource.
+
+To make contact with one or more discrete functions of an online, digital service.
+Antivirus Software A program specifically designed to detect many forms of malware and prevent them from infecting computers, as well as cleaning computers that have already been infected.
+
+A program that monitors a computer or network to identify all major types of malware and prevent or contain malware incidents.
+Users should be prevented from modifying audit information.
+Authentication The corroboration that a person is the one claimed.
+
+A security measure designed to protect a communications system against acceptance of fraudulent transmission or simulation by establishing the validity of a transmission, message, originator, or a means of verifying an individual's eligibility to receive specific categories of information.
+
+Security measures designed to establish the validity of a transmission, message, or originator, or a means of verifying an individual s authorization to receive specific categories of information.
+Verifying the identity of a user, process, or device, often as a prerequisite to allowing access to resources in an information system.
+Authorization The right or a permission that is granted to a system entity to access a system resource.
+
+Access privileges granted to a user, program, or process or the act of granting those privileges.
+Data Information in a specific representation, usually as a sequence of symbols that have meaning.
+Distinct pieces of digital information that have been formatted in a specific way.
+Pieces of information from which understandable information is derived.
+Encryption The cryptographic transformation of data to produce ciphertext.
+Cryptographic transformation of data(called plaintext) into a form(called ciphertext) that conceals the data s original meaning to prevent it from being known or used.
+If the transformation is reversible, the corresponding reversal process is called decryption, which is a transformation that restores encrypted data to its original state.
+The process of changing plaintext into ciphertext using a cryptographic algorithm and key.
+Export Controls Federal laws which apply to the transfer or transmittion of classified or restricted technologies and information to foreign nationals, both inside and outside of the United States, or into foreign countries as it relates to foreign policy and national security.
+Firewall An inter-network connection device that restricts data communication traffic between two connected networks.
+A firewall may be either an application installed on a general-purpose computer or a dedicated platform(appliance), which forwards or rejects/drops packets on a network.
+Typically, firewalls are used to define zone borders.
+Firewalls generally have rules restricting which ports are open.
+A gateway that limits access between networks in accordance with local security policy.
+Flooding An attack that attempts to cause a failure in a system by providing more input than the system can process properly.
+An attack in which an attacker sends large numbers of wireless messages at a high rate to prevent the wireless network from processing legitimate traffic.
+Incident An occurrence that actually or potentially jeopardizes the confidentiality, integrity, or availability of an information system or the information the system processes, stores, or transmits or that constitutes a violation or imminent threat of violation of security procedures or this policy.
+Information Technology Any equipment or interconnected system or subsystem of equipment that is used in the automatic acquisition, storage, manipulation, management, movement, control, display, switching, interchange, transmission, or reception of data or information.
+The term information technology includes computers, phones, ancillary equipment, software, firmware and similar procedures, services(including support services), and related resources.
+Internet The single, interconnected, worldwide system of commercial, governmental, educational, and other computer networks that share(a) the protocol suite specified by the Internet Architecture Board(IAB) and(b) the name and address spaces managed by the Internet Corporation for Assigned Names and Numbers(ICANN).
+Malicious cyber activity - Activities, other than those authorized by or in accordance with U.S. law, that seek to compromise or impair the confidentiality, integrity, or availability of computers, information or communications systems, networks, physical or virtual infrastructure controlled by computers or information systems, or information resident thereon.
+Malware Hardware, firmware, or software that is intentionally included or inserted in a system for a harmful purpose.
+Software or firmware intended to perform an unauthorized process that will have adverse impact on the confidentiality, integrity, or availability of an information system.
+A virus, worm, Trojan horse, or other code-based entity that infects a host.
+Spyware and some forms of adware are also examples of malicious code.
+A program that is inserted into a system, usually covertly, with the intent of compromising the confidentiality, integrity, or availability of the victim s data, applications, or operating system or of otherwise annoying or disrupting the victim.
+Network Information system(s) implemented with a collection of interconnected components.
+Such components may include routers, hubs, cabling, telecommunications controllers, key distribution centers, and technical control devices.
+Network Sniffing A passive technique that monitors network communication, decodes protocols, and examines headers and payloads for information of interest.
+It is both a review technique and a target identification and analysis technique.
+Password A string of characters(letters, numbers, and other symbols) used to authenticate an identity or to verify access authorization.
+Patch A software component that, when installed, directly modifies files or device settings related to a different software component without changing the version number or release details for the related software component.
+Port Scanning Using a program to remotely determine which ports on a system are open(e.g., whether systems allow connections through those ports).
+Security Control Assessment The testing and/or evaluation of the management, operational, and technical security controls in a system to determine the extent to which the controls are implemented correctly, operating as intended, and producing the desired outcome with respect to meeting the security requirements for the system.
+Spoofing Faking the sending address of a transmission to gain unauthorized entry into a secure system.
+The deliberate inducement of a user or resource to take incorrect action.
+Note: Impersonating, masquerading, piggybacking, and mimicking are forms of spoofing.
+Trojan Horse A computer program that appears to have a useful function, but also has a hidden and potentially malicious function that evades security mechanisms, sometimes by exploiting legitimate authorizations of a system entity that invokes the program.
+Technology Transfer The University s patenting of research discoveries and then making them available through licensing to businesses or other researchers who want to build upon them.
+Worm A computer program that can run independently, can propagate a complete working version of itself onto other hosts on a network, and may consume computer resources destructively.
+A self-replicating program that propagates itself through a network onto other computer systems without requiring a host program or any user intervention to replicate.
+Virus A computer program that can copy itself and infect a computer without permission or knowledge of the user.
+A virus might corrupt or delete data on a computer, use e-mail programs to spread itself to other computers, or even erase everything on a hard disk.
+A computer program containing a malicious segment that attaches itself to an application program or other executable component.
+A program that replicates itself by attaching to other programs or files, where it hides until activated.
+Procedure
+General Use and Ownership The University s information systems and technical resources are intended to be used in support of the University mission.
+These resources include servers, workstations, computer laboratories, wired and wireless networks, and the use of these systems to connect to or from other resources via the internet.
+The use of the University s information systems and technology resources including, but not limited to, Internet resources, individual computer workstations, university issued equipment, e-mail communications, telephone wire systems, or networks, is a privilege and not a right.
+Users of the University s information systems and technical resources are accountable for their own actions.
+All data created in support of the University mission is a strategic asset and remains the sole property of the University of Central Missour
+University data shall be managed in compliance with legislative mandates, regulatory requirements, and University policy.
+Users may access, use, or share protected information only to the extent it is authorized and reasonably necessary to fulfill assigned job duties or otherwise within their and the University s legal rights.
+Users must ensure through legal or technical means that University data is protected in accordance with UCM Office of Technology( OT) standards.
+
+Account Security The University issues to each user of computer and network resources a unique user account and password.
+Account holders have a responsibility to protect their account from unauthorized use.
+Passwords shall be sufficiently complex and changed in accordance with OT s User Account Password Standards.
+Account holders may not share their credentials or use their credentials on information systems not managed by the University.
+Personal Privacy The University respects and protects personally identifiable information stored on the University s information systems in accordance with legislative mandates, regulatory requirements, and University policy.
+The University of Central Missouri reserves the right to monitor and filter the use of its information assets.
+All users of information systems or network resources are advised not to assume any degree of privacy or restricted access to information they create or store on University information systems or technology resources.
+Users have no personal privacy expectations when using University technology systems.
+The University of Central Missouri is a public institution and information stored on the University s information systems may be subject to disclosure according to federal or state law(Chapter 610 RSMo, Missouri Sunshine Law) or other legal mandates, including without limitation audits or subpoenas.
+Disclosure of personal information shall be conducted in accordance with applicable laws and advice of General Counsel.
+Device Security All computing devices, mobile and stationary, connected to the University network are advised to implement security controls that conform to vendor or security best practices.
+Any device identified to be a threat to the confidentiality, integrity, or availability of University information systems may be disconnected from the University network, without notice, until the risk has been mitigated.
+Device owners are strongly encouraged to implement, at minimum, the following controls: Use anti-virus software and ensure the scanning engine and definition files are updated daily Use a firewall to prohibit all incoming connections and only allow required services by exception.
+Apply security patches and updates as soon as possible.
+All computing devices must be secured with a screensaver that requires authentication with an automated activation feature set to 15 minutes or less.
+All users must lock their screen or log off when the device is unattended.
+Owners of information technology systems in support of the University mission shall implement security controls in accordance with standards established by the Office of Technology.
+Network and Information System Audits The University of Central Missouri reserves the right to conduct security audits and assessments of all networks, systems, and devices connected to the University network on a periodic basis to ensure compliance with University policies and information security standards.
+Unacceptable Use Under no circumstances is an employee or student of the University of Central Missouri authorized to engage in any activity that is illegal under applicable law while utilizing University-owned resources.
+The lists below are by no means exhaustive, but attempt to provide a framework for activities that fall into the category of unacceptable use and are strictly prohibited.
+
+System and Network Activities Unauthorized copying, use, or distribution of digital copyrighted material including, but not limited to, digitization of paper media, photos, music, movies, or software.
+Using systems, services, or devices to actively engage in receiving or transmitting information that is unlawful, conveys defamatory material, or otherwise violates University policy, such as the non-discrimination or sexual misconduct policies.
+Accessing systems, services, devices, or data where not expressly authorized to access or using authorized access in a manner inconsistent with the purpose for which it was provided.
+Providing information about or lists of University employees or students to parties outside the University of Central Missouri without express permission from an authorized University official with responsibilities for that specific category of data.
+Exporting software, technical information, encryption software or technology, in violation of international or regional export control laws.
+Revealing passwords to others or sharing accounts.
+Introduction of malicious programs into the network or server(e.g., viruses, worms, Trojan horses, e-mail bombs, etc.).
+Conducting network reconnaissance, security breaches, or disrupting network communications including, but not limited to, port scanning, vulnerability scanning, network sniffing, ping floods, packet spoofing, denial of service, and forged routing information for malicious purposes.
+Circumventing the security controls of any host, network, data, or account.
+
+Personally Owned Devices and Software The use of personally owned devices or software to store confidential information is prohibited.
+This restriction includes all information systems and technology resources not owned or operated by the University.
+
+Email and Communication Activities The sending of "junk mail" or other advertising material to individuals who did not specifically request such material(email spam) or posting the same or similar non-University-related messages to large numbers of contact groups(Usenet) newsgroups(newsgroup spam).
+Solicitations that do not comply with the University s Solicitation Guidelines.
+Making fraudulent offers of products, items, or services originating from any University of Central Missouri account.
+Any form of unlawful harassment via email, telephone or paging, whether through language, frequency, or size of messages, as defined by the University s non-discrimination and/or sexual misconduct policies.
+Misrepresentation of the University Unauthorized use, or forging, of email header information.
+Creating of forwarding chain letters, ponzi or other schemes of any type.
+Information Security Incident Reporting All users of University information systems and technology resources have a responsibility to promptly report violations of this policy or the theft, loss or unauthorized disclosure of protected information to the Technology Support Center(TSC) via email tsc@ucmo.edu or phone(660) 543-4357.
+Compliance
+Measurement The Office of Technology will verify compliance to this policy through various methods, including but not limited to, business tool reports, internal and external audits, and feedback to the policy owner, as authorized and documented by the Associate Vice President of Technology or his/her deisgnee.
+
+Exceptions Any exception to this policy must be approved by the Associate Vice President for Information Systems/ CIO or appointed designee.
+Enforcement Any user found to have violated this policy may be subject to discipline, including loss of network access privileges and referral to law enforcement.
+Any device found in violation of this policy may be disconnected from the university network until the device is brought into compliance.
+An employee found to have violated this policy and may be subject to disciplinary action, up to and including termination of employment.
+A student found to have violated this policy may be subject to disciplinary sanctions, which may include suspension or expulsion from the University.
+All rights reserved.
+_resources/includes/footcode2.inc file found /_resources/includes/analytics.inc file found /_resources/includes/footcode-interior.inc file found Adding JQuery here OU Search Ignore End Here

@@ -1,0 +1,62 @@
+As a user of these services and facilities, you have access to valuable College resources, to sensitive data, and to internal and external networks.
+Consequently, it is important for you to behave in a responsible, ethical, and legal manner.
+In general, acceptable use means respecting the rights of other computer users, the integrity of the physical facilities and all pertinent license and contractual agreements.
+If an individual is found to be in violation of the Acceptable Use Policy, the College will take disciplinary action, including the restriction and possible loss of network privileges.
+Any violations also breaching the College s policies could result in further consequences; including suspension or termination from the College.
+Individuals are also subject to federal, state and local laws governing many interactions that occur on the Internet.
+These policies and laws are subject to change as state and federal laws develop and change.
+This document establishes specific requirements for the use of all computing and network resources at Keuka College.
+Scope This policy applies to all users of computing resources owned or managed by Keuka College.
+Individuals covered by the policy include(but are not limited to) Keuka College faculty and visiting faculty, staff, students, alumni, guests or agents of the administration, external individuals and organizations accessing network services via Keuka College's computing facilities.
+Computing resources include all College owned, licensed, or managed hardware and software, and use of the College network via a physical or wireless connection, regardless of the ownership of the computer or device connected to the network.
+These policies apply to technology administered in individual departments, the resources administered by central administrative departments(such as the College Libraries and Computing and Information Services), personally owned computers and devices connected by wire or wireless to the campus network, and to off-campus computers that connect remotely to the College's network services.
+Your Rights and Responsibilities As a member of the College community, the College provides you with the use of scholarly and/or work-related tools, including access to the Library, to certain computer systems, servers, software and databases, to the campus telephone and voice mail systems, and to the Internet.
+You have a reasonable expectation of unobstructed use of these tools, of certain degrees of privacy(which may vary depending on whether you are a College employee or a matriculated student), and of protection from abuse and intrusion by others sharing these resources.
+You can expect your right to access information and to express your opinion to be protected as it is for paper and other forms of non-electronic communication.
+In turn, you are responsible for knowing the regulations and policies of the College that apply to appropriate use of the College's technologies and resources.
+You are responsible for exercising good judgment in the use of the College's technological and information resources.
+Just because an action is technically possible does not mean that it is appropriate to perform that action.
+As a representative of the Keuka College community, you are expected to respect the College's good name in your electronic dealings with those outside the College.
+Policy Acceptable Use You may use only the computers, computer accounts, and computer files for which you have authorization.
+You may not use another individual's account, or attempt to capture or guess other users' passwords.
+You are individually responsible for appropriate use of all resources assigned to you, including the computer, the network address or port, software and hardware.
+Therefore, you are accountable to the College for all use of such resources.
+As an authorized Keuka College user of resources, you may not enable unauthorized users to access the network by using a Keuka College computer or a personal computer that is connected to the Keuka College network.
+The College is bound by its contractual and license agreements respecting certain third party resources; you are expected to comply with all such agreements when using such resources.
+You should make a reasonable effort to protect your passwords and to secure resources against unauthorized use or access.
+You must configure hardware and software in a way that reasonably prevents unauthorized users from accessing Keuka College's network and computing resources.
+You must not attempt to access restricted portions of the network, an operating system, security software or other administrative applications without appropriate authorization by the system owner or administrator.
+You must comply with the policies and guidelines for any specific set of resources to which you have been granted access.
+When other policies are more restrictive than this policy, the more restrictive policy takes precedence.
+You must not use Keuka College computing and/or network resources in conjunction with the execution of programs, software, processes, or automated transaction-based commands that are intended to disrupt(or that could reasonably be expected to disrupt) other computer or network users, or damage or degrade performance, software or hardware components of a system.
+On Keuka College network and/or computing systems, do not use tools that are normally used to assess security or to attack computer systems or networks(e.g., password 'crackers,' vulnerability scanners, network sniffers, etc.)
+unless you have been specifically authorized to do so by the KC Information Systems & Security Group.
+Fair Share of Resources Computing and Information Services, and other College departments which operate and maintain computers, network systems and servers, expect to maintain an acceptable level of performance and must assure that frivolous, excessive, or inappropriate use of the resources by one person or a few people does not degrade performance for others.
+The campus network, computer clusters, mail servers and other central computing resources are shared widely and are limited, requiring that resources be utilized with consideration for others who also use them.
+Therefore, the use of any automated processes to gain technical advantage over others in the Keuka College community is explicitly forbidden.
+The College may choose to set limits on an individual's use of a resource through quotas, time limits, and other mechanisms to ensure that these resources can be used by anyone who needs them.
+Please review the Fair Share of Resources section of the "Acceptable Use Examples" for further clarification.
+AH1] Adherence with Federal, State, and Local Laws As a member of the Keuka College community, you are expected to uphold local ordinances and state and federal law.
+Some Keuka College guidelines related to use of technologies derive from that concern, including laws regarding license and copyright, and the protection of intellectual property.
+As a user of Keuka College's computing and network resources you must: Abide by all federal, state, and local laws.
+Abide by all applicable copyright laws and licenses.
+Keuka College has entered into legal agreements or contracts for many of our software and network resources which require each individual using them to comply with those agreements.
+Observe the copyright law as it applies to music, videos, games, images, texts and other media in both personal use and in production of electronic information.
+The ease with which electronic materials can be copied, modified and sent over the Internet makes electronic materials extremely vulnerable to unauthorized access, invasion of privacy and copyright infringement.
+Do not use, copy, or distribute copyrighted works(including but not limited to Web page graphics, sound files, film clips, trademarks, software and logos) unless you have a legal right to use, copy, distribute, or otherwise exploit the copyrighted work.
+Doing so may provide the basis for disciplinary action, civil litigation and criminal prosecution.
+Other Inappropriate Activities Use Keuka College s computing facilities and services for those activities that are consistent with the educational, research and public service mission of the College.
+Other prohibited activities include: Activities that would jeopardize the College's tax-exempt status Use of Keuka College s computing services and facilities for political purposes Use of Keuka College's computing services and facilities for personal economic gain Privacy and Personal Rights All users of the College s network and computing resources are expected to respect the privacy and personal rights of others.
+Do not access or copy another user's email, data, programs, or other files without the written permission of Keuka College s Director of Information Systems & Security/Chief Information Officer.
+Be professional and respectful when using computing systems to communicate with others; the use of computing resources to libel, slander, or harass any other person is not allowed and could lead to College discipline as well as legal action by those who are the recipient of these actions.
+While the College does not generally monitor or limit content of information transmitted on the campus network, it reserves the right to access and review such information under certain conditions.
+These include: investigating performance deviations and system problems(with reasonable cause), determining if an individual is in violation of this policy, or, as may be necessary, to ensure that Keuka College is not subject to claims of institutional misconduct.
+Access to files on College-owned equipment or information will only be approved by specific personnel when there is a valid reason to access those files.
+Authority to access user files can only come from the Director of Information Systems & Security/Chief Information Officer in conjunction with requests and/or approvals from senior members of the College.
+External law enforcement agencies and Keuka College Human Resources/Campus Safety may request access to files through valid subpoenas and other legally binding requests.
+All such requests must be approved by the General Counsel.
+Information obtained in this manner can be admissible in legal proceedings or in a College hearing.
+Privacy in Email While every effort is made to insure the privacy of Keuka College email users, this may not always be possible.
+In addition, since employees are granted use of electronic information systems and network services to conduct College business, there may be instances when the College, based on approval from authorized officers, reserves and retains the right to access and inspect stored information without the consent of the user.
+User Compliance When you use College computing services, and accept any College issued computing accounts, you agree to comply with this and all other computing related policies.
+You have the responsibility to keep up-to-date on changes in the computing environment, as published, using College electronic and print publication mechanisms, and to adapt to those changes as necessary.

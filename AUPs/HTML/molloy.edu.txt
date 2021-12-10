@@ -1,0 +1,71 @@
+Please <!
+endif] Molloy College needs JavaScript enabled in your browser.
+The Music Therapy Club, the Gaelic Society and the Performing Arts Club are just a few of our exciting clubs. Campus life at Molloy College is vibrant and growing with more than 50 clubs and societies.
+The Music Therapy Club, the Gaelic Society and the Performing Arts Club are just a few of our exciting clubs. Campus life at Molloy College is vibrant and growing with more than 50 clubs and societies.
+The Music Therapy Club, the Gaelic Society and the Performing Arts Club are just a few of our exciting clubs. Campus life at Molloy College is vibrant and growing with more than 50 clubs and societies.
+Policy Summary The technology resources at Molloy College are designed to support the educational, instructional, research, and administrative activities of the College.
+The use of these resources is a privilege extended to members of the Molloy community.
+Users of these services and facilities have access to valuable College resources, sensitive data, and internal and external networks.
+Consequently, it is important for all College constituents to behave in a responsible, ethical, and legal manner.
+In general, acceptable use means respecting the rights of other computer users, the integrity of the physical facilities, and all pertinent license and contractual agreements.
+
+Policy Scope This policy applies to all users of computing resources owned or managed by Molloy College.
+Individuals covered by the policy include(but are not limited to) Molloy faculty and visiting faculty, staff, students, alumni, guests or agents of the administration and external individuals and organizations accessing network services via Molloy's computing facilities.
+Computing resources include all college owned, licensed, or managed hardware and software, and the college network(via a physical or wireless connection), regardless of the ownership of the computer or device connected to the network.
+These policies apply to technology administered in individual departments, resources administered by central administrative departments(such as the Library and Information Technology), personally-owned computers and devices connected by wire or wirelessly to the campus network, and to off-campus computers that connect remotely to the College's network services.
+
+Policy 3.1 Acceptable Use Users may only use the computers, computer accounts, and computer files for which they have authorization.
+Users may not use another individual's account, or attempt to capture or guess other users' passwords.
+Users are individually responsible for appropriate use of all resources assigned to them, including the computer, the network address or port, software and hardware.
+The College is bound by its contractual and license agreements respecting certain third-party resources; users are expected to comply with all such agreements when using such resources.
+Users should make concerted and consistent efforts to protect passwords and to secure resources against unauthorized use or access.
+Users must configure hardware and software in a way that reasonably prevents unauthorized users from accessing Molloy's network and computing resources(see Molloy College's Password Policy).
+Users must not attempt to access restricted portions of the network, an operating system, security software, or other administrative applications.
+Users must comply with the policies and guidelines for any specific set of resources to which they have been granted access.
+When other policies are more restrictive than this policy, the more restrictive policy takes precedence.
+Users must not use Molloy computing and/or network resources in conjunction with the execution of programs, software, processes, or automated transactionbased commands that are intended to disrupt(or that could reasonably be expected to disrupt) other computer or network users, or damage or degrade performance, software or hardware components of a system.
+Tools may not be used on the Molloy network and/or computing systems that are normally used to assess security or to attack computer systems or networks(e.g., password 'crackers,' vulnerability scanners, network sniffers, etc.).
+Adherence with Federal, State and Local Laws As a user of Molloy's computing and network resources, users must: Abide by all federal, state, and local laws Abide by all applicable copyright laws and licenses.
+Molloy College has entered into legal agreements or contracts for many of our software and network resources which require each individual using them to comply with those agreements Observe the copyright law as it applies to music, videos, games, images, texts and other media in both personal use and in production of electronic information.
+The ease with which electronic materials can be copied, modified and sent over the internet makes electronic materials extremely vulnerable to unauthorized access, invasion of privacy and copyright infringement.
+Not use, copy, or distribute copyrighted works(including but not limited to Web page graphics, sound files, film clips, trademarks, software and logos) unless you have a legal right to use, copy, distribute, or otherwise exploit the copyrighted work.
+Doing so may provide the basis for disciplinary action, civil litigation and criminal prosecution.
+Not use email to harass, intimidate or otherwise violate the rights of others.
+Please visit Molloy College's Copyright and Fair Use web page for more information.
+Other Inappropriate actions Use of Molloy's computing facilities and services for those activities that are consistent with the educational, research, and public service mission of the College.
+Other prohibited activities include: Activities that would jeopardize the College's tax-exempt status Use of Molloy's computing services and facilities for political purposes Use of Molloy's computing services and facilities for personal economic gain 3.4 Privileges provided Access to College technology resources is granted to specific constituencies.
+The procedures for gaining access to services are detailed in the appendix of this policy.
+Students are granted access to electronic services which are utilized for College communication and course materials.
+Alumni: Alumni may maintain their Google Apps account for as long as they wish as long as they are in good standing with the College.
+Employees are granted access to electronic services depending upon their positions at the College.
+Guests: Guests of the College are able to request temporary computing access.
+The College provides a Wi-Fi network for guests
+Definition College: refers to Molloy College Molloy: refers to Molloy College Student: refers to anyone registered for a course offered by the College.
+Student status is extended to those on official leave Alumni: refers to a student who has officially graduated from the College and 1. has not re-enrolled in another program 2. is in good standing with the College( e.
+outstanding debt paid, no postgraduation disciplinary actions levied)
+Penalties and Consequences Users in violation of the policies mentioned in this document may be subject to disciplinary action in accordance with Molloy College handbooks.
+
+Students Student account creation Student accounts are created within 48 hours of registration for one course or more.
+Students are notified via email to the personal email address that was provided upon application to the College or acceptance into a program.
+Upon receipt of the notification email, students must follow the instructions to activate their accounts.
+Each student is provisioned the following: One Google Apps account Used for student email but includes all Google Apps for Education services such as Google Docs, YouTube, Calendar, etc.
+One Microsoft Active Directory Services account which is used to access the following: Computers on campus designated for student use Wireless internet on campus Canvas(for coursework and materials) Lion's Den(for grading, finances, financial aid, registration etc.)
+Student account deactivation Student account deactivation occurs based on the conditions of separation from the College.
+For Graduating Students: Alumni maintain access to e-mail as long as they are in good standing with the College.
+For Students Who Have Withdrawn from Classes: All students who have withdrawn from classes will maintain email privileges for one semester.
+If the student does not register after one semester, the email account will be deactivated.
+
+Employees Employee Account Creation Upon notification of hire from the Office of Human Resources(HR), the Office of Information Technology(IT) will create an employee account.
+Notification of a new employee must come from HR - departmental requests for access will not be honored.
+All new users will receive access to: One Microsoft Active Directory Services-account which is used to access the following: Computers designated for employee use Wireless internet on campus Employee intranet One Microsoft Office 365 account or Microsoft Exchange account, which is used for email Network storage drive for individual use Departmental shared data Department heads must notify IT via email if a new employee will need access to special software such as Jenzabar, Powerfaids, AceWare, Raisers Edge, and other software for departmental use.
+Access to budget information must be requested via email to the Finance office, and they will notify IT via email if access needs to be granted.
+Additional privileges are automatically provided to Faculty and others as requested.
+This includes access to: Lion's Den for grade entry and course information.
+Advisors are granted additional access to perform advisement functions Canvas(for coursework and materials) Employee Account Termination Upon notification from Human Resources, IT will disable all active employee accounts for users who have separated from the College.
+Department heads are responsible for notifying IT if data belonging to a separated employee is needed.
+This includes personal H: drive data and email.
+After one month of the account being disabled, IT will request confirmation from the Department Head before deleting email and personal H: drive data.
+Storage and Information Retention Users may archive(move to a different location) email in order to reduce mailbox size.
+Archived mail should be stored on the user's H drive so it is regularly backed
+Note: Archived mail is only searchable via Outlook on-campus, not through Web Mail.
+Left Col Accept Learn More / Right Col / Row / Continer / Cookies Placed at the end of the document so the pages load faster https://l0-secure.videohub.tv/ssframework/dt/cpa.png?trackcd=1600786628780&advid=477516

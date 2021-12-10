@@ -1,0 +1,180 @@
+Student Guide
+OverviewThe following is an abridged guide to the UC Electronic Communications Policy (ECP) which governs
+use of campus electronic resources including, but not limited to, computer labs, email, iLearn, wireless
+network, and virtual private network (VPN). By using UCR campus electronic resources you are
+agreeing to abide by the ECP. The complete version of the ECP, as well as the ECP Overview and
+Implementation at UCR, is available online at 
+http://cnc.ucr.edu/policies.html
+Acceptable Use of UCR Electronic Resources:Allowed:Instructional and research related purposes
+Sending and receiving e-mail
+Accessing the Internet
+Creating web sites
+Not Allowed:
+Illegal activities
+Violations of University policies
+Use of electronic communications resources for commercial benefit or personal financial gain
+Utilizing the UniversityÕs name and/or seal without appropriate approvals
+Giving the impression that you are representing or otherwise making statements on behalf of
+UCR or any department, unit, or sub-unit of the university unless appropriately authorized to do
+soCausing excessive strain on any campus electronic communications resource or unwarranted or
+unsolicited interference with othersÕ use of electronic communications
+Student ECP Guidelines
+
+What you can expect as an Electronic Communications user atUCRAccess and access restrictions
+Policy enforcement
+Security, confidentiality, and privacy
+What is considered acceptable use1. Instructional and Research related purposes
+UCR electronic resources are primarily intended for instructional and research purposes,
+including class-related activities, academic research, and administrative tasks that support
+instruction and research. For example, students may use iLearn to obtain class materials,
+complete coursework, and interact with classmates and instructors on class-related topics for
+academic purposes. Students may, and are expected to, use resources such as GROWL and
+email for administrative tasks such as financial aid and managing enrollment.
+2. Sending and receiving e-mail
+UCR students may use campus electronic resources for sending and receiving e-mail. This
+includes the use of UCR email, and the use of the campus network to access UCR email or other
+e-mail accounts. Use of campus resources for sending and receiving e-mail is limited by federal,
+state and local laws, as well as other University policies. E-mail activities that are prohibited
+include using UCR e-mail accounts or servers to send spam, for harassment, or for commercial
+purposes such as selling textbooks and other items or operating a business.
+3. Accessing the Internet
+UCR students may use campus Internet resources, including the wireless network, Internet
+access provided by the campus computer labs, and residential Internet connections provided in
+the residence halls and some off-campus housing. Access to the Internet is subject to individual
+departmental policies of the department providing the service, as well as federal, state or local
+laws, other parts of the ECP, or other University policies. Internet activities that are prohibited
+include using the UCR network to illegally download copyrighted materials such as movies or
+music, excessive bandwidth usage that is significant enough to adversely affect campus network
+performance, and deliberately or unknowingly spreading computer worms or viruses over the
+Internet.
+
+4. Creating web sites
+Students may post websites on their R'Mail accounts and campus servers. For example, students
+may post personal websites on their student R'Mail accounts. Student groups may post websites
+on departmental web servers with the permission of the hosting department. Use of campus web
+servers is limited by the policies of the individual departmental owners of any specific web server,
+as well as other sections of the ECP. Web sites hosted on campus servers or R'Mail may not be
+operated for commercial purposes or financial gain, such as operating a business or offering
+services for profit. Furthermore, student or student organization web sites may not imply that they
+represent UCR without appropriate authorization.
+Uses that are prohibited1. Illegal activities
+All relevant federal, state and local laws apply when using University electronic communications.
+This includes laws that prohibit cyberstalking, digital copyright infringement, disrupting Internet
+and UCR intranet networks and systems (for example by transmitting viruses, sending spam, or
+hacking into othersÕ transmissions or files), and tapping telephones.
+2. Activities that violate University policies
+All relevant University policies apply when using UCR electronic resources. This includes policies
+on sexual harassment, other forms of harassment, and intellectual property. For example,
+campus resources may not be used to obtain or re-distribute the intellectual property of others
+without authorization, including research, presentations, etc. Campus e-mail and iLearn may not
+be used to send spam or other harassing e-mails. In addition, individual departmental resources
+may only be used in accordance with departmental policies and with appropriate authorization.
+3. Commercial benefit or personal financial gain
+Campus electronic resources may not be used for commercial benefit or personal financial gain.
+For example, student websites may not be used to sell products or services. iLearn may not be
+used to sell textbooks or to post notices advertising rooms for rent.
+4. Activities that utilize the UniversityÕs name and/or seal without
+appropriate approvals
+Users of UCR electronic resources must abide University policies regarding the use of the
+
+University's name, seal, or trademarks. The University's name, seal, or trademarks may not be
+used without appropriate authorization. For example, students may not include the University
+seal on their web sites without authorization.
+5. Activities that imply representation on behalf of UCR
+Users of campus electronic resources may not give the impression that they are representing or
+otherwise making statements on behalf of UCR or any department, unit, or sub-unit of the
+university unless appropriately authorized to do so. For example, the University name may not be
+included in advertisements for products or services without authorization to imply University
+affiliation or endorsement.
+6. Activities that cause excessive strain on campus electronic
+communication
+University electronic communications resources shall not be used in a manner that could
+reasonably be expected to cause excessive strain on any campus electronic communications
+resource or unwarranted or unsolicited interference with othersÕ use of electronic communications
+resources. For example, campus electronic resources may not be used to send spam, or engage
+in denial of service attacks. In addition, excessive bandwidth usage that adversely affects
+campus network services is prohibited and may result in restrictions on access.
+7. Operation of personal web servers
+Students may not operate personal web servers on campus, or using campus resources. This
+includes, but is not limited to, the establishment of web servers for commercial purposes,
+personal websites, or student organization websites.
+What you can expect as an Electronic Communications user atUCR1. Access and Access Restrictions
+Duration of Access
+ Ð In general, students' access to electronic communication services will
+remain active for approximately one quarter, or indefinitely in the case of Gmail services, after
+graduation.
+Accessibility
+ Ð All electronic communications resources intended to accomplish the academic and
+administrative tasks of the university shall be accessible to allowable users with disabilities in
+
+compliance with law and UC policies
+Access Restrictions
+ Ð Access to campus electronic resources may be restricted when there is
+substantial reason to believe that violations of law or University policies have taken place, or
+when time-dependent, critical operational circumstances exist. Violations of law or University
+policies include, but are not limited to, excessive bandwidth use, enough to cause network
+performance degradation, continued off-campus complaints with no response from on-campus
+responsible parties, verified open proxy or open mail servers, attacks observed by Computing &
+CommunicationsÕ network monitoring systems, and verified DMCA violations. 
+Backups and Data Retrieval
+ Ð Electronic communications are routinely backed-up. However, this
+is only for purposes of system integrity and reliability, to support data restoration in cases of disk
+failure, and is not designed to provide for future information retrieval.
+2. Policy Enforcement
+Violations of the ECP may result in revocation of access to a single resource, a combination of
+resources, or all campus electronic resources, depending upon the violation. 
+UCR in general cannot be the arbiter of the contents of electronic communications. Moreover, the
+University cannot always protect users from receiving electronic communications they might find
+undesirable or offensive.
+3. Security, Confidentiality and Privacy
+UCR does not routinely collect information about an individualÕs web use or sites visited. Except
+when tracking a reported crime, the monitoring of web sites visited, or web use in general, is not
+permitted under U.C. policy. UCR does not routinely inspect, monitor, or disclose electronic
+communications without the holderÕs consent. UCR only permits the inspection, monitoring, or
+disclosure of electronic communications records without the consent of the holder of such
+records when one or more of the following apply AND when appropriate campus approvals have
+been obtained: When required by and consistent with law.
+When there is substantiated reason to believe that violations of law or of University
+policies have taken place.
+When there are compelling circumstances for which failure to act might result in significant
+bodily harm, significant property loss or damage, loss of significant evidence relating to
+violations of law or UC policies, or significant liability to the UCR or to members of the
+
+university community
+When there are time-dependent, critical operational circumstances and when failure to act
+could seriously hamper the universityÕs ability to function administratively or to meets its
+teaching or research obligations.
+References:UCR Overview and Implementation of the Electronic Communications Policy
+UC Electronic Communications Policy
+Digital Millennium Copyright Act (DMCA)
+ General Campus InformationUniversity of California,
+Riverside900 University Ave.
+Riverside
+, CA 92521Tel: 
+(951) 827-1012
+UCR Libraries
+Campus Status
+Campus Store
+Career Opportunities
+Diversity
+Maps and Directions
+Visit UCR
+Department InformationStudent Computing Services
+2103 Watkins Hall
+Tel: (951) 827-6495
+Fax: (951) 827-2726
+E-mail: 
+helpdesk@student.ucr.edu
+Related LinksStudent Computing Services
+Legal2Share
+DMCA Information
+Visit UCRÕs Facebook page
+Follow UCR on Twitter
+Visit UCRÕs YouTube
+channel
+Feedback
+ Privacy Policy
+ Terms and Conditions
+ © 2015 Regents of the University of California
+ Last modified: 2015-Oct-
+12

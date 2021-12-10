@@ -1,0 +1,90 @@
+Purpose This document establishes the policy for acceptable use of information technology resources at St. Thomas University(STU).
+The University community is based on principles of honesty, academic integrity, respect for others, and respect for others' privacy and property; thus, The University seeks to:
+Protect the confidentiality and integrity of electronic information and privacy of its users, to the extent required or allowed under federal and state law; and
+Ensure that the use of electronic communications complies with the provisions of University policy and state and federal law; and
+Allow for the free exchange of ideas and support of academic freedom.
+
+Scope: This policy applies to all users of and information technology(IT) resources owned, operated, or provided by STU including its campus, institutes, and administration.
+includes but is not limited to students, faculty, staff, contractors, agents, technology resources.
+Information transmitted or stored on University IT resources is the property of the University unless it is specifically identified as the property of other parties.
+Definitions
+Unit: An operational entity such as a Campus, Institute, division, or department.
+
+Sensitive Information: Information that is protected against unwarranted disclosure.
+Protection of sensitive information may be required for legal, ethical, privacy, or proprietary considerations.
+Sensitive information includes all data which contains: Personally Identifiable Information, Protected Health Information, student education records, card holder data, or any other information that is protected by applicable laws, regulations, or policies.
+
+Procedures The University adopted the policy principles as established in the National Institute of Standards(NIST) 800 series of publications, and this policy is based on those guidelines.
+The Vice President for Administration has designated the Chief Information Officer(CIO) as the position responsible for information security at the University.
+The University must develop or adopt and adhere to a program which demonstrates compliance with this policy and related standards.
+This program is the responsibility of the Chief Information Officer.
+Each User of University resources is required to be familiar and comply with University policies.
+Acceptance of this policy is assumed if a User accesses, uses, or handles University resources.
+Policy
+User Privacy There should be no expectation of privacy on the part of the User.
+Users should be aware that any activity on University systems and networks may be monitored, logged, and reviewed by university approved personnel or may be
+All documents created, stored, transmitted, or received on university computers and networks may be subject to monitoring by systems administrators.
+
+Users WILL Comply with all University policies to ensure confidentiality, integrity, and availability of university resources under their control.
+Only use University resources for which the User has authorization.
+Be responsible for using University-approved resources for electronic data and understanding the back up and retention policies associated with those resources.
+Control and secure physical and network access to University resources, including data.
+Properly log out of sessions.
+Monitor access to their accounts.
+If a User suspects unauthorized activity or that their account has been compromised, they must report the compromise to the Central Help Desk(CHD), and change passwords immediately(stuhelpdesk@stu.edu) Install, use, and regularly update virus protection software, as directed by the IT team.
+Use only supported and patched applications and operating systems on University-owned devices.
+Exceptions must be documented and approved by the CIO or their designee.
+Where technically possible, abide by the password protection best practices specified for each University resource.
+Use only the passwords and privileges associated with their computer account(s) and use those account(s) only for their authorized purpose.
+Respect and honor the rights of other individuals with regard to intellectual property, privacy, freedom from harassment, academic freedom, copyright, and use of University resources.
+Use University provided software in a manner that strictly adheres to all licensing provisions, including installation, use, copying, number of simultaneous users, and
+Users WILL NOT Share access codes or passwords.
+Use accounts, access codes, privileges or IT resources for which they are not authorized.
+Tamper, modify, or alter any restrictions or protections placed on their accounts, the Physically damage or vandalize University resources.
+Commit copyright infringement, including file sharing of video, audio, or data without permission from the copyright owner.
+Use University resources to introduce, create, or propagate SPAM, PHISHING email, computer viruses, worms, Trojan horses, or other malicious code.
+Obtain extra University resources or gain access to accounts for which they are not authorized.
+
+Attempt to degrade the performance or availability of any system or to deprive authorized Users access to any University resources.
+Misrepresent their identity with actions such as IP address "spoofing," email address falsification, or social engineering.
+Send email chain letters or mass mailings for purposes other than official University business.
+Use University resources as an email relay between non-university email systems(routing email through university email systems between two non-university systems).
+Engage in activities that violate state or federal law, a University contractual obligation, or another University policy or rule including but not limited to Human Resources policies and Standards of Conduct for students.
+Comment or act on behalf of the University over the Internet without authorization.
+Connect devices(such as switches, routers, hubs, computer systems, and wireless
+Use of any device or application that consumes a disproportionate amount of network bandwidth without prior authorization.
+Include or request Sensitive Information be included in unprotected electronic communication(email, instant message, text message, etc.).
+University Rights The University reserves the right to access, monitor, review, and release the contents and activity of an individual account(s) as well as that of personal Internet account(s) used for University business.
+The University reserves the right to access any University owned resources and any non-University owned resources on University property, connected to University networks, or containing University data.
+This action may be taken to maintain the and the rights of other authorized Users.
+Additionally, this action may be taken if the security of a computer or network system is threatened, misuse of University resources is suspected, or the University has a legitimate business need to review activity or data.
+This action will be taken only after obtaining approval from the CIO, an authorized University office(e.g.
+Office of the Vice President for Administration, or Office of Human Resources), or in response to a subpoena or court order.
+Copyrights and Licenses Violation of copyright law or infringement is prohibited by University policy and state and federal law.
+Any unauthorized use of copyrighted material, may subject the User to disciplinary action as a violation of one or more provisions of the general standard of conduct in the student handbook or to discipline under the Code of Conduct in the Human Resources Policy and Procedures(XXX check this reference).
+Software may not be copied, installed, or used on University resources, except as permitted by OIT, the owner of the software, and the law.
+Page of University-wide Policy: OIT0100- Acceptable Use of Information Technology Resources Version: Effective Date: 1/31/2020 Users will use properly licensed software and strictly adhere to all licensing provisions, including installation, use, copying, number of simultaneous users, and terms of the license.
+All copyrighted information, such as text and images, retrieved from University resources or stored, transmitted, accessed, or maintained with University resources must be used in compliance with applicable copyright and other laws.
+Copied material must be properly credited using applicable legal and professional standards.
+Each Unit is responsible and accountable for maintaining records of purchased software licensure.
+The providing organization is responsible for maintaining records and information related to centrally provided software.
+These records are subject to internal audit for compliance.
+Personal Use University Resources are provided for use in conducting authorized University business.
+All users are prohibited from using these resources for personal gain, illegal activities, or obscene activities.
+The prohibition against using the University's IT resources for personal gain does not apply to: Scholarly activities, including the writing of textbooks or preparation of other teaching materials by faculty members.
+Consulting and other activities that relate to a faculty member's professional development or as permitted under University policy.
+Incidental or casual personal use of these resources is permitted by this policy, except
+Page of University-wide Policy: OIT0100- Acceptable Use of Information Technology Resources Version: Effective Date: 1/31/2020 when such use: Is excessive or interferes with the performance of the User's University responsibilities.
+Results in additional incremental cost or burden to the University's resources.
+Violates any state or federal law or is otherwise in violation of this or any other University policy.
+Results in additional risk to the confidentiality, integrity, and availability to the University IT resources may not be used for commercial purposes, except as specifically permitted under other written university policies or with the written approval of the CIO.
+Any commercial use of University IT resources must be properly related to University activities and provide for appropriate reimbursement of taxes and other costs the University may incur by reason of such use.
+The ".edu" domain on the Internet has rules restricting or prohibiting commercial use.
+Activities not appropriate for the ".edu" domain but otherwise permissible using University resources must use other domain designations.
+There is no presumption of privacy for personal use of University systems e.
+accessing personal email or social media accounts via University provided devices and/or networks.
+Misuse of IT Resources Users must report all suspected or observed illegal activities to the appropriate University or Campus administrative office.
+Examples include theft, fraud, copyright infringement, illegal electronic file sharing, sound or video recording piracy, hacking, and viewing or distribution of child pornography.
+Page of University-wide Policy: OIT0100- Acceptable Use of Information Technology Resources Version: Effective Date: 1/31/2020 Abuse of networks or computers at other sites through the use of University resources will be treated as an abuse of resource privileges.
+
+Sunset Review This policy will be reviewed every three(3) years to ensure that it remains up to date with current and best practice.

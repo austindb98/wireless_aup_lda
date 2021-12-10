@@ -1,0 +1,82 @@
+Wired(Ethernet) access is available in all classrooms, residence hall rooms, and staff offices.
+Wired access ports in residence hall rooms is disabled by default; you will need to contact IT Services to enable them.
+Wireless(WiF access Guests and students may connect to the student SSID.
+No password is required.
+Wired Network To connect your computer to the wired network, you will need an Ethernet cable, available from the IT Help Desk or for purchase from technology retailers.
+All classrooms and staff offices are connected to the campus data network via Ethernet-based local area network(LAN).
+Network Help Report a network or connection issue here.
+Student Computer Support Bethany ITS offers limited free support for problems related to the network or student accounts.
+The college help desk staff will help with hardware or software issues as time permits.
+Students are also encouraged to seek out other technically savvy students or work with the vendor of the computer.
+Data Safety While users data stored on Bethany network servers is regularly backed up and every effort is made to provide for the security of this data, we guarantee the safety of the files only over the period of the school-year session.
+For additional safety and security, users are strongly encouraged to have their own copies of all data on their personal computers or removable storage, particularly as they leave for breaks.
+All non-returning students are strongly encouraged to back-up their data prior to their departure from Bethany.
+Your files will be removed according to the following schedules: Bachelor of Arts graduates: files will be removed from the BLC servers in the course of routine systems maintenance over the summer following graduation.
+Transfers, and other students not returning to Bethany: student files will be saved on Bethany servers until the 10th day of class in the Fall semester.
+If students are not enrolled by the 10th day of classes, their files will be removed.
+Data Privacy Users should be aware there are no facilities provided by Bethany systems for sending or receiving confidential messages.
+ITS staff have the right to suspend or modify computer access privileges, examine files, passwords, accounting information, printouts, tapes, and any other material, and to monitor and read email messages and web access.
+Whenever possible, the cooperation and agreement of the user will be sought in advance.
+Users are expected to cooperate in such investigations when requested.
+Failure to do so may be grounds for cancellation of computer access privileges.
+Users should not expect total privacy of email, or any other Internet-based communications.
+Because the amount of server space for each user is limited to GB, ITS reserves the right to delete certain types of non-academic files from the server that exceed this limit.
+Web Access The World Wide Web and related library resources provide access to local and global scholarly resources.
+In keeping with our mission of teaching, research, and public service, Bethany supports the use of the Web by its students, faculty, and staff in their roles as information publishers and consumers.
+Note that access to some sites is blocked by our network.
+Web Publishing Policy The Bethany Lutheran College homepage and associated upper-level pages are official publications of the college.
+For many people, the college homepage is the first point of contact with Bethany.
+Decisions on content and departments permitted on the site are guided by the Coordinator of Web Development under the guidance of the Director of Institutional Communication.
+In order to achieve consistency and maintain an up-to-date site, all postings must be channeled through the Coordinator of Web Development.
+The design and content of departmental pages are the responsibility of individuals within the department.
+Help may be sought from the web staff to ensure all pages conform to Bethany publishing guidelines.
+Pages linked to the Bethany web site may be created by officially constituted academic departments, faculty, administrative departments, or with prior approval, by student groups.
+Web Publishing Guidelines Students are allowed to create web sites and are required to do so for some of their courses.
+In general, student pages are not linked from the college Web site although they may be linked from a departmental or course page.
+Follow these guidelines for students course Web pages: Web pages are to be designed to avoid consuming an unreasonable amount of bandwidth, disk space and CPU time, or interfering with the activity of other users To ensure stable operation of web services, usage limits will be established as needed, taking into consideration such factors as available resources, number of users, patterns of use, and expected growth in demand for this campus-wide service.
+Due to network bandwidth constraints, students are not permitted to use their personal computers to serve web pages or to act as other types of servers.
+The college reserves the right to edit the content and limit the size of any Bethany-hosted web pages.
+ITS may also remove a page if it is in violation of this policy, other college policies, or found to be offensive.
+Internet Filtering Policy Purpose and Scope Bethany Lutheran College has chosen to provide Internet services in order to facilitate access to information that is useful for students in achieving their academic goals and for faculty and staff who assist the students in fulfilling their goals.
+As a reflection of the Bethany Lutheran College s mission statement, the College chooses to not provide resources that it believes to be contrary to the educational and spiritual mission of the College.
+In the same manner in which the BLC Library selects resources for inclusion in its offerings based upon usefulness in fulfilling the academic mission of the College, Internet service is designed to offer a positive addition to the academic resources available to students, faculty and staff.
+Just as some publications are not suitable for inclusion in the College library, some Internet sites are not suitable for access through the College network.
+Review of Sites As the Internet is constantly growing and changing, the College does not claim the ability to monitor the content and quality of all sites.
+We have chosen to limit access to certain categories of content that do not seem to have any inherent academic value and are likely to contain material at odds with the mission of the College.
+Such distinctions are by definition subjective.
+Some sites that are legitimate for academic research will inadvertently be blocked.
+While it can block many categories, we currently have the following limited for our connection.
+Illegal and/or adult content such as child and adult pornography is blocked.
+Copyright-infringing and gambling sites are blocked.
+Paper mill sites, which facilitate cheating, are blocked.
+File sharing applications are limited in available bandwidth.
+This is part of our compliance with the Higher Education Act.
+Known virus, phishing, spyware and proxy sites are blocked.
+Our Internet filter is managed by our staff.
+If there is an obvious category of sites that are legitimate by College standards and are necessary for academic work at BLC, users should contact the Director of Information Technology or by the Dean of Students and request a review.
+Peer-to-Peer File Sharing Peer-to-Peer file sharing(P2P) is prohibited on the campus network at Bethany Lutheran College.
+This includes the illegal downloading or sharing of copyrighted materials, including music, games, and videos.
+Our network management software is set to restrict bandwidth for known file sharing programs.
+Any computer running P2P software will be blocked from campus network access until the software has been removed from the computer.
+A Systems Administrator in IT must verify removal of the P2P software before network access is restored.
+It is illegal.
+Copyright Act and Digital Millennium Copyright Act of 1998 prohibit the distribution or sharing of copyrighted work without the copyright owner s permission.
+It is dangerous.
+The peer-to-peer software that is used for file sharing may bypass your computer s operating system security and open your entire computer, along with your personal information, to anyone on the Internet.
+It degrades our network performance.
+Because it is the nature of these programs to share your files with as many computers as possible, the resulting volume of network traffic can slow down or disable our entire network.
+The RIAA and other organizations have launched punitive lawsuits against both colleges and individual students over peer-to-peer file-sharing networks, and we wish to protect both the college and our students from costly litigation.
+We try to allow access to legal online music distributors, such as iTunes, Spotify, Pandora, iHeartRadio and Last.fm, though you may be unable to connect during peak traffic times.
+The Recording Industry Association of America(RIAA) maintains a list of legal online music sources.
+Gaming Bethany s network gives priority to traffic that is more likely to be academic in nature.
+As such, only a limited amount of bandwidth is available for gaming, so you may be unable to connect during peak traffic times.
+The status of on-line gaming servers, of course, is beyond our control.)
+You may want to contact the IT Helpdesk to have the Ethernet ports in your dorm room activated, since wired connections are much more stable, and frequently faster.
+If our web filter has blocked some of the connection traffic from your game, please contact the IT Helpdesk for assistance.
+Bethany does not block specific ports.
+Please note that we give lower priority to gaming-related support requests.
+New Connections To maintain order and security, data network connections are made only by specialized personnel under the direction of the Information Technology Services department.
+You are encouraged to attach appropriate equipment only at existing user-connection points.
+All requests for additional campus-wide data network connections or for the relocation of a connection should be directed to the Information Technology Services department.
+Bethany Lutheran College provides Christian higher education in a challenging academic environment where personal mentoring guides students to pursue knowledge, truth, and discernment for productive and fulfilling lives.
+Cached page generated by WP-Super-Cache on 2021-11-15 23:15:13 Compression = gzip

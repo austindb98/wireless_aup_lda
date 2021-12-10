@@ -1,0 +1,287 @@
+  Administrative 
+Polic
+y and 
+Procedure
+ Library
+    Information Security 
+Program
+ Acceptable Use 
+Policy for
+ UHCL 
+Public 
+Computers and Networks
+ (ISPOL04
+)     
+ 
+ Date Issued: 
+November 17, 
+2016 Last Revision: 
+December 11, 2017
+ 
+ University of Houston
+-Clear Lake
+ Administrative Policy and Procedure Library
+ Information Security Program
+ Acceptable Use 
+Policy for
+ UHCL Public Computers and Networks (ISPOL04)
+   Table of Contents
+ December 11, 2017
+ - Page 
+i  Table of Contents
+ I. Purpose and Scope
+................................................................................................................. 1 II. Applicability
+ ............................................................................................................................ 1 III. Policy
+ ...................................................................................................................................... 2 A.
+ Restrictions on Use of UHCL Public Technology
+ ........................................................................... 2 B.
+ Activities Deemed as Inappropriate
+ ............................................................................................. 2 C.
+ Public Wireless Disclaimer
+ ............................................................................................................ 3 IV.
+ Revision Log
+ ........................................................................................................................... 4 V. Policy Review Responsibility
+ .................................................................................................. 4 VI.
+ Approval
+ ................................................................................................................................. 4   
+ University of Houston
+-Clear Lake
+ Administrative Policy and Procedure Library
+ Information Security Program
+ Acceptable Use 
+Policy for
+ UHCL Public Computers and Networks (ISPOL04)
+    II. Applicability
+   December 11, 2017
+                    - Page 
+1 of 
+4         I. Purpose and Scope
+ The University of Houston
+-Clear Lake (UHCL) provides public computers and wireless networks on 
+campus for use by the University™s students and by individuals visiting the campus who have a legitimate 
+University business
+-related need to access these facilit
+ies.  
+This document describes 
+the University™s 
+policy regarding the use of these public facilities
+.   II. Applicability
+ Any individual who is not a member of the University™s faculty or staff that:
+  Uses a UHCL owned or leased computer that is intended for 
+public use, 
+  Connects his or her personal computing device to the UHCL Public wireless network,
+ Must read, understand and agree to comply with the policies contained within this document
+.  UHCL faculty and staff are responsible for reading, understanding a
+nd complying with the policies 
+
+presented in the document entitled 
+Information Security Program Acc
+eptable Use Policy for UHCL 
+Information and Syst
+ems (ISPOL02)
+.    
+ University of Houston
+-Clear Lake
+ Administrative Policy and Procedure Library
+ Information Security Program
+ Acceptable Use 
+Policy for
+ UHCL Public Computers and Networks (ISPOL04)
+    III. Policy
+ B. Activities Deemed as Inappropriate
+  December 11, 2017
+                    - Page 
+2 of 
+4     III. Polic
+y A.
+ Restrictions
+ on Use of UHCL Public Technology
+ Anyone who 
+is not a member of the UHCL faculty or staff that uses 
+UHCL
+-owned or leased,
+ publicly 
+accessible computer or network
+, must comply with 
+this policy
+ and all applicable 
+federal, state, and local 
+laws.  
+A complete manual of 
+UHCL 
+policies and procedures is available at 
+www.uhcl.edu/computing/information
+-security/policies
+. Users have no expectation of privacy except as otherwise provided by applicable privacy laws.  
+Usage 
+of 
+UHCL publicly
+-accessible technology 
+may be subject to security testing and monitoring
+.      B. Activities Deemed as Inappropriate
+ The following activiti
+es are considered highly inappropriate.  As such, performing any of the following 
+activities using a UHCL computing 
+device or the UHCL network may result in
+ disciplinary action up to and 
+including separation of employment, termination of contract
+, and/or c
+ivil or criminal penalties:
+  Creating, reproducing, accessing, forwarding
+, or sharing information in any form that:
+ o UHCL is required to protect by law, contract or policy,
+ o Violates
+ a federal, state or local law,
+ a software license agreement
+, or copyright; 
+ Note 
+- The policy and procedures related to specific copyright issues defined by the Digital 
+Millennium Copyright Act (DMCA) can be found in the University of Houston™s System 
+
+Administrative Memorandum entitled 
+SAM 07.A.04 
+- Digital Millennium Copyright Act
+. o May
+ be deemed as discriminatory or offensive to individuals based upon their race, religion, 
+nationality, color, gender, sexual preference, 
+or 
+disabil
+ity,
+ o Is perceived as harassment toward any individual, group
+, or organization,
+ o Serves any commercial purpose
+ including product advertis
+ing material
+, 
+ o Is related to any form of 
+political lobbying
+, or
+ o Is considered unprofessional
+ or disrespectful
+; 
+ University of Houston
+-Clear Lake
+ Administrative Policy and Procedure Library
+ Information Security Program
+ Acceptable Use 
+Policy for
+ UHCL Public Computers and Networks (ISPOL04)
+    III. Policy
+ C. Public Wireless Disclaimer
+  December 11, 2017
+                    - Page 
+3 of 
+4      Performing
+ any activity that:
+ o Involves the i
+ntentional running 
+of 
+any software or perform any procedure designed to 
+ﬁhackﬂ into any computing or network device, 
+ o Damage
+s the integrity of the data or programs stored on any computer or network device
+, o Initiates or 
+conti
+nues to proliferate e
+-mail SPAM, or
+ o Disrupt
+s or degrades 
+computing or 
+network resources
+; or
+  Using a
+ny
+ UHCL
+-owned or leased 
+computing device and/or
+ the UHCL 
+network
+, to communicate 
+with individuals who may have compromised 
+a system
+, with
+ the 
+hope of re
+storing altered, 
+encrypted
+, or 
+otherwise 
+destroyed data
+;  C. Public Wireless Disclaimer
+ The UH
+CL
+ public
+ wireless 
+network is 
+an 
+unsecured
+ network
+, and information transmitted over the UH
+CL 
+public
+ wireless n
+etwork may be visible to other online users.  
+ Users are solely responsible for taking appropriate 
+actions 
+to protect their private or personal 
+information 
+transmitted 
+using the UH
+CL
+ public
+ wireless 
+network.  
+ The University of Houston
+-Clear Lake
+ is not liable for the loss, destruction
+, or unauthorized
+ access or use 
+of information transmitted over the UH
+CL
+ public
+ wireless 
+network.
+    
+ University of Houston
+-Clear Lake
+ Administrative Policy and Procedure Library
+ Information Security Program
+ Acceptable Use 
+Policy for
+ UHCL Public Computers and Networks (ISPOL04)
+    VI. Approval
+   December 11, 2017
+                    - Page 
+4 of 
+4     IV.
+ Revision Log
+ Revision 
+Number
+  Approval
+ Date
+  Description of Changes
+ 1  07/12
+/2016
+  Initial version
+ 2  12/11
+/2017
+  a) Updated of all document links to be consistent 
+with 
+UHCL™s new website
+ b)
+ Updated name of UHCL President
+  V. Policy 
+Review Responsibilit
+y Responsible Parties:
+  Associate VP for Information Resources
+  Information Resource Manager
+  Information Security Officer
+ Review Period:
+  Annually on or before 
+February 28
+  VI. Approval
+  Glen Houston
+ Associate VP for Information Resources
+  Ira K. Blake
+ President
+   

@@ -1,0 +1,43 @@
+Audience The Bethel University Network Management Policy applies to individuals who are involved in the configuration, maintenance or expansion of the Bethel University network infrastructure.
+Policy General Bethel University IT owns and is responsible for the Bethel University network infrastructure and will continue to manage further developments and enhancements to the infrastructure.
+To provide a consistent network infrastructure capable of leveraging new networking developments, all category and fiber optic cabling must be installed by Bethel University IT or an approved contractor.
+Information security requirements must be included in any new information system or enhancements to the existing system.
+Appropriate technical solutions must be implemented to protect Confidential information from unauthorized transfer, modification or disclosure( e.
+next-gen firewalls, IDS/IPS, DLP).
+A map of the network and data flow, including external connections, must be maintained.
+All systems on the network must be authenticated.
+Connections to the network must be authorized by
+All hardware connected to the Bethel University network is subject to Bethel University IT management and monitoring standards.
+Documented baseline configurations must be maintained for all Information Resources that create, collect, store, and/or process confidential or internal information and all network connected resources must be configured to these specifications.
+Operating procedures for activities associated with information processing must be documented and made available to personnel who need access to them.
+Resource usage must be monitored to ensure the required system performance.
+Information processing facilities must address redundancy sufficient to meet availability requirements.
+Changes to the configuration of active network management devices must be made according to the Change Control Policy.
+The Bethel University network infrastructure supports a well-defined set of approved networking protocols.
+Any use of non-sanctioned protocols must be approved by Bethel University IT Management.
+All connections of the network infrastructure to external third-party networks are the responsibility of Bethel University
+Groups of information services, users and information systems must be segregated on the network.
+The perimeter of each domain should be well defined and based on the relevant security requirements.
+Network devices must be installed and configured following Bethel University implementation standards.
+The use of departmental network devices is not permitted without the written authorization from Bethel University IT Management.
+Personnel are not permitted to access or alter existing network hardware in any way.
+Wireless Networking All wireless access points or devices that provide access to the Bethel University wireless network must be approved by management.
+Wireless access points must be placed in secure locations.
+Wireless networks must be segmented using appropriate technical controls.
+Authentication settings(passwords, encryption keys, etc.)
+must be changed on a periodic basis, as well as anytime it is suspected that such information has been compromised, or if anyone with knowledge of the information leaves the organization.
+All wireless network traffic must be encrypted in accordance with the Bethel University Encryption Policy and supporting standards, regardless of information sensitivity.
+The Bethel University Wireless Network must not be used inappropriately; in particular persons must not use the network to: Intercept or attempt to intercept other wireless transmissions for the purposes of eavesdropping.
+Access or run utilities or services which might negatively impact the overall performance of the network or deny access to the network, e.g.
+Bethel University wireless network users must not tamper with network access points or security settings.
+Users must not connect to another wireless network and the Bethel University wireless network simultaneously.
+Wireless devices not connected to the network must not interfere with WiFi traffic occurring on Bethel University s network and may be blocked or removed if significant interference is detected.
+Bethel University will conduct scans of wireless access points and identify all authorized and unauthorized wireless access points at least quarterly.
+Enforcement Personnel found to have violated this policy may be subject to disciplinary action, up to and including termination of employment, and related civil or criminal penalties.
+Any vendor, consultant, or contractor found to have violated this policy may be subject to sanctions up to and including removal of access rights, termination of contract(s), and related civil or criminal penalties.
+Any changes you make will be marked as anonymous.
+You may want to Log In if you already have an account.
+Any changes you make will be marked as anonymous.
+You may want to Log In if you already have an account.
+This page is also being edited
+Your changes will be merged with theirs when you save.

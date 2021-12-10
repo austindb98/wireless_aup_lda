@@ -1,0 +1,19 @@
+Microsoft(Office) 365 Implementation
+These rules are not optional.
+All faculty, staff, and students are bound by their affiliation to the university to follow these rules.
+Ignorance of these rules is not a valid excuse for not following them.
+Students are governed by Student Rules.
+The sections relevant to using the campus network are Rule 22 - Acceptable Use and Appendix V: Individual Responsibility for Use of Computing Resources and Facilities.
+The policies relevant to using the campus network are: 29.01.03.M0.01 - Security of Electronic Resources; 29.01.03.M0.02 - Acceptable Use; 25.99.09.M0.01 - Communication Allowances; 29.01.03.M0.08 - Network Access; and Security Control AC-18 Wireless Access.
+The following are violations that will result in suspension of network access and disciplinary action: Unapproved attachment of wireless access points in Texas A&M residence halls.
+Any attempt to bypass the campus network firewall.
+This includes running any service on a port other than the well-known port for that service.
+Any attempt to bypass the DHCP system or use any IP address that has not been assigned by the DHCP server.
+Intentional disruption or interference of someone else's ability to operate a machine.
+Unauthorized possession of copyrighted material.
+Any attempt to compromise the security policies of any other computer.
+Distribution of unsolicited bulk or commercial email(SPAM).
+Use of any A&M resource for commercial use, including but not limited to the Internet, campus network and telephone lines.
+Support From immediate assistance on Security Controls, implementation, or compliance, we re here to help.
+View Support FAQs Get answers to frequently asked questions about IT Policy.
+View FAQs Glossary Follow the letter-of-the-law by understanding specific terms in IT Policy, Risk and Security.

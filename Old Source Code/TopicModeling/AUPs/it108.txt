@@ -1,0 +1,145 @@
+1  NUMBER: 
+ IT 1.08
+   SECTION: 
+ Information Technology
+   
+SUBJECT: 
+ Computer Software Licensing and Distribution
+   
+DATE: 
+ January 5, 1999
+   
+REVIS
+ED:  September 2
+, 2010   
+Policy for: 
+ All Campuses
+  Procedure for: 
+ All Campuses
+  Authorized by:
+ William F. Hogue
+  Issued by:
+  Office of Information Technology
+ __________________________________________________________________________  
+ 
+I.  Policy
+   
+All 
+computer software 
+resid
+ing
+ on University
+-owned computers must be properly licensed or 
+have written 
+or verifiable 
+permission for its use or distribution.
+   
+ 
+II.  Procedure
+   
+A. 
+ Responsibility of Departments
+  1.  Departments should be prepared to validate that all 
+software 
+loaded 
+on, or 
+
+accessed by,
+ University
+-owned
+ computer
+s is compliant with all applicable 
+copyright and usage requirements, 
+including any limitations on use and 
+distribution.  This includes software which is 
+given to the 
+department on a limited 
+or permanent basis 
+for experimental
+, evaluation
+ or research purposes
+, as well
+ as 
+freeware
+, shareware, or open source software.  
+   2.  Personally acquired, licensed, or purchased software should not be installed on
+ 
+computers
+ that access University data networks without prior departmental 
+approval.
+   Departments should educate faculty, staff, and students that personally 
+
+purchased, licensed, or acquired software (including freeware, shareware, or open 
+
+source software
+) that is installed on computers that access University data 
+networks may have unintended consequences in a networked environment, 
+
+including interference with ot
+her applications on the network; t
+his
+ includes 
+personally owned computers.  
+  3. Any software 
+on University
+-owned computers
+ that is not 
+compliant
+ with 
+applicable copyright and usage requirements as specified
+ above 
+should
+ be 
+removed from
+ the computer 
+immediately.
+  
+2   B. 
+ Responsibility of University Technology Services 
+   
+ University Technology Services will negotiate bulk software licenses or campus site 
+
+licenses fo
+r the University to reduce costs when possible and will provide mechanisms to 
+distribute software to the University community based on the terms of the licenses. 
+   
+C. 
+ Consequences
+  Violation of any portion of this policy may result in loss of account or 
+network privileges, 
+
+initiation of legal action by the University, and/or disciplinary action.  
+  
+ 
+III. 
+ Related Policies
+  
+See also:
+  
+University Policy 
+HR 1.39
+ Disciplinary Action and Termination for Cause
+ University Policy 
+STAF 4.12
+ Procedures for Respondi
+ng to Violations
+ University Policy 
+STAF 6.26
+ Student rights and Hearing Procedures
+ University Policy 
+ACAF 1.33
+ Intellectual Property Policy
+ University Policy 
+IT 1.06
+ Acceptable Use of Information Technology
+  
+ 
+IV. 
+ Reason for Revision
+  
+The policy was update
+d to more clearly define the responsibili
+ties of departments and University 
+Technology Services
+, more clearly define consequences, and reflect current IT best practices.  
+ 

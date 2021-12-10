@@ -1,0 +1,29 @@
+September 8, 2020) Purpose: Colorado Mesa University provides network and Internet access to students, faculty, staff, and guests for academic, research, and administrative purposes.
+The University is responsible for the security, lawfulness, and reliability of the network.
+Colorado Mesa University s Information Technology Department reserves the right to disconnect, without warning, any computer or network-attached device that poses a security or performance risk to the campus network.
+User network activity inconsistent with this Agreement may result in the loss of network privileges.
+By registering your computer or network device, you agree to the following terms and conditions: Terms and Conditions General: All computers having network and Internet access must be used in a responsible, ethical, and legal manner.
+At all times users must adhere
+local, state, and federal laws;
+copyright law, and other intellectual property rights and laws;
+Facility Use Data: Colorado Mesa University may use Facility Usage Data derived from the university One Card and the network, such as card swipe data and wireless access point association logs, to determine how facilities are used as well as help gauge the effectiveness of student programs and learning resources for student success initiatives.
+Liability: Student violation of the Terms and Conditions are considered an infraction of the Student Code of Conduct.
+Student sanctions will be in accordance with The Maverick Guide.
+Employee violation of the Terms and Conditions is considered unprofessional conduct, subject to sanctions as set forth in the Professional Personnel Employee Handbook, State Personnel System Employee Handbook, and State Personnel Board Rules.
+Unlawful actions through the use of the network may result in civil or criminal action against the offender by the proper authorities.
+If such an event should occur, Colorado Mesa University will fully comply with the authorities and legal requests for information.
+You are responsible for activities originating from your network connection.
+Do not share your login and password.
+Do not permit visitors or friends to use your connection in violation of these Terms and Conditions.
+Unacceptable use includes, but is not limited
+Illegally downloading and distributing copyrighted material, such as software, movies, music, and games, through the use of peer-to-peer(P2P) networking
+Congesting the campus network and Internet bandwidth and hampering the productivity of other network users
+Commercial or personal business use such as offering, providing, selling, or purchasing services or goods, including reselling campus network services
+Installing or setting up any type of wireless network device such as a router, access point or switch
+Knowingly or inadvertently spreading malicious software such as viruses and worms, or otherwise attempting to disrupt the performance of another system on the network or Internet, or destroying the data of another user;
+Using software or hardware to hack or attempting to discover and obtain user accounts and passwords, or spy on the network traffic of other users of the campus network and systems
+Bypassing, disrupting, or disabling the security or operation of the campus network or devices attached to the network
+Participating in any illegal activity including, but not limited promoting child pornography, distributing obscene material, threatening the safety of persons, etc.
+and Using University computers or networks to harass an individual or group or for any other action against University policy Yes, I agree to the terms outlined above.
+If you do NOT agree to these terms, click here to end this session.
+Continue as [username]

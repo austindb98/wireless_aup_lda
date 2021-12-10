@@ -1,0 +1,365 @@
+Appropriate Use of Information Technology Resources
+ 
+IT
+-
+01
+ 
+
+ 
+
+
+ 
+Scope
+ 
+
+ 
+Policy Statement
+ 
+
+ 
+Reason fo
+r Policy
+ 
+
+ 
+Procedures
+ 
+
+ 
+Definitions
+ 
+
+ 
+Sanctions
+ 
+
+ 
+History
+ 
+About This Policy
+ 
+Effective dates:
+ 
+05
+-
+23
+-
+2006
+ 
+Last updated:
+ 
+08
+-
+17
+-
+2011
+ 
+Responsible University Office:
+ 
+Information Policy Office
+ 
+Responsible University Administrator:
+ 
+Office of the Vice President for Information Technology & Chief Information Officer
+ 
+Policy Contact:
+ 
+University Information Policy Office,
+ 
+uipo@iu.edu
+ 
+Policy Feedback:
+ 
+If you have comments or questions about this policy, Let us know with the
+ 
+policy 
+feedback form
+.
+ 
+Print or view a PDF of this policy
+ 
+Many policies are quite lengthy. Please check the page count before deciding 
+whether to print.
+ 
+Scope
+ 
+This policy applies 
+to all users of Indiana University information technology resources 
+regardless of affiliation, and irrespective of whether those resources are accessed from 
+on
+-
+campus or off
+-
+campus locations.
+ 
+Back to top
+ 
+Policy Statement
+ 
+Unless otherwise specified in this policy or other university policies, use of Indiana 
+University information technology resources is restricted to purposes related to the 
+university'
+s mission of research and creative activity, teaching and learning, and civic 
+engagement. Eligible individuals are provided access in order to support their studies, 
+
+instruction, duties as employees, official business with the university, and other 
+univers
+ity
+-
+sanctioned activities. Individuals may not share with or transfer to others their 
+university accounts including network IDs, passwords, or other access codes that allow 
+them to gain access to university information technology resources.
+ 
+Indiana Univers
+ity technology resources may not be used in a manner that violates the 
+law, for private commercial activities that are not approved by the university, for 
+personal private gain, or for political campaigning and similar activities that are 
+inconsistent with
+ 
+the university's tax
+-
+exempt status.
+ 
+Campuses, schools, colleges, departments, and other administrative units have 
+considerable latitude in developing complementary technology use policies and 
+procedures, as long as they are consistent with this policy and
+ 
+any other applicable 
+technology use policies of the university. Such policies may be more restrictive than 
+university policy, but must not be more permissive.
+ 
+Incidental personal use is an accepted and appropriate benefit of being associated with 
+Indiana 
+University's rich technology environment. Appropriate incidental personal use of 
+technology resources does not result in any measurable cost to the university, and 
+benefits the university by allowing personnel to avoid needless inconvenience. 
+Incidental pe
+rsonal use must adhere to all applicable university policies. Under no 
+circumstances may incidental personal use involve violations of the law, interfere with 
+the fulfillment of an employee's university responsibilities, or adversely impact or conflict 
+wit
+h activities supporting the mission of the university.
+ 
+Back to top
+ 
+Reason for Policy
+ 
+Computers, network systems, and other technologies offer powerf
+ul tools for creating, 
+communicating, and managing data, and for a host of other activities. Taxpayers, 
+students, and other groups providing sources of funding that support information 
+technology resources at Indiana University expect that these assets wil
+l be used in 
+support of the university's mission of research and creative activity, teaching and 
+learning, and civic engagement. In addition, the university and its constituents expect 
+that information technology resources at Indiana University will be use
+d in a lawful 
+manner.
+ 
+Back to top
+ 
+Procedures
+ 
+Determination of relation to mission
+ 
+If the relationship of a use of information technology resources t
+o the university's 
+mission is unclear, the University Information Policy Office (UIPO) or regional 
+campus Chief Information Officers (CIOs) will coordinate with campus 
+
+administration and the unit involved. These groups will determine whether the 
+activity i
+s an appropriate use of university information technology resources and 
+supports the mission of the university.
+ 
+Determination of incidental personal use
+ 
+The senior management of each university department or other administrative 
+unit is authorized to defin
+e and publish the acceptable level and nature of 
+incidental personal use by members of the unit. An employee's supervisor may 
+require the employee to cease or limit any incidental personal use that hampers 
+job performance or violates university policy. Uni
+versity technology service 
+providers will always place a higher priority on support of university
+-
+related 
+activities over any form of incidental personal use.
+ 
+Consultation
+ 
+The University Information Policy Office (UIPO) and/or regional Chief Information 
+Of
+ficers (CIOs) are available to provide consultation or advice related to 
+technology use or misuse to any university, campus, or unit administrators or 
+individual personnel.
+ 
+Back to top
+ 
+Definitions
+ 
+Commercial activities
+ 
+are defined as economic activities geared toward a mass or specialized market 
+and ordinarily intended to
+ 
+result in a profit, and that are not part of one's 
+university responsibilities. Commercial activities do not include the use of 
+information technology resources for one
+-
+time, minimal transactions, such as 
+students using their Indiana University email acco
+unts to communicate with 
+potential buyers for used textbooks or with potential sub
+-
+lessees. This type of 
+transaction is considered incidental personal use.
+ 
+Incidental personal use
+ 
+is the use of information technology resources by members of the Indiana 
+Uni
+versity community in support of activities that do not relate to their university 
+employment or studies or to other activities involving and approved by the 
+university. Examples include use of email to send personal messages to friends, 
+family, or colleagu
+es, including messages relating to one
+-
+time minimal sales or 
+purchase transactions, and use of the personal home page service to provide 
+information about personal hobbies or interests. If personal use adversely affects 
+or conflicts with university operati
+ons or activities, the user will be asked to cease 
+those activities. All direct costs (for example, printer or copier paper and other 
+supplies) attributed to personal incidental use must be assumed by the user.
+ 
+Information technology resources
+ 
+includes all
+ 
+university
+-
+owned computers, peripherals, and related equipment and 
+software; voice communications infrastructure, peripherals, and related 
+equipment and software; data communications infrastructure, peripherals, and 
+related equipment and software; all oth
+er associated tools, instruments, and 
+facilities; and the services that make use of any of these technology resources. 
+The components may be individually controlled (i.e., assigned to an employee) or 
+
+shared in a single
+-
+user or multi
+-
+user manner; they may b
+e stand
+-
+alone or 
+networked; and they may be stationary or mobile.
+ 
+Personal private gain
+ 
+is defined as securing profit or reward for an individual in his or her personal 
+capacity, that is not otherwise permitted by this policy.
+ 
+Political campaigning and sim
+ilar activities that are inconsistent with the university's tax
+-
+exempt status
+ 
+include campaign purposes that would further the interests of the candidate or 
+candidates of any one political party.
+ 
+Regional campus Chief Information Officer
+ 
+The primary respon
+sibility of a regional campus Chief Information Officer is the 
+development and use of information technology in support of the campus's vision 
+for excellence in research, teaching, outreach, and lifelong learning. He or she 
+also is responsible for dissemin
+ating information to the campus, coordinating 
+activities that involve more than one campus, fostering cooperation in areas such 
+as sharing technical expertise and training, and coordinating response and 
+resolution of problems on their own campus involving 
+information technology 
+issues.
+ 
+University Chief Information Officer
+ 
+The primary responsibility of the University Chief Information Officer is the 
+development and use of information technology in support of the university's 
+vision for excellence in research
+, teaching, outreach, and lifelong learning. The 
+University Information Policy Office (UIPO) represents the University Chief 
+Information Officer (CIO) with respect to policy issues related to the IU 
+Bloomington and IUPUI campuses.
+ 
+Back to top
+ 
+Sanctions
+ 
+Indiana University will handle reports of misuse and abuse of information and 
+information technology resources in accordance with existing policies and
+ 
+procedures 
+issued by appropriate authorities. Depending on the individual and circumstances 
+involved this could include the offices of Human Resources, Vice Provost or Vice 
+Chancellor of Faculties (or campus equivalent), Dean of Students (or campus 
+equiva
+lent), Office of the General Counsel, and/or appropriate law enforcement 
+agencies. See policy
+ 
+IT
+-
+02, Misuse and Abuse of Information Technology Resources for 
+more d
+etail
+.
+ 
+Failure to comply with Indiana University information technology policies may result in 
+sanctions relating to the individual's use of information technology resources (such as 
+suspension or termination of access, or removal of online material); the 
+individual's 
+employment (up to and including immediate termination of employment in accordance 
+with applicable university policy); the individual's studies within the university (such as 
+student discipline in accordance with applicable university policy); 
+civil or criminal 
+liability; or any combination of these.
+ 
+
+Back to top
+ 
+History
+ 
+
+ 
+Reviewed December 2011.
+ 
+
+ 
+Revised August 17, 2011: changed titles in
+ 
+San
+ctions
+ 
+section to more accurately 
+reflect current usage.
+ 
+
+ 
+Revised March 4, 2010: enhancing language in
+ 
+Sanctions
+ 
+section
+ 
+
+ 
+Approved: May 23, 2006
+ 
+
+ 
+Interim: September 5, 2000
+ 
+ 
+

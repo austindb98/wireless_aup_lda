@@ -1,0 +1,110 @@
+Custom Search
+Policy Code: 
+1392Approval Authority: 
+Chancellor
+Policy Type: 
+University Policy
+Policy Owner: 
+Academic Affairs
+Responsible Office: 
+Information Technology Services - 828.251.6404
+Administration
+Email Accounts Policy
+ (https://administration.unca.edu/print/135)
+I. PurposeEstablishes policies and procedures for the setup and maintenance of Email accounts.
+Note that Email accounts provide no access to University information resources, data,
+or administrative servers.
+II. ScopeApplies to UNC Asheville faculty, staff, students, alumni, retirees, volunteers, interns,
+vendors, guests and others requiring access to email services.
+III. PolicyInformation Technology Services (ITS) is responsible for administering the UniversityÕs
+Google Email system. The use of University Email accounts is a privilege extended to
+advance the teaching and learning, research, service, and administrative work that
+constitute the UniversityÕs mission. Email accounts may not be used for private gain.
+Use of the account must follow the guidelines in the UniversityÕs Computer Use Policy.
+Revision History
+
+A. Staff, Faculty, and Student Accounts
+Full or part-time employees (whether classified as faculty or staff) and all students are
+assigned an individual Email account.
+B. Generic AccountsWhen in the best interest of the University and upon request of unit heads, ITS will
+create Ògeneric emailÓ accounts to serve specific purposes not well served by personal
+accounts. The Ò
+ITS Generic Email Account Request Form
+ (http://its.unca.edu/policies-
+and-forms)
+Ó can be found on the ITS website. Typically these accounts represent
+functions such as online reference service in the library and can be accessed by
+multiple authorized personnel. These accounts are reviewed annually to verify their
+continuing utility and use. Disused accounts are deactivated.
+C. Retiree AccountsRetiree email accounts may be offered to retiring faculty and staff during their exit
+interview with Human Resources. Retiree email accounts are hosted by Google in a
+separate domain, ret.unca.edu. Although email and documents may not be migrated
+to retiree accounts, ITS will assist retirees in migrating their Contacts to their retiree
+account. Retiree accounts are provided without support by ITS.
+D. Alumni Accounts
+Alumni email accounts will be offered to graduates of UNC Asheville. Alumni accounts
+are hosted by Google in a separate domain, alumni.unca.edu. Alumni accounts are
+provided without support by ITS.
+E. Contract, Non-Agency Personnel, Volunteer, Vendor, and Guest AccountsAccounts may be requested by a department head for contract, non-agency
+personnel, volunteers, vendors, or guests. The Ò
+Non Agency Account Request Form
+(http://its.unca.edu/policies-and-forms)
+Ó can be found on the ITS website.
+Email accounts will typically be limited to employees of the University. On
+occasion, however, an account may be granted to a contractor, non-agency
+personnel, volunteer, vendor, or guest supporting a University unit, provided
+
+the supervision Department Head receives Vice Chancellor approval.
+Limited, fixed-term authorization for access by contract, non-agency
+personnel, volunteers, vendors, or guests requires:
+! A written request from the director or manager of the unit;
+! Such authorization will typically be limited to a maximum of 6 months;
+! Signed acceptance by a unit employee or the director/manager accepting
+responsibility for the actions of the contract, non-agency personnel,
+volunteers, vendors, or guests;
+! Approval by the appropriate Vice Chancellor;
+! The contract, non-agency personnel, volunteers, vendors, or guestÕs
+acceptance of University policies and procedures related to accessing
+University computers, networks, and data evidenced by the volunteerÕs
+completion of the "
+Non Agency Account Request Form
+(http://its.unca.edu/policies-and-forms)
+".It is the responsibility of the department head to notify ITS when the account should
+be deactivated if this occurs before the expiration date.
+IV. Password Expiration GuidelinesPasswords on all administrative email accounts expire every 90 days. Prior to the
+expiration date, users will receive an electronic message, prompting them to reset
+their password.
+V. Account Deletions
+Email accounts held by faculty and staff members are automatically deactivated after
+5:00 p.m. on the date entered as ÒLast Work DateÓ by the Human Resources
+Department. Email accounts for students are deactivated during an account cleanup
+process (typically performed after the census date in the fall and spring semesters).
+Accounts are disabled for any student that is deemed inactive.
+
+Associated Forms: 
+Account Request Forms
+ (http://its.unca.edu/policies-and-forms)
+VII. De
+!
+nitions
+Information Technology Security Officer is a person or persons designated by the UNC
+Asheville CIO who can verify that accounts are set up in accordance with the data
+manager's directives.
+HELPFUL LINKS
+Strategic Plan
+Facts & Figures
+University Advancement
+Finance
+Athletics
+Human Resources
+LATEST NEWSAlli Marshall to be Featured in Reading at UNC Asheville
+LEARN MORE
+CONNECT    Chancellor's Office, CPO 1400
+One University Heights
+Asheville, NC 28804
+Office: 828.251.6500
+Fax:  828.251.6495
+
+Email: 
+chanoffice@unca.edu
+

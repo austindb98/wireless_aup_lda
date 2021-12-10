@@ -1,0 +1,105 @@
+   
+    
+    
+       
+      
+       
+                                         USA Computer Use Policy 
+Purpose of This Policy 
+ To educate users about their responsibilities regarding acceptable use of University 
+computers/networks 
+ To describe and prohibit unacceptable use of University computers/networks 
+Computer Use Policy Summary 
+All persons using University of South Alabama computing and telecommunication resources 
+
+must comply with the University's Computer Use Policy. 
+The Policy applies to all computer workstations, servers, network devices, software, databases, 
+and related equi
+pment accessed directly or indirectly through the Internet. The University 
+encourages authorized users to make acceptable use of computer resources, consistent with its 
+
+educational, research, and service
+-related mission. Users must also comply with all app
+licable 
+federal and state laws and University regulations regarding intellectual property, including 
+
+federal copyright law, and with all applicable licenses or contracts regarding the use of software. 
+In situations where access to computer resources is limited, priority use of these resources must 
+be granted to educational and research
+-related activities. Recreational and personal use of 
+University computer resources is permitted only to a limited extent and only when they are not 
+
+needed for educational res
+earch activities. 
+Certain uses of University computer resources are never permitted. These include the following: 
+ Interfering with the operation of the USA computer and telecommunications systems, 
+
+including "hacking" or "cracking" 
+ Altering or damaging co
+mputer hardware or software 
+ Transmitting obscene communications 
+ Using unauthorized passwords or circumventing system security 
+ Broadcasting unsolicited messages ("spamming") 
+ Invading the privacy of another person 
+ Using University resources for personal commercial or financial purposes, including the 
+
+sales of lecture notes or the intellectual property of others 
+ Intentionally viewing, downloading, printing or sending unlawful material, including 
+
+pornography, threats, or harassing communications 
+Users are respo
+nsible for the accuracy of all information posted on the Internet or on University-
+related home pages. In addition, any University web site must be consistent with the guidelines 
+
+of USA Web Services, found at 
+http://www.southalabama.edu/webservices/webpolicies.html
+. The foregoing is a summary of key points of the official University of South Alabama Computer 
+
+Use Policy. Further details can be found in the individual sections below. Us
+ers are expected to 
+be familiar with it. Violation of the terms of the Policy can result in denial of privileges, and 
+
+    
+                 
+                
+    other penalties as outlined in the Policy. If there are any differences between this summary and 
+the official Policy, the terms of the Policy shall supersede this summary. 
+General Policy for Faculty/Staff 
+The University of South Alabama, through its Computer Services Center (CSC), provides an 
+
+academic network and multi
+-user Unix systems to be used by faculty, staff and students for 
+instructi
+onal and research activities. The CSC also houses the center of the University networks, 
+
+including the main campus fiber networks and the wide-
+area links to the USA Health Systems. 
+Anyone using the campus network, campus systems or computer equipment owned 
+by the 
+
+University must be authorized to do so, and must adhere to all guidelines stated in the 
+USA 
+Faculty/Staff Computer Use Policy
+. All University employees are required to adhere 
+to the policies listed throughout this document. 
+
+However, these policies do not preclude individual departments from making more specific 
+
+guidelines for their employees based on the nature of their work. 
+General Policy for Students 
+USA provides student access to computer resources through its departmental labs located 
+
+throughout campus. Students using these labs must adhere to all University policies regarding the 
+
+use of computers and computer networks, including the 
+USA Student Computer Use Policy
+. Lab privileges can be denied to anyone using this equipment for illegal or unethical purposes. 
+
+Any illegal behavior observed in the labs may be reported to appropriate University officials or 
+
+law enforcement agencies. All students are required to adhere to the policies pertaining to them 
+
+throughout this document. However, these policies do not preclude individual departments from 
+
+making more specific guidelines for their students or facilities. 
+

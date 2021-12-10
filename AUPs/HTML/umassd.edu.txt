@@ -1,0 +1,18 @@
+utility-bar-umassd COVID-19 Information /BREADCRUMB toggle left-menu sm-lg TOGGLE NAVIGATION SOCIAL FACEBOOK Share on Facebook /FACEBOOK TWITTER Tweet /TWITTER LinkedIn Share on LinkedIn /LinkedIn /SOCIAL PRINT Print this page /PRINT EMAIL Email this page /EMAIL /row /container /section secton wrap CLOSE Computer purchases Corsair Desktop Downloads Email FILP: Faculty instructional laptop program Instructional resources IT Learning Spaces Manage my Account Network and wireless access Office 365 Omnicharge PrintLess Self Service Software licensing Training UMassD Sites Zoom Services A-Z MAINCONTENT widget /widget section1 Wireless at UMass Dartmouth The university has deployed a wireless network that allows faculty, staff and students to connect to the Internet and other campus services in most areas on the main campus.
+This includes all academic buildings, study areas, cafeterias, and the Claire T. Carney Library, as well as the Residence Halls.
+Two wireless networks: eduroam and CorsairWiFi UMass Dartmouth has two wireless networks: eduroam and CorsairWiF
+eduroam Eduroam is a global academic wireless network.
+UMass Dartmouth students, faculty and staff can use their UMassD email address and password to access the eduroam network on campus, and when visiting other academic institutions.
+Learn more about eduroam Connect your mobile device to the eduroam network Android eduroam setup instructions Chromebook eduroam setup instructions iOS eduroam setup instructions MacOS eduroam setup instructions Windows 10 eduroam setup instructions CorsairWiFi The CorsairWiFi wireless network is used by visitors to campus, and for residents' game consoles and media streaming devices.
+Visit the Game Consoles and Media Streaming page for more information.
+Guests must register to gain 24 hours of access.
+Note that CorsairWiFi cannot be used to access campus email, the myUMassD portal, or most administrative systems.
+Wi-Fi Calling is available through both networks.
+Most smartphones and cell carriers support Wi-Fi calling which utilizes wireless connectivity to make calls when cell service is limited or not available.
+As a user of our network and computer systems, you are responsible for complying with these policies.
+To get help, please contact CITS at 508.999.8900 or use our online IT Help form(login required).
+Students are not allowed to setup a router for any reason.
+Routers cause interference with the campus network.
+section1 section2 /section2 section3 /section3 section4 /section4 section5 /section5 /MAINCONTENT Contact IT Service Centers address address /address 508.999.8900 Website Submit an IT Support Request Business Hours: M-F: 7:30am-5pm Please see IT Service Centers & Hours for service schedule and procedures.
+right col content Alerts Security news & virus alerts CryptoLocker malware alerts Students(PDF) Faculty & staff(PDF) /row /container /section modified top content Last modified: Fri, Aug 27, 2021, 01:51 by Richard Legault /modified takeover menu CLOSE MAIN MENU Check My Status myUMassD Support UMassD Directory COVID-19 Information search About Admissions Academics Research Outreach Student Life Athletics Alumni & Friends Current Students myUMassD is our web portal, a central location for email, notifications, services, and COIN: Corsairs Online Information.
+Take a virtual tour of the UMass Dartmouth campus.

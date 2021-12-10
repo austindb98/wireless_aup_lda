@@ -1,0 +1,22 @@
+This includes, but is not limited to, all workstations; phones; printers; servers; networks; bandwidth; software; databases; and computing hardware owned, contracted, or licensed by the University.
+Appropriate Use All users are responsible for exercising good judgment in the use of University information technology resources so as to not disrupt the primary academic and business functions that support the mission of the University; violate local, state or federal law; or create an atmosphere of harassment for others.
+The following specific classifications of appropriate use are intended to guide reasonable decision making for users, but as users of High Point University information technology resources you are expected to respect and safeguard the University's reputation and demonstrate stewardship for the consumption of University resources.
+Academic/Business Use The University provides members of our user community and approved guests with technology tools and resources for the primary purpose of supporting teaching, learning, and conducting the supporting business operations required to achieve the mission of the University.
+Use of University technology resources should be consistent with these defined purposes.
+Personal Use by Faculty and Staff The personal use of University information technology resources by faculty and staff should be incidental and kept to a minimum.
+Use of University resources for non-work related matters should be limited so that it does not prevent the employee from performing their assigned work responsibilities effectively and efficiently; prevent or interrupt other employees from performing assigned work responsibilities effectively and efficiently; or cause the University to incur additional costs.
+Personal Use by Students Students enrolled in High Point University courses are understood to be learners in residence.
+As such, reasonable personal use of University information technology resources is permitted so long as it does not disrupt the primary academic and business functions that support the mission of the University; violate any legal statutes; or create an atmosphere of harassment for others.
+Guest Network Use University Guests are permitted to use the HPU-Guest wireless network in a legal and responsible manner that does not disrupt the primary academic and business functions that support the mission of the University; violate any legal statutes; or create an atmosphere of harassment for others.
+Users connecting to the HPU-Guest network do so with the understanding that it is not secured with encryption protections and is not suitable for transmitting sensitive or Personally Identifiable Information(P for any reason( e.
+online shopping, banking, etc.).
+Users connect to and use the network at their own risk and agree to hold the University harmless for any losses resulting from the use of the connection.
+High Point University recommends that users ensure that they have and maintain active anti-virus/malware protection at all times.
+Disposition When University owned, contracted or leased information technology is no longer needed, its disposition must be in compliance with Office of Information Technology standards and may not be determined independently by the assigned user or department.
+Any technology resources no longer in use or need should be returned to the Office of Information Technology by contacting the Help Desk(336-841-HELP or HelpDesk@highpoint.edu).
+See the High Point University Computing and Storage Device Disposition Policy for more detailed information pertaining to disposition.
+Privacy The University reserves the right, subject to applicable law, to access and/or copy any/all files stored on or transmitted over University owned, contracted, or licensed systems at the University's sole discretion and without prior notice.
+Enforcement Violations of this Policy may result in suspension or loss of the violator's use privileges, with respect to any/all University information technology resources.
+Additional administrative sanctions may apply up to and including termination of employment or contractor status with the University.
+Civil, criminal and equitable remedies may also apply.
+div#webparts-1 Acceptable Use Policy Page Content /div#webparts-1 /div#webparts-QuickLinks /div#webparts-2 /div#webparts-3 This is a Web Part Area #4 /div#webparts-4 This is a Web Part Area #5 /div#webparts-5 /d theContent.grid-85.tablet-grid-85.mobile-grid-100 End.grid-100.tablet-grid-100.mobile-grid-100 End #section1Container

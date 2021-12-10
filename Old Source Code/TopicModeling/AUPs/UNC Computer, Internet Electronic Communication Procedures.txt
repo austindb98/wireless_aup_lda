@@ -1,0 +1,441 @@
+UNC Computer, Internet & Electronic
+Communication Procedures
+General
+What does this procedure govern?
+This procedure explains the acceptable use of University of Northern ColoradoÕs computing
+and communication resources, including computers, networks, electronic mail, electronic
+information sources, voice mail, telephone services and other communication resources. 
+Acceptable use is based on common sense, common decency and civility applied to the
+electronic communications environment.
+How can resources be used?
+UNC's computing & communications and communications resources are university owned.
+These resources are to be used to further the university's mission of teaching, learning, 
+the
+advancement of knowledge and community services and shall be used in a manner 
+consistent
+with the instructional, research, and administrative objectives of the 
+University community in
+general and with the purpose for which such use was intended.
+Who can use the computing and communication resources?
+
+Computing and communication resources are provided for the use of faculty, sta
+!
+, 
+currently
+admitted or enrolled UNC students and other properly authorized users. Access 
+to the
+computing and communication resource environment is a privilege and must be 
+treated as
+such by all users of these systems. Access to the University systems may 
+require approval of
+the appropriate UNC supervisory or management authority (e.g. 
+department heads, system
+administrators, etc.)
+What are the penalties for abuse or violation?
+Abuse of computing and electronic communication privileges can be a matter of legal 
+action
+or o
+"
+cial campus disciplinary procedures. Depending upon the seriousness 
+of an o
+!
+ense,
+violation of the procedure can result in penalties ranging from reprimand 
+(e.g. don't do this
+any more), to loss of access, to referral to university authorities 
+for disciplinary action. In order
+to sustain reasonable performance and secure services 
+for the rest of the user community,
+the computing facility may immediately suspend 
+an individual's access privileges. Access to
+UNC computing and communication resources 
+may be wholly or partially restricted by the
+University without prior notice and without 
+consent of the user:
+If required by applicable law, policy or procedure
+If there is a reasonable suspicion that there has been or may be a violation of law,
+regulation, procedure, or policy
+If required to protect the integrity or operation of the computing and communication
+resources or when the resources are required for more critical tasks as determined 
+byappropriate management authority.
+What if I suspect my resources have been compromised?
+ What other applicable administrative policies and procedures and student code of 
+conduct
+are applicable to University system users?
+What other applicable administrative policies and procedures and student code of
+
+conduct 
+are applicable to University system users?
+ All applicable laws and University policies, regulations and procedures bind UNC 
+students and
+employees. For ease of reference, some applicable laws and procedures 
+are listed below. This
+list is an illustration only. It is not intended to be exhaustive 
+or to limit the applicability of any
+other law or policy.
+1. CONDITIONS OF ADMINISTRATIVE SERVICE
+(http://www.unco.edu/trustees/Policy_Manual.pdf)
+2. CONDITIONS OF FACULTY SERVICE
+ (http://www.unco.edu/trustees/Policy_Manual.pdf)
+3. CONDITIONS OF PROFESSIONAL SERVICE
+(http://www.unco.edu/trustees/Policy_Manual.pdf)
+4. COPYRIGHT & DIGITAL MILLENIUM COPYRIGHT ACT
+ (/general-counsel/dmca.aspx)
+5. GRAMM-LEACH BLILEY ACT
+ (https://www.ftc.gov/tips-advice/business-center/privacy-and-
+security/gramm-leach-bliley-act)
+6. HIPAA (http://www.unco.edu/ship/main/PDFs/HIPAA%20Policy.pdf)
+7. INTELLECTUAL PROPERTY
+(http://www.unco.edu/facultysenate/other_pdfs/intellec_prop_rights_6-04.pdf)
+8. PRIVACY POLICY
+ (/general-counsel/privacy.aspx)
+9. PROCUREMENT PROCEDURES
+ (/general-counsel/privacy.aspx)
+10. TRADEMARK USE
+ (/universityrelations/)
+Required Procedures & Prohibited Usage
+Required Procedures
+By acquiring an account or utilizing University electronic resources you assume the
+responsibility to:
+1. Comply with these procedures, state, federal laws and UNC regulations and policies
+2. Respect the rights and privacy of others, including intellectual property and personal
+property rights
+3. Refrain from activities that may damage or obstruct the network and electronic resources
+and information
+
+4. Avoid restricted areas and not compromise the integrity of electronic resources
+5. Secure your passwords and make them di
+"
+cult to obtain or guess
+6. Be honest and accurate in personal and computer identi
+#
+cation
+7. Agree to cooperate and comply with UNC's requests for access to and copies of email
+messages or data when access or disclosure is authorized by this procedure or required 
+orallowed by law or other applicable procedures, regulations and policies.
+Prohibited Usage
+Unacceptable uses that are prohibited include, but are not limited to the following:
+1. Use of computer resources or electronic information for any purpose that may violate
+federal or state laws
+2. Any person who knowingly uses any computer, computer system, computer network or any
+part thereof for the purpose of devising or executing any scheme or arti
+#
+ce to defraud;
+obtain money, property, or service by means of false or fraudulent pretenses,
+representations, 
+or promises; using the property or services of another without
+authorization; or committing 
+theft
+3. Any person who knowingly and without authorization uses, alters, damages or destroys 
+anycomputer, computer system, computer network or any computer software, program
+documentation, or date contained in such computer, computer system, or computer
+network
+4. Use of resources for personal or private business or commercial activities, fund raising 
+oradvertising on behalf of non-UNC organizations
+5. Misrepresentation or forging your identity or the source of any electronic communication
+6. Unlawful communications, including threats of violence, obscenity, child pornography 
+andharassing communications
+7. Unauthorized acquisition, attempts to acquire, and use of passwords of others.
+Unauthorized 
+use and attempts to use the computer accounts of others.
+8. Assuming someone else's identity or altering the content of a message originating 
+from
+another person or computer with intent to deceive
+9. Interference with or disruption of the computer, telephone or network accounts, services
+or equipment of others is prohibited. The intentional propagation of computer "worms",
+"viruses", activities that place undue stress on resources such as ending chain letters,
+
+"spam" or widespread dissemination of unsolicited email and letter bombs or the
+resending 
+of the same email repeatedly to one or more recipients
+10. Reselling of UNC resources
+11. Unauthorized use of University logos and other protected trademarks and logos
+12. Any alteration of source or destination addresses including uniform resource locators
+(URLs) or other actions that mask the University identity
+13. Unauthorized anonymous and pseudonymous communications
+14. Unauthorized modi
+#
+cation of or deletion of another person's 
+#
+les, account or posting;
+altering or attempting to alter 
+#
+les or systems without authorization
+15. Use of computer resources or electronic information without authorization or beyond 
+one's
+level of authorization
+16. Interception or attempted interception of communications by parties not authorized 
+orintended to receive them
+17. Making resources available to individuals not a
+"
+liated with UNC without prior
+administrative 
+approval
+18. Revealing passwords or otherwise permitting the use by other (by intent or negligence) 
+ofpersonal accounts for computer and network access without authorization
+19. Intentionally or recklessly compromising the privacy or security of University electronic
+information
+20. Infringing upon the copyright, trademark, patent or other intellectual property rights 
+ofothers in computer programs or electronic information (including plagiarism and
+unauthorized use of reproduction) is prohibited. The unauthorized storing, copying 
+or use
+of audio 
+#
+les, images, graphics, computer software, data sets, bibliographic 
+records and
+other protected property is prohibited except as permitted by law
+21. Failure to comply with requests from appropriate UNC o
+"
+cials to discontinue activities 
+that
+threaten the operation or integrity of computers, systems or networks, or otherwise 
+violate
+this procedure
+22. Unauthorized scanning of networks or computers for security vulnerabilities.
+23. Altering or attempting to alter any computing or network components (such as routers,
+switches, and hubs) without approval or beyond one's level of authorization
+24. Negligent or intentional conduct leading to disruption and or damage of electronic
+networks or information systems
+Privacy & Security
+
+Users should not have an expectation of privacy for communications on the University
+network. Con
+#
+dentiality of email, voicemail and other network transmissions cannot 
+beassured. Therefore all users should exercise extreme caution when committing con
+#
+dential
+information to electronic media.
+Under the Colorado Open Records Act, electronic 
+#
+les are treated in much the same 
+way aspaper 
+#
+les. Any o
+"
+cial university documents (as de
+#
+ned by law) in the 
+#
+les 
+of employees of
+the State of Colorado are considered to be public documents, and may 
+be subject to
+inspection through the Open Records Act. In such cases, the Legal Counsel 
+to the Board of
+Trustees should inspect the contents of the applicable 
+#
+les to determine 
+which portions
+may be exempt from disclosure. Any inspection of electronic 
+#
+les, 
+and any action based
+upon such inspection will be governed by all applicable U.S. 
+and Colorado laws and by
+university policy.
+Certain central service and network activities from workstations connected to the 
+network
+are routinely logged and monitored. These activities include:
+Use of passwords and accounts accessed
+Time and duration of network activity
+Access to web pages
+Access to network software
+Volume of data storage and transfers
+Server space used for data and email
+In case of suspected violations of UNC procedures, especially unauthorized access 
+tocomputing systems, the system administrator may authorize detailed session logging. 
+Thismay involve a complete keystroke log of an entire session. In addition the system
+administrator may authorize limited searching of user 
+#
+les to gather evidence on 
+asuspected violation.
+Users must protect and backup critical data. UNC Information Technology is not obligated
+to maintain backups of any 
+#
+le for any particular length of time. Individual users 
+anddepartments should develop policies and practices to ensure regular backups of 
+data and
+implement steps to ensure that all critical data is compatible with all current 
+generations of
+computing equipment and storage media and media readers.
+All UNC department should implement policies to ensure that access to sensitive data 
+isrestricted to those employees who have a need to access the information. Passwords
+restricting access to information should be changed on a regular basis and systems 
+should
+be developed and implemented to assure password records are regularly updated 
+by
+appropriate supervisors
+University owned computer and equipment might be examined to detect unauthorized
+software 
+use and to evaluate the security of the network
+Default or issued passwords, such as those from a manufacturer, should be immediately
+changed
+Web Procedures
+Purpose
+The University of Northern Colorado recognizes the importance of the World Wide Web
+("Web") in meeting the needs of many audiences, including prospective students. The 
+Web is a
+valuable tool for areas of instruction, research and information sharing 
+and is a critical
+component of the universityÕs image. The university encourages faculty, 
+sta
+!
+ and students to
+publish information in support of the mission of the university, 
+recognizing that all users at the
+university are accountable to the taxpayers of the 
+State of Colorado and the Web resources
+must be used in an ethical, courteous, legal 
+and e
+"
+cient manner.
+University Web Pages
+Responsibilities
+1. Users must comply with all federal and state laws, contracts, software licenses and
+university policies, regulations and procedures, including but not limited to those 
+related to
+personal conduct. The regulations of the Family Educational Rights and 
+Privacy Act apply to
+all student information published on the web.
+2. All users must comply with UNC Web Publication Guidelines.
+3. Individual departments are responsible for quality of their own Web pages. Each o
+"
+ce 
+orgroup should designate a faculty or sta
+!
+ person responsible for accuracy, quality 
+andcurrency of its Web pages.
+4. The O
+"
+ce of Web Communications is responsible for design, content creation and
+
+maintenance 
+of all university top level pages, such as the home and user pages,, as well as
+the 
+development of Web procedures and publication guidelines. Web Communications is
+also 
+responsible for coordination of university Web e
+!
+orts and serves as a resource to 
+the
+campus for information and assistance.
+5. The university does not monitor o
+"
+cial Web pages but will respond to issues or concerns
+of which it is made aware as they arise. Web Communications may review and request
+changes to any o
+"
+cial university page(s) as appropriate.
+Use of Resources
+1. University Web resources are to be used only for university-related purposes and cannot 
+beused to create or host personal pages or organizational sites unrelated to the 
+mission of
+the unit. Mission related sites may be hosted upon approval of the sponsoring 
+department
+and O
+"
+ce of Web Communications.
+2. Web resources, including bandwidth, may not be used for private or personal commercial
+gain or pro
+#
+t.3. Use of available Web resources is encouraged, however, users may be required to refrain
+from or modify uses if they interfere with the e
+!
+ective or secure operation of the
+universityÕs Web resources. Files on the Web server must be limited to those directly
+applicable to the function of the Web site.
+4. The university reserves the right to set limits on Web resource use as necessary. 
+Anexplanation of any limitations will be maintained as information in the Web Publication
+Guidelines.
+5. The university Web server should not be used to host video 
+#
+les. A university streaming
+video server is available through the o
+"
+ce of Web Communications.
+6. External assistance for Web site creation may be retained on consultation with the 
+Director
+of Web Communications and appropriate Information Management and Technology 
+sta
+!members. All contracts or signed documents relating to external Web projects 
+must be
+reviewed and cosigned by University Counsel.
+7. O
+"
+cial pages should be hosted on a university server. External Web server hosting 
+isallowed only through prior written approval of the o
+"
+ce of Web Communications.
+Advertising
+
+1. For the purpose of this procedure, advertising is de
+#
+ned as o
+!
+ering space in a university
+Web page to another party to promote a product, service or facility in exchange for 
+money,
+services or goods. In general, advertising is not allowed on university Web 
+pages but may
+be authorized in certain circumstances. Any authorized advertising must 
+be approved
+through the university contracting and purchasing process and reviewed 
+by the Executive
+Director of Purchasing & Contracts and the University Counsel.
+2. Links to commercial, for-pro
+#
+t entities that do not generate advertising revenue 
+mayviolate the competition rules governing state institutions if they confer a commercial
+advantage on one private entity over another. Unauthorized links that might imply 
+anendorsement by the university create an unacceptable risk. Questions regarding 
+this
+category of links should be directed to the Director of Web Communications or 
+University
+Counsel.
+3. Guidance for speci
+#
+c categories of commercial links is as follows:
+Links in kinds, such as in exchange for graphics, are not allowed.
+Links indicating software products used should not be placed on Web pages except as 
+partof an approved contractual agreement.
+Recognition of an event sponsor may be listed on a Web page but links to web sites 
+of the
+donor or event sponsor are not allowed unless authorized through the o
+"
+ce 
+of Web
+Communications.
+Links to for-pro
+#
+t businesses can be included as part of an approved contractual
+agreement.
+Links to plug-in download sites required for Web page function are discouraged.
+Links to not-for-pro
+#
+t services or mission related organizations are allowed if the
+arrangement is not exclusive and links to related organizations or services would 
+beaccepted on the page.
+Endorsements of private, for-pro
+#
+t services or goods are not allowed.
+Enforcement
+1. Individuals aware of content in violation of these procedures may contact the person
+responsible for the page or the Director of Web Communications. Minor or accidental
+infractions may be resolved through informal communications.
+2. The university reserves the right to remove any account, information or link to information
+
+that is in violation of these policies.
+3. Users who violate these regulations may be subject to university disciplinary action 
+orreferred to appropriate university o
+"
+cials or, when appropriate, law enforcement
+authorities.
+Privacy Policy
+ (/general-counsel/privacy.aspx)
+ | A
+"
+rmative Action/Equal Employment Opportunity/Title IX Policy
+& Coordinator
+ (/sexual-misconduct/index.aspx)
+

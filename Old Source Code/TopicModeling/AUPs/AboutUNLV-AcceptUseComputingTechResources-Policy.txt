@@ -1,0 +1,389 @@
+
+ACCEPTABLE 
+USE OF 
+COMPUTING AND 
+INFORMATION 
+TECHNOLOGY 
+RESOURCES 
+POLICY
+ PAGE 
+2 of 
+6   2 WHO SHOULD 
+READ 
+THIS 
+POLICY
+ UNLV students and employees 
+and anyone who accesses UNLV 
+computing and information 
+tec
+hnology resources
+ should read this policy.
+    THE 
+CONTEXT
+   UNLV™s computing and information technology resources are dedicated to the support of the 
+
+university™s mission and its core themes to promote student learning and success, advance and 
+
+support 
+research scholarship, and creative activity, and foster inclusion and community 
+
+engagement. While advancing the mission and core themes, UNLV respects, upholds, and 
+
+endeavors to safeguard the principles of academic freedom, freedom of expression, and freed
+om 
+
+of inquiry. UNLV™s commitment to the principles of academic freedom and freedom of 
+
+expression includes electronic information.
+  The use of computing and information technology resources in a manner consistent with the 
+
+mission and ideals of the universit
+y and with the Nevada System of Higher Education (NSHE) 
+Computing Resources Policy 
+requires adherence to legal statutes, approved policies, and 
+
+responsible behavior, including:
+   using only assigned account(s) or account information
+  respecting the privacy a
+nd rights of other computer users
+  protecting the integrity of the physical environments in which information technology 
+equipment resides
+  complying with all pertinent software license and contractual agreements, and 
+  obeying all UNLV and NSHE regulations, 
+state and federal laws
+.  UNLV seeks to create an atmosphere of privacy with respect to information and 
+UNLV 
+information technology resources. UNLV 
+acknowledges its responsibilities to respect and 
+advance free academic inquiry, free expression, reasonable e
+xpectations of privacy, due process, 
+equal protection of the law, and legitimate claims of ownership of intellectual property.
+ Such 
+responsibilities are balanced with the acknowledgement that users should be aware that they 
+should have no expectation of pr
+ivacy in connection with the use of 
+UNLV 
+resources beyond the 
+explicit provisions of university policy and applicable 
+federal and state 
+law (e.g., NRS 
+Chapter 
+239, Public Records
+). UNLV is a public institution, and because the university must be able to 
+respond to lawful requests and 
+ensure the integrity and continuity of its operations, use of the 
+university's information resources cannot be completely private.  
+   
+ACCEPTABLE 
+USE OF 
+COMPUTING AND 
+INFORMATION 
+TECHNOLOGY 
+RESOURCES 
+POLICY
+ PAGE 
+3 of 
+6   3 Information on
+ university computers and equipment may
+ be subject to legal discovery and 
+disclosed
+:  In 
+response to lawfully executed court ordered warrants or subpoenas
+  As a result of
+ the Nevada 
+Public 
+Records Act
+ (i.e. public records request)
+  In response to federal ﬁFreedom of Information Actﬂ requests
+  In litigation involving the university
+ and/or university employees
+  In criminal 
+investigations 
+or investigations 
+of 
+student or 
+employee misconduct
+  In university investigations in accordance 
+with 
+NSHE or university policy
+.   When warranted, 
+university
+ staff are asked to assist in investigations 
+and discovery and have 
+direct responsibility for investigating and responding to some alleged offenses and incidents 
+
+involving computing resources.
+ ____________________________________________________________________________  POLICY
+ ______________________________________________________________________________ 
+ 
+1. Each 
+person 
+may use only those computing and information technology resources for 
+
+which he or she has authorization. 
+ Examples of v
+iolations include
+, but are not limited to:
+  a) asking another person for individual account passwords or attempting to obtain such 
+passwords by any means
+ b) using resources without authorization 
+ c) sharing university accounts with other person
+s without 
+authorization
+ d) accessing files,
+ database
+s, data or processes without authorization 
+ e) using former system and access privileges 
+without authorization 
+after association with the 
+
+university has ended
+.   2. Computing and information technology resources must be used 
+in a manner that 
+respects the 
+privacy and rights of others
+.  Examples of v
+iolations include
+, but are not limited to:
+  a) accessing, attempting to access, or copying someone else™s electronic mail, data, 
+
+programs, or other files without authorization 
+ b) divulging sensitive
+, personal
+ information without a valid business or academic reason 
+ c) developing or using programs that may cause problems or disrupt services for other users 
+ d) misrepresenting a
+nother
+ user™s identity in any electronic comm
+unication (e.g., forging an 
+e-mail address) 
+ e) using electronic resources for deceiving, harassing
+ or stalking other individuals 
+ 
+ACCEPTABLE 
+USE OF 
+COMPUTING AND 
+INFORMATION 
+TECHNOLOGY 
+RESOURCES 
+POLICY
+ PAGE 
+4 of 
+6   4 f) sending threats, ﬁhoaxﬂ messag
+es, chain letters, or phishing 
+ g) intercepting, monitoring, or retrieving 
+any network communication 
+without authorization
+.  3. The access to and i
+ntegrity of computing and information technology resources must be 
+protected. 
+ Examples of v
+iolations include
+, but are not limited to: 
+ a) sharing passwords
+ b) purposefully propagating computer malware 
+such as 
+computer viruses, worms
+ or 
+Trojan 
+Horses, 
+except 
+under secure conditions for research or teaching purposes
+ c) preventing others from accessing an authorized service 
+ d) degrading or attempting to degrade performance or deny service 
+ e) corrupting information 
+ f) altering or destroying information without authorization 
+ g) making university systems and resources available to those not affiliated with the 
+university 
+ h) installing hacking 
+or 
+vulnerabili
+ty tools
+ in university systems
+ without authorization
+ i) circumventing or 
+attempting to circumvent security mechanisms
+ without authorization
+.  4. Applicable laws and university policies must be followed
+.  Examples of v
+iolations include
+, but are not limited to: 
+ a) uploading, downloading, distributing or possessing 
+material deemed illegal under US and 
+state laws, such as 
+child pornography
+ or classified information
+ b) using university computing or network resources for advertising, 
+partisan 
+political 
+
+activities or commercial purposes (
+see 
+the 
+exception for 
+ﬁUNLV Student 
+elections, which 
+are governed by 
+CSUN
+ policyﬂ
+ in Sect
+ion II.1
+. ﬁPartisan Political Activityﬂ 
+and the 
+definition of political activity from the NAC 
+284.770, both referenced i
+n the 
+Related 
+Documents section) 
+ c) making
+ unauthorized
+ copies of licensed software  
+ d) downloading, using or distrib
+uting illegally obtained media 
+(e.g., s
+oftware, music, 
+movies) 
+using the 
+campus
+ network
+, whether on a UNLV
+-issued
+ computer or not
+ e) accessing, storing or transmitting 
+sensitive
+, personal
+ information without a valid business 
+or 
+academic reason
+, or outside the parameters of limited personal use
+ f) transmitting 
+sensitive
+, personal
+ information without using appropriate security protocols 
+(NRS 603A
+).   
+ACCEPTABLE 
+USE OF 
+COMPUTING AND 
+INFORMATION 
+TECHNOLOGY 
+RESOURCES 
+POLICY
+ PAGE 
+5 of 
+6   5 5. Limited 
+personal 
+or non
+-university 
+use of UNLV computing and information 
+technology 
+resources is allowable
+ only
+ if ALL
+ of the following conditions are met
+: a) the use does not interfere with an employee™s duties
+ b) the cost and value related to use is nominal
+ c) the use does not create the appearance of impropriety or UNLV endorsement
+ d) the use is otherwise consistent with this policy
+. Refer to the Office of Information Technology™s Policies and Procedures web page 
+at 
+http://oit.unlv.edu/about
+-oit/policies
+ for additional information, 
+including how to request an 
+exception to this policy.
+ RELATED 
+DOCUMENTS
+ Nevada System of Higher Education (NSHE) Computing Resources Policy
+. NSHE Title 4, 
+Chapter 1,Section 22
+ http://www.scs.nevada.edu/default/index.cfm/about
+-us/policies
+-guidelines/
+  
+Guidelines for Scheduling Univ
+ersity Facilities, Section II, A
+1 Partisan Political Activity
+   http://www.unlv.edu/visit/visitingcampus/reserve
+-space/guidelines#partisan
+  
+Nevada Administrative Code, 284.770 
+Œ Political activities
+ http://www.leg.state.nv.us/nac/NAC
+-284.html#NAC284Sec770
+  
+Nevada Revised Statutes, Chapter 603A 
+Œ Security of Personal Information
+ http://www.leg.state.nv.us/NRs/NRS
+-603A.html
+  
+Nevada Revised Statutes, Chapter 239, State of Nevada Public Records Law
+ http://www.leg.state.nv.us/nrs/nrs
+-239.html
+  CONTACTS
+ Refer to the Office of Information Technology™s Policies and Procedures web page 
+
+at 
+http://oit.unlv.edu/about
+-oit/policies
+ for a list of individuals who can answer questions about 
+the policy.
+  DEFINITI
+ONS
+ These definitions apply to these terms as they are used in this policy.
+ Authorizatio
+n - Permission to engage in activities otherwise 
+deemed un
+acceptable 
+only if 
+required by 
+existing policies
+, procedure
+s, documented approval
+, assigned responsibility, 
+or 
+research or teaching 
+purposes with adequate protections and in accordance with federal, state, 
+
+and local laws
+. 
+ACCEPTABLE 
+USE OF 
+COMPUTING AND 
+INFORMATION 
+TECHNOLOGY 
+RESOURCES 
+POLICY
+ PAGE 
+6 of 
+6   6 Phishi
+ng 
+- A scam by which an e
+-mail user is duped into revealing 
+sensitive, 
+personal or 
+confidential information, which the scammer can use i
+llicitly.
+  Sensitive
+, personal
+ information
+ - Any information about the individual maintained by the 
+university, including the following:  (a) Education, financial transactions, medical history, and 
+
+criminal or employment history; and, (b) Information that 
+can be used to distinguish or trace the 
+
+individual™s identity, including name, social security number, date and place of birth, mother™s 
+
+maiden name, or biometric records
+.  Student
+ - Currently admitted to UNLV 
+- or 
+- enrolled in at least one course at UNLV
+ - or 
+- has 
+completed at least one course at UNLV within the previous six academic semesters (spring, 
+summer, and fall).
+  Systems 
+- Devices and applications accessed via the network.
+ 

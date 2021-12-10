@@ -1,0 +1,46 @@
+Systems and Network Acceptable Use Policy Purpose Access to computer systems and networks owned or operated by Cedar Crest College imposes certain responsibilities and obligations and is granted subject to College policies, and local, state, and federal laws.
+Acceptable use must be ethical, reflect academic honesty, and show restraint in the consumption of shared resources.
+It demonstrates respect for intellectual property, ownership of data, system security mechanisms, and individuals' rights to privacy and freedom from intimidation and harassment.
+The use of any college computer or data networks implies the acceptance of this policy.
+
+Electronic mail, other communications and data stored on the college servers, electronic mail system or Office 365 is not implicitly private.
+Cedar Crest College reserves the right to search, read or otherwise go through any data, mail or other communication on any of the colleges systems.
+There is no right to privacy in any of these systems.
+
+Sharing of passwords or any other authentication information with someone else is strictly prohibited.
+Each individual is responsible for his/her account(s), including the safeguarding of access to the account(s).
+
+The use of Cedar Crest resources to access, further or otherwise participate in activity which is inconsistent with the mission of the College is prohibited.
+This includes, but is not limited to the following: illegal activity(including downloading copyrighted music, applications or video), sexually explicit material, hate speech, violent behavior & bullying, spam, hacking, etc.
+An exemption is granted for individuals engaged in normal pedagogic related activities or research, provided that it is consistent with Cedar Crest
+In addition to standard electronic resources, members of the College community are expected to make appropriate use of the College Telephone/Voicemail system.
+Examples of inappropriate actions:
+Unauthorized entry into a voice mailbox
+Unauthorized use of another individual's identification and authorization code c. Use of the College telephone system to send abusive, harassing, or obscene messages
+The use of Cedar Crest resources to conduct business for personal financial gain is prohibited.
+
+Anti-virus and anti-malware software must be installed on your computer, kept up to date and currently enabled.
+If your software is not up to date or disabled it may lead to an infection which may result in your network access being disabled.
+Information Technology can provide students with free anti-virus software if necessary.
+
+Although Information Technology deploys patches for College issued devices for Windows, OS X and other applications, users are responsible for keeping their personal computers and devices updated with all other security patches/fixes from the appropriate software update services.
+This includes updating your operating system and applications, such as Microsoft Office, Adobe, iTunes, Firefox, Chrome, etc.
+If your computer is not up to date, it could lead to malware infection which may result in your network access being disabled.
+
+Employees are responsible for their computer, including its hardware, software, and any network traffic transmitted by
+Please contact the Help Desk if you have any questions about whether or not certain software/hardware might conflict with this acceptable use policy.
+
+The use of personal routers(wireless or wired), wireless hotspots and/or DHCP servers is strictly prohibited.
+Information Technology can assist you if you have additional network connectivity needs that are not being met.
+
+Using the College network to provide any service that is visible off campus without prior Information Technology approval, is prohibited.
+This applies to services such as, but not limited to, HTTP(Web), SSH, FTP, IRC, email, private VPN, etc.
+Configuring your computer to provide Internet or Cedar Crest College network system access to anyone who is not a Cedar Crest College faculty, staff member or student is prohibited.
+
+Students are not permitted to e-n list from their named account.
+Only student organization accounts may do so, with prior approval.
+
+Connecting any device or system to the College's data networks without the prior review and approval of Information Technology is prohibited.
+Personal Use Your work may involve the use of computers, software, telephone, fax, printing or other computing or communications resources.
+Cedar Crest employees are permitted to use these resources for limited personal use provided they have the permission of their supervisor, the personal use does not affect their job performance or responsibilities, and that such use does not conflict with this or any other College policies.
+Revised: 09/01/2017 The latest version of this document can be found on the Cedar Crest College website at: http://help.cedarcrest.edu

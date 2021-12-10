@@ -1,0 +1,142 @@
+Data Access Policy
+ Audience:
+ All faculty, staff and students All benefit eligible employees (regular) and temporary All 
+contractors, vendors and any others (including 3rd parties) entrusted with information 
+maintained in the University™s information repositories
+ Definition:
+ Protecting
+ information assets is driven by a variety of considerations including legal, 
+academic, financial and other business requirements.
+ Northwestern University is committed to nurturing the open, information
+-sharing 
+requirements of its academic culture, while p
+reserving the confidentiality, integrity and 
+availability of its information resources. To promote the highest standards of decision
+-making and management, Northwestern University intends to provide the University 
+community expeditious access to authoritat
+ive and accurate data from information 
+systems.
+ The policy contained in this document will support and promote greater understanding 
+of and appropriate use of data, and heightened awareness of the sensitive nature of 
+data based on various risk factors. It 
+is expected that this policy will improve the ability 
+of the University community to properly manage access to University data in compliance 
+with Federal and State laws and regulations, and other University policy requirements. 
+Overall the policy will impr
+ove data quality and the transparency of institutional security 
+and trust policies.
+ Policy Statement:
+ Access to data will be as broad as possible, consistent with the classification of the data, role(s) 
+and responsibilities of the user, and level of traini
+ng. Data will be classified according to its 
+sensitivity to unauthorized exposure as per the standards defined in this document. This policy 
+will be supported by ongoing development of a Data Access Matrix (with data classifications and 
+
+data access roles),
+ and a program which will train users to effectively and securely use 
+University data.
+ Scope
+ 
+Items of information that are created, collected, maintained, and utilized by the University 
+community for the purpose of carrying out the institutional mission of
+ research and teaching and 
+data used in the execution of required business functions, limited by any overriding contractual 
+
+or statutory regulations. Research data, scholarly work of faculty or students, and intellectual 
+property are beyond the scope of th
+is policy.
+ Policy Owners
+ Policy owners are the Provost and Senior Vice President for Business and Finance. The 
+
+Administrative Data Council (ADC) is involved in governance of the policy.
+ Standards for Data Classification
+ University data must be consistently
+ protected throughout its life cycle in a manner 
+commensurate with its sensitivity and criticality, regardless of where it resides or what 
+purpose(s) it serves. For example, extracts of data and backups of data shall have the same 
+
+classification level and 
+utilize the same protective measures as the same data in the system of 
+record.
+ 1. Public Information
+ Public:
+ Public information is available to all members of the University community, 
+and may be released to the general public. The University reserves the rig
+ht to control the 
+content and format of Public information. This information is not restricted by local, 
+state, national, or international statute regarding disclosure or use.
+ Examples include the University™s auditable financials, schedule of classes, and
+ approved 
+census facts.
+ 2. Internal Information
+ Internal:
+ Information that is intended for use by and made available to members of the 
+University community who have a business need to know. This information is not 
+restricted by local, state, national, or inte
+rnational statute regarding disclosure or use. 
+Internal information is not intended for public dissemination but may be released to 
+
+external parties to the extent there is a legitimate business need. The University reserves 
+
+the right to control the content
+ and format of Internal information when it is published to 
+external parties.
+ Examples include employment data, financial expenditure detail, Course Teacher 
+Evaluations, and Directory Information.
+ Recognizing that inappropriate disclosure of certain Intern
+al information may result in 
+unauthorized use of the data, the University reserves the right to designate that certain 
+
+subsets of Internal information require training in the appropriate use and handling of the 
+data, e.g., salary letters.
+ 3. Legally/Contractu
+ally Restricted Information
+ Legally/Contractually Restricted:
+ Information that is required to be protected 
+by applicable law or statute (e.g., HIPAA, FERPA, or the Illinois Personal Information 
+Protection Act), or which, if disclosed to the public could ex
+pose the University to legal 
+or financial obligations.
+ Access is granted to those individuals who have a business need to know and who have 
+
+signed an appropriate confidentiality agreement.
+ Examples include, but are not limited to, occurrences of personally
+-identifiable 
+information, e.g., social security numbers (SSNs), personnel records, student records, 
+medical records, names in connection with SSNs, and credit card numbers. Specific 
+
+Univer
+sity policies may apply to particular data in this classification, e.g., Secure 
+Handling of Social Security Numbers, Security of Electronic Protected Health 
+Information, etc.
+ Recognizing that unauthorized use of certain Restricted information may expose th
+e University to particularly heightened risk, the University reserves the right to designate 
+that users be required to undergo additional training as appropriate.
+ 4. Procedure
+ A wider group of systems, business units, and individuals must have informed data 
+access and shared responsibility for use of that data. As part of this shared responsibility, 
+individual units are responsible for the development and implementation of procedures to 
+effectuate this policy.
+ Additional clarifications to the policy may be pro
+vided and will be communicated when 
+circumstances require.
+ 5. Compliance
+ The classification level applied to specific information is based on statutory requirements, 
+the sensitivity of the data, its criticality to the University, and its use. Individuals foun
+d in 
+violation of policy are subject to consequences as documented in the Faculty, Staff, and 
+
+Student Handbooks, the Standards of Business Conduct, and via contractual agreements 
+with third parties doing business with the University.
+ Satisfies
+ ISO 27002 6.
+1.3, 6.2.1, 6.2.2, 7.2, 8.1.1, 11.1.1, 11.4.3
+ 
+Last Review Date:
+ December 2016
+ December 2013
+ Original Issue Date:
+ June 2007
+ Revision Dates:
+ December 2013
+  

@@ -1,0 +1,56 @@
+STANDARD STATEMENT All personnel seeking to access UTSA computing resources must be aware of the duties and responsibilities that are in place to protect the network infrastructure.
+
+SCOPE This standard applies to all UTSA faculty, staff and students.
+
+DEFINITIONS Appropriate Network Server A computer asset meeting the minimum setup criteria: authentication, data protection, server administrator assigned.
+Critical University digital data Generally, data that is defined by an entity to be essential to that entity s function and that, if made unavailable, will inflict substantial harm to the entity and the entity s ability to meet its instructional, research, patient care or public service missions.
+Executive Officer UTSA President(or delegate), UTSA Provost(or delegate) Excessively Large(email) Message or Attachments The maximum size for a UTSA email message is 35MB, including the message and all attachments.
+June 2020) Incidental Use certain activities(accessing the Internet, installing software like iTunes, etc.)
+are permitted as long as they do not affect the execution of your work duties and they do not incur an expense or hardship to the university.
+For example, maxing out your computer hard drive space with your personal files is not permitted.
+Information Security Officer or his/her delegate The delegates consist of the UTSA President, Compliance Officer or delegate of the Compliance Officer.
+Sept 2018)
+PROCEDURES All faculty and staff members seeking to access UTSA information resources must be aware of the duties and responsibilities that are in place to protect the university network.
+
+Acknowledgement of Acceptable Use Policy Each User, during the normal compliance training process, reviews and acknowledges their understanding and acceptance of the Acceptable Use Policy.
+
+General UTSA Information Resources are provided for the express purpose of conducting the business and mission of the UTSA.
+UTSA Information Resources must not be used to: engage in acts against the mission and purposes of the UTSA, intimidate or harass, degrade performance, deprive access to a UTSA resource, obtain extra resources beyond those allocated, or to circumvent computer security measures.
+Information Resources must not be used to conduct a personal business or for the exclusive benefit of individuals or organizations that are not part of The University of Texas System.
+Sexually explicit materials must not be intentionally accessed, created, stored or transmitted other than in the course of academic research where this aspect of the research has the explicit written approval of an Executive Officer of UTSA.
+Users must not copy or reproduce any licensed software unless expressly permitted by the software license, use unauthorized copies on UTSA-owned computers or use software known to cause problems on UTSA-owned computers.
+Information Services Privacy Users have no expectation of privacy regarding any data residing on UTSA computers, servers, or other Information Resources owned or held on behalf of UTSA regardless of whether the data was generated as the result of acceptable(including Incidental Use as described below) or unacceptable use of UTSA s Information Resources.
+All files, documents, messages in any format and other data residing on UTSA computing resources or held on behalf of UTSA are accessible to UTSA in accordance with the Regents Rules and Regulations and are subject to access by the UTSA without notice to comply with public information requests, court orders, subpoenas or litigation holds; or for any other purpose consistent with the duties of UTSA.
+Users have no expectation of privacy in any such data.
+Data Protection Data will be accessed on a need to know basis.
+Users of UTSA Information Systems must not attempt to access data or programs contained on systems for which they do not have authorization or consent.
+All critical University digital data will be saved on appropriate network servers to ensure backup of the data.
+All data, including research data, should be backed up for disaster recovery reasons.
+All records(electronic or paper) will be maintained in accordance with the UTSA Records Retention Policy.
+Email The email service provided by OIT(@utsa.edu domain) is the official university email system for employees.
+Employees of UTSA shall not use other email services for UTSA business.
+The following email activities are prohibited: Using email for purposes of political lobbying or campaigning except as permitted by the Regents Rules and Regulations.
+Posing as anyone other than oneself when sending email, except when authorized to do so by the owner of the email account.
+Reading another User s email unless authorized to do so by the owner of the email account, or as authorized by policy for investigation, or as necessary to maintain services.
+Use of email software that poses a significant security risk to other Users on the UTSA network.
+Sending or forwarding chain letters.
+Sending unsolicited messages to large groups except as required to conduct UTSA business.
+Sending excessively large messages or attachments unless in performance of official UTSA business.
+Sending or forwarding email that is likely to contain computer viruses.
+Confidential or Protected Information(Category I / II data) Users shall not disclose confidential information except to authorized parties as required to accomplish authorized business functions in support of UTSA s mission.
+All confidential or protected health or student information transmitted over external networks or saved on UTSA servers must be encrypted in accordance with OIT Data Encryption Guidelines.
+This information must not be sent or forwarded to non-UTSA email accounts provided by other Internet Service Providers, and must not be knowingly transmitted via wireless to or from a portable computing device unless approved wireless transmission protocols and security techniques are utilized.
+A link to more information about data classification can be found on the Data Classification Examples page.
+Incidental Use of Information Resources Incidental personal use of email, Internet access and other Information Resources by an employee is permitted by UTSA policy but is restricted to employees(it does not extend to family members or other acquaintances).
+It must not interfere with the normal performance of an employee s duties, must not result in direct costs to UTSA and must not expose the University to unnecessary risks.
+Non-work related information may not be stored on network file servers.
+Internet Use Due to network maintenance and performance monitoring and to ensure compliance with applicable laws and policies, all User activity may be subject to logging and review.
+Email or postings by Users of UTSA network resources to news groups, chat rooms, listservs, or social websites must not give the impression they are representing, giving opinions, or making statements on behalf of UTSA, unless authorized.
+Users should use a disclaimer stating that the opinions expressed are their own and not necessarily those of UTSA.
+Personal commercial advertising must not be posted on UTSA websites.
+
+Security software Utilities that reveal or exploit weaknesses in the security of a system or that reveal data by circumventing established authorization procedures and systems should not be downloaded and/or used, except as authorized by OIT.
+For example, password cracking programs, packet sniffers, or port scanners shall not be used on UTSA Information Resources.
+Users must report any identified weaknesses in UTSA computer security and any incidents of possible misuse or violation of this Acceptable Use Policy to an immediate supervisor, department head, or OIT.
+
+Exceptions Any exceptions to this Acceptable Use Policy must be documented and authorized in writing by the CISO or his/her delegate.

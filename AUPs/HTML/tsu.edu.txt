@@ -1,0 +1,50 @@
+Learn more about the virus and ways to stay safe.
+WiFi TSU-STUDENT TSU-STUDENT is the official public, unsecured wireless network for our on-campus community and guests.
+Connecting to TSU-STUDENT doesn't require a password.
+Steps to connect Visit your network settings.
+From the list of available networks, choose TSU-STUDENT to connect.
+You're now connected.
+No password is required.
+TSU-NET TSU-NET is the private, secured wireless business network for TSU's faculty and staff.
+Only TSU approved devices may connect to TSU-NET.
+Users must have a TSU Active Directory account to gain access.
+Steps to connect Visit your network settings.
+From the list of available networks, choose TSU-NET to connect.
+When prompted, enter your MyTSU email address(firstname.lastname@tsu.edu) and password, click submit.
+Read and agree to the network acceptable use agreement.
+Choose to Trust the network.
+You re now connected!
+Housing WiF TSU-RESNET TSI-RESNET provides public, unsecured internet services for students and their guests in resident halls.
+Connecting to TSU-RESNET does not require a password.
+Steps to connect Visit your network settings.
+From the list of available networks, choose TSU-RESNET to connect.
+You're now connected.
+No password is required.
+Wired Connections Wired connections, private and secured business network are available in our academic and administrative buildings on campus for use by faculty and staff.
+Only TSU approved devices may connect to these wired connections.
+Users must have a TSU Active Directory account to gain access.
+Do's and Don'ts of Using WiFi There are two types of Public WiF Secured and unsecured.
+When in range, you can connect to an unsecured network without any type of security features like a password or login.
+Conversely, a secured network requires a user to agree to legal terms, register an account, or type in a password before connecting to the network.
+It may also have an associated fee or store purchase to gain access to the password or network.
+Regardless of the connection type, you should always use public WiFi with caution.
+Here are some do s and don'ts: Do connect to secured public networks whenever possible.
+If you are unable to connect to a secured network, using an unsecured network would be permissible if the connection requires some sort of login or registration.
+Don't access personal bank accounts, or sensitive personal data, on unsecured public networks.
+Even secured networks can be risky.
+Use your best judgment if you must access these accounts on public WiF
+Don't leave your laptop, tablet, or smartphone unattended in a public place.
+Even if you are working on a secure WiFi network, that will not stop someone from taking your property or sneaking a peek at your device.
+Don't shop online when using public WiF
+Sure, shopping may not seem like it involves sensitive data, but making purchases online requires personal information that could include bank account and retailer login credentials.
+Shopping is not something you want to do on an unsecured WiFi network.
+Do turn off automatic connectivity.
+Most smartphones, laptops, and tablets have automatic connectivity settings, which allow you to connect from one hotspot to the next seamlessly.
+This is a convenient feature, but it can also connect your devices to networks you ordinarily would not use.
+Keep these settings turned off, especially when you are traveling to unfamiliar places.
+Do monitor your Bluetooth connectivity.
+Bluetooth in the home is a fantastic feature on many smart devices.
+However, leaving Bluetooth on while in public places can pose a considerable risk to your cybersecurity.
+Bluetooth connectivity allows various devices to communicate with each other, and a hacker can look for open Bluetooth signals to gain access to your devices.
+Keep this function on your phone, and other devices locked down when you leave your home, office, or similar secured area.
+If you require additional assistance, please contact the IT Service Center at itservicecenter@tsu.edu, http://itservicecenter.tsu.edu or 713-313-4357 with any questions.

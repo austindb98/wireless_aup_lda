@@ -1,0 +1,111 @@
+Information Technology
+WMU Server Registration Policy
+PURPOSEThis policy has been developed in the interest of system and data security and
+establishes rules for allowing servers to access the Internet.
+SCOPE
+This policy is intended to help prevent malicious users from accessing
+unregistered or unintentionally installed servers. Many newer software
+products install servers on machines, possibly without the aministrator's or
+user's knowledge.
+POLICY STATEMENTS
+All unregistered servers are restricted to the internal WMU network,
+WMUnet. That network is commonly called the intranet. Only registered
+servers are allowed to participate in the Internet. Intranet servers will
+continue to operate on campus without interruption. Test and development
+servers should be registered but they will not be granted access from the
+Internet. Users requiring access to these systems from off-campus must use
+VPN services.
+Servers which require access to and/or from outside the Internet must:
+Be approved by the requesting user's department or division leader.
+Have a documented, demonstrated need not met by an existing server.
+Successfully pass security scans performed by information technology.
+Be operated in a secure manner. This includes installing patches and
+upgrades in a timely manner.
+Comply with 
+E-Commerce review committee standards
+.O!ice of Information Technology
+Western Michigan University
+Kalamazoo MI 49008-5206 USA
+(269) 387-5430
+Server registration requirements
+In order to register a server, the following information is required:
+Name, phone number(s), campus address, and wmich.edu email address of
+the University employees who are the primary and backup administrators
+responsible for the maintenance of the server hardware and software.
+Physical location, name, and IP address of the server.
+Operating system and version of the server.
+Server software version.
+Server support software.
+Applications being accessed by remote users and/or applications
+interacting with the Internet.
+Classify data stored or accessed.
+Responsibility of server administrators
+Keep current with security patches. Evaluate and expeditiously apply
+within 60 days.
+Maintain operating system at level recommended by vendor.
+Properly restrict access to sensitive information and comply with WMU
+data policies.
+Ensure that an administrator, or a designate, be available during working
+hours for problem resolution.
+Provide a current list of contacts (with emergency phone numbers) that can
+be reached in critical situations during non-business hours.
+To deactivate a server, or to turn ports off, send email to 
+oit-
+serverregistration@wmich.edu
+ with the server IP address and ports to
+remove.
+For servers containing University mission critical or protected information,
+having an approved SSL certificate, no self-signed certs, installed is required.
+Self-signed certificates must be removed from the server. It is recommended
+the server be physically located in the information technology machine room
+in the University Computing Center.
+JUSTIFICATION
+
+Unrestricted servers could pose serious security threats to WMUnet. The
+implementation of a server registration policy is intended to minimize the
+security risk and data exposure while continuing to provide needed,
+uninterrupted access.
+ENFORCEMENT
+Server administrators will be subscribed to a WMU email list that is used to
+distribute important security related information.
+Server administrators are expected to read, and when appropriate, act on
+information relative to server security issues in a timely manner. In critical
+situations, it may become necessary to contact server administrators or
+backup administrators at any time. In the event they cannot be contacted, it
+may become necessary to power off the server or disconnect the server
+from the network without warning.
+Patches must be installed within 60 days of first notification
+of vulnerabilities identified as "critical" or "high".  Failure to maintain
+servers at current security patches will result in blocking off-campus access
+and/or removal from the network.
+A list of all registered servers will be maintained and made available to the
+registered users upon request.
+Unregistered servers must be configured to use the default port, and access
+to them will be blocked at the firewall.
+If a server is found running on a non-standard port, the machine will be
+removed from WMUnet without notice.
+Server administrators will be contacted on a regular basis to ensure that
+their server registration information is up to date. If an administrator fails
+to respond to these inquiries, it may result in their server being
+disconnected from the network or being blocked from access.
+A server registration form
+ is provided. You will be taken to IT Direct service
+management system. Bronco NetID and password required.
+A server deregistration form
+ is provided. You will be taken to IT Direct
+service management system. Bronco NetID and password required. 
+A digital certificate request form
+  is provided. You will be taken to IT Direct
+service management system. Bronco NetID and password required.
+A digital certificate renewal form
+ is provided. You will be taken to IT Direct
+service management system. Bronco NetID and password required.
+
+DOCUMENT ACTION
+Revised May 2014
+Revised Jan. 2013
+  Western Michigan University
+Kalamazoo MI 49008-5200 USA
+(269) 387-1000Contact WMU
+© 2018 All rights reserved.
+

@@ -1,0 +1,148 @@
+91.003:  Computer and Network Use
+Status:
+Re-formatted on July 27, 2016
+Approved on October 28, 2002
+Signatures and dates 
+on archival copy
+Effective:
+September 1, 2002
+ Initiated by:
+David Fritchley
+Director of Computer Services
+ Reviewed by:Nancy Prichard Crist, Chair
+Policy and Procedure Review Committee
+ Endorsed by:
+Douglas Mann
+Associate Provost for Information Technology
+ Approved by:
+Stephen Kopp
+Provost
+ OverviewThis policy provides guidance and establishes expectations for members of the university community as
+they use Ohio university's information technology resources.
+Access to computer systems and networks owned or operated by Ohio university imposes certain
+responsibilities and obligations and is granted subject to university policies, and local, state, and federal
+statutes.
+Access to the university's computing facilities and resources is granted solely to Ohio university faculty,
+staff, registered students, and individuals outside the university who are authorized to use services that
+have been made available through Ohio university. 
+The university reserves the right to limit, restrict, or
+extend computing privileges and access to its resources.
+A.
+Computers and network resources can provide access to resources both on and off campus. 
+Such open
+access is a privilege, and requires that individual users act in a responsible and acceptable manner.
+Acceptable use always is ethical, reflects academic honesty, and shows restraint in the consumption of
+shared resources. 
+Acceptable use demonstrates respect for intellectual property, truth in
+communication, ownership of data, system security mechanisms, and individuals' right to privacy and
+freedom of intimidation, harassment, and unwarranted annoyance. 
+The university considers any
+violation of acceptable use principles or guidelines to be a serious offense and reserves the right to test
+and monitor security, and copy and examine any files or information resident on university systems
+allegedly related to unacceptable use.
+Those who do not abide by the policies and guidelines in this policy should expect at least suspension of
+computer privileges and possible disciplinary action in accordance with university rules for misconduct
+and existing judicial, disciplinary, or personnel processes. 
+Offenders may also be subject to criminal
+prosecution under federal or state laws, and should expect the university to pursue such action.
+The office of information technology should be notified about violations of computer laws and policies,
+as well as about potential loopholes in the security of its computer systems and network. 
+The user
+community is expected to cooperate with the office of information technology in their operation of
+computer systems and networks as well as in the investigation of misuse or abuse.
+Ohio university's computers, networks, and other information resources (i.e., web pages and other
+information servers) may not be used in any manner prohibited by law or disallowed by licenses,
+contracts, or university regulations. 
+Organizations, faculty, staff, and individuals are accountable for the
+information they publish across computing resources, and they must be aware of university policies
+regarding confidential information, harassment, use of university computer, and intellectual property.
+Required activities
+In making acceptable use of resources, you must:
+B.Use resources only for authorized purposes.
+1.Protect your login ID and system from unauthorized use. 
+The university is not 
+responsible for
+activities on your login ID or that originate from your system.
+2.Access only files and data that are your own, which are publicly available, or to which you have
+been given authorized access.
+3.Be considerate in your use of shared resources. 
+Refrain from monopolizing systems, overloading
+networks with excessive data, or wasting computer time, connect time, disk space, printer paper,
+manuals, or other resources.
+4.Forbidden activities
+In making acceptable use of resources, you must 
+not
+:C.Provide login ID codes and system access for the purpose of using resources in violation policy,
+or in violation of federal, state or local statutes.
+1.Use copyrighted images, text, or software without permission or in violation of the copyright laws
+of the United States, or violate terms 
+of applicable software licensing agreements.
+2.Use resources to violate the university codes of conduct or engage in any illegal activity.
+3.
+ReviewersProposed revisions of this policy should be reviewed by:
+1. Faculty Senate
+2. Administrative Senate
+3. Classified Senate
+Use resources for private financial gain or compensation except as permitted under policy
+17.900, or for partisan political purposes.
+4.Use resources to intimidate or single out individuals or groups for degradation or harassment in
+violation of federal or state law and other university policies.
+5.Use resources to provide materials whose nature or volume compromise the ability of the server
+to serve other users' documents.
+6.Use a computer account for which authorization has not been granted, use the campus network
+to gain unauthorized access to any computer system, attempt to circumvent data protection
+schemes or uncover security loopholes, or mask the identity of an account or machine.
+7.Knowingly perform an act that will interfere with the normal operation of computers, terminals,
+peripherals, or networks, including knowingly running or installing on any computer system or
+network, or giving to another user, a program intended to damage or to place excessive load on
+a computer system or network. 
+This includes programs known as computer viruses, Trojan
+horses, and worms.
+8.Possible penalties
+Misuse of computing, networking, information, or world wide web resources may result in the loss of
+computing privileges. 
+Additionally, misuse can be prosecuted under applicable statutes. 
+Offenses that
+are in violation of local, state, or federal laws may be reported to the appropriate university and law
+enforcement authorities. 
+Users may be held accountable for their conduct under any applicable
+university or campus policies, procedures, or collective bargaining agreements. 
+Complaints alleging
+misuse of computer resources will be directed to those responsible for taking appropriate disciplinary
+action. 
+Reproduction or distribution of copyrighted works, including images, text, or software, without
+permission of the owner is an infringement of U.S. copyright law and is subject to civil damages and
+criminal penalties including fines and imprisonment. 
+Violators will be subject to university rules and
+regulations.
+D.Additional use policies
+Additional use policies and terms and conditions may be in place for specific electronic services offered
+by Ohio university, such as the world wide web, university records, and student code of conduct
+policies. 
+You must familiarize yourself with any of these when you agree to use these services.
+E.
+Forms, References, and History
+Administrative Policy Manual
+ Rachel McClure revised this page 
+(https://www.ohio.edu/policy/91-003.html)
+ on October 12, 2016.
+policy@ohio.edu
+Ohio University   |   Athens, OH 45701   |   740.593.1000
+Copyright © 2015 
+Ohio University
+.   All rights reserved.
+Forms
+There are no forms that are specific to this policy.
+1.ReferencesThe following items are relevant to this policy:
+2.Policy 
+17.900, "Consulting."
+a.Policy 
+55.002, "Use of University Resources."
+b.History
+Draft versions of this policy that were circulated for review, their cover memos, their forms, and
+Reviewers' comments on them are available on the password-protected Review site, at
+https://www.ohio.edu/policy2/91-003/
+.Prior versions of this policy were approved on:
+3.October 28, 2002
+a.February 4, 1997
+b.June 1, 1996c.

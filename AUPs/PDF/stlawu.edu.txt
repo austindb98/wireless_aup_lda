@@ -1,0 +1,12 @@
+SCOPE All employees, students, contractors, consultants, and guests must adhere to this policy.
+This policy applies to all wireless infrastructure devices, such as wireless network access points, that connect to a University data network or reside on a St. Lawrence University location that provide wireless connectivity to endpoint devices.
+POLICY St. Lawrence University has established the following requirements for use of its wireless infrastructure based on ISO/IEC and NIST documented standards*.
+GENERAL REQUIREMENTS All wireless infrastructure devices at St. Lawrence University that connect to the University data network and/or provide access to information assets must comply with the following:
+Abide by the standards for communication specified in the Wireless Communication Standard.
+
+Wireless infrastructure resources will be installed, supported, and maintained by St. Lawrence University Information Technology.
+
+Users and devices must not interfere with university wireless access deployments.
+New York Six Liberal Arts Consortium of Colgate University, Hamilton College, Hobart & William Smith Colleges St. Lawrence University, Skidmore College, Union College 4.0 ENFORCEMENT The institution may temporarily suspend or block access to any individual or device when it appears necessary to do so in order to protect the integrity, security, or functionality of the institutioncommunications network.
+Violations of this policy may result in penalties and disciplinary action in accordance with the Student Handbook, Faculty Handbook and/or rules governing employment at St. Lawrence University.
+EXCEPTIONS Exceptions to the policy may be granted by the Vice President for Library and Information Technology, and/or his/her designee in accordance with the St. Lawrence University Wireless Communication Standard.

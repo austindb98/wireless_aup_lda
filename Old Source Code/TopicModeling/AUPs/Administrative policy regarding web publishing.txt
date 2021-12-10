@@ -1,0 +1,120 @@
+! - "#
+.$ADMINISTRATIVE POLICY REGARDING WEB PUBLISHING
+(A)Introduction. This policy applies to all Kent state university web sites and web
+pages that are available generally through the worldwide web or the internet. This
+policy applies to all web pages and sites except those:
+(#)Primarily intended for instruction or research;
+(%)Primarily used in support of student, faculty or sta
+! organizations; and
+($)Personal web sites.(B)Procedural standards. Members of the university community are expected to
+follow all policies, rules, procedures and guidelines established to manage web
+resources. The divisions of university relations and development and information
+services are jointly responsible for promulgating the rules, procedures and
+guidelines outlined in this policy.
+(C)Guidelines for implementation.(#)University relations and development will develop and maintain guidelines
+called guide to web standards to govern web publications covered by this
+policy. University relations and development will work closely with
+information services, faculty and other appropriate stakeholders in
+developing these guidelines.(%)To achieve the overall advancement of Kent state university's unique
+institutional brand identity, as deÞned in the Kent state university positioning
+platform, web sites and web pages covered by this policy are governed by
+the guide to web standards.
+($)It is Kent state university's policy that all web sites and web pages covered
+by this policy will be compliant with the Americans with Disabilities Act.
+(&)The university, through university relations and development and
+information services, is responsible for maintaining web resources (including
+but not limited to: site development and design, style guidelines, logolibraries, on-campus training and information about compliance with the
+
+Americans with Disabilities Act) for the university community.
+(')University relations and development and information services will assist
+departments, divisions and all units covered by this policy in identifying
+noncompliant elements and will provide help to departments to bring
+departmental web sites into compliance with this policy.
+(()University relations and development, along with information services, will
+be responsible for securing ongoing, appropriate technical support for Kent
+state university's institutional web site and departmental web sites that are
+housed on the university server. Those departments choosing to maintain
+web sites on independent servers are responsible for the security and
+maintenance of the servers and web sites.())Copyright and ownership of internet materials, whether original or derivedworks, created or developed by Kent state university sta
+!, faculty or studentsare prescribed by Kent state university contractual agreements or policies
+regarding intellectual property.
+(*)No web page can contain any copyrighted or trademarked material without
+permission except as permitted by law. Photographs, drawings, video clips or
+sound clips may not be used on a page without permission of the person whocreated them or the entity owning the rights except as permitted by law.
+(!)Limited commercial sponsorship is permitted on web sites covered by this
+policy if all of the following conditions are met:
+(a)The commercial entity must be sponsored by a department or unit of
+the university;(b)A commercial sponsorship agreement must be signed by the
+commercial entity, approved at the vice presidential level and reviewed
+by university counsel;(c)Commercial sponsorship must meet the requirements set forth in the
+appropriate section of the guide to web standards.
+(d)Use of logos, trademarks or other identifying elements not associated
+with the university should be avoided except as noted in paragraph (C)
+
+Policy E!ective Date: Policy E!ective Date: Policy Prior E!ective Dates: Policy Prior E!ective Dates: Mar. 
+"#
+, $"#%#"
+/
+&
+/
+$""', (
+/
+#(
+/
+$""%, )/
+#
+/
+$""&(()(a) to (C)(
+()(c) of this Administrative Code. Hosting of commercial
+sponsor's web pages or web sites is prohibited.
+(#")Other than basic identiÞcation information described in the guide to webstandards, this policy is not intended to specify content.
+(##)All requirements and restrictions in any other Kent state university policies
+remain in force and are not considered superseded by this policy.
+CH #: DEFINITIONSCH #: DEFINITIONS(/POLICYREG/CHAPTER-
+#
+-(/POLICYREG/CHAPTER-
+#
+-DEFINITIONS)DEFINITIONS)CH %: GOVERNANCE
+CH %: GOVERNANCE
+(/POLICYREG/CHAPTER-
+%-(/POLICYREG/CHAPTER-
+%-ORGANIZATION-GOVERNANCE)
+ORGANIZATION-GOVERNANCE)
+CH $: TEACHINGCH $: TEACHING(/POLICYREG/CHAPTER-
+$-(/POLICYREG/CHAPTER-
+$-TEACHING-RESEARCH-AND-
+TEACHING-RESEARCH-AND-
+PUBLIC-SERVICE)
+PUBLIC-SERVICE)
+CH &: UNIVERSITY LIFECH &: UNIVERSITY LIFE(/POLICYREG/CHAPTER-
+&-(/POLICYREG/CHAPTER-
+&-UNIVERSITY-LIFE)
+UNIVERSITY-LIFE)
+CH ': ADMINISTRATION
+CH ': ADMINISTRATION
+(/POLICYREG/CHAPTER-
+'-(/POLICYREG/CHAPTER-
+'-GENERAL-ADMINISTRATION)
+GENERAL-ADMINISTRATION)
+CH (: PERSONNELCH (: PERSONNEL(/POLICYREG/CHAPTER-
+(-(/POLICYREG/CHAPTER-
+(-PERSONNEL)PERSONNEL)CH ): FINANCECH ): FINANCE(/POLICYREG/CHAPTER-
+)
+-(/POLICYREG/CHAPTER-
+)
+-FINANCE)FINANCE)CH *: REGIONALSCH *: REGIONALS(/POLICYREG/CHAPTER-
+*-(/POLICYREG/CHAPTER-
+*-REGIONAL-CAMPUSES)
+REGIONAL-CAMPUSES)
+
+CH !: TECHNOLOGY
+CH !: TECHNOLOGY
+(/POLICYREG/CHAPTER-
+!-(/POLICYREG/CHAPTER-
+!-INFORMATION-TECHNOLOGY-
+INFORMATION-TECHNOLOGY-
+SECURITY)SECURITY)CH #": RESEARCH & SPONSOREDCH #": RESEARCH & SPONSOREDPROGRAMSPROGRAMS(/POLICYREG/CHAPTER-
+#"-(/POLICYREG/CHAPTER-
+#"-RESEARCH-SPONSORED-
+RESEARCH-SPONSORED-
+PROGRAMS)PROGRAMS)

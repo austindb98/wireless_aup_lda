@@ -1,0 +1,14 @@
+ResNet facilitates wired connections in PontchartrainNorth and South, as well as Privateer Place.
+UNO offers a Virtual Private Network(VPN) to Faculty and Staff sothat they can use the programs, they would normally use in the office, off-campus.
+The Telephony Team supportsthe entire telephone system of UNO.
+They provide for faculty and staff to have voicemail as well transferring linesand call forwarding.TroubleshootingYour computer shows there is internet access, but you get an error when trying to load a page.TroubleshootingConnect to Campus WiFiYour computer should be equipped with software that protects it from network-based hazards.
+This softwareshould include firewall, anti-virus, and anti-spyware protection.
+It is also very important to keep your operatingsystem updated.To connect to UNO s wireless network, you must have a UNO User Account.
+At this time the following operatingsystems are supported(pdf instructions):Wireless NetworkingThe University of New Orleans wireless network is available to students, faculty and staff.
+It provides all theconveniences of a regular wired connection without the need for cables.
+As a shared resource, wirelessnetworking is intended primarily to supplement the campus wired infrastructure, not to replace it.UNO has two wireless networks: UNOGuest and UNOSecure.UNOSecure is accessible by anyone with a UNO LAN username and password.
+All faculty, staff, and studentshave a LAN username and password.UNOGuest is for visitors who do not have a UNO LAN credentials.
+Visitors can request access to the network byhaving a sponsoring UNO faculty or staff member fill out the UNOGuest Access form.
+Visitors must have a validreason for needing UNOGuest access.Request UNOGuest access for visitor(username and password required).HOME / UNIVERSITY COMPUTING & COMMUNICATIONS / CONNECTING TO THE INTERNETABOUTACADEMICSADMISSIONSRESOURCESSTUDENT LIFERESEARCHATHLETICS
+Configuration of secure wireless settings varies depending on theoperating system and the type of wireless adapter.
+In Windows XP, for instance, you can use Windows toconfigure your wireless settings, or you can make use of the configuration utility provided with your wirelessadapter, as long as this utility has all the requirements to connect to the UNO wireless network.

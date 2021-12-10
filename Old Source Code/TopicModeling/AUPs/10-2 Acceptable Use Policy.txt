@@ -1,0 +1,190 @@
+Acceptable Use Policy of UniversityInformation Technology Resources
+ I.  [PURPOSEWeber State University provides Users with access to Information Technology (IT) Resources (as
+de!ned herein). Access to University IT Resources advances the UniversityÕs mission to provide
+instruction, research, public service, and administrative activities.  [The Acceptable Use Policy (AUP),
+provides guidance for using University IT Resources and protects the University, Users, and other
+University property.
+II.  [REFERENCESa.  [PPM 3-30, Personal Conduct
+ (https://www.weber.edu/ppm/Policies/3-30_PersonalConduct.html)
+b.  [
+PPM 3-32, Discrimination and Harassment
+ (https://www.weber.edu/ppm/Policies/3-
+32_DiscriminationHarassment.html)
+c.  [PPM 3-33, Discipline
+ (https://www.weber.edu/ppm/Policies/3-33_Discipline_Staff.html)
+d.  [PPM 3-36, Con
+"ict of Interest
+ (https://www.weber.edu/ppm/Policies/3-36_Con
+"ictInterest.html)
+e.  [
+PPM 5-41, Copyright Policy: Ownership
+ (https://www.weber.edu/ppm/Policies/5-
+41_CopyrightPolicyOwnership.html)
+f.  [PPM 5-42, Copyright Policy: Copying of Copyrighted Works
+(https://www.weber.edu/ppm/Policies/5-42_CopyrightPolicyCopying.html)
+g.  [PPM 5-43, Performance or Display of Copyrighted Works
+ (https://www.weber.edu/ppm/Policies/5-
+43_DisplayCopyrightedWorks.html)
+h.  [PPM 6-22, Student Code
+ (https://www.weber.edu/ppm/Policies/6-22_StudentCode.html)
+i.  [PPM 8-25, Reason for Dismissal of Tenured Faculty
+ (https://www.weber.edu/ppm/Policies/8-
+25_ReasonsDismissal.html)j.  [PPM Section 9, Academic Freedom, Rights, Responsibilities and Due Process
+(https://www.weber.edu/ppm/Policies/9-AcadFreedom.html)
+k.  [PPM 10-1, Information Security Policy
+ (https://www.weber.edu/ppm/Policies/10-
+1_InformationSec.html)l.  [PPM 10-4, Payment Card Handling Policy
+ (https://www.weber.edu/ppm/Policies/10-4_Paycard.html)
+m.  [R345, Information Technology Resource Security (Board of Regents Policy) 
+(https://higheredutah.org/policies/policyr345/)
+n.  [R343, Information Management (Board of Regents Policy)
+(https://higheredutah.org/policies/policyr343/)
+o.  [PCI DSS  [(https://www.pcisecuritystandards.org/security_standards/index.php)
+III.  [SCOPENo. 10-2
+Rev. 2-6-18
+  [Date:  [10-11-05
+The AUP applies to all Users and any device utilizing University IT Resources.  [Users agree to comply
+with the AUP.  [At least each year, Users are required to review and accept the AUP and are
+responsible for maintaining an understanding of its current terms. The current version of the AUP is
+available in the University's Policy and Procedures Manual. 
+In addition to the AUP, all Users of University IT Resources agree to abide by the rules and
+regulations contained in applicable University handbooks, the Student Code, guidelines and policy
+and procedure manuals, as well as the laws of the State of Utah and of the United States of
+America.  [We remind Users that state and federal laws apply to the use of campus networks and the
+Internet, including but not limited to those dealing with:
+copyright infringement
+defamationdiscriminationfraud
+harassment
+identity theftobscene materialsrecords retention
+IV.  [DEFINITIONSA.  [Electronic Communication - Digital correspondence, including, but not limited to, email, text-
+messaging, instant messaging, and social networks.
+B.  [Partisan Political Purposes - Is consistent with Utah Code 20A-11-1202(11) (2017) and means an
+act done with the intent or in a way to in
+"uence or intend to in"uence, directly or indirectly, any
+person to refrain from voting or to vote for or against any: (a) candidate for public of
+!ce at any
+caucus, political convention, primary, or election; or (b) judge standing for retention at any election.
+C.  [University Information Technology Resource (IT Resource) - A University resource used for
+electronic storage, processing or transmitting of any data or information, as well as the data or
+information itself.  [This de!nition includes, but is not limited to, electronic mail, voice mail, local
+databases, externally accessed databases, CD-ROM, recorded magnetic media, photographs,
+digitized information, or micro
+!lm.  [This also includes any wire, radio, electromagnetic, photo
+optical, photo electronic or other facility used in transmitting electronic communications, and any
+computer facilities or related electronic equipment that electronically stores such communications.
+D.  [User - All persons and/or organizations that have access to University data.
+V. POLICYA.  [General 
+The AUP describes what User(s) agree to do and not to do when using University IT Resources.  [The
+policy outlines actions the University may take to perform University business and to protect
+University IT Resources, other University property, and Users.  [Nothing in this AUP warrants that
+violations of this policy will not occur, creates a standard of care, or imposes liability on the
+University for any damages resulting from violations of the AUP.
+B.  [Responsibilities of Users 
+1.  [Law and Policy 
+
+a.  [By using University IT Resources, Users agree to comply with applicable state and federal laws
+and University policies.
+b.  [Downloading or disseminating copyrighted materials outside the provisions of Òfair useÓ or
+without the permission of the copyright holder is prohibited.  [Illegally obtained material may
+include, but is not limited to, music, movies, games, software, etc.  [Illegal use of peer-to-peer
+networking or other 
+!le-sharing technology is prohibited and may subject the User to civil or
+criminal penalties beyond penalties for violation of University policy. (See PPM 5-41, 5-42, 5-43 for
+the reference to copyright policy as well as IT Compliance Plan.)
+c.  [Accessing or attempting to access computer systems using University IT Resources, including
+those external to the University, without authorization by the owner of that system, is speci
+!cally
+prohibited.
+d.  [Sending electronic communication messages or creating web pages with fraudulent address or
+header information or containing misrepresentations in authorship or content in an attempt to
+deceive others is prohibited.
+e.  [Using the University's of
+!cial web site or email for partisan political purposes (with the exception
+of announcements of general public interest by University political clubs) is prohibited.
+f.  [Using University IT Resources in a way which would constitute a regular private business activity
+or which would violate the UniversityÕs con
+"ict of interest policies is prohibited.
+g.  [Deliberately misusing trademarks in web pages and email, including University-owned marks
+such as the of
+!cial logo or seal and trademarks owned by other entities is prohibited.
+h.  [Providing false or misleading information in order to obtain access to computing or network
+facilities is speci!cally prohibited.
+i.  [Using University IT Resources in a way that would violate laws governing child pornography or
+obscenity is strictly prohibited.
+2.  [Accounts and Passwords
+a.  [By using University IT Resources, Users agree that they are responsible for any activity
+originating from their accounts which they can reasonably control.
+b.  [Users may not divulge or make known their own password(s) to another person.
+c.  [Unauthorized use of another User's account is prohibited.
+d.  [Users who know another UserÕs password, intentionally or unintentionally, must notify the
+account owner immediately.
+e.  [Falsifying or corrupting data in othersÕ accounts or in public directories is prohibited.
+f.  [Falsifying identity while using e-mail or any other University IT Resource is prohibited.
+3.  [Respect for University Resources, Users, and Information
+a.  [Users must respect the ability of other Users to utilize University IT Resources in an ef
+!cient andsecure manner. Use of University IT Resources shall not disrupt, distract from or interfere with the
+conduct of University business.  [Prohibited User activities include, but are not limited to:
+i.  [ Using any device or software which interferes with the ability of others to access or degrades the
+performance of University IT Resources.
+ii.  [Damaging or attempting to damage University IT Resources.
+
+iii.  [Deliberately or recklessly introducing computer viruses, worms, or similar technologies which
+would harm the integrity of University IT Resources, as well as attempting to create or disseminate
+such technologies.
+iv.  [Deliberately or recklessly misusing software or other techniques to degrade system or network
+performance or otherwise deprive authorized personnel of resources or access to University
+systems or networks, including techniques to disguise or obscure the source of data network traf
+!c.v.  [Releasing con
+!dential, proprietary information, or information which has been classi
+!ed asprivate, controlled, or protected under Utah Code Ann. ¤ 63G-3-201 et seq, without appropriate
+authorization, (Payment Card Handling Policy 10-4).
+vi.  [Sending unsolicited bulk electronic communication (spam) unrelated to the UniversityÕs mission
+or related bulk email without appropriate approval.
+vii.  [Monitoring or attempting to monitor use of University IT Resources without authorization.
+4.  [Personal Use
+a.  [Users may engage in incidental and occasional personal use of University IT Resources provided
+that such use does not:
+Violate applicable law, rules or policies;
+Disrupt, distract from, or interfere with University business, but not limited to due to nature, volume
+or frequency of the personal use;
+Involve regular private business activities; or
+Contravene supervisor direction regarding personal use of University IT Resources.
+C.  [Privacy
+The University values the privacy of its employees and in general does not seek to gain access to
+data that would include personal use of University IT Resources, insofar as such personal use is
+permitted herein.  [However, Users understand and acknowledge that University IT Resources are the
+sole property of the University and all data contained therein must be accessible to the University. 
+As such, by using University IT Resources, Users acknowledge and agree that they have no right or
+expectation of privacy from authorized access by University personnel.  [Notwithstanding anything
+herein, use of University IT Resources is a privilege, not a right and can be revoked at any time.
+D.  [Remote Access
+Only authorized Users will be permitted to remotely connect to University computer systems,
+networks and data repositories to conduct University related business as required by the Standard
+For Secure Remote Access (Information Security Policy, PPM 10-1, Section G).
+E.  [University Actions 
+Access to data contained in University IT Resources must be authorized by the University President
+or responsible University Vice President in consultation with University Legal Counsel.  [The
+University may take any action reasonably related to the performance of University business or the
+protection of University IT Resources, other University property, or Users.  [This includes, but is not
+limited to:1.  [Logging, monitoring, reviewing, copying, examining, or disclosing electronic information from
+University IT Resources including but not limited to Electronic communications, web access and
+network traf
+!c;
+ 2.  [Disconnecting any device for University business purposes;
+3.  [Curtailing, revoking, or prohibiting access to University IT Resources at any time;
+4.  [Enforcing the AUP and other policies against any violations including University disciplinary
+actions according to University policies (e.g., probation, suspension, termination, or expulsion), civil
+suits, criminal investigations, or assisting in criminal prosecutions;
+5.  [Authorizing University employees, agents or contractors to perform the functions and take
+actions to conduct the business of the University consistent with policy; or
+6.  [Deleting any 
+!le stored on University IT Resources, as permitted by applicable law.
+F.  [Warranty and Risks
+The University makes no warranties of any kind with respect to University IT Resources.  [This
+includes, but is not limited to, the accuracy or quality of information obtained through its Electronic
+Communication facilities and services.
+By using University IT Resources, Users agree the University will not be responsible for damages
+resulting from the use or misuse of University IT Resources, including, but not limited to, loss of
+data resulting from delays, non-deliveries, missed deliveries, hacking, or service interruptions
+caused by the negligence of any University employee or by the User's error or omissions.
+

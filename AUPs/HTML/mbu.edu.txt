@@ -1,0 +1,78 @@
+Attempts to bypass filters are prohibited.
+If you use Internet access in other areas(such as the local public library), you are still expected to visit only appropriate sites and may be subject to penalties for any violations.
+Inappropriate and Pornography Internet Sites See Life and Testimony for issues related to appropriate internet viewing and what to do in case you accidentally view an inappropriate website.
+Network Devices Students may not set up personal wireless access points/routers, hotspots, or any other wireless transmission devices in the dorms or any other Maranatha building.
+Any network device that interferes with Maranatha s network is not allowed.
+Any equipment violating this policy may be removed by the Student Life Office.
+Students needing help with network devices(such as printers, switches, etc.)
+should contact the IT Help Desk.
+Computer Labs Food and drink are prohibited in computer labs, music labs, and library computer study carrels.
+You may not install software without approval.
+If you are playing a game, you must end the game and leave the computer immediately if other students are waiting to use the lab for legitimate work.
+Spouses of married students may use computers in the labs but must contact the T.
+department to set up their own accounts.
+They may not use their spouses accounts.
+Bulk Communications You are not allowed to send mass emails.
+Sending emails to more than 30 people is not allowed(this includes reply-to-all emails).
+If you need to make an event announcement, you may submit it to the My Maranatha Announcements.
+To post items for sale you may submit the information to the Classifieds page on the My Maranatha Announcements.
+If you wish to send surveys to more than 30 people for a class project, the instructor will need to contact the Office of Institutional Research.
+Electronic Communication You are responsible for the content of any electronic communication you send or receive, and the content should conform to the standards of Philippians 4:8.
+If you participate in communicating including forwarding or directing people to, whether you read the content or not, content that violates this biblical standard, you may be subject to disciplinary action.
+You will be held responsible for failing to report receipt of the objectionable material and/or for forwarding
+If you receive an inappropriate email or other electronic transmissions(excluding SPAM, which you should delete immediately) that contains objectionable material( e., profanity, lewd, or crude content), report the communication using this process: Forward a copy to abuse@mbu.edu.
+Tell a dean or Residence Supervisor about the communication.
+Delete the communication.
+Such material should not be saved or forwarded to others.
+Account Privacy and Security Maranatha s network facility requires each user to have a unique identity to gain access to or otherwise use the system or facility.
+The identity is used to represent a user in various system activities and to provide access to certain software and data based on his/her credibility and purpose for requiring such access.
+As such, this identity is another instrument of identification and its misuse constitutes forgery or misrepresentation and is subject to disciplinary action.
+All users must take reasonable precautions to ensure the security of their account, such as choosing difficult to guess passwords.
+Passwords must be eight characters or more in length.
+If you repeatedly(about 10 times) attempt to log in to your account using an incorrect password, your account will remain in a locked state for 30 minutes.
+If this occurs, you will need to visit or call the IT office.
+You are responsible for your account and should not leave any computer unattended when you are logged
+Penalties may be issued for misuse of an unattended or otherwise unsecured computer.
+You may lock the computer by selecting the Windows Key + L on Windows computers.
+Using or attempting to access someone else s computer account or sharing passwords to accounts is prohibited.
+Deletion, examination, copying, or modifying files or data belonging to other uses without their prior consent is prohibited.
+Attempting to(or helping someone else) bypass the network or internet login process is prohibited [IT 3/09].
+Data stored on the network facilities are considered private.
+The following actions are prohibited and subject to disciplinary action: Tapping the network for the purpose of examining data for which the user is not authorized.
+Attempting to crash the network or computer systems.
+MBU performs routine short-term backups on data stored on network file shares(J-drives and Email) and My Maranatha.
+However, it is recommended that you acquire and use your own file backup devices: USB Sticks, Jump Drives, External Hard Drives, etc.
+to backup critical files that you may need now and in the future when you leave MBU.
+IT 3/09] Disabled Accounts Graduating students and non-returning undergraduate students accounts will be disabled after six months unless they apply for another program or register for another class.
+associated with a student s mbu.edu account should be changed to a personal email address [IT 7/16].
+Network Usage Agreement [IT 7/17] This Network Usage Policy applies to all parties with access to computers and the internet provided by Maranatha Baptist University(Maranatha).
+Access to computers and the internet through Maranatha is a privilege and all users must adhere to the policies concerning computer, email, and internet usage.
+Violation of these policies could result in disciplinary and legal action leading up to and including dismissal.
+Users of Maranatha s computers and internet may also be held personally liable for damages caused by any violations of this policy.
+Maranatha provides limited internet access and network functionality to faculty, staff, students, and some guests for the primary purposes of carrying out the work of the ministry and its educational and leadership-development mission.
+Internet and network access for other purposes such as entertainment and personal use may be limited, if necessary, in the sole discretion of the administration to support the ministry s primary functions.
+Confidentiality Maranatha seeks to protect the rights of those using its computing and network facilities and seeks to protect the confidentiality of university records stored on its computer systems.
+Maranatha reserves the right to inspect any electronic file or mail stored on its network if necessary in the sole discretion of the administration.
+In order to maintain its network and business processes, Maranatha reserves the right to edit, decrypt, duplicate, backup, archive, or delete any electronic file stored on its network.
+In addition, Maranatha reserves the right to inspect any and all data communication transmitted from or received by any device connected to its network, including, but not limited to, devices connected by means of a wireless access point.
+All internet activity is logged, identified by a username, and reviewed regularly by human and electronic means.
+Maranatha reserves the right to monitor and limit internet access.
+Accessibility Maranatha s network facility requires each user to have a unique identity to gain access to or otherwise use the system or facility.
+The identity is used to represent a user in various system activities and to provide access to certain software and data based on his/her credibility and purpose for requiring such access.
+As such, this identity is another instrument of identification and its misuse constitutes forgery or misrepresentation and is subject to disciplinary action.
+The privilege of using the computing and network resources is not transferable, and allowing another person(including a parent) to use your username/password or to use your account while you are logged in is subject to discipline, up to and including loss of credit or dismissal.
+All users must take reasonable precautions to ensure the security of their account, such as choosing difficult to guess passwords.
+Appropriate Use The computer information systems at Maranatha are essential for research, instruction, and administration within the academic community.
+Because the electronic environment is easily disrupted and electronic information is readily reproduced, appropriate use is required of all users of the Maranatha computing network.
+Appropriate use varies according to a person s respective role but includes instruction, completion of assignments, research, communication, and the official use of the campus organizations and agencies of the university.
+Unacceptable Use Those who use the Maranatha computing and network resources are expected to behave in a manner that is consistent with Maranatha s well-known Biblical principles and beliefs, and in compliance with state and federal laws.
+Unacceptable use of the Maranatha network includes, but is not limited to: Access to sites, pages, images, video, or other content that contain obscene, hateful, pornographic, violent, or illegal material; Forwarding any communication that contains morally objectionable material; Sending or posting discriminatory, harassing, or threatening messages or images on the internet or via Maranatha s messaging service; Using computers to perpetrate any form of fraud, and/or software, film, or music piracy; Stealing, using, or disclosing someone else s password without authorization; Engaging in academic dishonesty or theft of intellectual property; Deletion, examination, copying, or modification of files or data belonging to other users without prior consent; Downloading, copying, or pirating software, electronic files, or any other copyrighted items without proper authorization; Sharing confidential material, trade secrets, or proprietary information outside of the organization; Hacking into unauthorized websites or into areas of the Maranatha network that you have not been granted security access and permission to enter; Any improper or unauthorized attempt to secure a higher level of privilege on Maranatha s systems; Sending or posting information that is defamatory; Introducing malicious software onto the network or jeopardizing the security of the organization s electronic communications systems, including capturing network traffic; Sending or posting mass emails, chain letters, solicitations, or advertisements not related to business purposes or activities; Forgery or attempted forgery of electronic mail messages; and Passing off personal views as representing those of the organization.
+If a user is unsure about what constitutes acceptable usage, then that person should ask the Information Technology Department for further guidance and clarification.
+Network Security If you know about or learn about a hole in the system or network security, you have an obligation to report this information to the Information Technology Department.
+Failure to do so may result in disciplinary action.
+The discovery and prompt reporting of network vulnerabilities are not subject to discipline.
+Any attempt to access, copy, or modify this security information or to obtain system privileges to which you are not entitled or any action which interferes with the supervisory or accounting functions of the systems or that is likely to have such effects will result in strict disciplinary action.
+User compliance All terms and conditions as stated in this policy are applicable to all users of Maranatha s network and internet connection.
+Your continued use of the Maranatha system constitutes your acceptance of all the terms contained herein.
+Any user violating these policies is subject to disciplinary action.
+Acknowledgment It is understood that should a person using Maranatha s computers or internet access commit any violation of this policy, that person s access privileges may be revoked, and disciplinary action and/or appropriate legal action may be taken.

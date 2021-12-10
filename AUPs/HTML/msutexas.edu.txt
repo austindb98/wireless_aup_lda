@@ -1,0 +1,52 @@
+Once your system shows that you are connected, open your favorite browser and go to a site off-campus such as http://google.com or http://yahoo.com.
+The system should then redirect you to a page that says "Please click here to connect to the network" and has 10.0.8.61 in the address bar.
+Step2 Click the link that says "Please click here to connect to the network."
+You will be given the choice of registering your wireless device with the MSU network as either an authenticated user or a guest.
+If you are a registered student or are a current MSU employee(staff or faculty), you should use the "Network Login" section of the page shown below to authenticate using your MSU credentials.
+For students, this is the MSU Portal username and password but the username must be entered in the form of STUDENT\portalusername.
+For staff and faculty, this will be your network credentials with which you normally log into campus systems, with ADMIN\ inserted in front of the username.
+If you are visiting the campus, then you can use the "Register as a Guest" section to register your device and gain temporary access to the Internet only.
+Step 2a If you selected the "Network Login" option and your credentials are correct, you will see a screen similar to the one below.
+You will need to check the box for "I agree to the Acceptable Use Policy" before clicking "Complete Registration."
+Step 2b If you selected "Register as Guest," you will see a screen similar to the one below.
+Fill out all fields requested, check "I agree to the Acceptable Use Policy," and click "Complete Registration."
+Step You will be now be presented with the following screen while your system is connected.
+Step When the connection is completed you will see the following screen and be able to use the network accordingly.
+If you used the Network Login option, will only have to go through this process once per semester for each device that you connect to the wireless network - unless you change your password.
+At the end of each semester, the device registrations will expire and you will need to follow this procedure once more when you return to campus for the next semester.
+If you registered as a guest, your access will continue for seven days before you must renew again.
+MSU Secure Wireless Android Open the wireless menu on your Android device Select the MSUSecureWireless network For "EAP method," select "PEAP" If you see an option for "Phase authentication," select "MSCHAPV2" "CA certificate" should be unspecified For "Identity," enter admin\your MSUNet username Leave "Anonymous Identity" blank Your password will be your MSUNet password Select "Connect" If you see a "Certificate" screen, verify that it says lister.admin.msu and then choose "Trust" Apple Open the wireless menu on your Apple device Select the MSUSecureWireless network For "Username," enter admin\your MSUNet username For "Password," enter your MSUNet password Select "Join" Windows Open the "Network and Sharing Center" on your Windows laptop or tablet.
+Select "Add" and then select "Manually create a network profile."
+Enter the network name as "MSUSecureWireless"(without the quotation marks), and make sure "Security type" is WPA2-Enterprise, with "Encryption type" of AES.
+Click "Next."
+Next, click "Change Connection Settings" and then click the "Security" tab of the Network Properties menu.
+Check that your "Network Authentication Method" is Microsoft: Protected EAP and then click "Settings."
+Under "Select Authentication Method" make sure that Secured password(EAP-MSCHAP v2) is selected, then click "Configure."
+Uncheck the box to "Automatically use." and click "OK." Click "OK" on the Protected EAP Properties menu to close
+On the "Security" tab of the Network Properties menu, click "Advanced Settings."
+Check "Specify authentication mode" and select "user authentication in the dropdown bo "
+Click "Save credentials."
+Enter your MSUNet credentials, placing "admin\"(without the quotation marks) in front of your username.
+Click "OK." Please note that you will have to go back in and change this password manually whenever you change your MSUNet password.
+Exit all open menus by clicking "OK" and then wait for your device to connect to the network.
+Residence Halls(Resnet) Our Residential Network is provided and managed by Apogee, a company which is external to Midwestern State University and our Information Technology department.
+Please note that MSU Wireless and Secure Wireless networks do not cover residential areas.
+More information can be found on the RESNET page under "Housing."
+This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it
+The information does not usually directly identify you, but it can give you a more personalized web experience.
+Because we respect your right to privacy, you can choose not to allow some types of cookies.
+Click on the different category headings to find out more and change our default settings.
+However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+More information Allow All Manage Cookie Preferences Strictly Necessary Cookies Always Active These cookies are necessary for the website to function and cannot be switched off in our systems.
+They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms.
+You can set your browser to block or alert you about these cookies, but some parts of the site will not then work.
+These cookies do not store any personally identifiable information.
+sub groups Performance Cookies Performance Cookies These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site.
+They help us to know which pages are the most and least popular and see how visitors move around the site.
+All information these cookies collect is aggregated and therefore anonymous.
+If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+sub groups Targeting Cookies Targeting Cookies These cookies may be set through our site by our advertising partners.
+They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites.
+They do not store directly personal information, but are based on uniquely identifying your browser and internet device.
+If you do not allow these cookies, you will experience less targeted advertising.
+We also share information about your use of our site with our analytics partners.

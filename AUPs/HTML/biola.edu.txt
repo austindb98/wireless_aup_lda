@@ -1,0 +1,26 @@
+It is intended to address issues involved in the use of Biola s wired and wireless networks, as well as the Internet for transfer of information.
+This includes but is not limited to e-mail, file transfer, or use of applications which utilize the networks.
+In the case where electronic information is carried across other networks( e., outside Biola), users are advised that acceptable use policies of those networks also apply and may further limit use.
+Purpose and Goal The Biola networks are the property of Biola University and have been established to facilitate an exchange of information that is consistent with the academic, educational, and research purposes of Biola University.
+Permitted Use Students, faculty, staff, and affiliates of Biola University are granted temporary access to the networks and the Internet to assist them in their academic, educational, and research responsibilities as they pertain to Biola.
+Personal use is permitted, provided it follows the guidelines described in this policy.
+Limitations of Use All users are expected to use Biola s computing resources and the Internet in a professional, lawful, and ethical manner, consistent with Biola s Standard of Conduct.
+Prohibited Uses Without prior permission from Biola, the networks may not be used to disseminate commercial advertisements, solicitations, promotions, destructive codes(e.g., viruses, trojan-horse programs, etc.)
+or any other unauthorized materials.
+Illegal Copying Users may not illegally copy material protected under copyright law or make that material available to others for copying.
+Users are responsible for complying with copyright law and applicable licenses that may apply to software, files, graphics, documents, messages, music files, or any other material.
+Frivolous Use Network bandwidth and storage have a finite capacity, and all users are expected to be responsible in their use of these resources.
+Users are not permitted to monopolize these resources.
+Examples of this include but are not limited to sending mass e-mail or chain letters or using applications that create excessive loads on network traffic.
+Objectionable Material Biola maintains the right to utilize software that makes it possible to identify and block access to Internet sites containing sexually explicit material or other material deemed inappropriate in the Biola community or in any way inconsistent with the Biola University Standard of Conduct.
+Electronic Privacy Monitoring of Computer and Internet Usage Biola has the right to monitor and log any and all aspects of its networks and computer systems, including but not limited to Internet sites visited by users, chat and newsgroup activity, application and network bandwidth usage, and file transfers.
+Data Security Services provided through Biola s networks have security measures in place to protect the loss, misuse, and alteration of the information under our control.
+While we make every effort to ensure the integrity and security of our networks and systems, we cannot guarantee that our security measures will prevent third-party hackers from illegally obtaining this information.
+User Accounts & Privacy In cases where individual user accounts are administrated by Biola, Biola Administrators may have the ability to access, monitor, use, or disclose data within the accounts.
+Account Security Users are typically assigned account IDs and passwords for access to Biola network and computer resources.
+Accounts are provided for exclusive use of the specific individual to whom they have been assigned.
+Transfer, possession, or use of account information that has been assigned to another individual is not permitted.
+Use of any Biola account constitutes giving one s word as the appropriate user of that account and signifies acceptance of the purposes outlined in this policy.
+Violation of Policy An appropriate Biola official will review alleged violations of this policy on a case-by-case basis.
+Violation of policy may result in disciplinary action, in the case of students and employees and/or restriction of access to the networks or to network-based services.
+Biola reserves the right to modify this policy at any time.

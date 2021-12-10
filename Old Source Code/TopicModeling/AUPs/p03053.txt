@@ -1,0 +1,286 @@
+ 
+MANUAL OF UNIVERSITY POLICIES
+ 
+PROCEDURES AND GUIDELINES
+ 
+Number:
+ 
+3
+-
+53
+ 
+Page 
+1
+ 
+of
+ 
+2
+ 
+ 
+ 
+ 
+ 
+Title/Subject:
+ 
+INFORMATION SECURITY INCIDENT RESPONSE POLICY
+ 
+ 
+ 
+Applies to:
+ 
+ 
+faculty
+ 
+ 
+staff
+ 
+ 
+students
+ 
+ 
+student employees
+ 
+ 
+visitors
+ 
+ 
+contractors
+ 
+Effective Date of This Revision:
+ 
+July 1, 2018
+ 
+ 
+ 
+Contact for More Information:
+ 
+Office of Information Technology
+ 
+ 
+ 
+ 
+Board Policy
+ 
+ 
+Administrative Policy
+ 
+ 
+Procedure
+ 
+ 
+Guideli
+ne
+ 
+BACKGROUND:
+ 
+ 
+A formal information security incident response process allows the Office of Information Technology to identify, investigate,
+ 
+and respond 
+promptly and appropriately to information security 
+concerns
+.  The process mitigates for possible harmful 
+effects, protects the University 
+data and information technologies, improves response in future events and incidents, and ensures the University fulfills its 
+response 
+obligations. 
+This
+ 
+policy
+ 
+requires the University to follow a formal response procedure fo
+r identifying, investigating, tracking, and properly 
+responding to information security concerns.
+ 
+DEFINITIONS:
+ 
+ 
+A.
+ 
+Security event
+ 
+means any unconfirmed or reported concern or complaint related to the inappropriate access, misuse, 
+
+ 
+B.
+ 
+Security alert
+ 
+means any confirmed event or concern, related to the inappropriate access, misuse, theft, or 
+
+-
+up 
+tracking and reporting, or action to remediate. 
+ 
+Security alerts also include trusted, automated
+-
+alarms or other 
+reported detections of known
+-
+malicious activity or high
+-
+risk, exploitable vulnerabilities.  Security alerts requiring 
+investigation and/or significant follow
+-
+up or non
+-
+routine action are esca
+lated to incident status.    
+ 
+C.
+ 
+Security incident
+ 
+
+information, information technologies, or information systems, requiring investigation and/or significant follow
+-
+up, 
+and/or non
+-
+routine action.   Security incidents requiring formal breach response are escalated to breach status.    
+ 
+D.
+ 
+Security breach 
+
+Protected or Restricted data or 
+information technologies requiring formal breach response, reporting, and/or 
+notification(s). 
+ 
+ 
+POLICY:
+ 
+ 
+The Office of Information Technology will follow a formal incident response procedure for identifying, investigating, trackin
+g, and 
+properly responding to University information security concerns.  
+ 
+ 
+Information security concerns will be responded to promp
+tly and appropriately to ensure proper handling and consideration, and to mitigate 
+for harmful effects, including escalation to technical response and/or administrative teams as necessary, to protect the Univ
+ersity data and 
+information systems, and meet Un
+iversity response obligations.
+ 
+Authority:
+ 
+G
+eorge 
+E. Ross, President
+ 
+History:
+ 
+N
+ew Policy
+ 
+Indexed as:
+ 
+i
+nformation technology; 
+information system; 
+secu
+rity alert; security breach; security event
+ 
+Number:
+ 
+3
+-
+5
+3
+ 
+
+ 
+MANUAL OF UNIVERSITY POLICIES
+ 
+PROCEDURES AND GUIDELINES
+ 
+Number:
+ 
+3
+-
+53
+ 
+Page 
+2
+ 
+of
+ 
+2
+ 
+ 
+ 
+ 
+ 
+Title/Subject:
+ 
+INFORMATION SECURITY INCIDENT
+ 
+RESPONSE POLICY
+ 
+ 
+ 
+ 
+PROCEDURE:
+ 
+ 
+Information Security concerns, complaints, and inquiries shall be reported to 
+abuse@cmich.edu
+.  OIT staff will then create a ticket to begin 
+formal tracking and resolution, or re
+-
+assignment.  Information Security Events not immediately resolvable will be assigned to the OIT 
+Information Security O
+ffice (ISO) or Security Incident Response Team (SIRT) members for evaluation and formal response through the 
+process(es) described in the documents linked below:
+ 
+ 
+ 
+A.
+ 
+Help Desk Ticket and Incident Reporting, Assignment, Tracking, and Escalation Process for In
+formation Security
+ 
+B.
+ 
+OIT Compromise, Loss, or Theft of System or Data Resolution Process (Alert, Event, Incident, Breach)
+ 
+C.
+ 
+Information Security Incident Documentation, Communications, and Review Process
+ 
+D.
+ 
+Information Security Restricted Data Incident Processes 
+(PII, FERPA, HIPAA, PCI, Other Agreements)
+ 
+ 
+RELATED POLICIES AND OTHER RESOURCES:
+ 
+ 
+Responsible Use of Computing Policy
+ 
+Data Stewardship Policy
+ 
+ 
+Information Security Policy
+ 
+Information Security FAQ
+ 
+ 
+AMENDMENTS AND ADDITIONS:
+ 
+ 
+The CIO may approve exceptions to this policy. All amendments and additions to this policy will be drafted by a co
+mmittee convened by the 
+CIO and will be reviewed and approved by the Provost and the President. Changes in this policy will be appropriately publiciz
+ed.
+ 
+ 
+ 
+Central Michigan University reserves the right to make exceptions to, modify or eliminate 
+this policy and or its content.  This document supersedes all previous policies, procedures 
+or guidelines relative to this subject.
+ 
+ 
+

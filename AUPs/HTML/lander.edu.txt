@@ -1,0 +1,43 @@
+To connect to Bearcat Wireless you must be a Lander Employee or Student with a valid Lander account.
+The Bearcat Guest Network allows connections to the Internet only and does not require a Lander account.
+Navigate to the list of available networks and select Bearcat Wireless.
+When prompted, enter your Lander user name and password.
+This is the same as your Lander email log in.)
+If prompted to accept a certificate, please click yes or accept.
+Once connected, you will need to install Cisco s AnyConnect client and pass a device assessment.
+This process can be started by opening a web browser and visiting a non-Lander site(such as CNN or Google).
+You should be redirected to start downloading AnyConnect.
+Follow the installation instructions on the screen.
+Once the process has completed and assessment passed, you will have network access.
+If you have any trouble connecting to Bearcat Wireless or need assistance with your user name and password, please visit TRACS on the lower level of Jackson Library or call the ITS Help Desk at 864-388-8234.
+For Campus Guests Only**: Make sure wireless is switched on for your device.
+Navigate to the list of available networks and select Bearcat Guest.
+To read and accept the Bearcat Guest acceptable use policy, open a web browser and visit a non-Lander site(such as CNN or Google).
+Review the policy by scrolling to the end and clicking on the Accept button.
+Once the policy has been accepted, you will be allowed to access the Internet.
+Please remember that the Bearcat Guest network is not secured, like many other public wireless access points.
+If you are transmitting sensitive data, please make sure the website you are using is secure.
+Most banking and other financial institutions provide secure access and is usually indicated by an "https://" URL.
+If you have any problems accessing the Lander wireless network or need assistance, please contact the ITS help desk at 864-388-8234.
+Students, Faculty and Staff should always connect to Bearcat Wireless to ensure access to campus resources.
+Lander owned laptops and other wireless devices are configured to connect to the Bearcat Wireless network automatically.
+section, /#content /#main, /#main-wrapper Information For.
+Lander University offers a beautiful campus, modern residence halls, excellent academic programs and exciting sporting events.
+While to campus is closed due to the COVID-19 pandemic, we invite you to explore Lander virtually.
+At Lander, you are our priority.
+As a member of a close-knit community that welcomes individual flair, you ll be known by name by peers and professors committed to your success.
+With study abroad experiences, intense and impactful research, more than 60 student organizations, performing arts and NCAA athletics, your Lander experience will launch you on a successful career and lifetime of learning.
+The tradition was first announced at Lander s Veterans Day program in November.
+Read more Because we cherish those who put their lives on the line for our country, we re proud to provide Yellow Ribbon funding to each qualified accepted applicant.
+This means that costs associated with pursuing your education may be covered by the Post-9/11 GI Bill.
+As a veteran, service member, or their families, you have all the resources you need from Lander to achieve your educational and career goals.
+Read more. Current Students Incoming freshmen get unique look at Lander University through Bearcat Camp Nineteen incoming Lander University freshmen recently participated in Lander s extended orientation program designed to assist students in their transition into the Lander community.
+Read more Find links to helpful resources and information for current Lander University students, and quickly navigate to university departments and programs.
+Read more Find links to helpful resources and information for current Lander University faculty and staff, and quickly navigate to university departments and programs.
+Read more Want to keep up with what's happening on the Lander campus and with Alumni Association events?
+Join nearly 9,000 alumni who subscribe to the Lander Alumni Email Newsletter.
+To subscribe, complete the registration form or contact Debbie Dill, Assistant Alumni Director.
+If you do, join our Alumni NetCommunity.
+Find out about alumni events such as Homecoming, Alumni Reunion Day, and Lander on the Road dates and locations.
+To subscribe, complete the registration form or contact the Alumni Association at alumni@lander.edu.
+Email us at webadmin@lander.edu.

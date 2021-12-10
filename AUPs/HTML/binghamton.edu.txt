@@ -1,0 +1,11 @@
+Students, researchers, faculty, and staff can connect to participating institutions wireless networks with their home institution's user credentials.
+Connect to eduroam for Binghamton University Students, Faculty and Staff Use JoinNow to automatically configure wireless devices for eduroam.
+In the JoinNow configuration process clients will authenticate using their Binghamton University Computer Account(old PODs) username and password.
+JoinNow automatically appends the @binghamton.edu required by eduroam.
+Configure and test your device before leaving Binghamton University.
+Users are bound by the host institution's network and security policies.
+The host institution is not obligated or prepared to support visitors accessing eduroam.
+If you need assistance connecting to eduroam while at another institution please contact the ITS Help Desk at 607-777-6420 or helpdesk@binghamton.edu.
+Connect to eduroam for Visitors to Binghamton University You will use your Binghamton user ID and password to connect to eduroam at Binghamton University.
+Check with your home institution to obtain setup instructions particular to your institution.
+Users of the Binghamton University data network are required to abide by the Binghamton University Computer and Network Acceptable Use Policy.

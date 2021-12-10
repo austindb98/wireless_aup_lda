@@ -1,0 +1,83 @@
+Use of these networks, and growth and expansion of them, must meet University community expectations and provide a consistent experience.
+Networking and Telecommunications is responsible for management and oversight of the University Network.
+Access to the University Network may be restricted for technical, regulatory compliance, legal, or policy considerations.
+Scope and applicability This policy assigns responsibility for all aspects of creating, using, integrating, designing, installing, managing and maintaining Missouri State University s(University) Networks and associated Core Network Services.
+The effective management of these information technology resources is important to the success of the teaching, learning and research mission of the University.
+Wired and Wireless Networks, including cable TV, data, and voice facilities provide the communications backbones of the University.
+Definitions Access Point: The electronic hardware that serve as a common connection point for devices in a Wireless Network.
+An Access Point acts as a network interface point that is used to extend Local Area Network(LAN) segments, using Radio Frequency signals instead of electrical signals on a wire for access by multiple users of the Wireless Network.
+Core Network Services: Include, but are not limited to: Domain Name System(DNS); Dynamic Host Configuration Protocol(DHCP); Internet Protocol addressing(IP address); Media Access Control addressing(MAC); routing, bridging, and switching; authentication; network connectivity; voice and data transmission; remote circuits; Internet services; telephone, door access, cable TV(CAT, video surveillance or closed circuit TV(CCT, voice messaging, conference bridging, and Unified Messaging(UM) systems, servers, hardware and/or software; voice routing and trunking; telephone sets; telephone numbers; toll-free, long-distance, and cellular services; copper, fiber optics, and other cabling facilities.
+Coverage: The geographical or building area where a baseline level of wireless connection service quality is provided or accessible, intentionally or unintentionally.
+In the case of Wired Networks, Coverage, in this document, is defined as the local area represented by the physical locations where the given service is currently, or planned to be, installed.
+Coverage may or may not be able to be expanded to service additional areas.
+A name that identifies one or more IP addresses, Domain Names are used in Uniform Resource Locators(URL s) to identify particular web pages.
+A technical network implementation that protects computers on a specific network from intentional, accidental, hostile or unauthorized intrusion.
+Several firewall implementations may exist at any time, collectively referred to as Firewalls.
+Intrusion Detection Systems / Intrusion Prevention Systems(IDS/IPS): Devices, software applications, or combination device/software solutions that monitor network or system activities for malicious actions, attempted perimeter violations, or policy violations, and may log, report, issue alarms, or take automated actions.
+Network Components: The individual devices and cabling(such as drops, ports, hubs, routers, Access Points, servers, and switches) that support the technical implementation, connectivity, and the operation of the networks to include all cable TV, data, and telephone systems, cabling, and outlets.
+Network Infrastructure: The inter-building and intra-building cable TV, data, and voice cabled, wired, or wireless transport systems, and the electronic components and communication Protocols used to transport signals over the systems.
+Network Resources: Systems, servers, file sharing and storage, printing, telephones, voice mail systems, local service, long-distance service, cable TV sources, and other devices attached to the network that can be utilized through a connection to the appropriate network.
+A secret or restricted string of text which is shared with authorized recipients before it is needed through a secure or public channel as deemed appropriate for the given key.
+This key is required prior to access being granted to specific Wireless Networks.
+Protocols: The defined format for communications transmission among devices, including the rules or sets of rules that create a communications and error handling standard.
+Wired Network: The cabling infrastructure supporting all cable TV, data, and voice transmissions and/or receptions, as well as the(data or telephone) routers, switches, hubs and other electronic components that facilitate technical communications.
+This may also be referred to as the campus backbone network, the network, the telephone network, and etcetera.
+The Wired Network begins at the point a device connects( e., a physical network drop, telephone outlet, or other connection), continues through the campus in an intra-building mesh, and connects at a cable TV source, to a gateway to the Internet, or to the Public Switched Telephone Network(PSTN).
+The local access media may be fiber or copper, as appropriate for the technology, and can deliver or receive cable TV, data, or telephone services.
+A Local Area Network(LAN) technology that uses radio frequency spectrum to connect electronic devices to the Wired Network.
+This may also be referred to as the wireless infrastructure, including Access Points, antennas, cabling, and other network devices used in the deployment of a Wireless Network.
+Wireless networks can deliver and/or receive cable TV, data, or telephone services.
+Networking and Telecommunications is responsible for monitoring compliance with this policy, within the scope of the Acceptable Use Policy.
+The Information Technology Council will provide input and direction to Networking and Telecommunications on the following University Network Infrastructures: network standards, design, implementation, performance, and operation.
+Networking and Telecommunications will work closely with Planning, Design and Construction to implement appropriate Network Infrastructures for new and renovated facilities.
+Access Access to the University Network Infrastructure will be provided to Missouri State University faculty, staff, students, sponsored guests, and(in limited locations) the general public.
+Authentication Network users may be asked to register their network attached hardware and/or authenticate when connecting to the Missouri State University network by using a University provided BearPass login and password.
+Wireless Network users must provide a BearPass login and password or appropriate Pre-Shared Key to access the Wireless Network.
+Implementing network access with the intent to bypass authentication or sharing Pre-Shared Keys inappropriately will be considered a violation of this policy and a violation of the Acceptable Use Policy, unless the Chief Information Officer(CIO), or his/her designee, has approved special provisions.
+General usage and connectivity guidelines Duplication of Effort If a service is offered by Networking and Telecommunications, all University units, subcontractors, tenants, and student residents must obtain said services from Networking and Telecommunications unless otherwise approved by the CIO as opposed to implementing the service themselves or via other contractors.
+Network Usage and Connectivity Use of the Network Infrastructure must be in a manner consistent with Acceptable Use Policy.
+Equipment or network activity that violates this policy will be subject to review and appropriate actions as outlined in Acceptable Use Policy.
+Services and Foreign Infrastructures Networking and Telecommunications offers various services with varying features and abilities.
+Services will not be provisioned or obtainable if they are not a standard offering or deemed that such services would create an undue hardship or burden to the overall operation.
+For example, routers, switches, hubs, or other private Network Components or Network Infrastructure, physical or virtual, may not be attached to the University s Networks without proper prior authorization which may or may not be granted.
+Addressing and Numbering Telephone numbers, MAC addresses, and IP Addresses must be standardized in use and not altered or fraudulently presented.
+Alteration of addressing information is prohibited.
+Networking and Telecommunications is responsible for assigning all telephone numbers and IP Addresses.
+Planning Networking and Telecommunications must be involved in initial and ongoing planning and budgeting for all aspects of the Missouri State University Network Infrastructures in all existing structures, renovations, new structures, and property repurposing.
+This includes planning for connectivity of the Missouri State University Network Infrastructure to local or remote locations, owned or leased.
+Networking and Telecommunications will seek to work with Planning, Design and Construction and key representatives of units and departments within the Coverage area to ensure that Network Resource requirements, interference minimization, and security are considered in the network plan.
+Contracted Network Support Networking and Telecommunications will seek to work with Planning, Design and Construction and key representatives of units and departments within the Coverage area to identify qualified contracted network support vendors meeting technical and security requirements.
+Networking and Telecommunications must pre-approve all contracted vendor work on the University Network Infrastructure.
+All contracted vendor support work will be monitored for compliance to current University technical standards, quality installation and work completion in a timely manner.
+Networking and Telecommunications may choose to centrally sub-contract some operational and engineering network functions.
+Installation, Modification, and Removal of Network Components Networking and Telecommunications must authorize the installation or removal of Network Components prior to any facility remodeling or other work.
+Tampering with, altering, or moving Network Components is prohibited unless prior approval is obtained through Networking and Telecommunications.
+Networking and Telecommunications installs, maintains, and operates all wiring, cabling, and fiber optics to owned and leased facilities.
+It is prohibited to install wiring, cabling, or fiber optics or to extend these facilities in any way for all services provided by Networking and Telecommunications.
+Maintenance and Repairs Networking and Telecommunications exclusively maintains and repairs all Network Infrastructure, Network Components and other University-owned telephony equipment.
+Remote access services Acceptable remote access to the data Network Infrastructure(such as via open or virtual private networks(VPN)) and local/long-distance voice services are defined and maintained by Networking and Telecommunications.
+Remote access to cable TV sources is prohibited.
+Customer responsibilities Networking and Telecommunications bills monthly for network and telecommunication services.
+Each department is responsible for checking each bill for accuracy, including the itemized list of long-distance calls, and report any issues to Networking and Telecommunications.
+Charges or credits for discrepancies will not necessarily be corrected retroactively.
+Users may move Voice over IP(VoIP) phones to any working network jack as the extension will follow the phone(as opposed to classical analog phones where the number stays with the jack).
+It is the sole responsibility of the person moving the phone to report the move to Networking and Telecommunications.
+This is essential so that emergency responders will be dispatched to the correct location if needed.
+Additional wireless guidelines Radio Frequency Spectrum The University gives priority use to wireless data networking.
+Users, departments, and other entities are prohibited from purchasing and using wireless technologies that interfere with the Wireless Networks.
+Prior to the implementation of a wireless technology, the unit acquiring and planning for the use of that technology must register and review the radio frequency spectrum with Networking and Telecommunications.
+Interference Resolution When wireless devices are found to be interfering with the data network in a Coverage area, Networking and Telecommunications will work with key representatives of appropriate units and departments to seek resolution.
+In the event of extreme or special cases, interfering devices may be disabled prior to these discussions.
+Wireless Network Devices Wireless Network devices are to be configured in client only mode and are not to be used as bridges, base stations, Access Points, or as an ad hoc network.
+Compliance, security and firewalls Security Networking and Telecommunications may take actions to preserve the security of the network and the security of devices connected to the network in line with the Acceptable Use Policy.
+Protocols Networking and Telecommunications may take actions to preserve both security and quality of service by blocking or limiting Protocols identified as problem source areas.
+Firewalls, Intrusion Detection Systems and Intrusion Prevention Systems Networking and Telecommunications is responsible for installing network security protections, such as Firewalls, Intrusion Detection Systems, Intrusion Prevention Systems, or other network security systems to protect university assets.
+Firewalls are required at all Internet connections.
+Review of an existing Firewall, or a request for a new a Firewall, may be initiated by contacting Networking and Telecommunications.
+MOREnet Acceptable Use As a member of the Missouri Research and Educational Network(MOREnet), the University is required to follow MOREnet policies.
+Users engaging in commercial activities may violate MOREnet policies.
+All commercial activities utilizing the data network must be reviewed by Networking and Telecommunications and, where appropriate, utilize the University s commercial Internet services.
+Record Stewardship Network Infrastructure usage records are the property of the University and will not be disclosed without following proper procedures subject to applicable laws and contingent upon approval of the CIO.
+Call Before You Dig Missouri s "Underground Facility Safety and Damage Prevention Act" requires that any person making or beginning any excavation notify all underground facility owners/operators which may be affected by the excavation at least 48 hours, but not more than ten(10) working days in advance so that underground facilities may be located prior to excavation.
+Peripheral and auxiliary networks Alarm systems, automation or control systems, AV systems, surveillance cameras, card access, or any other electronic or computer system that utilizes the Wired Network or Wireless Network, or is co-located with University network facilities or electronics must be developed, installed, and operated in cooperation and coordination with Networking and Telecommunications oversight.
+Prior versions approved July 30, 2004 by Board of Governors.

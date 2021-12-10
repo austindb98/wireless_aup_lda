@@ -1,0 +1,18 @@
+Internet Access Internet network traffic is prioritized based on the academic needs of the College.
+You may not use C-N network resources for purposes clearly outside the scope of the college s Christian standards and mission statement, such as accessing inappropriate Internet sites.
+Internet traffic is both monitored and logged.
+Hubs, switches, and routers Personal wireless access points are not allowed.
+Network hubs or other types of network devices not approved by Information Technology are not allowed.
+Wired Academic and Administrative networks C-N employs a technology known as port security on wired administrative and academic networks accessed by college-managed and trusted computers.
+Port security provides full network access to each trusted network device.
+Unauthorized network devices connected to the network will be unable to access network resources.
+Wired Residential networks As with the wireless network(see below), all wired residential networks are routed through the NAC Appliance system.
+CN-Eagles Wireless network C-N s wireless network is accessible campus-wide.
+Wireless network connections are routed through the NAC Appliance system.
+This system requires authentication of the user and security posture assessment of the attached computer.
+Each authorized C-N user can have a single NAC Appliance session active at one time.
+New wiring requests To facilitate departmentally requested network wiring additions, IT will abide by the following procedure: Requesting department will notify C-N IT of the need.
+C-N IT will determine if there is sufficient network infrastructure available to fulfill the request.
+If not, IT will initiate procurement of necessary equipment.
+C-N IT will define the project specifications and either: Request a quote from C-N maintenance, or Provide an estimate for the installation The requesting department will generate a C-N purchase order for the project requirements.
+C-N IT will coordinate with the requesting department and C-N maintenance until the project s completion.

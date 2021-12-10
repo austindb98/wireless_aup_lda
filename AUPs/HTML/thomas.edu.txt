@@ -1,0 +1,81 @@
+It is only intended to address the issue of Thomas College computer and network facilities use.
+In those cases where data communications are carried across other regional networks or the Internet, users are advised that acceptable use policies of those other networks apply and may limit use.
+General Computer facilities privileges are only available to current students, faculty, staff and others(as approved by the VP of IS and CIO) of Thomas College.
+Alumni who are taking courses are classified as current students for all policies.
+Computer/network use priorities are: Scheduled classes Student course related needs Faculty or staff work related needs Other student/faculty/staff research Other student/faculty/staff use Computer usernames and passwords may only be used by the person to whom the account was issued.
+Do not share your password with anyone, and do not use anyone else s password.
+Usage of an account which is not your own will result in both accounts being removed.
+Computer accounts are deleted once a person is no longer a member of the Thomas community.
+All use must be consistent with Thomas College s primary goals.
+It is not acceptable to use computers and networks for illegal purposes or to install software without owning a software license.
+Illegal activities will be reported to the proper authorities.
+It is not acceptable to interfere with or disrupt network users, services or equipment.
+Disruptions include, but are not limited to, unsolicited advertising, propagation of computer worms and viruses, chain e-mail, changing or removing settings, capturing authentication information, and using the network to make unauthorized entry to any other machine accessible via the network.
+You must assume that information and resources accessible are private to the individuals and organizations which own or hold rights to those resources and information unless specifically stated otherwise by the owners or holders of rights.
+It is therefore not acceptable for you to copy or access information or resources unless permission to do so has been granted by the owners or holders of rights to those resources or information.
+Computers must be configured to use DHCP to get an IP address.
+Static addresses are not allowed since they conflict with other DHCP users.
+Students printing more than 500 pages per semester will be charged 10 cents per page for each page over 500.
+The charge will be added to the student bill.
+When printing to two sides of a piece of paper, this is considered two pages.
+To check your printing quantity: https://www3.thomas.edu/intranet/student-pages.asp.
+Messaging, E-mail and other Communication Thomas College provides a robust communication platform for users to fulfill its mission.
+Since e-mail is used as a primary method of communication, all are responsible for checking their e-mail at least weekly.
+All electronic communication or information, including e-mail messages and files, should not be considered private or confidential.
+Users must not: Transmit threatening, obscene, or harassing materials.
+Send unsolicited electronic messages, including junk mail or other advertising material to individuals who did not specifically request such material(spam) unless: The message is college-related business sent by a faculty or staff member.
+The message is sent to students only and is approved by the Student Affairs office.
+Solicit sales or conduct business using Thomas College computers or networks.
+Automatically forward electronic messages of any kind, by using client message handling rules or any other mechanism; Solicit electronic messages for any other digital identifier(e.g.
+e-mail address, social handle, etc.
+other than that of the poster s account, with the intent to harass or to collect replies; or Create or forward chain letters or messages, including those that promote pyramid schemes of any type.
+Academic Computer Labs Food and drink are not allowed in any computer lab.
+Teaching labs(Ayotte Center rooms 122, 126 & 225, and Alfond Academic Center rooms 116 & 204) give instructors capabilities to monitor, publish, and remote-control student screens.
+Residential Connections Connections may not be used to host servers that may be accessed from other PCs outside your res.
+hall room(including Windows, Linux,or Mac Servers, HTTP(web), SMTP, FTP, gaming, audio, video, music, etc.).
+Peer-to-peer(P2P) or file-sharing software is allowed as long as excessive bandwidth is not used.
+Excessive bandwidth is defined as at least one of the following: over 10% use on a regular basis of your local segment of the network over Gb per day over connections / threads / downloads at one time Students may have wired switches, routers, or hubs to connect computers owned by themselves.
+Students may not have wireless access points due to the potential security risks.
+Students may not have a personal wireless broadcast device which interferes with college wireless systems.
+Students can not create a connection between our network and another network.
+One example is a bridge between our LAN and a DSL/cable modem.
+Network Security It is your responsibility to ensure the security of your devices that connect to Thomas College service(s).
+You should take all necessary steps to manage the use of your devices in such a way that network abuse is minimized.
+Violations of system or network security are prohibited, and contracts and/or services of serious or repeat offenders will be terminated.
+Examples of system or network security violations include, but are not limited to the following: Failing to secure your system against use by others.
+You are responsible for configuring and securing your devices to prevent damage to the Thomas network and/or the disruption of service(s) to others.
+You are responsible if unknown third parties utilize your device at any time.
+It is your responsibility to ensure that your devices are configured in a secure manner, and to take corrective actions on vulnerable or exploited systems to prevent continued abuse.
+You may not, through action or inaction, allow others to use your devices for illegal or inappropriate uses, and/or any other disruptive, provoking, or abusive behavior that is in violation of this AUP; Knowingly uploading or distributing files that contain viruses, Trojan horses, worms, time bombs, cancel bots, corrupted files, or any other similar software or programs that may damage the operation of another s device or property of another; Hacking breaking the security on any computer network or accessing an account that does not belong to you.
+This includes, but is not limited to, unauthorized access to, or use of, data, systems or networks, including any attempt to probe, scan, or test the vulnerability of a system or network or to breach security or authentication measures without express authorization of the owner of the system or network; Unauthorized monitoring of data or traffic on any network or system without express authorization of the owner of the system or network.
+This would include use of sniffers or SNMP tools.
+Attempting to obtain another user s account username, ID, password or PIN.
+Security and Cyber Defense Students and Security Center Security and cyber defense course and program related activities, as well as Security Center activities, must be performed on the isolated network dedicated for this purpose.
+All security-related data collection/testing/hacking on the College s network must be approved in writing by the Vice President of Information Services and performed while supervised with IT Services staff.
+Incident Reporting Thomas College is committed to responding to security incidents involving personnel, organization-owned information or organization-owned information assets.
+As part of this policy: The loss, theft or inappropriate use of organization access credentials(e.g.
+passwords, key cards or security tokens), assets(e.g.
+laptop, cell phones), or other information will be reported to the CIO.
+An organization workforce member will not prevent another member from reporting a security incident.
+Hardware and Software Thomas College strictly prohibits the employee use of any hardware or software that is not purchased, installed, configured, tracked, and managed by the organization.
+Users must not: Install, attach, connect or remove or disconnect, hardware of any kind, including wireless access points, storage devices, and peripherals, to any organizational information system without the knowledge and permission of the CIO; Download, install, disable, remove or uninstall software of any kind, including patches of existing software, to any organizational information system without the knowledge and permission of the CIO; Software, operating system, or hard drive file/folder modifications on college-owned computers(including installation and deletion) must be approved by the Vice President of Information Services.
+Software that must be installed and maintained by IT Services staff include the operating system, the web browser, MS Office applications, and anti-virus software.
+Software installed by individuals without consent will be removed by IT Services and reported to the appropriate people.
+Portable applications and software on removable devices must be approved by the Vice President of Information Services and CIO.
+Use personal flash drives, or other USB based storage media, without prior approval from their supervisor; or Take Thomas College equipment off-site without prior authorization from the CIO.
+Remote Working When working remotely, user must: Be given explicit approval from supervisor in coordination with H/R and the CIO.
+Safeguard and protect any organization-owned or managed computing asset(e.g.
+laptops and cell phones) to prevent loss or theft.
+Not utilize personally-owned computing devices for Thomas College work, including transferring Thomas College information to personally-owned devices, unless approved by the CIO.
+Take reasonable precautions to prevent unauthorized parties from utilizing computing assets or viewing Thomas College information processed, stored or transmitted on organization-owned assets.
+Not create or store confidential or private information on local machines unless a current backup copy is available elsewhere.
+Not access or process confidential information in public places or over public, insecure networks.
+Only use approved methods for connecting to the organization(e.g.
+
+Exceptions / Violation of Policy Exceptions must be approved by the Vice President of Information Services and CIO during normal business hours.
+The Thomas College Vice President of Information Services and CIO will review alleged violations of this Acceptable Use Policy on a case-by-case basis.
+Actions may be, but are not limited to, a fine($50 first offense; $100 second offense; $150 third offense) suspension or termination of computer facility and/or network privileges.
+Egregious violations may be referred to the Vice President of Student Affairs where outcomes may include administrative termination.
+If suspension or termination occurs, students are still expected to pay any technology fees.
+Appeals that are academic in nature may be made to the Academic Computer Committee Chairperson for the committee to consider.
+All other appeals can be submitted to the Vice President of Student Affairs for review by the Judicial Review Board or a Judicial Officer.

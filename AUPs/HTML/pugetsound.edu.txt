@@ -1,0 +1,8 @@
+To ensure all network users are able to access academic resources, the university employs a network traffic shaping system.
+Specific network activities generating heavy traffic, usually caused by uploading and downloading large files, are monitored and controlled to keep Internet traffic flowing smoothly for the campus.
+Excessive Use Individual computers identified by the monitoring software as transferring data in excess of acceptable limits will have their Internet connections limited automatically by the network.
+This may happen at any time without notice.
+Please keep in mind that computers infected with spyware or a virus may increase network traffic without the user's knowledge.
+Taking appropriate precautions and performing periodic computer maintenance are encouraged.
+Network Equipment Setting up wireless access points, switches, hubs, routers, and other wireless network equipment without approval by Technology Services is strictly prohibited.
+Technology Services appreciates responsible use of the university s network resources.

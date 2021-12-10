@@ -1,0 +1,809 @@
+Classification: Public (Not Restricted)
+ 
+  [  [ 
+ 
+|
+ 
+
+|
+ 
+Reviewed 
+ 
+June 15 2018
+|
+ 
+No Changes
+  [
+Page
+1
+ 
+of 
+4
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+I
+NFORMATION 
+T
+ECHNOLOGY 
+ 
+U
+SERS
+
+ 
+P
+RIVILEGES AND 
+R
+ESPONSIBILITIES
+ 
+B
+ALL 
+S
+TATE 
+U
+NIVERSITY 
+O
+FFICE OF 
+I
+NFORMATION 
+S
+ECURITY 
+S
+ERVICES
+ 
+1.
+  [
+I
+NTRODUCTION
+ 
+ 
+Information technology plays a crucial role in the delivery of Ball State Un
+
+ 
+In making use of these shared 
+resources, members of the university community have a responsibility to help create an intellectual environment in which stud
+ents, 
+faculty and staff may feel free to create and collaborate with colleagues both on and off camp
+us without fear that the products of these 
+efforts will be violated by misrepresentation, tampering, illegal access, destruction, or theft.  [This policy outlines the et
+hical and 
+acceptable use of information systems and resources at Ball State University a
+s well as the duties and responsibilities incumbent upon 
+everyone who makes use of these resources.  [
+ 
+2.
+  [
+S
+COPE
+ 
+ 
+This policy applies to all students and employees, as well as all others who make use of Ball State University information te
+chnology 
+resources
+ 
+and services. Violations of this policy are unethical and possibly unlawful and may result in sanctions as discussed below.
+ 
+3
+.
+  [
+A
+VAILABILITY OF 
+S
+ERVICES
+ 
+ 
+The university takes all reasonable steps to ensure that information technology resources are free fr
+om errors, viruses, and malicious 
+activity by conducting regular security scanning of production systems and engaging in proactive security monitoring.  [Howeve
+r, due to 
+the fact that information technology infrastructure is composed of a wide variety of sy
+stems including personal computers not under 
+the control of the university, Ball State University does not guarantee that the safety or reliability of services or access 
+are free from all 
+dangers.
+ 
+  [
+ 
+Ball State University will make reasonable efforts to 
+maintain the confidentiality of the storage contents and to safeguard the contents 
+from loss, but cannot be held liable for the inadvertent or unavoidable loss or disclosure of the contents, or for disclosure
+ 
+resulting 
+from the unlawful acts of others.
+  [
+Be
+
+permissible by law, the university hereby excludes all implied warranties and guarantees of availability or quality of servic
+es, including 
+without limitation
+ 
+any expectation as to skill and care or timeliness of performance
+.
+ 
+4.
+  [
+C
+ENSORSHIP
+ 
+ 
+Freedom of expression and preservation of an open environment within which to pursue scholarly inquiry and to share informati
+on is 
+central to the academic mission of Ball S
+tate University. While freedom of expression will generally be protected, users of institutional 
+systems must also respect the legal and ethical boundaries of such usage.
+ 
+  [
+ 
+Ball State University reserves the right to limit or restrict the use of its infor
+mation technology resources based on institutional priorities 
+and financial considerations.  [Content found to be inconsistent with institutional purposes is subject to immediate suspensio
+n or 
+removal by the administrator of the relevant system or their des
+ignee.  [Conduct and related content does not meet the institutional 
+purposes of the university when it is found to be:
+ 
+ 
+a.
+ 
+In possible violation of federal, state, or local laws.
+ 
+b.
+ 
+May violate the copyright or other intellectual property rights of others.
+ 
+c.
+ 
+Haras
+sing or threatening, or otherwise disruptive to the learning or working environment.
+ 
+d.
+ 
+In violation of other university policies, procedures, or contractual obligations.
+ 
+e.
+ 
+Inappropriate for the stated purpose of the system, service, or environment.
+ 
+f.
+ 
+A security 
+risk affecting the confidentiality, integrity, or availability of services.
+ 
+g.
+ 
+Otherwise inconsistent with the mission of the university.
+ 
+
+Classification: Public (Not Restricted)
+ 
+  [  [ 
+ 
+|
+ 
+
+|
+ 
+Reviewed 
+ 
+June 15 2018
+|
+ 
+No Changes
+  [
+Page
+2
+ 
+of 
+4
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Anyone who becomes aware of conduct or content on university systems which may be in violation of the above requirements
+ 
+should 
+report the incident as described in the 
+Reporting Suspected Security Breach 
+or
+ 
+Policy Violation
+ 
+section below.
+ 
+ 
+Users whose information is removed will be notified of the removal as soon as is feasible.  [Users who wish to appeal such rem
+oval 
+may do
+ 
+so through an appeal board made up of the governing body appropriate to the system and status of the user.  [If no appeal 
+board exists the appeal may be made to the Director of
+ 
+Office of
+ 
+Information Security Services.
+ 
+5
+.
+  [
+C
+ONFIDENTIALITY 
+ 
+ 
+In general, and 
+subject to applicable law, the university reserves the right to access files, documents, and other information residing 
+on university
+-
+owned or con
+trolled equipment and services.
+ 
+All such infrastructure is subject to the policies of Ball State University, a
+nd 
+the university
+ 
+may 
+access, restrict, moni
+tor and regulate these systems.
+ 
+Policy for such monitoring and access is described below:
+ 
+ 
+a.
+ 
+Administrative Monitoring And Inspection
+ 
+Although the university retains ownership and rights as described above, 
+monitoring and administrative inspection of 
+electronic systems will be strictly controlled
+ 
+and only at the approval of 
+the 
+Vice President and General Counsel
+ 
+or the 
+Vice 
+President of Information Technology
+ 
+or their designee
+. 
+Each such 
+incident of monitorin
+g and inspections of
+ 
+information 
+systems or communications will be approved in advance by
+ 
+the
+ 
+Vice President and General Counsel
+ 
+or the 
+Vice President of 
+Information Technology
+ 
+or their designee
+.
+ 
+Technical controls for monitoring will be coordinated throug
+h t
+he Director of 
+Office 
+of 
+Information Security Services, who 
+will establish detailed written technical procedures for monitoring 
+and inspection 
+and 
+will ensure ongoing adherence to such procedures. Records of all monitoring activity will be maintained by
+ 
+the Director of 
+Office of 
+In
+formation Security Services and immediately reported to 
+the 
+Associate
+ 
+Vice Presid
+ent for Information Technology.
+ 
+When monitoring reveals evidence of a violation of the law or university policy, the results of such monitoring wi
+ll be reported 
+to appropriate university administrators and may be shared with external entities including law enforcement agencies.
+ 
+ 
+b.
+ 
+Other
+ 
+Monitoring
+ 
+And Controls
+ 
+ 
+All users of universi
+ty systems should be aware the university will audit, log, review, and utilize information stored on or 
+passing through networks or services for many reasons such attack detection, assuring compliance with university policy, 
+retrieving or diverting informa
+tion needed to conduct university business, or other administrative purposes. Such monitoring 
+of campus network traffic and security scanning of information systems occurs routinely, to assure adequate confidentiality, 
+availability, and integrity of univer
+sity systems and to identify and resolve problems. When problem traffic patterns suggest 
+that information security, integrity, or performance has been compromised, 
+the Office of 
+Information Security staff will 
+investigate and 
+engage appropriate tools, tech
+niques, and methods as may be necessary to ensure the security of the 
+environment.
+ 
+ 
+c.
+ 
+Data Access By 
+University Employees
+ 
+University
+ 
+employees 
+are
+ 
+provided
+ 
+with
+ 
+access to university data for approved work
+-
+related purposes only. Employees 
+are subject to 
+additional polices published
+ 
+at 
+https://www.bsu.edu/security/itpolicy/
+ 
+an
+d should check with their 
+supervisor or the applicable data access policy with questions regarding data access or use.
+ 
+d.
+ 
+Public 
+Records
+ 
+Under Indiana law (Indiana Code 5
+-
+14
+-
+3) any official university documents in the files of employees of the State of Indiana 
+may be found to be a public document, and hence subject to inspection through the public records act.
+ 
+ 
+e.
+ 
+Other Administrative 
+Access
+ 
+Under certain circumstances, the 
+Director of 
+Office of 
+Information Security Services in consultation with the 
+Associate
+ 
+Vice 
+President for Information Technology may authorize access to certain information by third parties.  [For example, personal e
+-
+mail or other communications may be released to the relatives of a deceased student or employee. In such circumstances, 
+the Director of 
+Office of 
+Information Security Services will direct the technical information access procedures and will 
+document each s
+uch incident in writing to the 
+Associate
+ 
+Vice President for Information Technology.
+ 
+6
+.
+  [
+P
+ERSONAL 
+&
+ 
+C
+OMMERCIAL 
+U
+SAGE OF 
+I
+NFORMATION 
+T
+ECHNOLOGY 
+R
+ESOURCES
+ 
+ 
+Ball State University information technology resources exist to support the university's mission of education, research, and 
+public 
+service. These facilities and resources are provided in large part by funding from taxpayers of Indiana for the academic use
+ 
+of our 
+students, faculty and staff.  [We all must be responsible stewards of these resources.  [Generally the use of university inform
+ation 
+
+Classification: Public (Not Restricted)
+ 
+  [  [ 
+ 
+|
+ 
+
+|
+ 
+Reviewed 
+ 
+June 15 2018
+|
+ 
+No Changes
+  [
+Page
+3
+ 
+of 
+4
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+technology resources is limited to institutional purposes such academic research, study, instruction, discharge of em
+ployee duties in 
+conjunction with official business of the university, and other purposes related to university sanctioned activities.  [Person
+al and 
+commercial usage is governed by the following policies:
+ 
+ 
+a.
+ 
+Permitted Personal Usage
+ 
+Incidental personal usage
+ 
+of Ball State University information technology resources by students and employees of the 
+university is acceptable, provided the usage adheres to all applicable university policies and does not result in addit
+ional 
+costs to the university. 
+Note that 
+licensing of some software and information systems is restricted to educational use only 
+and hence may not be used for even incidental personal purposes unless permitted within the terms of the relevant license 
+agreement.
+ 
+ 
+b.
+ 
+Permitted Commercial Usage
+ 
+The us
+e of Ball State University information technology systems for academically related but commercial purposes is 
+permitted only with approval of the Office of Academic Research and Sponsored Programs.
+ 
+Researchers who require 
+substantial computer resources as 
+part of grants and consulting contracts may be required to reimburse BSU for a portion 
+of the resource costs.
+ 
+ 
+c.
+ 
+Personal and Commercial Uses Not Permitted
+ 
+Technology resources, including Internet access through the university network, may not be utilized in
+ 
+ways which may be 
+inconsistent with the university's tax
+-
+exempt status or legal obligations, such as using university systems for hosting or 
+advertising commercial services for private financial gain, political campaigning, or services to outside organiza
+tions not 
+recognized by the university as being entitled to make use of university resources.  [Personal usage of a nature disruptive to
+ 
+the learning or working environment, such as subjecting other members of the university community to 
+offensive or 
+pornog
+raphic content unrelated to an acade
+mic purpose is also prohibited.
+ 
+Under no circumstances may incidental personal 
+or commercial usage involve violations of the law, interfere with the fulfillment of an employee's university responsibilitie
+s, 
+or adversely 
+impact or conflict with activities supporting the mission of the university.
+ 
+7
+.
+  [
+I
+NDIVIDUAL 
+R
+ESPONSIBILITIES
+ 
+ 
+Thousands of students, faculty and staff share information technology resources at Ball State University.  [Irresponsible usag
+e by even 
+a small 
+number of users has the potential to seriously disrupt the work of others within the community.  [All users are expected to 
+exercise due diligence in the care of their own information, and to be civil and respectful of other users of these systems a
+nd techn
+ology 
+resources.  [The following responsibilities are incumbent upon all users of Ball State University Information Technology resou
+rces:
+ 
+ 
+a.
+ 
+General Requirements
+ 
+ 
+i.
+ 
+Liability for Personal 
+and
+ 
+Harassing Communications
+ 
+Individual users are responsible f
+or their 
+own words and actions.
+ 
+Other than official publications, the university is not 
+expected to be aware of, and is not responsible for, material that individuals may post, send, or publish. Harassing 
+communications are prohibited and include repeated contacts 
+with a person who has requested to be left alone absent 
+some legitimate institutional purpose 
+for such communication.
+ 
+Harassment may also involve malicious public disclosure 
+of private facts, threats, defamation, and vulgar or repulsive content posted abou
+t an individual or group.
+ 
+ 
+ii.
+ 
+Responsibility to Read E
+-
+Mail 
+from
+ 
+the
+ 
+University
+ 
+Certain official communications from the university are delivered to students and employees through their assigned e
+-
+mail address.  [Each person has a responsibility to maintain an
+d regularly check their e
+-
+mail account, whether hosted at 
+Ball State University or elsewhere, and to ensure their account is capable of receiving these official communications so 
+that important email messages sent by the University are not missed.
+ 
+ 
+iii.
+ 
+Repor
+ti
+ng Suspected Security Breach o
+r Policy Violation
+ 
+Any
+o
+ne
+ 
+who discovers or suspects an information security breach involving confidential information of the university has 
+a duty to report the breach to the Office of Information Security Services by e
+-
+mail a
+t 
+security@bsu.edu
+ 
+or by phone at 
+765
+-
+285
+-
+1549. Reporting must not be delayed in order to collect more information or to make a determination if
+ 
+a 
+breach has actually occurred.
+ 
+ 
+ 
+ 
+ 
+ 
+
+Classification: Public (Not Restricted)
+ 
+  [  [ 
+ 
+|
+ 
+
+|
+ 
+Reviewed 
+ 
+June 15 2018
+|
+ 
+No Changes
+  [
+Page
+4
+ 
+of 
+4
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+b.
+ 
+Responsibility to Protect Informat
+ion And Access
+ 
+ 
+i.
+ 
+Sharing o
+f Passwords Is Prohibited
+ 
+User accounts are generally assigned to individuals and may not be shared with any other person.  [No university 
+employee or student may ask for a password assigned to another person.  [Where there is a 
+legitimate need for access, 
+proxy rights or similar methods may be used which do not require the sharing of individually assigned passwords.
+ 
+ii.
+ 
+Ability t
+o Access Does Not Grant 
+a
+n Unlimited Right
+ 
+Legitimate use of resources does not extend to whatever one
+ 
+is capable of doing with them.
+ 
+Although information 
+security controls may permit access, a person may not access confidential information unless they have some legitimate 
+reason for doing so. For example, employees with access to confidential student reco
+rds have no right to access them 
+absent an approved legitimate business purpose.
+ 
+ 
+ 
+iii.
+ 
+Employee Duties And Responsibility To Protect Confidential Information
+ 
+Employees 
+must 
+be aware 
+and are subject to additional policies p
+ublished at 
+https://www.bsu.edu/security/itpolicy/
+.
+ 
+ 
+c.
+ 
+Responsibility to Refrain From Doing Harm
+ 
+ 
+i.
+ 
+Minimum Standards for Connected Systems
+ 
+Students, employees, and guests of the university who connect computer systems to the university 
+network have a duty 
+to ensure that these systems are free from malicious software including viruses, spyware, root kits and other programs 
+which may attempt to flood or attack other university system.  [Computers or devices which do not meet minimum 
+standar
+ds may be isolated and disconnected without notice.
+ 
+ 
+ii.
+ 
+Subversion o
+f Security
+ 
+Attempted bypass or subversion of security restrictions is prohibited. Unauthorized attempts to access files, passwords, 
+or other confidential information of others, and unauthoriz
+ed vulnerability scanning of systems other than those owned 
+by the user is prohibited without prior approval of the Director of
+ 
+Office of
+ 
+Information Security Services.
+ 
+ 
+iii.
+ 
+Misrepresentation 
+o
+f Identity
+ 
+Using information systems to initiate or continue communications using the name or identity of another person without 
+the explicit authorization of the person 
+whose
+ 
+identity is be
+ing impersonated is prohibited.
+ 
+ 
+8
+.
+  [
+P
+OLICY 
+R
+EGARDING 
+D
+EPLOYMENT OF 
+I
+NFORMATION 
+S
+YSTEMS
+ 
+ 
+Policies and standards regarding information security and deployment of information systems and handling university data alon
+g 
+with related procedures can be found a
+t 
+http:
+//www.bsu.edu/security/itpolicy/
+. Th
+ese policies, procedures, and standards apply to 
+all information systems and data processing at Ball State University.
+ 
+ 
+9
+.
+  [
+S
+USPENSION OF 
+S
+ERVICES AND 
+O
+THER 
+S
+ANCTIONS
+ 
+ 
+Access to university information technology resou
+rces is a privilege. Violations of the above policies and standards may result in 
+penalties ranging from a reprimand and temporary loss of access, to referral to the appropriate university office for imposit
+ion of further 
+evaluation and possible sanctions 
+including the possibility of expulsion from the university and dismissal from a position. Student 
+conduct utilizing information technology resources or facilities which may violate the Code of Student Rights and Responsibil
+ities will 
+be referred to the Off
+ice of Student Rights and Community Standards for possible disciplinary action. Certain violations of this policy 
+may also be prohibited under Indiana or federal law, and are therefore subject to possible criminal prosecution.
+ 
+ 
+

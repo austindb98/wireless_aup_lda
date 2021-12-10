@@ -1,0 +1,112 @@
+View/download the New Student Quick Reference Technology Guide È
+Hampton University Appropriate Use of Technology Policy
+Hampton University Appropriate Use of Technology Policy
+Hampton University provides and maintains technologies to advance teaching, learning, research, and
+administrative activities in support of the University's mission.  The University views access to all of its
+technology resources as a privilege that is granted to members of the University community so long as it
+is used responsibly.  Hampton University reserves the right to monitor and investigate violations or
+suspected violations of policy and security.
+Students utilizing technology resources shall be held to the standards of conduct set forth elsewhere in
+the Student Handbook.  The faculty and staff shall be held to the standards of conduct set forth
+elsewhere in the Faculty and Staff Handbooks, respectively.  All University rules, particularly those
+pertaining to the Code of Conduct and the consequences of acts of dishonesty, harassment, plagiarism,
+piracy and illegal or inappropriate use of software are applicable to the use of computers, cell phones,
+personal data assistants (PDAs), and other technologies.
+Users can have a reasonable expectation of privacy, except those times when system administrators find
+cause to investigate network activity for purposes related to operations and compliance with University
+policy and federal and state laws.  The vice president of student affairs will process violations of
+University policy by students.   The director of human resources and the provost will process violation of
+University policy by faculty and/or staff. Infringements made known to the assistant provost for
+technology by the Recording Industry Association of America (RIAA), Business Software Alliance, MGM
+and NBC Universal Properties and the like will be processed by the assistant provost for technology with
+written notification to the vice president of student affairs or director of human resources and/or provost
+where applicable.
+Users found in violation of this policy may direct appeals to the vice president for student affairs, the
+Technology Guide : Appropriate Use of Technology
+
+director of human resources and/or the provost within three business days.  A written response will be
+provided within ten business days.
+The following is intended to ensure that all members of the University computing community can be
+afforded privacy in his/her work; that no one will be unwillingly subjected to abusive behavior of others
+using the system; that the resources available to the community are not consumed by only a few
+individuals; and that electronic vandalism does not destroy computer resources.  It should be
+understood clearly that the following points are illustrative and not all-inclusive.
+1. Only authorized persons defined as students, faculty, staff and members of Hampton
+University sanctioned programs, may use Hampton University's computing facilities and
+equipment (computers, printers, networks, software, etc.) for legitimate purposes relating to
+teaching, coursework, research, and administration at Hampton University.
+2. Members of an academic community are entitled to privacy of their work.  It is a violation of
+University policy for an individual faculty, staff or student to share their own login
+information with others to use, to obtain a password that belongs to someone else, or to
+access another user's files or e-mail account on the network.  These violations are forms of
+theft and will not be tolerated.
+3. Any faculty, staff or student may not access any file that is not their own unless that file has
+been made publicly accessible.  This access prohibits the reading, writing, and editing of
+directories and passwords belonging to others.  This prohibition includes, but is not limited
+to, files left on a computer hard drive or any removable storage device, i.e., zip disks, thumb
+drive, CD-ROM/DVD. Posting a message under someone else's name is prohibited.
+4. Taking advantage of another person who inadvertently leaves a computer without logging
+off is no different than entering an unlocked room and stealing, reading a personal letter, or
+destroying property.
+5. Using any technology resource to annoy or harass or defame is prohibited.  This applies to
+the use of phone mail, electronic mail, conferencing, news group bulletin boards and
+message facilities.  This includes but is not limited to flooding individuals or news groups
+with large volumes of electronic mail designed to disrupt and/or annoy.
+6. The Virginia Code, Section 18.2-372 & 374 sets forth the definition of obscene material. The
+code also states that the distribution, production or sale of obscene items is illegal, and
+punishable by law. Federal law also criminalizes the transportation of such materials in
+interstate commerce. Hampton University must comply with these laws and will enforce
+them among all students, faculty, staff and visitors.
+Using the Hampton University network to view pornographic materials is a violation of
+University policy. It is also a violation of University policy to attempt to circumvent network
+security systems. Furthermore, the use of Hampton University computers and network
+services to create or post pornographic and/or obscene material on a Hampton University
+computer or server or onto any online community such as Face Book, My Space or Black
+Planet, is a violation of University policy. It is also against University policy to utilize any
+university technological resource to create, post or maintain any derogatory information
+
+pertaining to another individual. 
+Violators will be subject to the disciplinary action of
+Violators will be subject to the disciplinary action of
+expulsion and/or termination.
+expulsion and/or termination.
+7. Knowingly engaging in any activity that might damage the operating systems or the data
+stored on any computer, removing or modifying the system files, or disrupting services is a
+violation of University Policy.
+8. Knowingly distributing a virus or any attack on the network resources or any individual
+computer is a violation of University Policy.
+9. Disseminating chain letters, sending unauthorized mass emails for personal gain and other
+"spreading schemes" is an inappropriate use of the network.  Users participating in such
+activities may have their e-mail privileges restricted or revoked and may also be subject to
+disciplinary action of expulsion and/or termination.
+10. The Virginia Code 18.2-152.5, 
+states, a person is guilty of the crime of computer invasion
+when he uses a computer network and intentionally examines without authority any
+employment, salary, credit or any other financial or personal information relating to any
+other person.
+  "Examination" under this section requires that offenders to review the
+information relating to any other person after the time at which the offender knows or
+should know that he is without authority to view the information displayed.
+Hampton University must comply with these laws and will enforce them among
+Hampton University must comply with these laws and will enforce them among
+all students, faculty, staff and visitors.
+all students, faculty, staff and visitors.
+11. Attempting to circumvent the action of system software written to implement protection
+mechanisms is prohibited. Protection mechanisms include but are not limited to the
+establishment of accounts, passwords, disk quotas, and time and space limitations.  Any
+attempt to get around the protection mechanisms established by the University is a violation
+of the disciplinary code.  If you find that some action on your part has placed you in violation
+of the mechanisms, you must report the incident to the Assistant Provost for Technology
+and/or the Dean of Men or Dean of Women.
+12. Unauthorized copying and/or downloading of music, software or other media constitute a
+violation of copyright laws.  Such behavior is a violation of University Policy and the United
+States laws. Activity not authorized by copyright owners, their agents, or the law is
+prohibited and may be punishable by law.  All unauthorized media must be removed from
+any computer on the university's network.
+13. The University's systems or networks cannot be used for personal gain; for example, selling
+access to your user id or to university systems or networks, or by performing work for profit
+with university resources in a manner not authorized by the university.
+
+©2018 Hampton University
+ Hampton, VA 23668 : 757.727.5000
+

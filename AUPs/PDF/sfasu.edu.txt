@@ -1,0 +1,19 @@
+Wireless Networking Page of Wireless Networking Original Implementation: February 3, 2005 Last Revision: July 27, 2021 Purpose Stephen F. Austin State University s(SFA s) wireless local area network(LAN) enables wireless computing and provides reliable and secure network services in many locations on campus.
+It is a complementary system to the campus wired network.
+Scope This policy applies to all uses of wireless LAN technologies at all physical locations of SFA, both inside buildings and in outdoor areas.
+It does not apply to cellular wireless technology.
+All SFA wireless LAN policies will comply with university, federal, state, and local laws and regulations.
+Responsibilities Information Technology Services is responsible for implementing wireless LAN technology in compliance with campus network standards and also for resolving radio frequency interference issues.
+These responsibilities include, but are not limited to: being the primary provider of design, specification, installation, operation, maintenance, and management services for all wireless access points; managing all SFA-owned wireless equipment; servicing wireless access points, e., the service demarcation points, and the wired network to which they are attached; and identifying and authenticating all users connecting to the wireless LAN.
+Individuals may not install or operate wireless access points on university-owned property, including residence halls and apartments.
+Access All SFA faculty, staff, and students are required to have a valid user identification and password to use the wireless LAN.
+Any employee of the university can sponsor a guest on the wireless network using the self-service application provided by Information Technology Services.
+Wireless Networking Page of Security All wireless access points and wireless client adapters will use a Service Set Identification provided by Information Technology Services to access any wireless LAN provided by SFA.
+SFA will encrypt all data.
+Sanctions for Policy Violations Applicable university discipline and/or discharge policies will be followed in imposing sanctions related to a violation of this policy, including limiting a user s access.
+In the event of an imposed restriction or termination of access to some or all university computers and systems, a user enrolled in courses or involved in computer-related work activities may be required to use alternative facilities.
+If such facilities are unavailable, the user bears the responsibility for failure to complete requirements for course work and/or job responsibilities.
+Gov t Code
+054; Te
+Code 202.70-.76; Te
+

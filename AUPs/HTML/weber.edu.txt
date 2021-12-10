@@ -1,0 +1,12 @@
+Visitor access is also offered via our eduroam and WSU Guest networks.
+While using WSU's network services, users are subject to WSU's Acceptable Use Policy for Computing and Network Resources(PPM 10-2).
+Violation of this policy may result in a user's network access being suspended.
+Note that any sort of peer-to-peer(P2P) connection is strictly prohibited while on campus(Torrents, Limewire, etc.).
+Weber State is proud to offer eduroam which provides fast and secure wireless internet on all WSU campuses.
+This allows guests whose institutions also use eduroam to visit any of our Weber State campuses and connect to our eduroam network by using their own institutional credentials*.
+Visitors having issues with eduroam at WSU should contact the IT support at their home institutions.
+WSU Guest is an open, unsecured network that is available to all guests visiting campus.
+It has limited speed and a strong web filter, so users will not be able to access any secure websites(including many of Weber State's secure web pages) as they will be filtered out by the unsecured network.
+Users will not need a username and password in order to use WSU Guest, but an internet browser window will prompt and require acceptance of the Acceptable Use Policy before a connection is fully established.
+Open an internet browser(like Google Chrome) then read through and confirm the Acceptable Use Policy to finish establishing an internet connection.
+If you require assistance or have any questions, please contact the IT Service Desk.
